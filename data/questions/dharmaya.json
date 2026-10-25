@@ -1,0 +1,4684 @@
+[
+  {
+    "id": "daham_058",
+    "category": "dharmaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the Dhammacakkappavattana Sutta as the Buddha's first discourse.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "sutta-pitaka"
+    ],
+    "question": "එම ධර්ම දේශනය කළ සූත්‍රය හඳුන්වන්නේ කිනම් නමකින්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආදිත්ත පරියාය සූත්‍රය නොහොත් ගිනි බණ සූත්‍රය."
+      },
+      {
+        "id": "b",
+        "text": "දම්සක් පැවතුම් සූත්‍රය නොහොත් ධම්ම චක්ක පවත්තන සූත්‍රය."
+      },
+      {
+        "id": "c",
+        "text": "අනත්ත ලක්ඛණ සූත්‍රය නොහොත් පඤ්චස්කන්ධ සූත්‍රය."
+      },
+      {
+        "id": "d",
+        "text": "මහා මංගල සූත්‍රය නොහොත් මංගල කාරණා සූත්‍රය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ පස්වග තවුසන් අරබයා කළ මංගල ධර්ම දේශනය දම්සක් පැවතුම් සූත්‍රය හෙවත් ධම්මචක්කප්පවත්තන සූත්‍රය ලෙස හැඳින්වේ.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_059",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Names the Four Noble Truths (Chaturarya Satya) in Sinhala.",
+    "difficulty": "easy",
+    "tags": [
+      "four-noble-truths",
+      "core-teachings"
+    ],
+    "question": "චතුරාර්යය සත්‍යය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනිත්‍ය , දුක්ඛ , අනාත්ම හා නිර්වාණය."
+      },
+      {
+        "id": "b",
+        "text": "සීල , සමාධි , ප්‍රඥා හා විමුක්තිය."
+      },
+      {
+        "id": "c",
+        "text": "දුක , දුකට හේතුව , දුක නැතිකිරීම හා දුක නැති කිරීමේ මාර්ගය."
+      },
+      {
+        "id": "d",
+        "text": "මෙත්තා , කරුණා , මුදිතා හා උපේක්ඛාව."
+      }
+    ],
+    "answer": "c",
+    "explanation": "චතුරාර්ය සත්‍යය යනු දුක්ඛ ආර්ය සත්‍යය (දුක), දුක්ඛ සමුදය ආර්ය සත්‍යය (දුකට හේතුව), දුක්ඛ නිරෝධ ආර්ය සත්‍යය (දුක නැති කිරීම) සහ දුක්ඛ නිරෝධ ගාමිණී පටිපදා ආර්ය සත්‍යය (දුක නැති කිරීමේ මාර්ගය) යන සතරයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_060",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Lists the eight factors of the Noble Eightfold Path in Sinhala.",
+    "difficulty": "easy",
+    "tags": [
+      "noble-eightfold-path",
+      "four-noble-truths"
+    ],
+    "question": "ආර්ය අෂ්ඨාංගික මාර්ගය යනු කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දානය, සීලය, භාවනාව, පින්දීම, පින් අනුමෝදන් වීම, වතාවත් කිරීම, පිදිය යුත්තන් පිදීම, ධර්ම ශ්‍රවණය."
+      },
+      {
+        "id": "b",
+        "text": "ශ්‍රද්ධාව, වීර්යය, සතිය, සමාධිය, ප්‍රඥාව, හිරි, ඔත්තප්ප, අලෝභය."
+      },
+      {
+        "id": "c",
+        "text": "ආනාපානසතිය, මෛත්‍රී භාවනාව, අසුභ භාවනාව, මරණානුස්සතිය, බුද්ධානුස්සතිය, ධම්මානුස්සතිය, සංඝානුස්සතිය, සීලානුස්සතිය."
+      },
+      {
+        "id": "d",
+        "text": "දුක නැති කිරීමේ මාර්ගයයි. එනම්, නිවැරදි දැකීම, නිවැරදි සංකල්පය, නිවැරදි වචනය, නිවැරදි කර්මාන්තය, නිවැරදි ජීවනෝපාය, නිවැරදි වීර්යය, නිවැරදි සිහිය, නිවැරදි සමාධිය,"
+      }
+    ],
+    "answer": "d",
+    "explanation": "දුක නැති කිරීමේ මාර්ගය වූ ආර්ය අෂ්ටාංගික මාර්ගයට නිවැරදි දැකීම, සංකල්පනාව, වචනය, කර්මාන්තය, ජීවිකාව, වීර්යය, සිහිය සහ සමාධිය යන අංග අට ඇතුළත් වේ.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_065",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the Adittapariyaya Sutta (Fire Sermon) preached to the three Jatila brothers.",
+    "difficulty": "easy",
+    "tags": [
+      "sutta-pitaka",
+      "jatila-brothers"
+    ],
+    "question": "තුන්බෑ ජටිලයන්ට දේශනා කළ සූත්‍රය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආදිත්ත පරියාය සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "ධම්මචක්කප්පවත්තන සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "අනත්තලක්ඛණ සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "මහා සතිපට්ඨාන සූත්‍රය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගයා ශීර්ෂයේදී උරුවෙල කාශ්‍යප ඇතුළු දහසක් ජටිල පිරිස රහත් භාවයට පත් කරවමින් බුදුරජාණන් වහන්සේ දේශනා කළේ ආදිත්ත පරියාය සූත්‍රයයි.",
+    "source_suggestion": "SN 35.28"
+  },
+  {
+    "id": "daham_149",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifying which of the five Anantariya Papa Kammas were committed by Devadatta is taught in grades 7–9.",
+    "difficulty": "easy",
+    "tags": [
+      "kamma",
+      "anantariya-papa-kamma",
+      "vinaya-pitaka"
+    ],
+    "question": "දෙව්දත් හිමි කළ ආනන්තරීය පාප කර්මය මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මව මැරීම, පියා මැරීම."
+      },
+      {
+        "id": "b",
+        "text": "රහතන් වහන්සේ නමක් ඝාතනය කිරීම, පියා මැරීම."
+      },
+      {
+        "id": "c",
+        "text": "බුදුන්ගේ ඇගේ ලේ සෙලවීම, සංඝයා භේද කිරීම."
+      },
+      {
+        "id": "d",
+        "text": "මව මැරීම, රහතන් වහන්සේ නමක් ඝාතනය කිරීම."
+      }
+    ],
+    "answer": "c",
+    "explanation": "පංච ආනන්තරීය පාප කර්ම අතුරින් බුදුරජාණන් වහන්සේගේ ශ්‍රී දේහයෙන් ලේ සෙලවීම (ලෝහිතුප්පාදක) සහ සමගි සංඝයා භේද කිරීම (සංඝභේදක) යන ආනන්තරීය පාප කර්ම දෙක දෙව්දත් හිමියන් විසින් සිදු කර ගන්නා ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_217",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three types of feeling (tisso vedana) are a foundational Dhamma classification.",
+    "difficulty": "easy",
+    "tags": [
+      "vedana",
+      "basic-dhamma"
+    ],
+    "question": "තෙවැදෑරුම් වේදනා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "b",
+        "text": "සැප වේදනා, දුක් වේදනා, උපේක්ෂා වේදනා"
+      },
+      {
+        "id": "c",
+        "text": "ලෝභ, ද්වේෂ, මෝහ"
+      },
+      {
+        "id": "d",
+        "text": "අනිත්‍ය, දුක්ඛ, අනාත්ම"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සත්ත්වයා අත්විඳින වේදනාවන් ප්‍රධාන වශයෙන් සැප වේදනා (සුඛ), දුක් වේදනා (දුක්ඛ) සහ මැදහත් හෙවත් උපේක්ෂා වේදනා (අදුක්ඛමසුඛ) යනුවෙන් තෙවැදෑරුම් වේ.",
+    "source_suggestion": "SN 36.1"
+  },
+  {
+    "id": "daham_219",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Training (tisikkha: sila, samadhi, panna) is core Dhamma taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "tisikkha",
+      "noble-eightfold-path"
+    ],
+    "question": "ත්‍රිවිධ ශික්ෂා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන, ශීල, භාවනා"
+      },
+      {
+        "id": "b",
+        "text": "බුද්ධ, ධම්ම, සංඝ"
+      },
+      {
+        "id": "c",
+        "text": "අනිත්‍ය, දුක්ඛ, අනාත්ම"
+      },
+      {
+        "id": "d",
+        "text": "ශීල, සමාධි, ප්‍රඥා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "නිවන් මඟ ගමන් කරන ශ්‍රාවකයා විසින් හික්මිය යුතු ත්‍රිවිධ ශික්ෂාව වන්නේ ශීල, සමාධි සහ ප්‍රඥා යන තුනයි.",
+    "source_suggestion": "AN 3.88"
+  },
+  {
+    "id": "daham_221",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Naming the three baskets of the Tipitaka is taught in primary/lower-middle Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "tipitaka",
+      "sutta-pitaka",
+      "vinaya-pitaka",
+      "abhidhamma"
+    ],
+    "question": "ත්‍රිපිටකය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දීඝ නිකාය, මජ්ඣිම නිකාය, සංයුත්ත නිකාය"
+      },
+      {
+        "id": "b",
+        "text": "විනය පිටකය, සූත්‍ර පිටකය, අභිධම පිටකය"
+      },
+      {
+        "id": "c",
+        "text": "පාරාජිකා පාළි, පාචිත්තිය පාළි, මහාවග්ග පාළි"
+      },
+      {
+        "id": "d",
+        "text": "ධම්මසංගණී, විභංග, කථාවත්ථු"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ වදාළ සමස්ත ධර්ම විනය සංග්‍රහ වී ඇති ත්‍රිපිටකය වන්නේ විනය පිටකය, සූත්‍ර පිටකය සහ අභිධර්ම පිටකයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_222",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three cravings (kama, bhava, vibhava tanha) are part of the Second Noble Truth taught in grade 6-7.",
+    "difficulty": "easy",
+    "tags": [
+      "four-noble-truths",
+      "tanha"
+    ],
+    "question": "ත්‍රිවිධ තණ්හා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සැප වේදනා, දුක් වේදනා, උපේක්ෂා වේදනා"
+      },
+      {
+        "id": "b",
+        "text": "කාම ලෝකය, රූප ලෝකය, අරූප ලෝකය"
+      },
+      {
+        "id": "c",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "d",
+        "text": "අලෝභ, අදෝස, අමෝහ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "දුකට හේතුව වන ත්‍රිවිධ තණ්හාව නම් කාම තණ්හා, භව තණ්හා සහ විභව තණ්හා යන තුනයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_224",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Bases of Social Harmony (satara sangaha vatthu) are taught from grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "satara-sangaha-vatthu",
+      "social-ethics"
+    ],
+    "question": "සතර සංග්‍රහ වස්තු නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දානය, ප්‍රිය වචනය, සමානාත්මතාවය, අර්ථචර්යාව."
+      },
+      {
+        "id": "b",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා."
+      },
+      {
+        "id": "c",
+        "text": "ඡන්දය, ද්වේෂය, භය, මෝහය."
+      },
+      {
+        "id": "d",
+        "text": "සෝවාන්, සකෘදාගාමී, අනාගාමී, අරහත්."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සමාජ සමගිය හා සුහදතාව පවත්වා ගැනීමට උපකාරී වන සතර සංග්‍රහ වස්තු නම් දානය, ප්‍රිය වචනය, අර්ථචර්යාව සහ සමානාත්මතාවයයි.",
+    "source_suggestion": "AN 4.32"
+  },
+  {
+    "id": "daham_226",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Biases (satara agati) are taught in middle school grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "satara-agati",
+      "social-ethics"
+    ],
+    "question": "සතර අගති නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය."
+      },
+      {
+        "id": "b",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා."
+      },
+      {
+        "id": "c",
+        "text": "ඡන්දය, ද්වේශය, භය, මෝහය."
+      },
+      {
+        "id": "d",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග."
+      }
+    ],
+    "answer": "c",
+    "explanation": "පුද්ගලයෙකු අගතියට හෙවත් වැරදි මඟට යොමු කරන කරුණු සතර නම් ඡන්දය, ද්වේෂය, භය සහ මෝහය යන සතර අගතියයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_227",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Five Hindrances (panca nivarana) are taught in upper grades and O/L Buddhism.",
+    "difficulty": "medium",
+    "tags": [
+      "panca-nivarana",
+      "meditation"
+    ],
+    "question": "පංච නීවරණ ධර්ම නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ"
+      },
+      {
+        "id": "b",
+        "text": "ශ්‍රද්ධා, වීර්ය, සති, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "c",
+        "text": "විතක්ක, විචාර, ප්‍රීති, සුඛ, ඒකග්ගතා"
+      },
+      {
+        "id": "d",
+        "text": "කාමඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, උද්ධච්ච කුක්කුච්ච, විචිකිච්චා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිතේ දියුණුව හා සමාධිය වළක්වන පංච නීවරණ ධර්ම නම් කාමඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, උද්ධච්ච කුක්කුච්ච සහ විචිකිච්ඡා යන පහයි.",
+    "source_suggestion": "SN 46.51"
+  },
+  {
+    "id": "daham_229",
+    "category": "dharmaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three doors of action (tindora: mind, body, speech) are taught in early grades.",
+    "difficulty": "easy",
+    "tags": [
+      "tindora",
+      "kamma"
+    ],
+    "question": "තුන්දොර කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුද්ධ, ධම්ම, සංඝ."
+      },
+      {
+        "id": "b",
+        "text": "සිත, කය, වචනය."
+      },
+      {
+        "id": "c",
+        "text": "අතීත, වර්තමාන, අනාගත."
+      },
+      {
+        "id": "d",
+        "text": "ශීල, සමාධි, ප්‍රඥා."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සත්ත්වයා විසින් කුසලාකුසල කර්ම සිදු කරනු ලබන දොරටු තුන වන සිත, කය සහ වචනය 'තුන්දොර' නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_231",
+    "category": "dharmaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Triple Gem (Buddha, Dhamma, Sangha) is the very first lesson for young children.",
+    "difficulty": "easy",
+    "tags": [
+      "triple-gem",
+      "tisarana"
+    ],
+    "question": "ත්‍රිවිධ රත්නය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන, ශීල, භාවනා"
+      },
+      {
+        "id": "b",
+        "text": "ශීල, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "c",
+        "text": "අනිත්‍ය, දුක්ඛ, අනාත්ම"
+      },
+      {
+        "id": "d",
+        "text": "බුද්ධ, ධම්ම, සංඝ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බෞද්ධයන්ගේ උතුම්ම සරණ වන ත්‍රිවිධ රත්නය නම් බුද්ධ රත්නය, ධම්ම රත්නය සහ සංඝ රත්නයයි.",
+    "source_suggestion": "Kp 1"
+  },
+  {
+    "id": "daham_233",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Ultimate Realities (catubbidha paramattha dhamma) are core Abhidhamma taught in upper grades and Dharmacharya.",
+    "difficulty": "easy",
+    "tags": [
+      "abhidhamma",
+      "paramattha-dhamma"
+    ],
+    "question": "සතර පරමාර්ථ ධර්ම මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "b",
+        "text": "චිත්ත, චෛතසික, රූප, නිර්වාන"
+      },
+      {
+        "id": "c",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග"
+      },
+      {
+        "id": "d",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අභිධර්ම පිටකයෙහි ඉගැන්වෙන සතර පරමාර්ථ ධර්ම නම් චිත්ත, චෛතසික, රූප සහ නිර්වාණ යන සතරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_235",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Characteristics of Existence (Tilakkhana: anicca, dukkha, anatta) are taught from grade 6.",
+    "difficulty": "easy",
+    "tags": [
+      "tilakkhana",
+      "core-dhamma"
+    ],
+    "question": "ත්‍රිලක්ෂණ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලෝභ, ද්වේෂ, මෝහ"
+      },
+      {
+        "id": "b",
+        "text": "ශීල, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "c",
+        "text": "දාන, ශීල, භාවනා"
+      },
+      {
+        "id": "d",
+        "text": "අනිත්‍ය, දුක්ඛ, අනාත්ම"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සියලු සංස්කාර ධර්මයන්ට පොදු වූ ත්‍රිලක්ෂණය නම් අනිත්‍ය, දුක්ඛ සහ අනාත්ම යන ලක්ෂණ තුනයි.",
+    "source_suggestion": "Dhp 277-279"
+  },
+  {
+    "id": "daham_236",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Floods (cattaro ogha) are an advanced doctrinal classification studied in senior grades.",
+    "difficulty": "medium",
+    "tags": [
+      "ogha",
+      "defilements"
+    ],
+    "question": "සතර ඕඝ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාම, භව, දිට්ඨ, අවිජ්ජා"
+      },
+      {
+        "id": "b",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "c",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "d",
+        "text": "දාන, ප්‍රියවචන, අර්ථචර්යා, සමානාත්මතා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සත්ත්වයා සංසාර සාගරයෙහි ගිල්වා තබන සතර ඕඝ (සැඩ පහරවල්) වන්නේ කාම ඕඝ, භව ඕඝ, දිට්ඨි ඕඝ සහ අවිජ්ජා ඕඝ යන සතරයි.",
+    "source_suggestion": "SN 45.171"
+  },
+  {
+    "id": "daham_237",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Sublime States (satara brahmavihara) are taught from grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "brahmavihara",
+      "meditation"
+    ],
+    "question": "සතර බ්‍රහ්ම විහරණ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය"
+      },
+      {
+        "id": "b",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "c",
+        "text": "ඡන්දය, ද්වේෂය, භය, මෝහය"
+      },
+      {
+        "id": "d",
+        "text": "චිත්ත, චෛතසික, රූප, නිබ්බාන"
+      }
+    ],
+    "answer": "b",
+    "explanation": "උතුම් මානසික ගුණාංග හතරක් වන සතර බ්‍රහ්ම විහරණ (බඹ විහරණ) නම් මෙත්තා, කරුණා, මුදිතා සහ උපේක්ඛා යන සතරයි.",
+    "source_suggestion": "DN 13"
+  },
+  {
+    "id": "daham_238",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Sense faculties and sense objects are taught in middle-to-upper Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "ayatana",
+      "indriya"
+    ],
+    "question": "පංචාරම්මන සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "b",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය"
+      },
+      {
+        "id": "c",
+        "text": "චක්ඛු, සෝත, ඝාන, ජිව්හා, කාය, මන"
+      },
+      {
+        "id": "d",
+        "text": "සෝවාන්, සකෘදාගාමී, අනාගාමී, අරහත්"
+      }
+    ],
+    "answer": "c",
+    "explanation": "අරමුණු ගනු ලබන ආධ්‍යාත්මික ආයතන (ඉන්ද්‍රිය) හය වන්නේ චක්ඛු (ඇස), සෝත (කන), ඝාන (නාසය), ජිව්හා (දිව), කාය (ශරීරය) සහ මන (සිත) යන හයයි.",
+    "source_suggestion": "MN 148"
+  },
+  {
+    "id": "daham_240",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Fruits of the Noble Path (satara phala) are core Dhamma taught from grade 6.",
+    "difficulty": "easy",
+    "tags": [
+      "magga-phala",
+      "ariyasavaka"
+    ],
+    "question": "සතර ඵල මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෝවාන්, සකෘදාගාමි, අනාගාමි, අරහත්"
+      },
+      {
+        "id": "b",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග"
+      },
+      {
+        "id": "c",
+        "text": "චිත්ත, චෛතසික, රූප, නිබ්බාන"
+      },
+      {
+        "id": "d",
+        "text": "අණ්ඩජ, ජලාබුජ, සංසේදජ, ඕපපාතික"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ආර්ය මාර්ගය වැඩීමෙන් ලබන ලෝකෝත්තර ඵල සතර නම් සෝවාන් ඵලය, සකෘදාගාමී ඵලය, අනාගාමී ඵලය සහ අරහත් ඵලයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_242",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Foundations of Mindfulness (satara satipatthana) are taught in grade 8-9 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "satipatthana",
+      "meditation"
+    ],
+    "question": "සතර සතිපට්ඨාන මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුද්ධානුස්සති, මෙත්තානුස්සති, ධම්මානුස්සති, මරණානුස්සති"
+      },
+      {
+        "id": "b",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "c",
+        "text": "කායානු පස්සනා, චිත්තානු පස්සනා, වේදානු පස්සනා, ධම්මානු පස්සනා"
+      },
+      {
+        "id": "d",
+        "text": "සෝවාන්, සකෘදාගාමී, අනාගාමී, අරහත්"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සතිය පිහිටුවා ගැනීමේ සතර සතිපට්ඨාන ධර්ම නම් කායානුපස්සනා, වේදනානුපස්සනා, චිත්තානුපස්සනා සහ ධම්මානුපස්සනා යන සතරයි.",
+    "source_suggestion": "DN 22"
+  },
+  {
+    "id": "daham_243",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Right Efforts (satara sammappadhana) are taught in upper grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "sammappadhana",
+      "viriya",
+      "bodhipakkhiya"
+    ],
+    "question": "සතර සම්‍යග් ප්‍රධාන වීර්යය සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කායානුපස්සනා, වේදනානුපස්සනා, චිත්තානුපස්සනා, ධම්මානුපස්සනා."
+      },
+      {
+        "id": "b",
+        "text": "ඡන්ද, චිත්ත, වීර්ය, වීමංසා යන සතර සෘද්ධිපාද ධර්ම වැඩීම."
+      },
+      {
+        "id": "c",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය යන සතර පුරුදු කිරීම."
+      },
+      {
+        "id": "d",
+        "text": "නූපන් අකුසල් නූපදවීම, උපන් අකුසල් නැති කිරීම, නූපන් කුසල් ඉපදවීම, උපන් කුසල් දියුණු කිරීම."
+      }
+    ],
+    "answer": "d",
+    "explanation": "සතර සම්‍යක් ප්‍රධාන වීර්යය නම් නූපන් අකුසල් නූපදවීමටත්, උපන් අකුසල් ප්‍රහාණය කිරීමටත්, නූපන් කුසල් ඉපදවීමටත්, උපන් කුසල් වැඩිදියුණු කිරීමටත් ගන්නා උත්සාහයයි.",
+    "source_suggestion": "AN 4.13"
+  },
+  {
+    "id": "daham_244",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Protective Meditations (satara kamatahan / caturarakkha bhavana) are taught in middle-to-upper grades.",
+    "difficulty": "medium",
+    "tags": [
+      "meditation",
+      "caturarakkha",
+      "kamatahan"
+    ],
+    "question": "සතර කමටහන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුද්ධානුස්සති, මෙත්තානුස්සති, ධම්මානුස්සති, මරණානුස්සති"
+      },
+      {
+        "id": "b",
+        "text": "කායානුපස්සනා, වේදනානුපස්සනා, චිත්තානුපස්සනා, ධම්මානුපස්සනා"
+      },
+      {
+        "id": "c",
+        "text": "පඨවි කසිණය, ආපෝ කසිණය, තේජෝ කසිණය, වායෝ කසිණය"
+      },
+      {
+        "id": "d",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "යෝගාවචරයාට නිතර ආරක්ෂාව සලසන සතර කමටහන් (චතුරාරක්ඛ භාවනා) ලෙස බුද්ධානුස්සති, මෙත්තානුස්සති, අසුභ (හෝ ධම්මානුස්සති) සහ මරණානුස්සති යන භාවනා සතර දැක්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_245",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Five Mundane Higher Knowledges (panca abhinna) are studied in senior Dhamma school grades and Dharmacharya.",
+    "difficulty": "medium",
+    "tags": [
+      "abhinna",
+      "meditation"
+    ],
+    "question": "පංච අභිඤ්ඤා මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "විතක්ක, විචාර, ප්‍රීති, සුඛ, ඒකග්ගතා"
+      },
+      {
+        "id": "b",
+        "text": "සෘද්ධිවිධ, දිබ්බසෝත, පරචිත්ත විජානන, දිබ්බචක්ඛු, පුබ්බේ නිවානුස්මෘති ඥානය"
+      },
+      {
+        "id": "c",
+        "text": "කාමඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, උද්ධච්ච කුක්කුච්ච, විචිකිච්ඡා"
+      },
+      {
+        "id": "d",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ධ්‍යානලාභී උතුමන් ලබන ලෞකික පංච අභිඤ්ඤා නම් සෘද්ධිවිධ ඥානය, දිබ්බසෝත ඥානය, පරචිත්ත විජානන ඥානය, පුබ්බේනිවාසානුස්සති ඥානය සහ දිබ්බචක්ඛු (චුතූපපාත) ඥානයයි.",
+    "source_suggestion": "DN 2"
+  },
+  {
+    "id": "daham_246",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Supramundane Paths (satara magga) are taught from grade 6.",
+    "difficulty": "easy",
+    "tags": [
+      "magga-phala",
+      "ariyasavaka"
+    ],
+    "question": "සතර මාර්ග මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග"
+      },
+      {
+        "id": "b",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "c",
+        "text": "සෝවාන්, සකෘදාගාමී, අනාගාමී, අරහත්"
+      },
+      {
+        "id": "d",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "කෙලෙස් ප්‍රහාණය කරමින් නිවන කරා පමුණුවන ලෝකෝත්තර මාර්ග සතර නම් සෝවාන් මාර්ගය, සකෘදාගාමී මාර්ගය, අනාගාමී මාර්ගය සහ අරහත් මාර්ගයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_247",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Ultimate Realities (paramattha dhamma) are core Abhidhamma taught in upper grades.",
+    "difficulty": "easy",
+    "tags": [
+      "abhidhamma",
+      "paramattha-dhamma"
+    ],
+    "question": "පරමාර්ථ ධර්ම සතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග"
+      },
+      {
+        "id": "b",
+        "text": "කාම, භව, දිට්ඨි, අවිජ්ජා"
+      },
+      {
+        "id": "c",
+        "text": "අණ්ඩජ, ජලාබුජ, සංසේදජ, ඕපපාතික"
+      },
+      {
+        "id": "d",
+        "text": "චිත්ත, චෛතසික, රූප, නිබ්බාන"
+      }
+    ],
+    "answer": "d",
+    "explanation": "පරමාර්ථ වශයෙන් විද්‍යමාන වන ධර්මතා සතර වන්නේ චිත්ත, චෛතසික, රූප සහ නිබ්බාන යන සතර පරමාර්ථ ධර්මයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_248",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Great Elements (satara maha bhuta: pathavi, apo, tejo, vayo) are taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "satara-maha-bhuta",
+      "rupa"
+    ],
+    "question": "සතර මහා භූතයින් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "b",
+        "text": "චිත්ත, චෛතසික, රූප, නිබ්බාන"
+      },
+      {
+        "id": "c",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "d",
+        "text": "ඡන්දය, ද්වේෂය, භය, මෝහය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "රූප ලෝකයෙහි සියලු භෞතික වස්තූන් නිර්මාණය වී ඇති මූලික ධාතු හතර වන පඨවි, ආපෝ, තේජෝ සහ වායෝ 'සතර මහා භූත' ලෙස හැඳින්වේ.",
+    "source_suggestion": "MN 28"
+  },
+  {
+    "id": "daham_249",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Fourfold Assembly (sivvanak pirisa: bhikkhu, bhikkhuni, upasaka, upasika) is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sivvanak-pirisa",
+      "buddhist-community"
+    ],
+    "question": "සිව්වනක් පිරිස සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෝවාන්, සකෘදාගාමී, අනාගාමී, අරහත්"
+      },
+      {
+        "id": "b",
+        "text": "භික්ෂු, භික්ෂුනී, උපාසක, උපාසිකා"
+      },
+      {
+        "id": "c",
+        "text": "රජ, බමුණු, වෙළඳ, ගොවි"
+      },
+      {
+        "id": "d",
+        "text": "උපකාරක, සමාන සුඛදුක්ඛ, අත්ථක්ඛායී, අනුකම්පක"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුද්ධ ශාසනය සැදුම්ලත් සිව්වනක් පිරිස නම් භික්ෂු, භික්ෂුණී, උපාසක සහ උපාසිකා යන සතර පිරිසයි.",
+    "source_suggestion": "AN 4.7"
+  },
+  {
+    "id": "daham_250",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Two Vocations of monks (grantha dhura and vidarshana dhura) are taught in grade 8-9 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "grantha-dhura",
+      "vidarshana-dhura",
+      "monastic-life"
+    ],
+    "question": "ධූර දෙක මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සමථ භාවනාව, විදර්ශනා භාවනාව"
+      },
+      {
+        "id": "b",
+        "text": "ආමිස පූජාව, ප්‍රතිපත්ති පූජාව"
+      },
+      {
+        "id": "c",
+        "text": "ග්‍රන්ථධූරය, විදර්ශනාධූරය"
+      },
+      {
+        "id": "d",
+        "text": "සම්මුති දේශනාව, පරමාර්ථ දේශනාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදු සසුනෙහි පැවිදි උතුමන් වහන්සේලා විසින් පිරිය යුතු ධූර දෙක වන්නේ ධර්ම ශාස්ත්‍ර හදාරා පවත්වා ගෙන යන ග්‍රන්ථධූරය සහ භාවනා වඩා නිවන් අවබෝධ කර ගන්නා විදර්ශනාධූරයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_251",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Modes of Birth (cattaro yoniyo: andaja, jalabuja, sansedaja, opapatika) are taught in upper grades.",
+    "difficulty": "medium",
+    "tags": [
+      "uppatti",
+      "rebirth"
+    ],
+    "question": "උප්පත්ති සතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "b",
+        "text": "චිත්ත, චෛතසික, රූප, නිබ්බාන"
+      },
+      {
+        "id": "c",
+        "text": "කාම, භව, දිට්ඨි, අවිජ්ජා"
+      },
+      {
+        "id": "d",
+        "text": "අංඩජ, ජලාබුජ, සංසේදජ, ඕපපාතික"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සත්ත්වයන් උපත ලබන ක්‍රම හෙවත් යෝනි සතර වන්නේ අණ්ඩජ (බිත්තරයෙන්), ජලාබුජ (මව්කුසින්), සංසේදජ (තෙත් පරිසරයෙන්) සහ ඕපපාතික (ඉබේ පහළ වීමෙන්) යන සතරයි.",
+    "source_suggestion": "MN 12"
+  },
+  {
+    "id": "daham_253",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Good Friends (suhada mituro) from the Sigalovada Sutta are taught in grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "good-friends",
+      "social-ethics"
+    ],
+    "question": "සුහද මිතුරෝ හතර දෙනා හඳුන්වන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අඤ්ඤදත්ථුහර, වචීපරම, අනුප්පියභාණී, අපායසහාය"
+      },
+      {
+        "id": "b",
+        "text": "උපකාරක, සමාන සුඛ දුක්ඛ, අත්තක්ඛායී, අනුකම්පක"
+      },
+      {
+        "id": "c",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය"
+      },
+      {
+        "id": "d",
+        "text": "භික්ෂු, භික්ෂුණී, උපාසක, උපාසිකා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිඟාලෝවාද සූත්‍රයට අනුව ඇසුරු කළ යුතු කල්‍යාණ හෙවත් සුහද මිතුරන් සතර දෙනා වන්නේ උපකාරක, සමාන සුඛදුක්ඛ, අත්ථක්ඛායී සහ අනුකම්පක යන මිතුරන් සතර දෙනාය.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_254",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The two types of Buddhist meditation (samatha and vidarshana) are taught from grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "meditation",
+      "samatha-vipassana"
+    ],
+    "question": "භාවනා දෙක මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආමිස පූජා, ප්‍රතිපත්ති පූජා"
+      },
+      {
+        "id": "b",
+        "text": "ග්‍රන්ථධූරය, විදර්ශනාධූරය"
+      },
+      {
+        "id": "c",
+        "text": "සමථ, විදර්ශනා"
+      },
+      {
+        "id": "d",
+        "text": "නාමස්කන්ධ, රූපස්කන්ධ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදු දහමෙහි ඉගැන්වෙන ප්‍රධාන භාවනා දෙක වන්නේ සිතේ එකඟතාව වඩන සමථ භාවනාව සහ ත්‍රිලක්ෂණය අවබෝධ කරවන විදර්ශනා (විපස්සනා) භාවනාවයි.",
+    "source_suggestion": "AN 2.30"
+  },
+  {
+    "id": "daham_255",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Five Heinous Actions with Immediate Result (pancanantariya kamma) are taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "pancanantariya-kamma",
+      "kamma"
+    ],
+    "question": "පංචාන්තරීය කර්ම මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රාණඝාතය, අදත්තාදානය, කාමමිථ්‍යාචාරය, මුසාවාදය, සුරාපානය"
+      },
+      {
+        "id": "b",
+        "text": "කාමඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, උද්ධච්ච කුක්කුච්ච, විචිකිච්ඡා"
+      },
+      {
+        "id": "c",
+        "text": "කාලය, ද්වීපය, දේශය, කුලය, මව"
+      },
+      {
+        "id": "d",
+        "text": "මව මැරීම, පියා මැරීම, බුදුන්ගේ ඇඟේ ලේ සෙලවීම, සංඝබේදය, රහතුන් මැරීම"
+      }
+    ],
+    "answer": "d",
+    "explanation": "මරණින් මතු අනන්තර ආත්ම භාවයේදීම අවීචි මහා නරකයෙහි විපාක ගෙන දෙන බරපතළ අකුසල කර්ම පහ වන්නේ මව මැරීම, පියා මැරීම, රහතුන් මැරීම, බුදුරජාණන් වහන්සේගේ ශ්‍රී දේහයෙහි ලේ සොලවීම සහ සංඝභේදය සිදු කිරීමයි.",
+    "source_suggestion": "AN 5.129"
+  },
+  {
+    "id": "daham_256",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Five Jhana Factors (panca jhananga) are studied in upper Dhamma school grades and Dharmacharya.",
+    "difficulty": "medium",
+    "tags": [
+      "jhana",
+      "meditation",
+      "abhidhamma"
+    ],
+    "question": "පංච ධ්‍යානංග මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "විත්තක, විචාර, ප්‍රීති, සුඛ, ඒකග්ගතා"
+      },
+      {
+        "id": "b",
+        "text": "කාමඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, උද්ධච්ච කුක්කුච්ච, විචිකිච්ඡා"
+      },
+      {
+        "id": "c",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ"
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රද්ධා, වීර්ය, සති, සමාධි, ප්‍රඥා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "පංච නීවරණ යටපත් කරමින් ප්‍රථම ධ්‍යානය උපදවා ගැනීමට උපකාරී වන පංච ධ්‍යානාංග නම් විතක්ක, විචාර, ප්‍රීති, සුඛ සහ ඒකග්ගතා යන පහයි.",
+    "source_suggestion": "MN 43"
+  },
+  {
+    "id": "daham_257",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Noble Truths (caturarya satya) are the central teaching of Buddhism, introduced in grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "four-noble-truths",
+      "first-sermon"
+    ],
+    "question": "චතුරාර්ය සත්‍යය සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා."
+      },
+      {
+        "id": "b",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග."
+      },
+      {
+        "id": "c",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය."
+      },
+      {
+        "id": "d",
+        "text": "චිත්ත, චෛතසික, රූප, නිබ්බාන."
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදු දහමේ හරය වන චතුරාර්ය සත්‍යය නම් දුක්ඛ ආර්ය සත්‍යය, දුක්ඛ සමුදය ආර්ය සත්‍යය, දුක්ඛ නිරෝධ ආර්ය සත්‍යය සහ දුක්ඛ නිරෝධ ගාමිණී පටිපදා (මාර්ග) ආර්ය සත්‍යයයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_258",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Sublime Abodes (satara bamba viharana) are taught from grade 5.",
+    "difficulty": "easy",
+    "tags": [
+      "brahmavihara",
+      "meditation"
+    ],
+    "question": "සතර බඹ විහරණ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දුක්ඛ, සමුදය, නිරෝධ, මාර්ග"
+      },
+      {
+        "id": "b",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ"
+      },
+      {
+        "id": "c",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "d",
+        "text": "සෝවාන්, සකෘදාගාමී, අනාගාමී, අරහත්"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සතර බඹ විහරණ හෙවත් බ්‍රහ්ම විහරණ සතර වන්නේ මෙත්තා, කරුණා, මුදිතා සහ උපේක්ඛා යන උතුම් ගුණධර්ම සතරයි.",
+    "source_suggestion": "DN 13"
+  },
+  {
+    "id": "daham_259",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Unwholesome Roots (trividha akusala mula: lobha, dosa, moha) are taught from grade 5.",
+    "difficulty": "easy",
+    "tags": [
+      "akusala-mula",
+      "kamma"
+    ],
+    "question": "ත්‍රිවිධ අකුශල මූල මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අලෝභ, අදෝස, අමෝහ"
+      },
+      {
+        "id": "b",
+        "text": "දාන, ශීල, භාවනා"
+      },
+      {
+        "id": "c",
+        "text": "ශීල, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "d",
+        "text": "ලෝභ, ද්වේශ, මෝහ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සියලු අකුසල කර්මයන්ට මුල් වන ත්‍රිවිධ අකුසල මූලයන් වන්නේ ලෝභ, ද්වේෂ සහ මෝහ යන තුනයි.",
+    "source_suggestion": "AN 3.69"
+  },
+  {
+    "id": "daham_260",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four ways of going for refuge (sarana gamana prabheda) are commentary-level teachings studied in upper grades and Dharmacharya.",
+    "difficulty": "hard",
+    "tags": [
+      "tisarana",
+      "sarana-gamana"
+    ],
+    "question": "සරණ යාමේ ක්‍රම සතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආත්ම, සන්නිර්යාතන, තත්පරායනතා, ශිෂ්‍ය භාවෝප"
+      },
+      {
+        "id": "b",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය"
+      },
+      {
+        "id": "c",
+        "text": "අණ්ඩජ, ජලාබුජ, සංසේදජ, ඕපපාතික"
+      },
+      {
+        "id": "d",
+        "text": "කාම, භව, දිට්ඨි, අවිජ්ජා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "තෙරුවන් සරණ යාමේ ප්‍රභේද වශයෙන් ආත්ම සන්නිර්යාතන (තමා තෙරුවනට පවරා දීම), තත්පරායණතා (තෙරුවන් පරම පිහිට කොට ගැනීම), ශිෂ්‍යභාවෝපගමන (තෙරුවන්ගේ ශිෂ්‍ය බවට පත්වීම) සහ ප්‍රණිපාත (ගෞරවයෙන් වැඳීම) දැක්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_261",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Worlds/Realms (tun lokaya: kama, rupa, arupa loka) are taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "cosmology",
+      "tun-lokaya"
+    ],
+    "question": "තුන් ලෝකය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුද්ධ, ධම්ම, සංඝ"
+      },
+      {
+        "id": "b",
+        "text": "කාම ලෝකය, රූප ලෝකය, අරූප ලෝකය"
+      },
+      {
+        "id": "c",
+        "text": "අතීත ලෝකය, වර්තමාන ලෝකය, අනාගත ලෝකය"
+      },
+      {
+        "id": "d",
+        "text": "පර්යාප්ති, ප්‍රතිපත්ති, ප්‍රතිවේද"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සත්ත්වයන් සැරිසරන භව තුන හෙවත් තුන් ලෝකය නම් කාම ලෝකය, රූප ලෝකය සහ අරූප ලෝකයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_262",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Grouping the Noble Eightfold Path into Sila, Samadhi, and Panna is standard grade 7-8 and O/L material.",
+    "difficulty": "easy",
+    "tags": [
+      "noble-eightfold-path",
+      "tisikkha",
+      "sila"
+    ],
+    "question": "අරි අට මගෙහි ශීලයට අයත් වන මාර්ග නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සම්මා දිට්ඨි, සම්මා සංකප්ප"
+      },
+      {
+        "id": "b",
+        "text": "සම්මා වායාම, සම්මා සති, සම්මා සමාධි"
+      },
+      {
+        "id": "c",
+        "text": "සම්මාවාචා, සම්මා කම්මන්ත, සම්මා ආජීව"
+      },
+      {
+        "id": "d",
+        "text": "සම්මා දිට්ඨි, සම්මා වායාම, සම්මා සමාධි"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ආර්ය අෂ්ටාංගික මාර්ගය ත්‍රිවිධ ශික්ෂාවට බෙදූ විට ශීල ශික්ෂාවට අයත් වන මාර්ගාංග තුන වන්නේ සම්මා වාචා, සම්මා කම්මන්ත සහ සම්මා ආජීව යන තුනයි.",
+    "source_suggestion": "MN 44"
+  },
+  {
+    "id": "daham_264",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Two Extremes rejected in the Dhammacakkappavattana Sutta are core middle-school and O/L material.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "middle-path"
+    ],
+    "question": "සත්‍ය සොයන්නෙකු විසින් අත්හල යුතු අන්ත දෙක මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාමසුඛල්ලිකානු යෝගය, අත්තකිලමතානු යෝගය"
+      },
+      {
+        "id": "b",
+        "text": "සමථ භාවනාව, විදර්ශනා භාවනාව"
+      },
+      {
+        "id": "c",
+        "text": "ග්‍රන්ථධූරය, විදර්ශනාධූරය"
+      },
+      {
+        "id": "d",
+        "text": "ආමිස පූජාව, ප්‍රතිපත්ති පූජාව"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ධම්මචක්කප්පවත්තන සූත්‍රයට අනුව සත්‍ය සොයන්නෙකු විසින් අත්හළ යුතු අන්ත දෙක නම් කාමසුඛල්ලිකානුයෝගය සහ අත්තකිලමථානුයෝගයයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_265",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Samatha and Vipassana as the two parts of Buddhist meditation are taught from grade 5.",
+    "difficulty": "easy",
+    "tags": [
+      "meditation",
+      "samatha-vipassana"
+    ],
+    "question": "බෞද්ධ භාවනාවේ කොටස් දෙක මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පරමාර්ථ දේශනා, සම්මුති දේශනා"
+      },
+      {
+        "id": "b",
+        "text": "සමථ භාවනා, විපස්සනා භාවනාව"
+      },
+      {
+        "id": "c",
+        "text": "ආමිස පූජා, ප්‍රතිපත්ති පූජා"
+      },
+      {
+        "id": "d",
+        "text": "නාමස්කන්ධ, රූපස්කන්ධ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෞද්ධ භාවනාව ප්‍රධාන වශයෙන් සමථ භාවනාව සහ විපස්සනා (විදර්ශනා) භාවනාව යනුවෙන් කොටස් දෙකකට බෙදේ.",
+    "source_suggestion": "AN 2.30"
+  },
+  {
+    "id": "daham_266",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Classifying the Five Aggregates into Nama-skandha and Rupa-skandha is taught in grade 8-9.",
+    "difficulty": "easy",
+    "tags": [
+      "five-aggregates",
+      "nama-rupa"
+    ],
+    "question": "ස්කන්ධ දෙක නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සමථ භාවනා, විපස්සනා භාවනා"
+      },
+      {
+        "id": "b",
+        "text": "ග්‍රන්ථධූරය, විදර්ශනාධූරය"
+      },
+      {
+        "id": "c",
+        "text": "නාමස්කන්ධ, රූපස්කන්ධ"
+      },
+      {
+        "id": "d",
+        "text": "ආමිස පූජා, ප්‍රතිපත්ති පූජා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "පංචස්කන්ධය සැකෙවින් නාමස්කන්ධ (වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ) සහ රූපස්කන්ධ යනුවෙන් කොටස් දෙකකට බෙදා දැක්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_268",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The two modes of the Buddha's discourses (sammuti desana and paramattha desana) are taught in upper grades.",
+    "difficulty": "medium",
+    "tags": [
+      "sammuti-paramattha",
+      "dhamma-desana"
+    ],
+    "question": "දේශනා වර්ග දෙක නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පරමාර්ථ දේශනා, සම්මුතිදේශනා"
+      },
+      {
+        "id": "b",
+        "text": "ආමිස පූජා, ප්‍රතිපත්ති පූජා"
+      },
+      {
+        "id": "c",
+        "text": "සමථ භාවනා, විපස්සනා භාවනාව"
+      },
+      {
+        "id": "d",
+        "text": "ග්‍රන්ථධූරය, විදර්ශනාධූරය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේ දේශනා කළ ධර්මය සම්මුති දේශනා සහ පරමාර්ථ දේශනා යනුවෙන් ප්‍රධාන කොටස් දෙකකට බෙදේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_269",
+    "category": "dharmaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Refuges (Buddha, Dhamma, Sangha) are taught in Grade 1.",
+    "difficulty": "easy",
+    "tags": [
+      "tisarana",
+      "triple-gem"
+    ],
+    "question": "තුන් සරණය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන, ශීල, භාවනා"
+      },
+      {
+        "id": "b",
+        "text": "බුද්ධ, ධම්ම, සංඝ"
+      },
+      {
+        "id": "c",
+        "text": "ශීල, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "d",
+        "text": "ලෝභ, ද්වේෂ, මෝහ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෞද්ධයා සරණ යන තුන් සරණය (තිසරණය) වන්නේ බුද්ධ, ධම්ම සහ සංඝ යන රත්නත්‍රයයි.",
+    "source_suggestion": "Kp 1"
+  },
+  {
+    "id": "daham_270",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Bodhi (tuntara bodhiya: Budu, Pasebudu, Maharahat) is taught from grade 6.",
+    "difficulty": "easy",
+    "tags": [
+      "tuntara-bodhiya",
+      "nibbana"
+    ],
+    "question": "තුන්තරා බෝධිය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශාරීරික, පාරිභෝගික, උද්දේසික"
+      },
+      {
+        "id": "b",
+        "text": "පාරමී, උප පාරමී, පරමාර්ථ පාරමී"
+      },
+      {
+        "id": "c",
+        "text": "බුදු, පසේ බුදු, මහරහත්"
+      },
+      {
+        "id": "d",
+        "text": "පර්යාප්ති, ප්‍රතිපත්ති, ප්‍රතිවේද"
+      }
+    ],
+    "answer": "c",
+    "explanation": "චතුරාර්ය සත්‍යය අවබෝධ කරමින් නිවන් සාක්ෂාත් කරන තුන්තරා බෝධිය නම් සම්මා සම්බුද්ධ (බුදු), පච්චේක බුද්ධ (පසේ බුදු) සහ අරහත් (මහරහත්) යන බෝධි තුනයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_272",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Wholesome Roots (alobha, adosa, amoha) are taught in grade 6-7 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "kusala-mula",
+      "kamma"
+    ],
+    "question": "යහපත් චේතනා තුන නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අලෝභ, අදෝස, අමෝහ"
+      },
+      {
+        "id": "b",
+        "text": "ලෝභ, ද්වේෂ, මෝහ"
+      },
+      {
+        "id": "c",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "d",
+        "text": "හීනමානය, සෙය්‍යමානය, සදිසමානය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සියලු කුසල කර්මයන්ට මුල් වන යහපත් චේතනා හෙවත් කුසල මූල තුන නම් අලෝභ, අදෝස සහ අමෝහ යන තුනයි.",
+    "source_suggestion": "AN 3.69"
+  },
+  {
+    "id": "daham_274",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Higher Knowledges (Tevijja / Trividya) attained on the night of Enlightenment are taught in upper grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "trividya",
+      "enlightenment"
+    ],
+    "question": "ත්‍රිවිද්‍යා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සත්‍ය ඥානය, කෘත්‍ය ඥානය, කෘත ඥානය"
+      },
+      {
+        "id": "b",
+        "text": "සීල ශික්ෂාව, සමාධි ශික්ෂාව, ප්‍රඥා ශික්ෂාව"
+      },
+      {
+        "id": "c",
+        "text": "පුබ්බේ නිවාසානුස්සති ඥාණය (පෙර ආත්ම සිහි කිරීමේ ඥාණය)\nචුතුප්පාත ඥාණය (චුති උපත සිදුවන ආකාරය දැන ගන්නා ඥාණය)\nආසවක්ඛයා ඥාණය (සියලුම කෙළෙසුන් නැසීමේ ඥාණය)"
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රැතමය ප්‍රඥාව, චින්තාමය ප්‍රඥාව, භාවනාමය ප්‍රඥාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේ බුද්ධත්වයට පත් වන රාත්‍රියේ තුන් යම තුළ පිළිවෙළින් අවබෝධ කළ ත්‍රිවිද්‍යාව නම් පුබ්බේනිවාසානුස්සති ඥානය, චුතූපපාත ඥානය සහ ආසවක්ඛය ඥානයයි.",
+    "source_suggestion": "MN 4"
+  },
+  {
+    "id": "daham_277",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Training (tisikkha: sila, samadhi, panna) is core Dhamma taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "tisikkha",
+      "noble-eightfold-path"
+    ],
+    "question": "ත්‍රී ශික්‍ෂා මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනිත්‍ය, දුක්ඛ, අනාත්ම"
+      },
+      {
+        "id": "b",
+        "text": "සීල, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "c",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "d",
+        "text": "පර්යාප්ති, ප්‍රතිපත්ති, ප්‍රතිවේද"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ආර්ය අෂ්ටාංගික මාර්ගය හකුළුවා දැක්වෙන ත්‍රිවිධ ශික්ෂාව නම් සීල, සමාධි සහ ප්‍රඥා යන තුනයි.",
+    "source_suggestion": "AN 3.88"
+  },
+  {
+    "id": "daham_278",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Sasana (pariyatti, patipatti, pativedha) is taught in grade 8-9 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "trividha-sasana",
+      "sasana"
+    ],
+    "question": "ත්‍රිවිධ ශාසනය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශාරීරික, පාරිභෝගික, උද්දේසික"
+      },
+      {
+        "id": "b",
+        "text": "බුදු, පසේබුදු, මහරහත්"
+      },
+      {
+        "id": "c",
+        "text": "පර්යාප්ත, ප්‍රතිපත්ති, ප්‍රතිවේද"
+      },
+      {
+        "id": "d",
+        "text": "පාරමී, උප පාරමී, පරමාර්ථ පාරමී"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුද්ධ ශාසනයේ පැවැත්ම රඳා පවතින ත්‍රිවිධ ශාසනය නම් ධර්මය හැදෑරීම (පර්යාප්ති), ධර්මයට අනුව පිළිපැදීම (ප්‍රතිපත්ති) සහ මාර්ගඵල නිවන් අවබෝධ කිරීම (ප්‍රතිවේද) යන තුනයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_280",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Conceit (trividha mana: seyyamana, sadisamana, hinamana) is taught in upper grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "mana",
+      "defilements"
+    ],
+    "question": "ත්‍රිවිධ මානයන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "හීනමානය, සෙය්‍යමානය, සදීසමාන"
+      },
+      {
+        "id": "b",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "c",
+        "text": "ලෝභ, ද්වේෂ, මෝහ"
+      },
+      {
+        "id": "d",
+        "text": "සැප වේදනා, දුක් වේදනා, උපේක්ෂා වේදනා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "තමා අන්‍යයන් හා සසඳමින් ඇති කර ගන්නා ත්‍රිවිධ මානය නම් තමා උසස් යැයි සිතන සෙය්‍යමානය, තමා සමාන යැයි සිතන සදිසමානය සහ තමා පහත් යැයි සිතන හීනමානයයි.",
+    "source_suggestion": "SN 45.162"
+  },
+  {
+    "id": "daham_281",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three feelings (sukha, dukkha, upekkha vedana) are taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "vedana",
+      "five-aggregates"
+    ],
+    "question": "වේදනා තුන මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අලෝභ, අදෝස, අමෝහ"
+      },
+      {
+        "id": "b",
+        "text": "සුඛ, දුක්ඛ, උපේක්ඛා"
+      },
+      {
+        "id": "c",
+        "text": "අනිත්‍ය, දුක්ඛ, අනාත්ම"
+      },
+      {
+        "id": "d",
+        "text": "කාම ලෝකය, රූප ලෝකය, අරූප ලෝකය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "වේදනා ස්කන්ධයට අයත් ප්‍රධාන වේදනා තුන වන්නේ සුඛ වේදනාව, දුක්ඛ වේදනාව සහ උපේක්ඛා (අදුක්ඛමසුඛ) වේදනාවයි.",
+    "source_suggestion": "SN 36.1"
+  },
+  {
+    "id": "daham_282",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Tiparivatta (sacca, kicca, kata nana) from the Dhammacakkappavattana Sutta is studied in senior grades and Dharmacharya.",
+    "difficulty": "medium",
+    "tags": [
+      "tiparivatta",
+      "four-noble-truths",
+      "first-sermon"
+    ],
+    "question": "තිපරිවට්ටය මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පුබ්බේ නිවාසානුස්සති ඥාණය (පෙර ආත්ම සිහි කිරීමේ ඥාණය)\nචුතූපපාත ඥාණය (චුති උපත සිදුවන ආකාරය දැන ගන්නා ඥාණය)\nආසවක්ඛය ඥාණය (සියලුම කෙලෙසුන් නැසීමේ ඥාණය)"
+      },
+      {
+        "id": "b",
+        "text": "තථ ලක්ෂණය (සත්‍ය ස්වභාවයෙන් යුක්ත වීම)\nඅවිතථ ලක්ෂණය (වෙනස් නොවන ස්වභාවයෙන් යුක්ත වීම)\nඅනඤ්ඤථ ලක්ෂණය (අන්‍ය ස්වභාවයකින් පෙනී නොසිටීම)"
+      },
+      {
+        "id": "c",
+        "text": "සත්‍යඥාණය (සත්‍ය හඳුනාගන්නා නුවණ)\nකෘත්‍යඥාණය (සත්‍ය පිළිබඳව කළ යුතු දේ දැනගන්නා නුවණ)\nකෘත ඥාණය (සත්‍යයන් පිළිබඳව කළ යතු දෙවල්"
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රැතමය ප්‍රඥාව (ඇසීමෙන් ලබන නුවණ)\nචින්තාමය ප්‍රඥාව (සිතීමෙන් ලබන නුවණ)\nභාවනාමය ප්‍රඥාව (භාවනා වැඩීමෙන් ලබන නුවණ)"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ධම්මචක්කප්පවත්තන සූත්‍රයෙහි සඳහන් තිපරිවට්ටය නම් චතුරාර්ය සත්‍යය පිළිබඳව ඇති කර ගන්නා සත්‍ය ඥානය, කෘත්‍ය ඥානය සහ කෘත ඥානය යන ඥාන තුනයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_283",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three characteristics of the Four Noble Truths (tatha, avitatha, anannatha) from the Sacca Samyutta are senior/Dharmacharya material.",
+    "difficulty": "hard",
+    "tags": [
+      "four-noble-truths",
+      "sacca-lakkhana"
+    ],
+    "question": "චතුරාර්ය සත්‍යය කිසි විටෙකත් වෙනස් නොවන්නේ එහි කුමන ලක්‍ෂණ තුන නිසාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සත්‍ය ඥානය (සත්‍ය හඳුනාගන්නා නුවණ)\nකෘත්‍ය ඥානය (සත්‍ය පිළිබඳව කළ යුතු දේ දැනගන්නා නුවණ)\nකෘත ඥානය (සත්‍යයන් පිළිබඳව කළ යුතු දේ කර අවසන් කළ බව දැනගන්නා නුවණ)"
+      },
+      {
+        "id": "b",
+        "text": "පුබ්බේ නිවාසානුස්සති ඥාණය (පෙර ආත්ම සිහි කිරීමේ ඥාණය)\nචුතූපපාත ඥාණය (චුති උපත සිදුවන ආකාරය දැන ගන්නා ඥාණය)\nආසවක්ඛය ඥාණය (සියලුම කෙලෙසුන් නැසීමේ ඥාණය)"
+      },
+      {
+        "id": "c",
+        "text": "අනිත්‍ය ලක්ෂණය (ඇති වී නැති වී යන ස්වභාවය)\nදුක්ඛ ලක්ෂණය (පීඩාවට පත් වන ස්වභාවය)\nඅනාත්ම ලක්ෂණය (තමාගේ වසඟයෙහි පැවැත්විය නොහැකි ස්වභාවය)"
+      },
+      {
+        "id": "d",
+        "text": "තථ ලක්‍ෂණය (සත්‍ය ස්වභාවයෙන්යුක්ත වීම)\nඅවිතථ ලක්‍ෂණය (වෙනස් නොවන ස්වභාවයෙන් යුක්ත වීම)\nඅනඥඤථ ලක්‍ෂණය (අන්‍ය ස්වභාවයකින් පෙනී නොසිටීම)"
+      }
+    ],
+    "answer": "d",
+    "explanation": "චතුරාර්ය සත්‍යය කිසි විටෙකත් වෙනස් නොවන්නේ එහි පවතින තථ ලක්ෂණය (සත්‍ය ස්වභාවයෙන් යුක්ත වීම), අවිතථ ලක්ෂණය (වෙනස් නොවන ස්වභාවයෙන් යුක්ත වීම) සහ අනඤ්ඤථ ලක්ෂණය (අන්‍ය ස්වභාවයකින් පෙනී නොසිටීම) යන ලක්ෂණ තුන නිසාය.",
+    "source_suggestion": "SN 56.20"
+  },
+  {
+    "id": "daham_284",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Craving (kama, bhava, vibhava tanha) is part of the Second Noble Truth taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "four-noble-truths",
+      "tanha"
+    ],
+    "question": "ත්‍රිවිධ තෘෂ්ණාවන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාම තෘෂ්ණාව, භව තෘෂ්ණාව, විභව තෘෂ්ණාව"
+      },
+      {
+        "id": "b",
+        "text": "සැප වේදනාව, දුක් වේදනාව, උපේක්ෂා වේදනාව"
+      },
+      {
+        "id": "c",
+        "text": "හීනමානය, සෙය්‍යමානය, සදිසමානය"
+      },
+      {
+        "id": "d",
+        "text": "කාම ලෝකය, රූප ලෝකය, අරූප ලෝකය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "දුක්ඛ සමුදය ආර්ය සත්‍යයෙහි විස්තර වන ත්‍රිවිධ තෘෂ්ණාව නම් කාම තෘෂ්ණාව, භව තෘෂ්ණාව සහ විභව තෘෂ්ණාවයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_285",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three levels of Paramita (parami, upa-parami, paramattha-parami) are taught in grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "ten-parametis",
+      "bodhisattva"
+    ],
+    "question": "ත්‍රිවිධ පාරමිතා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුදු, පසේබුදු, මහරහත්"
+      },
+      {
+        "id": "b",
+        "text": "පාරමී, උප පාරමී, පරමාර්ථ පාරමී"
+      },
+      {
+        "id": "c",
+        "text": "ශාරීරික, පාරිභෝගික, උද්දේසික"
+      },
+      {
+        "id": "d",
+        "text": "පර්යාප්ති, ප්‍රතිපත්ති, ප්‍රතිවේද"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෝසතාණන් වහන්සේ නමක් විසින් පුරනු ලබන දස පාරමිතා ධර්මයන් කැප කිරීමේ ප්‍රමාණය අනුව පාරමී, උප පාරමී සහ පරමාර්ථ පාරමී යනුවෙන් තෙවැදෑරුම් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_286",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three fires of defilements (raga, dosa, moha) are taught in middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "kilesa",
+      "akusala-mula",
+      "three-fires"
+    ],
+    "question": "මිනිසා තුළ ඇති වන ගිනි තුන මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ජාති ගින්න, ජරා ගින්න, මරණ ගින්න"
+      },
+      {
+        "id": "b",
+        "text": "රාග ගින්න, ද්වේශ ගින්න, මෝහ ගින්න"
+      },
+      {
+        "id": "c",
+        "text": "කාම ගින්න, භව ගින්න, දිට්ඨි ගින්න"
+      },
+      {
+        "id": "d",
+        "text": "ලෝභ ගින්න, මාන ගින්න, විචිකිච්ඡා ගින්න"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සත්ත්වයාගේ සිත දවන හා තවන ප්‍රධාන කෙලෙස් ගිනි තුන වන්නේ රාග ගින්න, ද්වේශ ගින්න සහ මෝහ ගින්නයි. ආදිත්තපරියාය සූත්‍රයේදී ද බුදුරජාණන් වහන්සේ මෙම ගිනි තුන පිළිබඳව පැහැදිලි කර වදාළ සේක.",
+    "source_suggestion": "SN 35.28"
+  },
+  {
+    "id": "daham_288",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four woeful planes (satara apaya) are taught in elementary Buddhist cosmology.",
+    "difficulty": "easy",
+    "tags": [
+      "satara-apaya",
+      "cosmology",
+      "kamma-vipaka"
+    ],
+    "question": "සතර අපායන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "චාතුම්මහාරාජිකය, තාවතිංසය, යාමය, තුසිතය"
+      },
+      {
+        "id": "b",
+        "text": "මනුෂ්‍ය, දිව්‍ය, බ්‍රහ්ම, අරූප"
+      },
+      {
+        "id": "c",
+        "text": "නිරය, තිරිසන්, ප්‍රේත, අසුර"
+      },
+      {
+        "id": "d",
+        "text": "සංජීවය, කාලසූත්‍රය, සංඝාතය, රෞරවය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "අකුසල කර්මයන්ගේ විපාක වශයෙන් සත්ත්වයන් උපත ලබන දුක්ඛිත භව හතර සතර අපාය නමින් හැඳින්වේ. ඒවා නම් නිරය, තිරිසන් යෝනිය, ප්‍රේත විෂය සහ අසුර නිකායයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_292",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four aims of human life (catu-purusartha: dhamma, attha, kama, mokkha) are taught in senior Dhamma school classes.",
+    "difficulty": "medium",
+    "tags": [
+      "purusartha",
+      "buddhist-philosophy"
+    ],
+    "question": "සතර වැදෑරුම් පුරුෂාර්ථ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන, සීල, භාවනා, ප්‍රඥා"
+      },
+      {
+        "id": "b",
+        "text": "අත්ථි සුඛ, භෝග සුඛ, අනණ සුඛ, අනවජ්ජ සුඛ"
+      },
+      {
+        "id": "c",
+        "text": "ධර්ම, අර්ථ, කාම, මෝක්‍ෂ"
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රද්ධා, වීර්ය, සති, සමාධි"
+      }
+    ],
+    "answer": "c",
+    "explanation": "පෙරදිග දර්ශනයෙහි හා බෞද්ධ සාහිත්‍යයෙහි සඳහන් සතර වැදෑරුම් පුරුෂාර්ථ වන්නේ ධර්ම, අර්ථ, කාම සහ මෝක්ෂ යන සතරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_293",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four bases of spiritual power (satara iddhipada) are taught in middle-to-upper Dhamma school and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "iddhipada",
+      "bodhipakkhiya-dhamma",
+      "success"
+    ],
+    "question": "සතර සෘද්ධිපාද මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශ්‍රද්ධා, වීරිය, සති, සමාධි"
+      },
+      {
+        "id": "b",
+        "text": "ඡන්දය, චිත්ත, විරිය, වීමංසා"
+      },
+      {
+        "id": "c",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "d",
+        "text": "කාය, වේදනා, චිත්ත, ධම්ම"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ඕනෑම යහපත් කටයුත්තක් මෙන්ම නිවන් මඟ සාර්ථක කර ගැනීමට උපකාරී වන සතර සෘද්ධිපාද ධර්මයන් වන්නේ ඡන්ද (කැමැත්ත), චිත්ත (අධිෂ්ඨාන සහගත සිත), විරිය (උත්සාහය) සහ වීමංසා (නුවණින් විමසා බැලීම) යන කරුණු සතරයි.",
+    "source_suggestion": "SN 51.20"
+  },
+  {
+    "id": "daham_294",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four immaterial absorptions (arupavacara jhana) belong to advanced meditation and Abhidhamma topics.",
+    "difficulty": "medium",
+    "tags": [
+      "jhana",
+      "arupavacara",
+      "samadhi",
+      "meditation"
+    ],
+    "question": "අරූපාවචර ධ්‍යාන සතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රථම ධ්‍යානය, ද්විතීය ධ්‍යානය, තෘතීය ධ්‍යානය, චතුර්ථ ධ්‍යානය"
+      },
+      {
+        "id": "b",
+        "text": "පඨවි කසිණය, ආපෝ කසිණය, තේජෝ කසිණය, වායෝ කසිණය"
+      },
+      {
+        "id": "c",
+        "text": "සෝතාපත්ති මාර්ගය, සකදාගාමී මාර්ගය, අනාගාමී මාර්ගය, අරහත් මාර්ගය"
+      },
+      {
+        "id": "d",
+        "text": "ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකින්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සමථ භාවනාව වැඩීමෙන් ලැබිය හැකි අරූපාවචර ධ්‍යාන සතර වන්නේ ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකිඤ්චඤ්ඤායතනය සහ නේවසඤ්ඤානාසඤ්ඤායතනයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_297",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Classification of kamma by function (kicca-catukka) is an upper-grade and Dharmacharya doctrinal topic.",
+    "difficulty": "medium",
+    "tags": [
+      "kamma",
+      "abhidhamma",
+      "kamma-classification"
+    ],
+    "question": "කෘත්‍ය වශයෙන් කර්මයේ කොටස් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ගරුක කර්මය, ආසන්න කර්මය, ආචිණ්ණ කර්මය, කටත්තා කර්මය"
+      },
+      {
+        "id": "b",
+        "text": "ජනක කර්මය, උපස්ථම්භක කර්මය, උප පීලක කර්මය, උප ඝාතක කර්මය"
+      },
+      {
+        "id": "c",
+        "text": "දිට්ඨධම්ම වේදනීය කර්මය, උපපජ්ජ වේදනීය කර්මය, අපරාපරිය වේදනීය කර්මය, අහෝසි කර්මය"
+      },
+      {
+        "id": "d",
+        "text": "කාය කර්මය, වචී කර්මය, මනෝ කර්මය, කුසල කර්මය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "කර්මය විසින් සිදු කරනු ලබන කෘත්‍යය (කාර්යය) අනුව කර්මය ජනක කර්මය, උපස්ථම්භක කර්මය, උපපීළක කර්මය සහ උපඝාතක කර්මය වශයෙන් කොටස් සතරකට බෙදේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_298",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four favorable conditions (sampatti) that prevent unwholesome kamma from ripening are taught in senior Dhamma classes.",
+    "difficulty": "medium",
+    "tags": [
+      "kamma",
+      "sampatti",
+      "vipaka"
+    ],
+    "question": "පුද්ගලයාගේ අකුසල කර්මයන්ගේ විපාකයන් මිදීමට ලැබෙන සම්පත් හතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ගති සම්පත්ති, උපධි සම්පත්ති, කාල සම්පත්ති, ප්‍රයෝග සම්පත්ති"
+      },
+      {
+        "id": "b",
+        "text": "උට්ඨාන සම්පදා, ආරක්ඛ සම්පදා, කල්‍යාණමිත්තතා, සමජීවිකතා"
+      },
+      {
+        "id": "c",
+        "text": "ශීල සම්පදා, සමාධි සම්පදා, ප්‍රඥා සම්පදා, විමුක්ති සම්පදා"
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රද්ධා සම්පදා, ශීල සම්පදා, චාග සම්පදා, ප්‍රඥා සම්පදා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගති සම්පත්ති, උපධි සම්පත්ති, කාල සම්පත්ති සහ ප්‍රයෝග සම්පත්ති යන සම්පත්ති සතර පවතින විට පෙර කළ ඇතැම් අකුසල කර්මයන්ට විපාක දීමට අවකාශ නොලැබේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_299",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four right exertions (satara sammappadhana) are taught in Grade 9-10 and O/L Buddhism.",
+    "difficulty": "medium",
+    "tags": [
+      "sammappadhana",
+      "bodhipakkhiya-dhamma",
+      "right-effort"
+    ],
+    "question": "සතර සම්‍යක් ප්‍රධාන වීර්ය නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "කායානුපස්සනාව වැඩීම, වේදනානුපස්සනාව වැඩීම, චිත්තානුපස්සනාව වැඩීම, ධම්මානුපස්සනාව වැඩීම"
+      },
+      {
+        "id": "b",
+        "text": "ඡන්ද සෘද්ධිපාදය වැඩීම, චිත්ත සෘද්ධිපාදය වැඩීම, විරිය සෘද්ධිපාදය වැඩීම, වීමංසා සෘද්ධිපාදය වැඩීම"
+      },
+      {
+        "id": "c",
+        "text": "දුක්ඛ සත්‍යය පිරිසිඳ දැකීම, සමුදය සත්‍යය ප්‍රහාණය කිරීම, නිරෝධ සත්‍යය සාක්ෂාත් කිරීම, මාර්ග සත්‍යය වැඩීම"
+      },
+      {
+        "id": "d",
+        "text": "නූපන් අකුසල් නොඉපදීමට වෙර දැරීම, උපන් අකුසල් නැති කිරීමට වෙර දැරීම, නූපන් කුසල් ඉපදීමට වෙර දැරීම, උපන් කුසල් වැඩි දියුණු කිරීමට වෙර දැරීම"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සතර සම්‍යක් ප්‍රධාන වීර්යය නම් නූපන් අකුසල් නූපදවීමට වීර්ය කිරීම (සංවර ප්‍රධාන), උපන් අකුසල් ප්‍රහාණය කිරීමට වීර්ය කිරීම (පහාන ප්‍රධාන), නූපන් කුසල් උපදවා ගැනීමට වීර්ය කිරීම (භාවනා ප්‍රධාන) සහ උපන් කුසල් වැඩිදියුණු කර පවත්වා ගැනීමට වීර්ය කිරීමයි (අනුරක්ඛනා ප්‍රධාන).",
+    "source_suggestion": "AN 4.13"
+  },
+  {
+    "id": "daham_300",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four kinds of lay happiness (cattari sukhani) from the Anana Sutta are taught in middle-to-upper grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "anana-sutta",
+      "lay-happiness",
+      "buddhist-economics"
+    ],
+    "question": "සැප හතරකි. ඒ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ගති සම්පත්ති, උපධි සම්පත්ති, කාල සම්පත්ති, ප්‍රයෝග සම්පත්ති"
+      },
+      {
+        "id": "b",
+        "text": "උට්ඨාන සම්පදා, ආරක්ඛ සම්පදා, කල්‍යාණමිත්තතා, සමජීවිකතා"
+      },
+      {
+        "id": "c",
+        "text": "අත්ථි සුඛ, භෝග සුඛ, අනන සුඛ, අනවජ්ජ සුඛ"
+      },
+      {
+        "id": "d",
+        "text": "ආයු සම්පත්තිය, වර්ණ සම්පත්තිය, සුඛ සම්පත්තිය, බල සම්පත්තිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "අනණ සූත්‍රයේදී බුදුරජාණන් වහන්සේ ගිහි පුද්ගලයෙකු ලබන සැප සතරක් පෙන්වා දී ඇත. ඒවා නම් අත්ථි සුඛ (ධනය ඇති බවේ සතුට), භෝග සුඛ (ධනය පරිභෝජනය කිරීමේ සතුට), අනණ සුඛ (ණය නැති බවේ සතුට) සහ අනවජ්ජ සුඛ (නිවැරදි ජීවිකාව නිසා ලබන සතුට) යන සතරයි.",
+    "source_suggestion": "AN 4.62"
+  },
+  {
+    "id": "daham_302",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Classification of kamma by time of ripening (pakakala-catukka) is an upper-level doctrinal topic.",
+    "difficulty": "medium",
+    "tags": [
+      "kamma",
+      "vipaka",
+      "abhidhamma"
+    ],
+    "question": "කර්මය විපාක දෙන ප්‍රධාන ක්‍රම හතර නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දිට්ඨ ධම්ම වේදනීය (මෙලොවදීම විපාක දෙන කර්මය), උපජ්ජ වේදනීය (දෙවන ආත්මයේ විපාක දෙන කර්මය), අපරාපරිය වේදනීය (තුන්වන ආත්මයේ සිට කවර හෝ ආත්මයක විපාක දෙන කර්මය), අහෝසි කර්ම (කිසිම ආකාරයකින් විපාක නොදෙන කර්මය)."
+      },
+      {
+        "id": "b",
+        "text": "ජනක කර්මය (උපත ලබා දෙන කර්මය), උපස්ථම්භක කර්මය (උපත පවත්වා ගෙන යන කර්මය), උපපීළක කර්මය (විපාක පීඩාවට පත් කරන කර්මය), උපඝාතක කර්මය (විපාක නසන කර්මය)."
+      },
+      {
+        "id": "c",
+        "text": "ගරුක කර්මය (බලවත් කර්මය), ආසන්න කර්මය (මරණාසන්න කර්මය), ආචිණ්ණ කර්මය (පුරුදු කළ කර්මය), කටත්තා කර්මය (සාමාන්‍යයෙන් කළ කර්මය)."
+      },
+      {
+        "id": "d",
+        "text": "කාමාවචර කර්මය (කාම ලෝකවල විපාක දෙන කර්මය), රූපාවචර කර්මය (රූප බඹලොව විපාක දෙන කර්මය), අරූපාවචර කර්මය (අරූප බඹලොව විපාක දෙන කර්මය), ලෝකෝත්තර කර්මය (සසර නිමා කරන කර්මය)."
+      }
+    ],
+    "answer": "a",
+    "explanation": "කර්මය විපාක දෙන කාලය අනුව දිට්ඨධම්ම වේදනීය කර්මය, උපපජ්ජ වේදනීය කර්මය, අපරාපරිය වේදනීය කර්මය සහ අහෝසි කර්මය වශයෙන් ප්‍රධාන ආකාර සතරකට බෙදා දැක්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_303",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four fine-material absorptions (rupavacara jhana) are taught in upper Dhamma school classes.",
+    "difficulty": "easy",
+    "tags": [
+      "jhana",
+      "rupavacara",
+      "meditation"
+    ],
+    "question": "රූපාවචර ධ්‍යාන සතර නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකිඤ්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය"
+      },
+      {
+        "id": "b",
+        "text": "සෝවාන් ඵලය, සකෘදාගාමී ඵලය, අනාගාමී ඵලය, අරහත් ඵලය"
+      },
+      {
+        "id": "c",
+        "text": "කායානුපස්සනාව, වේදනානුපස්සනාව, චිත්තානුපස්සනාව, ධම්මානුපස්සනාව"
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රථම ධ්‍යානය, ද්වීතිය ධ්‍යානය, තෘතීය ධ්‍යානය, චතුර්ථ ධ්‍යානය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සමථ භාවනාව වැඩීමෙන් ලබා ගන්නා රූපාවචර ධ්‍යාන සතර වන්නේ ප්‍රථම ධ්‍යානය, ද්විතීය ධ්‍යානය, තෘතීය ධ්‍යානය සහ චතුර්ථ ධ්‍යානයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_304",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The order of priority in which kamma ripens (pakadana-pariyaya) is taught in senior Dhamma school and Dharmacharya classes.",
+    "difficulty": "medium",
+    "tags": [
+      "kamma",
+      "vipaka",
+      "abhidhamma"
+    ],
+    "question": "කර්මයන් විපාක දෙන අනුපිළිවෙල කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ජනක කර්මය, උපස්ථම්භක කර්මය, උපපීළක කර්මය, උපඝාතක කර්මය"
+      },
+      {
+        "id": "b",
+        "text": "දිට්ඨධම්ම වේදනීය කර්මය, උපපජ්ජ වේදනීය කර්මය, අපරාපරිය වේදනීය කර්මය, අහෝසි කර්මය"
+      },
+      {
+        "id": "c",
+        "text": "ගරුක කර්මය, ආසන්න කර්මය, ආචින්න කර්මය, කටත්තා කර්මය"
+      },
+      {
+        "id": "d",
+        "text": "කාය කර්මය, වචී කර්මය, මනෝ කර්මය, චේතනා කර්මය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මීළඟ ප්‍රතිසන්ධිය ලබා දීමේදී කර්මයන් ඉදිරිපත් වන ප්‍රබලතා අනුපිළිවෙළ වන්නේ ගරුක කර්මය, ආසන්න කර්මය, ආචිණ්ණ (බහුල) කර්මය සහ කටත්තා කර්මයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_306",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The cosmic orders (panca niyama dhamma) are taught in Grade 9-10 and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "niyama-dhamma",
+      "kamma",
+      "natural-laws"
+    ],
+    "question": "ලෝකයේ සිදුවන සිදුවීම් සිදුවන්නේ මොන න්‍යාය ධර්ම වලට අනුවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උතු නියාම, බීජ නියාම, ධම්ම නියාම, කම්ම නියාම"
+      },
+      {
+        "id": "b",
+        "text": "සෝතාපත්ති මාර්ගය, සකදාගාමී මාර්ගය, අනාගාමී මාර්ගය, අරහත් මාර්ගය"
+      },
+      {
+        "id": "c",
+        "text": "ගති සම්පත්ති, උපධි සම්පත්ති, කාල සම්පත්ති, ප්‍රයෝග සම්පත්ති"
+      },
+      {
+        "id": "d",
+        "text": "ඡන්ද සෘද්ධිපාදය, චිත්ත සෘද්ධිපාදය, විරිය සෘද්ධිපාදය, වීමංසා සෘද්ධිපාදය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදු දහමට අනුව ලෝකයේ සිදුවන සියලු ක්‍රියාවලීන් සිදුවන්නේ උතු නියාම, බීජ නියාම, කම්ම නියාම, චිත්ත නියාම සහ ධම්ම නියාම යන නියාම ධර්මයන්ට අනුවය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_307",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five books of the Vinaya Pitaka are standard middle-to-upper Dhamma school and O/L syllabus knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "vinaya-pitaka",
+      "tipitaka"
+    ],
+    "question": "විනය පිටකයේ කොටස් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දීඝ නිකාය, මජ්ඣිම නිකාය, සංයුත්ත නිකාය, අංගුත්තර නිකාය, ඛුද්දක නිකාය"
+      },
+      {
+        "id": "b",
+        "text": "ධම්මසංගණී, විභංග, ධාතුකථා, පුග්ගලපඤ්ඤත්ති, කථාවත්ථු"
+      },
+      {
+        "id": "c",
+        "text": "මහා වග්ග පාලිය, චුල්ල වග්ග පාලිය, පාරාජිකා පාලිය, පාචිත්තිය පාලි, පරිවාර පාලි"
+      },
+      {
+        "id": "d",
+        "text": "ධම්මපද පාළිය, උදාන පාළිය, ඉතිවුත්තක පාළිය, සුත්තනිපාත පාළිය, ජාතක පාළිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ත්‍රිපිටකයට අයත් විනය පිටකය පාරාජිකා පාළි, පාචිත්තිය පාළි, මහාවග්ග පාළි, චුල්ලවග්ග පාළි සහ පරිවාර පාළි යන ග්‍රන්ථ පහෙන් සමන්විත වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_308",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five cords of sensual pleasure (panca kamaguna) are taught in middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "panca-kamaguna",
+      "sense-objects"
+    ],
+    "question": "පස්කම් සැප මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ"
+      },
+      {
+        "id": "b",
+        "text": "ශ්‍රද්ධා, වීරිය, සති, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "c",
+        "text": "කාමච්ඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, උද්ධච්චකුක්කුච්ච, විචිකිච්ඡා"
+      },
+      {
+        "id": "d",
+        "text": "රූප, ශබ්ද, ගන්ධ, රස, ස්පර්ශ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ඇස, කන, නාසය, දිව සහ ශරීරය යන පසිඳුරන් මඟින් ලබන රූප, ශබ්ද, ගන්ධ, රස සහ ස්පර්ශ යන අරමුණු පහ පංච කාම ගුණ හෙවත් පස්කම් සැප ලෙස හැඳින්වේ.",
+    "source_suggestion": "MN 13"
+  },
+  {
+    "id": "daham_310",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five aggregates (pancakkhandha) are core doctrinal teachings introduced in Grade 7-8 and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "pancakkhandha",
+      "tilakkhana",
+      "nama-rupa"
+    ],
+    "question": "පංචස්කන්ධය නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ"
+      },
+      {
+        "id": "b",
+        "text": "රූප, ශබ්ද, ගන්ධ, රස, ස්පර්ශ"
+      },
+      {
+        "id": "c",
+        "text": "චක්ඛු, සෝත, ඝාන, ජිව්හා, කාය"
+      },
+      {
+        "id": "d",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ, ආකාස"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සත්ත්වයා යනුවෙන් හඳුන්වන නාමරූප ක්‍රියාවලිය රූප, වේදනා, සඤ්ඤා, සංඛාර සහ විඤ්ඤාණ යන ස්කන්ධ පහේ එකතුවක් වන අතර එය පංචස්කන්ධය නමින් හැඳින්වේ.",
+    "source_suggestion": "SN 22.48"
+  },
+  {
+    "id": "daham_311",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The seven noble treasures (sapta arya dhana) are taught in Grade 8-9 and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "sapta-arya-dhana",
+      "spiritual-wealth"
+    ],
+    "question": "සප්ත ආර්ය ධනය යනු මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සති, ධම්මවිචය, විරිය, පීති, පස්සද්ධි, සමාධි, උපේක්ඛා"
+      },
+      {
+        "id": "b",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ, සුඛ, දුක්ඛ, ජීව"
+      },
+      {
+        "id": "c",
+        "text": "ශ්‍රද්ධා, ශීල, හිරි, ඔත්තප්ප, ශ්‍රැත, ත්‍යාග, ප්‍රඥා"
+      },
+      {
+        "id": "d",
+        "text": "රන්, රිදී, මුතු, මැණික්, වෛදූර්ය, වස්ත්‍ර, ධාන්‍ය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ධන සූත්‍රයේදී බුදුරජාණන් වහන්සේ පෙන්වා දුන් සප්ත ආර්ය ධනය නම් ශ්‍රද්ධා, ශීල, හිරි, ඔත්තප්ප, ශ්‍රැත, ත්‍යාග සහ ප්‍රඥා යන උතුම් ගුණ ධර්ම හතයි.",
+    "source_suggestion": "AN 7.6"
+  },
+  {
+    "id": "daham_314",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five Nikayas of the Sutta Pitaka are taught in middle Dhamma school grades and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "sutta-pitaka",
+      "panca-nikaya",
+      "tipitaka"
+    ],
+    "question": "සූත්‍ර පිටකයේ කොටස් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දීඝ නිකාය, මජ්ජිම නිකාය, සංයුක්ත නිකාය, අංගුත්තර නිකාය, ඛුද්දක නිකාය"
+      },
+      {
+        "id": "b",
+        "text": "පාරාජිකා පාළිය, පාචිත්තිය පාළිය, මහාවග්ග පාළිය, චුල්ලවග්ග පාළිය, පරිවාර පාළිය"
+      },
+      {
+        "id": "c",
+        "text": "ධම්මසංගණී ප්‍රකරණය, විභංග ප්‍රකරණය, ධාතුකථා ප්‍රකරණය, පුග්ගලපඤ්ඤත්ති ප්‍රකරණය, කථාවත්ථු ප්‍රකරණය"
+      },
+      {
+        "id": "d",
+        "text": "සූත්‍ර, ගෙය්‍ය, වෙය්‍යාකරණ, ගාථා, උදාන"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ත්‍රිපිටකයේ සූත්‍ර පිටකය දීඝ නිකාය, මජ්ඣිම නිකාය, සංයුත්ත නිකාය, අංගුත්තර නිකාය සහ ඛුද්දක නිකාය යන නිකාය ග්‍රන්ථ පහකට බෙදා ඇත.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_321",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six heavenly realms (sadev loka) are standard middle-grade Dhamma school cosmology.",
+    "difficulty": "easy",
+    "tags": [
+      "deva-loka",
+      "cosmology",
+      "kama-sugati"
+    ],
+    "question": "සදෙව් ලෝක නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "චාතුමහාරාජිකාව, යාමය, තුසිතය, පරනිම්මිත වසර්ති, තාවතිංසය, නිර්මාණරති."
+      },
+      {
+        "id": "b",
+        "text": "නිරය, තිරිසන් යෝනිය, ප්‍රේත ලෝකය, අසුර නිකාය, මනුෂ්‍ය ලෝකය, බ්‍රහ්ම ලෝකය."
+      },
+      {
+        "id": "c",
+        "text": "බ්‍රහ්ම පාරිසජ්ජය, බ්‍රහ්ම පුරෝහිතය, මහා බ්‍රහ්මය, පරිත්තාභය, අප්පමාණාභය, ආභස්සරය."
+      },
+      {
+        "id": "d",
+        "text": "අවිහය, අතප්පය, සුදස්සය, සුදස්සීය, අකනිට්ඨකය, වේහප්ඵලය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "කාම සුගති භූමියට අයත් සදෙව් ලෝක (දිව්‍ය ලෝක හය) වන්නේ චාතුම්මහාරාජිකය, තාවතිංසය, යාමය, තුසිතය, නිම්මානරතිය සහ පරනිම්මිත වසවර්තියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_322",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The seven conditions of welfare (sapta aparihaniya dhamma) taught to the Vajjis are core Grade 9-10 and O/L material.",
+    "difficulty": "easy",
+    "tags": [
+      "sapta-aparihaniya-dhamma",
+      "vajji",
+      "mahaparinibbana-sutta",
+      "governance"
+    ],
+    "question": "සප්ත අපරිහානි ධර්ම මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශ්‍රද්ධාව ඇති කර ගැනීම, ශීලය ආරක්ෂා කිරීම, පවට ලජ්ජා වීම, පවට බිය වීම, දහම් දැනුම ලබා ගැනීම, පරිත්‍යාගශීලී වීම, ප්‍රඥාව දියුණු කිරීම."
+      },
+      {
+        "id": "b",
+        "text": "සිහිය පිහිටුවා ගැනීම, දහම් කරුණු විමසා බැලීම, වීර්යය වැඩීම, ප්‍රීතිය ඇති කර ගැනීම, කය සිත සංසිඳුවා ගැනීම, සමාධිය වැඩීම, මැදහත් සිතින් විසීම."
+      },
+      {
+        "id": "c",
+        "text": "මත්පැන් පානයෙන් වැළකීම, අවේලාවේ වීථි සංචාරයෙන් වැළකීම, නෘත්‍ය දර්ශනවලට ගිජු නොවීම, දූ කෙළියෙන් වැළකීම, පාප මිතුරන් ඇසුරු නොකිරීම, අලසකම දුරු කිරීම, ධාර්මිකව ධනය ඉපයීම."
+      },
+      {
+        "id": "d",
+        "text": "නිතර රැස්වීම, සමගිව කටයුතු කොට සමගිව විසිර යාම, කලින් නොපැනවූ නීති නොපැණවීම හා පැනවූ නීති කඩ නොකිරීම, විවාහක අවිවාහක කාන්තාවන්ට කරදර නොකිරීම, වැඩිහිටියන්ට සැලකීම හා ඔවුන්ට කන්දීම, පූජනීය ස්ථාන වලට ගරු කිරීම හා ඒවා නඩත්තු කිරීම, පූජ්‍ය පක්‍ෂයට පහසුකම් සැපයීම."
+      }
+    ],
+    "answer": "d",
+    "explanation": "මහා පරිනිබ්බාන සූත්‍රයේදී වජ්ජි රජදරුවන්ගේ නොපිරිහීම හා දියුණුව පිණිස බුදුරජාණන් වහන්සේ විසින් පෙන්වා දෙන ලද කරුණු හත සප්ත අපරිහානීය ධර්ම නමින් හැඳින්වේ.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_324",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The qualities leading to rising fame (Appamadavagga Dhammapada verse 24) are taught in Grade 8-9 and O/L Buddhism.",
+    "difficulty": "medium",
+    "tags": [
+      "dhammapada",
+      "appamada-vagga",
+      "fame"
+    ],
+    "question": "පුද්ගලයකුගේ කීර්තියට හේතුවන කරුණු මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලාභය, අලාභය, යසස, අයසස, නින්දාව, ප්‍රශංසාව."
+      },
+      {
+        "id": "b",
+        "text": "උට්ඨාන වීර්යය, සිහිය, නිසම්මකාරීවීම, ධම්මජීවි වීම, අප්පමත්ථ, සුවිකම්ම."
+      },
+      {
+        "id": "c",
+        "text": "ආයුෂ, වර්ණය, සැපය, බලය, ප්‍රඥාව, ධනය."
+      },
+      {
+        "id": "d",
+        "text": "ඡන්දය, ද්වේෂය, භය, මෝහය, මානය, දෘෂ්ටිය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "ධම්මපදයේ අප්පමාද වග්ගයේ 'උට්ඨානවතෝ සතිමතෝ - සුචිකම්මස්ස නිසම්මකාරිනෝ' යන ගාථාවෙන් පෙන්වා දෙන පරිදි උට්ඨාන වීර්යය, සිහිය, පිරිසිදු ක්‍රියා ඇති බව, විමසා බලා කටයුතු කිරීම, හික්මීම, දැහැමි දිවිපෙවෙත සහ අප්‍රමාදී බව පුද්ගලයෙකුගේ කීර්තිය වැඩීමට හේතු වේ.",
+    "source_suggestion": "Dhp 24"
+  },
+  {
+    "id": "daham_325",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eight worldly conditions (atalo dahama / attha lokadhamma) are foundational Dhamma knowledge from Grade 5-6 upward.",
+    "difficulty": "easy",
+    "tags": [
+      "atalo-dahama",
+      "lokadhamma",
+      "equanimity"
+    ],
+    "question": "අටලෝ දහම නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලාභය, අලාභය, යස, අයස, නින්දා, ප්‍රසංශා, සැප, දුක."
+      },
+      {
+        "id": "b",
+        "text": "සම්මා දිට්ඨි, සම්මා සංකප්ප, සම්මා වාචා, සම්මා කම්මන්ත, සම්මා ආජීව, සම්මා වායාම, සම්මා සති, සම්මා සමාධි."
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රථම ධ්‍යානය, ද්විතීය ධ්‍යානය, තෘතීය ධ්‍යානය, චතුර්ථ ධ්‍යානය, ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකිඤ්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය."
+      },
+      {
+        "id": "d",
+        "text": "ජාති, ජරා, ව්‍යාධි, මරණ, සෝක, පරිදේව, දුක්ඛ, දොම්නස."
+      }
+    ],
+    "answer": "a",
+    "explanation": "ලෝක සත්ත්වයාට ජීවිතයේදී නිරන්තරයෙන් මුහුණ දීමට සිදුවන අටලෝ දහම (අෂ්ට ලෝක ධර්මය) වන්නේ ලාභ, අලාභ, යස, අයස, නින්දා, ප්‍රශංසා, සැප සහ දුක යන කරුණු අටයි.",
+    "source_suggestion": "AN 8.6"
+  },
+  {
+    "id": "daham_326",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The seven books of the Abhidhamma Pitaka (sapta prakarana) are standard Grade 8-9 and O/L syllabus knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "abhidhamma",
+      "tipitaka",
+      "sapta-prakarana"
+    ],
+    "question": "අභිධර්ම පිටකයේ ප්‍රකරණයන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දීඝ නිකාය, මජ්ඣිම නිකාය, සංයුත්ත නිකාය, අංගුත්තර නිකාය, ඛුද්දක නිකාය, පාරාජිකා පාළි, පාචිත්තිය පාළි."
+      },
+      {
+        "id": "b",
+        "text": "ධම්මපද පාළි, උදාන පාළි, ඉතිවුත්තක පාළි, සුත්තනිපාත පාළි, විමානවත්ථු පාළි, පේතවත්ථු පාළි, ථේරගාථා පාළි."
+      },
+      {
+        "id": "c",
+        "text": "සති සම්බොජ්ඣංග, ධම්මවිචය සම්බොජ්ඣංග, විරිය සම්බොජ්ඣංග, පීති සම්බොජ්ඣංග, පස්සද්ධි සම්බොජ්ඣංග, සමාධි සම්බොජ්ඣංග, උපේක්ඛා සම්බොජ්ඣංග."
+      },
+      {
+        "id": "d",
+        "text": "ධම්ම සංඝනීප්පකරණ, විභංගප්පකරණ, ධාතුකතාප්පකරණ, පුග්ගල පඤ්ඤත්තිප්පකරණ, යමකප්පකරණ, පට්ඨානප්පකරණ, කථාවත්ථුපකරණ."
+      }
+    ],
+    "answer": "d",
+    "explanation": "ත්‍රිපිටකයේ අභිධර්ම පිටකයට ධම්මසංගණී, විභංග, ධාතුකථා, පුග්ගලපඤ්ඤත්ති, කථාවත්ථු, යමක සහ පට්ඨාන යන ප්‍රකරණ ග්‍රන්ථ හත (සප්ත ප්‍රකරණය) අයත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_328",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Understanding that the Ratana Sutta proclaims the virtues of the Triple Gem is taught in primary-to-middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "ratana-sutta",
+      "triple-gem",
+      "paritta"
+    ],
+    "question": "රතන සූත්‍රයේ අඩංගු වන්නේ කිනම් ගුණයද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සතර බ්‍රහ්ම විහරණ ගුණ"
+      },
+      {
+        "id": "b",
+        "text": "දස පාරමිතා ගුණ"
+      },
+      {
+        "id": "c",
+        "text": "තෙරුවන් ගුණ"
+      },
+      {
+        "id": "d",
+        "text": "සප්ත බොජ්ඣංග ගුණ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "විශාලා මහනුවර තුන්බිය දුරු කිරීම පිණිස දේශනා කරන ලද රතන සූත්‍රයෙහි බුද්ධ, ධම්ම සහ සංඝ යන තෙරුවන්ගේ අසමසම ගුණ සමූහය ඇතුළත් වේ.",
+    "source_suggestion": "Snp 2.1"
+  },
+  {
+    "id": "daham_329",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eight meditative absorptions (ashta samapatti) combining the 4 rupa and 4 arupa jhanas are upper-grade / Dharmacharya material.",
+    "difficulty": "medium",
+    "tags": [
+      "ashta-samapatti",
+      "jhana",
+      "meditation"
+    ],
+    "question": "අෂ්ඨ සමාපත්තිය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රථම ධ්‍යානය, දුතිය ධ්‍යානය, තෘතිය ධ්‍යානය, චතුර්ථ ධ්‍යානය, ආකාසානඤ්චායතනය, විඤ්ඤාආයතනය, ආකිඤ්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය."
+      },
+      {
+        "id": "b",
+        "text": "සෝවාන් මාර්ගය, සෝවාන් ඵලය, සකෘදාගාමී මාර්ගය, සකෘදාගාමී ඵලය, අනාගාමී මාර්ගය, අනාගාමී ඵලය, අරහත් මාර්ගය, අරහත් ඵලය."
+      },
+      {
+        "id": "c",
+        "text": "සම්මා දිට්ඨි, සම්මා සංකප්ප, සම්මා වාචා, සම්මා කම්මන්ත, සම්මා ආජීව, සම්මා වායාම, සම්මා සති, සම්මා සමාධි."
+      },
+      {
+        "id": "d",
+        "text": "විදර්ශනා ඥානය, මනෝමය සෘද්ධි ඥානය, සෘද්ධිවිධ ඥානය, දිව්‍ය ශ්‍රෝත්‍ර ඥානය, පරචිත්ත විජානන ඥානය, පූර්වේනිවාසානුස්මෘති ඥානය, දිව්‍ය චක්ෂුර් ඥානය, ආසවක්ෂයකර ඥානය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "රූපාවචර ධ්‍යාන සතර සහ අරූපාවචර ධ්‍යාන සතර යන ධ්‍යාන අට එක්ව ගත් කල අෂ්ට සමාපත්ති නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_330",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eight objects of spiritual urgency (ashta samvega vatthu) are taught in advanced Dhamma and Dharmacharya studies.",
+    "difficulty": "hard",
+    "tags": [
+      "ashta-samvega-vatthu",
+      "samvega",
+      "meditation"
+    ],
+    "question": "අෂ්ඨ සංවේග වස්තු නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලාභය, අලාභය, යසස, අයසස, නින්දාව, ප්‍රශංසාව, සැපය, දුක."
+      },
+      {
+        "id": "b",
+        "text": "කඨින පූජාව, අටපිරිකර පූජාව, ආවාස පූජාව, සංඝගත දක්ෂිණාව, දහම් පොත් ලිවීම, කෙත්වතු පූජාව, බුද්ධ ප්‍රතිමා කරවීම, වැසිකිළි කරවීම."
+      },
+      {
+        "id": "c",
+        "text": "ජාති, ජරා, ව්‍යාධි, මරණ, අපාය, අතීත වට්ටමූලය, අනාගත වට්ටමූලය, ආහාර ගවෙට්ඨි දුක්ඛය."
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රාණඝාතය, අදත්තාදානය, කාම මිථ්‍යාචාරය, මුසාවාදය, පිසුණාවාචය, ඵරුසාවාචය, සම්ඵප්පලාපය, මිථ්‍යා දෘෂ්ටිය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සසර පිළිබඳ කලකිරීම හා වීර්යය උපදවා ගැනීමට හේතු වන අෂ්ට සංවේග වස්තු වන්නේ ජාති, ජරා, ව්‍යාධි, මරණ යන සතරත්, අපාය දුක්ඛයත්, අතීත වට්ටමූලක දුක්ඛය, අනාගත වට්ටමූලක දුක්ඛය සහ වර්තමානයේ ආහාර සෙවීමේ දුක්ඛය (ආහාර ගවේසන දුක්ඛය) යන අටයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_331",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eight higher knowledges (ashta vidya) from the Ambattha and Samannaphala Suttas are upper-grade and Dharmacharya topics.",
+    "difficulty": "hard",
+    "tags": [
+      "ashta-vidya",
+      "abhinna",
+      "vijja-carana"
+    ],
+    "question": "අෂ්ඨ විද්‍යා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රථම ධ්‍යානය, ද්විතීය ධ්‍යානය, තෘතීය ධ්‍යානය, චතුර්ථ ධ්‍යානය, ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකිඤ්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය."
+      },
+      {
+        "id": "b",
+        "text": "විදර්ශනා ඥාණය, මනෝමය සෘද්ධි ඥාණය, සෘද්ධිවිධ ඥාණය, දිව්‍ය ශ්‍රෝත්‍ර ඥාණය, පරචිත්ත විජානන ඥාණය, පූර්වේනිවාසානුස්මෘති ඥාණය, දිව්‍ය චක්ෂුර භිඥාණය, ආසවක්ෂය ඥාණය."
+      },
+      {
+        "id": "c",
+        "text": "සම්මා දිට්ඨි, සම්මා සංකප්ප, සම්මා වාචා, සම්මා කම්මන්ත, සම්මා ආජීව, සම්මා වායාම, සම්මා සති, සම්මා සමාධි."
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රද්ධා බලය, වීරිය බලය, සති බලය, සමාධි බලය, ප්‍රඥා බලය, හිරි බලය, ඔත්තප්ප බලය, චාග බලය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "අම්බට්ඨ සූත්‍රය සහ සාමඤ්ඤඵල සූත්‍රය ආදී දේශනාවල විජ්ජාචරණ සම්පන්න බුදු ගුණය විවරණය කිරීමේදී විදර්ශනා ඥානය, මනෝමය සෘද්ධි ඥානය සහ ෂඩ් අභිඤ්ඤා ඇතුළත් අෂ්ට විද්‍යාවන් පෙන්වා දී ඇත.",
+    "source_suggestion": "DN 3"
+  },
+  {
+    "id": "daham_332",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ninefold classification of feeling (vedana) into samisa and niramisa types is an advanced doctrinal topic.",
+    "difficulty": "hard",
+    "tags": [
+      "vedana",
+      "satipatthana",
+      "abhidhamma"
+    ],
+    "question": "වේදනාව කොටස් නවයකට බෙදේ. ඒවා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "චක්ඛු සම්ඵස්සජා වේදනා, සෝත සම්ඵස්සජා වේදනා, ඝාන සම්ඵස්සජා වේදනා, ජිව්හා සම්ඵස්සජා වේදනා, කාය සම්ඵස්සජා වේදනා, මනෝ සම්ඵස්සජා වේදනා, අතීත වේදනා, අනාගත වේදනා, පච්චුප්පන්න වේදනා."
+      },
+      {
+        "id": "b",
+        "text": "රූප තණ්හා, සද්ද තණ්හා, ගන්ධ තණ්හා, රස තණ්හා, ඵොට්ඨබ්බ තණ්හා, ධම්ම තණ්හා, කාම තණ්හා, භව තණ්හා, විභව තණ්හා."
+      },
+      {
+        "id": "c",
+        "text": "සෝවාන් මඟ, සෝවාන් ඵලය, සකෘදාගාමී මඟ, සකෘදාගාමී ඵලය, අනාගාමී මඟ, අනාගාමී ඵලය, අරහත් මඟ, අරහත් ඵලය, නිවන."
+      },
+      {
+        "id": "d",
+        "text": "සුඛ, දුක්ඛ, අදුක්ඛම සුඛ, සාමිස සුඛ, සාමිස දුක්ඛ, සාමිස අදුක්ඛම සුඛ, නිරාමිස සුඛ, නිරාමිස දුක්ඛ, නිරාමිස අදුක්ඛම සුඛ."
+      }
+    ],
+    "answer": "d",
+    "explanation": "මහා සතිපට්ඨාන සූත්‍රයේ වේදනානුපස්සනාවට අනුව සුඛ, දුක්ඛ, අදුක්ඛමසුඛ යන මූලික වේදනා තුනත්, ඒවා සාමිස සහ නිරාමිස වශයෙන් බෙදීමෙන් ලැබෙන වේදනා හයත් එක්ව වේදනාව ආකාර නවයකින් විස්තර කෙරේ.",
+    "source_suggestion": "DN 22"
+  },
+  {
+    "id": "daham_333",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The nine supramundane states (nava lokuttara dhamma) are taught in middle-to-upper Dhamma school grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "nava-lokuttara-dhamma",
+      "magga-phala",
+      "nibbana"
+    ],
+    "question": "නව ලෝකෝත්තර ධර්මය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෝවාන් මඟ, සෝවාන් ඵලය, සකෘදාගාමී මඟ, සකෘදාගාමී ඵලය, අනාගාමී මඟ, අනාගාමී ඵලය, අරහත් මඟ, අරහත් ඵලය, නිවන."
+      },
+      {
+        "id": "b",
+        "text": "සූත්‍ර, ගෙය්‍ය, වෙය්‍යාකරණ, ගාථා, උදාන, ඉතිවුත්තක, ජාතක, අබ්භූතධම්ම, වේදල්ල."
+      },
+      {
+        "id": "c",
+        "text": "අරහං, සම්මා සම්බුද්ධෝ, විජ්ජාචරණ සම්පන්නෝ, සුගතෝ, ලෝකවිදූ, අනුත්තරෝ පුරිසදම්ම සාරථි, සත්ථා දේවමනුස්සානං, බුද්ධෝ, භගවා."
+      },
+      {
+        "id": "d",
+        "text": "සුපටිපන්නෝ, උජුපටිපන්නෝ, ඤායපටිපන්නෝ, සාමීචිපටිපන්නෝ, ආහුනෙය්‍යෝ, පාහුනෙය්‍යෝ, දක්ඛිණෙය්‍යෝ, අඤ්ජලිකරණීයෝ, අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්ස."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සෝවාන්, සකෘදාගාමී, අනාගාමී සහ අරහත් යන සතර මාර්ගයන්ද, සතර ඵලයන්ද, නිර්වාණයද යන නවය නව ලෝකෝත්තර ශ්‍රී සද්ධර්මය නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_334",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten defilements (dasa kilesa) are taught in upper Dhamma school and Abhidhamma/Dharmacharya studies.",
+    "difficulty": "medium",
+    "tags": [
+      "dasa-kilesa",
+      "abhidhamma",
+      "defilements"
+    ],
+    "question": "දස ක්ලේෂයන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සක්කායදිට්ඨි, විචිකිච්ඡා, සීලබ්බතපරාමාස, කාමරාග, පටිඝ, රූපරාග, අරූපරාග, මාන, උද්ධච්ච, අවිජ්ජා"
+      },
+      {
+        "id": "b",
+        "text": "ප්‍රාණඝාතය, අදත්තාදානය, කාම මිථ්‍යාචාරය, මුසාවාදය, පිසුණාවාචය, ඵරුසාවාචය, සම්ඵප්පලාපය, අභිධ්‍යාව, ව්‍යාපාදය, මිථ්‍යා දෘෂ්ටිය"
+      },
+      {
+        "id": "c",
+        "text": "ලෝභ, දෝෂ, මෝහ, මාන, දිට්ඨි, විචිකිච්ඡා, ථීන, උද්ධච්ච, අහිරික, අනෝත්තප්ප"
+      },
+      {
+        "id": "d",
+        "text": "දාන, සීල, නෙක්ඛම්ම, පඤ්ඤා, විරිය, ඛන්ති, සච්ච, අධිට්ඨාන, මෙත්තා, උපේක්ඛා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සත්ත්ව සන්තානය කිලිටි කරන දස ක්ලේශයන් වන්නේ ලෝභ, දෝස, මෝහ, මාන, දිට්ඨි, විචිකිච්ඡා, ථීන, උද්ධච්ච, අහිරික සහ අනොත්තප්ප යන දසයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_337",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The righteous governance duties of a Wheel-Turning Monarch (Cakkavatti-vatta) from the Cakkavatti-Sihanada Sutta are taught in Grade 9-10 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "cakkavatti-vatta",
+      "governance",
+      "cakkavatti-sihanada-sutta"
+    ],
+    "question": "සක්විති රජෙකු සතු පාලන ලක්‍ෂණ 10 මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තමාගේ යටත් වැසියන්ට ආහාර පාන සහ අවශ්‍ය දෑ ලබා දී රැක ගැනීම, මහණ බමුණන්ට සිවු පසයෙන් සංග්‍රහ කර ගැනීම, පක්ෂීන්ට, සිවුපාවුන්ට අභය දානය දී රැක ගැනීම, අධර්ම ක්‍රියාවලින් මුළුමනින්ම වැලකී සිටීම, දුප්පතුන් හට ධනය ලබා දීම."
+      },
+      {
+        "id": "b",
+        "text": "නිතර රැස්වීම, සමගිව රැස්වී සමගිව විසිර යාම, නොපැනවූ නීති නොපැනවීම, පැරණි නීති ආරක්ෂා කිරීම, වැඩිහිටියන්ට ගරු කිරීම."
+      },
+      {
+        "id": "c",
+        "text": "අගතියෙන් තොරව යුක්තිය පසිඳලීම, අවි ආයුධ බලයෙන් රාජ්‍යයන් යටත් කර ගැනීම, අධික බදු අය කිරීම, දැඩි දඬුවම් පැමිණවීම, යුද සේනා තර කිරීම."
+      },
+      {
+        "id": "d",
+        "text": "උට්ඨාන සම්පදාවෙන් කටයුතු කිරීම, ආරක්ඛ සම්පදාවෙන් ධනය රැක ගැනීම, කල්‍යාණ මිත්‍රයන් ඇසුරු කිරීම, අයවැය සමව පවත්වා ගැනීම, ණය නොවී ජීවත් වීම."
+      }
+    ],
+    "answer": "a",
+    "explanation": "චක්කවත්ති සීහනාද සූත්‍රයට අනුව සක්විති රජෙකු විසින් ධර්මය පෙරටු කර ගෙන අඹුදරුවන්, බලසේනා, රටවැසියන්, මහණ බමුණන් සහ සතාසිවුපාවුන් ආරක්ෂා කිරීමත්, අධර්මය වළක්වා දිළින්දන්ට ධනය ලබා දීමත් දස සක්විති වත්වලට අයත් වේ.",
+    "source_suggestion": "DN 26"
+  },
+  {
+    "id": "daham_338",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten foulness meditation objects (dasa asubha) from samatha bhavana are taught in senior and Dharmacharya classes.",
+    "difficulty": "hard",
+    "tags": [
+      "dasa-asubha",
+      "samatha-bhavana",
+      "kammatthana"
+    ],
+    "question": "දස අසුභයන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ, නීල, පීත, ලෝහිත, ඕදාත, ආලෝක, ආකාස"
+      },
+      {
+        "id": "b",
+        "text": "බුද්ධානුස්සති, ධම්මානුස්සති, සංඝානුස්සති, සීලානුස්සති, චාගානුස්සති, දේවානුස්සති, මරණානුස්සති, කායගතාසති, ආනාපානසති, උපසමානුස්සති"
+      },
+      {
+        "id": "c",
+        "text": "උද්ධුමාතක, විනීලක, විපුබ්බක, විච්ජිද්දක, විත්තක්කායිතක, වික්කිත්තික, හතවික්කිත්තක, ලෝහිතක, පුලවක, අට්ටක"
+      },
+      {
+        "id": "d",
+        "text": "කෙස්, ලොම්, නිය, දත්, සම්, මස්, නහර, ඇට, ඇටමිදුලු, වකුගඩු"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සමථ භාවනාවේ සතළිස් කමටහන්වලට අයත් දස අසුභය නම් උද්ධුමාතක, විනීලක, විපුබ්බක, විච්ඡිද්දක, වික්ඛායිතක, වික්ඛිත්තක, හතවික්ඛිත්තක, ලෝහිතක, පුළුවක සහ අට්ඨික යන මළසිරුරක අවස්ථා දසයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_339",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten recollections (dasa anussati) are taught in upper Dhamma school meditation lessons.",
+    "difficulty": "medium",
+    "tags": [
+      "dasa-anussati",
+      "meditation",
+      "samatha-bhavana"
+    ],
+    "question": "දස අනුස්සති නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි කසිණය, ආපෝ කසිණය, තේජෝ කසිණය, වායෝ කසිණය, නීල කසිණය, පීත කසිණය, ලෝහිත කසිණය, ඕදාත කසිණය, ආලෝක කසිණය, ආකාස කසිණය"
+      },
+      {
+        "id": "b",
+        "text": "බුද්ධානුස්සති, ධර්මානුස්සති, සංඝානුස්සති, සීලානුස්සති, චාගානුස්සති, දේවානුස්සති, මරණානුස්සති, කායානුස්සති, ආනාපානසති, උපසමානුස්සති"
+      },
+      {
+        "id": "c",
+        "text": "දාන පාරමිතාව, ශීල පාරමිතාව, නෙක්ඛම්ම පාරමිතාව, පඤ්ඤා පාරමිතාව, විරිය පාරමිතාව, ඛන්ති පාරමිතාව, සච්ච පාරමිතාව, අධිට්ඨාන පාරමිතාව, මෙත්තා පාරමිතාව, උපේක්ඛා පාරමිතාව"
+      },
+      {
+        "id": "d",
+        "text": "දානය, ශීලය, භාවනාව, පින් දීම, පින් අනුමෝදන් වීම, වතාවත් කිරීම, පිදිය යුත්තන් පිදීම, ධර්ම දේශනාව, ධර්ම ශ්‍රවණය, දෘෂ්ටිජුකර්මය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සමථ භාවනාවේ කමටහන් අතරට අයත් දස අනුස්සති වන්නේ බුද්ධානුස්සති, ධම්මානුස්සති, සංඝානුස්සති, සීලානුස්සති, චාගානුස්සති, දේවානුස්සති, මරණානුස්සති, කායගතාසති, ආනාපානසති සහ උපසමානුස්සති යන භාවනා දසයයි.",
+    "source_suggestion": "AN 1.296"
+  },
+  {
+    "id": "daham_340",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten kasina meditation objects (dasa kasina) are taught in senior Dhamma school and Dharmacharya classes.",
+    "difficulty": "medium",
+    "tags": [
+      "dasa-kasina",
+      "samatha-bhavana",
+      "meditation"
+    ],
+    "question": "දස කසීනයන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උද්ධුමාතක, විනීලක, විපුබ්බක, විච්ඡිද්දක, වික්ඛායිතක, වික්ඛිත්තක, හතවික්ඛිත්තක, ලෝහිතක, පුළුවක, අට්ඨික"
+      },
+      {
+        "id": "b",
+        "text": "ලෝභ, දෝස, මෝහ, මාන, දිට්ඨි, විචිකිච්ඡා, ථීන, උද්ධච්ච, අහිරික, අනොත්තප්ප"
+      },
+      {
+        "id": "c",
+        "text": "බුද්ධානුස්සති, ධම්මානුස්සති, සංඝානුස්සති, සීලානුස්සති, චාගානුස්සති, දේවානුස්සති, මරණානුස්සති, කායානුස්සති, ආනාපානසති, උපසමානුස්සති"
+      },
+      {
+        "id": "d",
+        "text": "ආපෝ, තේජෝ, වායෝ, පඨවි, ආකාස, නීල, පීත, ලෝහිත, ඕදාත, ආලෝක"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සමථ භාවනාවේදී ධ්‍යාන උපදවා ගැනීම සඳහා භාවිත කරන දස කසිණයන් වන්නේ පඨවි, ආපෝ, තේජෝ, වායෝ යන භූත කසිණ සතරත්, නීල, පීත, ලෝහිත, ඕදාත යන වර්ණ කසිණ සතරත්, ආලෝක සහ ආකාස කසිණ දෙකත් යන දසයයි.",
+    "source_suggestion": "DN 33"
+  },
+  {
+    "id": "daham_341",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten armies of Mara (dasa marasena) from the Padhana Sutta are taught in senior Dhamma school and Dharmacharya levels.",
+    "difficulty": "hard",
+    "tags": [
+      "padhana-sutta",
+      "dasa-marasena",
+      "kilesa"
+    ],
+    "question": "දස මාරයන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාමය, රතිය, සාපිපාසාව, ථිනමිද්ධ, බිය, ගුණමකුකම, සැකය, තෘෂ්ණාව, සත්කාරය, ලාභය ප්‍රශංසාව මගින් ලැබූ යසස අනුන් හෙලා දැකීම සහ තමන් හුවා දැක්වීම."
+      },
+      {
+        "id": "b",
+        "text": "සක්කායදිට්ඨි, විචිකිච්ඡා, සීලබ්බතපරාමාස, කාමරාග, පටිඝ, රූපරාග, අරූපරාග, මාන, උද්ධච්ච, අවිජ්ජා."
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රාණඝාතය, අදත්තාදානය, කාම මිථ්‍යාචාරය, මුසාවාදය, පිසුණාවාචය, ඵරුසාවාචය, සම්ඵප්පලාපය, අභිධ්‍යාව, ව්‍යාපාදය, මිථ්‍යා දෘෂ්ටිය."
+      },
+      {
+        "id": "d",
+        "text": "ඛන්ධ මාර, කිලේස මාර, අභිසංඛාර මාර, මච්චු මාර, දේවපුත්ත මාර, රාග, ද්වේෂ, මෝහ, මාන, දිට්ඨි."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සුත්තනිපාතයේ පධාන සූත්‍රයේදී බුදුරජාණන් වහන්සේ විසින් කාමය, අරතිය, සාපිපාසාව, තෘෂ්ණාව, ථීනමිද්ධය, බිය, සැකය (විචිකිච්ඡාව), ගුණමකුකම හා තදබව, ලාභ සත්කාර කීර්ති ප්‍රශංසා සහ තමා හුවා දක්වා අනුන් හෙළා දැකීම යන දස මාර සේනාව පෙන්වා දී ඇත.",
+    "source_suggestion": "Snp 3.2"
+  },
+  {
+    "id": "daham_342",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten royal virtues (dasa raja dhamma) are taught in middle Dhamma school grades and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "dasa-raja-dhamma",
+      "governance",
+      "jataka"
+    ],
+    "question": "දස රාජ ධර්මයන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන, සීල, නෙක්ඛම්ම, පඤ්ඤා, විරිය, ඛන්ති, සච්ච, අධිට්ඨාන, මෙත්තා, උපේක්ඛා"
+      },
+      {
+        "id": "b",
+        "text": "දානය, ශීලය, භාවනාව, පින් දීම, පින් අනුමෝදන් වීම, වතාවත් කිරීම, පිදිය යුත්තන් පිදීම, ධර්ම දේශනාව, ධර්ම ශ්‍රවණය, දෘෂ්ටිය ඍජු කිරීම"
+      },
+      {
+        "id": "c",
+        "text": "දාන, සීල, පරිත්‍යාග, ඍජු බව, මෘදු බව, තාපස, ආක්‍රෝධය, අවිහිංසාව,"
+      },
+      {
+        "id": "d",
+        "text": "ශ්‍රද්ධා, ශීල, හිරි, ඔත්තප්ප, ශ්‍රැත, ත්‍යාග, ප්‍රඥා, සති, සමාධි, වීර්ය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "රාජ්‍ය පාලකයෙකු තුළ පැවතිය යුතු දස රාජ ධර්මයන් වන්නේ දාන, සීල, පරිත්‍යාග, අජ්ජව (ඍජු බව), මද්දව (මෘදු බව), තප (තාපස ගුණය), අක්කෝධ (අක්‍රෝධය), අවිහිංසා (අවිහිංසාව), ඛන්ති (ඉවසීම) සහ අවිරෝධතා (රටවැසියාට අවිරුද්ධ බව) යන දසයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_346",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eleven planes of the sensual realm (ekadasa kama-bhumi) combining 4 apayas, human realm, and 6 deva realms are taught in Grade 8-9 and Abhidhamma.",
+    "difficulty": "medium",
+    "tags": [
+      "kama-loka",
+      "cosmology",
+      "abhidhamma"
+    ],
+    "question": "කාම ලෝක 11 නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "බ්‍රහ්ම පාරිසජ්ජය, බ්‍රහ්ම පුරෝහිතය, මහා බ්‍රහ්මය, පරිත්තාභය, අප්පමාණාභය, ආභස්සරය, පරිත්තසුභය, අප්පමාණසුභය, සුභකිණ්හකය, වේහප්ඵලය, අසඤ්ඤසත්තය"
+      },
+      {
+        "id": "b",
+        "text": "සංජීවය, කාලසූත්‍රය, සංඝාතය, රෞරවය, මහා රෞරවය, තාපනය, මහා තාපනය, අවීචිය, ප්‍රේත ලෝකය, තිරිසන් අපාය, අසුර නිකාය"
+      },
+      {
+        "id": "c",
+        "text": "මනුස්ස ලෝකය, චාතුර් මහා රාජිකය, තාවතින්සය, යාමය, තුසිතය, නිම්මානරතිය, පරනිම්මිත වසවර්තිය, නරකය, තිරිසන් අපාය, ප්‍රේත ලෝකය, අසුර නිකාය,"
+      },
+      {
+        "id": "d",
+        "text": "මනුස්ස ලෝකය, චාතුම්මහාරාජිකය, තාවතිංසය, යාමය, තුසිතය, නිම්මානරතිය, පරනිම්මිත වසවර්තිය, ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකිඤ්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සතර අපාය, මනුෂ්‍ය ලෝකය සහ සදෙව් ලෝක යන භූමි එකොළහ එක්ව ගත් කල කාමාවචර භූමි හෙවත් කාම ලෝක එකොළහ ලෙස හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_347",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The twelve links of Dependent Origination (paticca-samuppada) are core Grade 9-10 and O/L doctrinal material.",
+    "difficulty": "medium",
+    "tags": [
+      "paticca-samuppada",
+      "dependent-origination",
+      "twelve-links"
+    ],
+    "question": "පටිච්ච සමුප්පාද ධර්මය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දුක්ඛ සත්‍යය පිරිසිඳ දැකිය යුතුය, දුක්ඛ සමුදය සත්‍යය ප්‍රහාණය කළ යුතුය, දුක්ඛ නිරෝධ සත්‍යය සාක්ෂාත් කළ යුතුය, දුක්ඛ නිරෝධ ගාමිණී පටිපදා ආර්ය සත්‍යය වැඩිය යුතුය."
+      },
+      {
+        "id": "b",
+        "text": "අවිද්‍යාව නිසා සංස්කාර ඇති වේ, සංස්කාර නිසා විඥාණය පහළ වේ, විඥාණය නිසා නාම රූප පැන නගී, නාමරූප නිසා ආයතන සය බිහිවේ, ආයතන නිසා ස්පර්ශය ඉස්මතු වේ, ස්පර්ශය නිසා වේදනාව හට ගනී, වේදනාව නිසා තෘෂ්ණාව හට ගනී, තෘෂ්ණාව නිසා භවය පවතී, භවය නිසා ඉපදීම සිදු වේ, ඉපදීම නිසා මහළු විය, මරණය, ශෝකය, දුක, වැලපීම, දොම්නස හා සිත් තැවුල ඇති වේ."
+      },
+      {
+        "id": "c",
+        "text": "රූප ස්කන්ධය අනිත්‍ය වේ, වේදනා ස්කන්ධය අනිත්‍ය වේ, සඤ්ඤා ස්කන්ධය අනිත්‍ය වේ, සංඛාර ස්කන්ධය අනිත්‍ය වේ, විඤ්ඤාණ ස්කන්ධය අනිත්‍ය වේ, එබැවින් සියලු සංස්කාර ධර්මයෝ දුක් හා අනාත්ම වෙති."
+      },
+      {
+        "id": "d",
+        "text": "සම්මා දිට්ඨිය නිසා සම්මා සංකප්පය ඇති වේ, සම්මා සංකප්පය නිසා සම්මා වාචා ඇති වේ, සම්මා වාචා නිසා සම්මා කම්මන්ත ඇති වේ, සම්මා කම්මන්ත නිසා සම්මා ආජීව ඇති වේ, සම්මා ආජීව නිසා සම්මා වායාම, සම්මා සති හා සම්මා සමාධි ඇති වේ."
+      }
+    ],
+    "answer": "b",
+    "explanation": "හේතුඵල දහමට අනුව සංසාරික දුක හටගන්නා ආකාරය අවිද්‍යා, සංඛාර, විඤ්ඤාණ, නාමරූප, සළායතන, ඵස්ස, වේදනා, තණ්හා, උපාදාන, භව, ජාති සහ ජරාමරණ යන අංග දොළහෙන් යුත් පටිච්චසමුප්පාද ධර්මය මඟින් පැහැදිලි කෙරේ.",
+    "source_suggestion": "SN 12.1"
+  },
+  {
+    "id": "daham_348",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The fourteen unwholesome mental factors (tudus akusala cetasika) are an Abhidhamma topic taught in senior and Dharmacharya classes.",
+    "difficulty": "hard",
+    "tags": [
+      "akusala-cetasika",
+      "abhidhamma",
+      "cetasika"
+    ],
+    "question": "අකුසල චෛතසික නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මෝහ, අහිරික, අනෝතප්ත, උද්ධච්ච, ලෝභ, දිට්ඨි, මානණී, දෝස, ඉස්සා, මච්ඡරිය, කුක්කුච්ච, ථින, මිද්ධ, විචිකිච්ඡා"
+      },
+      {
+        "id": "b",
+        "text": "ඵස්ස, වේදනා, සඤ්ඤා, චේතනා, ඒකග්ගතා, ජීවිතින්ද්‍රිය, මනසිකාර, විතක්ක, විචාර, අධිමොක්ඛ, විරිය, පීති, ඡන්ද"
+      },
+      {
+        "id": "c",
+        "text": "සද්ධා, සති, හිරි, ඔත්තප්ප, අලෝභ, අදෝස, තත්‍රමජ්ඣත්තතා, කායපස්සද්ධි, චිත්තපස්සද්ධි, කායලහුතා, චිත්තලහුතා, කරුණා, මුදිතා, පඤ්ඤා"
+      },
+      {
+        "id": "d",
+        "text": "සක්කායදිට්ඨි, විචිකිච්ඡා, සීලබ්බතපරාමාස, කාමරාග, පටිඝ, රූපරාග, අරූපරාග, මාන, උද්ධච්ච, අවිජ්ජා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "අභිධර්මයෙහි සඳහන් දෙපනස් චෛතසිකයන් අතරින් අකුසල් සිත්වල පමණක් යෙදෙන අකුසල චෛතසික දහහතර වන්නේ මෝහ, අහිරික, අනොත්තප්ප, උද්ධච්ච, ලෝභ, දිට්ඨි, මාන, දෝස, ඉස්සා, මච්ඡරිය, කුක්කුච්ච, ථීන, මිද්ධ සහ විචිකිච්ඡා යන දහහතරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_349",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the Ratana Sutta was chanted to dispel the three fears in Vesali is elementary-to-middle Dhamma school knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "ratana-sutta",
+      "vesali",
+      "tun-biya",
+      "paritta"
+    ],
+    "question": "විශාලා මහනුවර ඇති වූ තුන් බිය දුරු කිරීම පිණිස දේශනා කළ සූත්‍රය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කරණීය මෙත්ත සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "මහා මංගල සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "ධජග්ග සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "රතන සූත්‍රය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "විශාලා මහනුවර හටගත් රෝග බිය, අමනුෂ්‍ය බිය සහ දුර්භික්ෂ බිය යන තුන් බිය දුරු කර සෙත් සැලසීම පිණිස බුදුරජාණන් වහන්සේ විසින් රතන සූත්‍රය දේශනා කොට ආනන්ද හිමියන් ලවා පිරිත් දේශනා කරවන ලදී.",
+    "source_suggestion": "Snp 2.1"
+  },
+  {
+    "id": "daham_350",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The twelve aspects of Dukkha Ariya Sacca from the Dhammacakkappavattana Sutta are taught in Grade 7-8 and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "dukkha-sacca",
+      "four-noble-truths",
+      "dhammacakkappavattana-sutta"
+    ],
+    "question": "දුකෙහි අංග දොළහ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවිද්‍යා, සංඛාර, විඤ්ඤාණ, නාමරූප, සළායතන, ඵස්ස, වේදනා, තණ්හා, උපාදාන, භව, ජාති, ජරාමරණ."
+      },
+      {
+        "id": "b",
+        "text": "ජාති, ජරා, මරණ, ව්‍යාධි, සෝක, පරිදේව, වේදනාව, උපායාස, අප්‍රියන් හා එක්වීම, ප්‍රියයන්ගෙන් වෙන් වීම, කැමති දේ නොලැබීම, පංච උපාදානස්කන්දයම දුකකි."
+      },
+      {
+        "id": "c",
+        "text": "රූප තණ්හා, සද්ද තණ්හා, ගන්ධ තණ්හා, රස තණ්හා, ඵොට්ඨබ්බ තණ්හා, ධම්ම තණ්හා, කාම තණ්හා, භව තණ්හා, විභව තණ්හා, කාම උපාදාන, දිට්ඨි උපාදාන, සීලබ්බත උපාදාන."
+      },
+      {
+        "id": "d",
+        "text": "චක්ඛු ආයතනය, සෝත ආයතනය, ඝාන ආයතනය, ජිව්හා ආයතනය, කාය ආයතනය, මන ආයතනය, රූප ආයතනය, ශබ්ද ආයතනය, ගන්ධ ආයතනය, රස ආයතනය, ඵොට්ඨබ්බ ආයතනය, ධම්ම ආයතනය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "ධම්මචක්කප්පවත්තන සූත්‍රයේදී දුක්ඛ ආර්ය සත්‍යය විස්තර කිරීමේදී ජාති, ජරා, ව්‍යාධි, මරණ, සෝක, පරිදේව, දුක්ඛ, දෝමනස්ස, උපායාස, අප්පියෙහි සම්පයෝගය, පියෙහි විප්පයෝගය, කැමති දේ නොලැබීම සහ සැකෙවින් පංච උපාදානස්කන්ධයම දුකක් බව පෙන්වා දී ඇත.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_351",
+    "category": "dharmaya",
+    "levels": [
+      "dharmacharya",
+      "al"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The specific canonical list of Buddha-ñanas from the Patisambhidamagga (including Indriya-paropariyatta, Yamaka-patihariya, Sabbaññuta, Anavarana ñana) is Dharmacharya-level material.",
+    "difficulty": "hard",
+    "tags": [
+      "buddha-nana",
+      "patisambhidamagga",
+      "asadharananana"
+    ],
+    "question": "බුද්ධ ඥාණයන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෝතාපත්ති මග්ග ඥානං, සෝතාපත්ති ඵල ඥානං, සකදාගාමී මග්ග ඥානං, සකදාගාමී ඵල ඥානං, අනාගාමී මග්ග ඥානං, අනාගාමී ඵල ඥානං, අරහත්ත මග්ග ඥානං, අරහත්ත ඵල ඥානං, පච්චවෙක්ඛණ ඥානං"
+      },
+      {
+        "id": "b",
+        "text": "උදයබ්බය ඥානං, භංග ඥානං, භය ඥානං, ආදීනව ඥානං, නිබ්බිදා ඥානං, මුඤ්චිතුකම්‍යතා ඥානං, පටිසංඛා ඥානං, සංඛාරුපෙක්ඛා ඥානං, අනුලෝම ඥානං, ගෝත්‍රභූ ඥානං"
+      },
+      {
+        "id": "c",
+        "text": "දුක්ඛේ ඥානං, දුක්ඛ සමුදයේ ඥානං, දුක්ඛ නිරෝධ ඥානං, දුක්ඛ නිරෝධ ගාමිණී ඥානං, පටිපදාය ඥානං, අත්ත පටිසම්භිදේ ඥානං, පටිභාන පටිසම්භිදේ ඥානං, ඉන්ද්‍රිය පරෝපරියත්තේ ඥාණං, ආසයානුසයේ ඥානං, පමක පටිහාරියේ ඥානං, මහා කරුණා සම්පත්තියේ ඥානං, සබ්බඤ්ඤුත ඥානං, අනාවරණ ඥානං"
+      },
+      {
+        "id": "d",
+        "text": "චින්තාමය ඥානං, සුතමය ඥානං, භාවනාමය ඥානං, කම්මස්සකතා ඥානං, සච්චානුලෝමික ඥානං, නාමරූප පරිච්ඡේද ඥානං, පච්චය පරිග්ගහ ඥානං, සම්මසන ඥානං"
+      }
+    ],
+    "answer": "c",
+    "explanation": "පටිසම්භිදාමග්ග පාළියෙහි සඳහන් පරිදි චතුරාර්ය සත්‍ය ඥාන, සිව් පිළිසිඹියා ඥාන සහ ඉන්ද්‍රිය පරෝපරියත්ත, ආසයානුසය, යමක පාටිහාරිය, මහා කරුණා සමාපත්ති, සබ්බඤ්ඤුත හා අනාවරණ ඥාන යන ෂඩ් අසාධාරණ ඥානයෝ බුද්ධ ඥානයන්ට අයත් වෙති.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_352",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The sixteen fine-material Brahma realms (solos rupa-brahma loka) are taught in senior Dhamma school and Abhidhamma.",
+    "difficulty": "hard",
+    "tags": [
+      "brahma-loka",
+      "cosmology",
+      "rupavacara",
+      "abhidhamma"
+    ],
+    "question": "බ්‍රහ්ම ලෝක නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "භුම්මා, බ්‍රහ්ම පාරිසජ්ජ, බ්‍රහ්ම පුරෝහිත, මහා බ්‍රහ්ම, පරිත්තභා, අප්පමාණභ, ආභස්සර, පරිත්තසුභ, අප්පමාණසුභ, සුභකිණ්ණක, වේහප්ඵල, අවිහා, අතප්ප, සුදස්සා, සුදස්සී, අකණිට්ටක"
+      },
+      {
+        "id": "b",
+        "text": "චාතුම්මහාරාජිකය, තාවතිංසය, යාමය, තුසිතය, නිම්මානරතිය, පරනිම්මිත වසවර්තිය, ආකාසානඤ්චායතනය, විඤ්ඤාණඤ්චායතනය, ආකිඤ්චඤ්ඤායතනය, නේවසඤ්ඤානාසඤ්ඤායතනය"
+      },
+      {
+        "id": "c",
+        "text": "සංජීවය, කාලසූත්‍රය, සංඝාතය, රෞරවය, මහා රෞරවය, තාපනය, මහා තාපනය, අවීචිය, ලෝකාන්තරිකය, තිරිසන් අපාය, ප්‍රේත විෂය, අසුර නිකාය"
+      },
+      {
+        "id": "d",
+        "text": "මනුස්ස ලෝකය, චාතුම්මහාරාජිකය, තාවතිංසය, යාමය, තුසිතය, නිම්මානරතිය, පරනිම්මිත වසවර්තිය, නිරය, තිරිසන් අපාය, ප්‍රේත ලෝකය, අසුර නිකාය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "රූපාවචර ධ්‍යානලාභී උතුමන් උපත ලබන රූපාවචර බ්‍රහ්ම ලෝක දහසයට බ්‍රහ්ම පාරිසජ්ජයේ සිට අකනිට්ඨක බ්‍රහ්ම ලෝකය දක්වා වූ බඹතල ඇතුළත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_356",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The thirty-two parts of the body (detis kunapa) for kayagatasati/patikkulamanasikara meditation are taught in senior and Dharmacharya classes.",
+    "difficulty": "medium",
+    "tags": [
+      "detis-kunapa",
+      "kayagatasati",
+      "meditation"
+    ],
+    "question": "දෙතිස් කුණප කොටස් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ, නීල, පීත, ලෝහිත, ඕදාත, ආලෝක, ආකාස, උද්ධුමාතක, විනීලක, විපුබ්බක, විච්ඡිද්දක, වික්ඛායිතක, වික්ඛිත්තක, හතවික්ඛිත්තක, ලෝහිතක, පුළුවක, අට්ඨික"
+      },
+      {
+        "id": "b",
+        "text": "චක්ඛු, සෝත, ඝාන, ජිව්හා, කාය, මන, රූප, ශබ්ද, ගන්ධ, රස, ස්පර්ශ, ධම්ම, චක්ඛු විඤ්ඤාණ, සෝත විඤ්ඤාණ, ඝාන විඤ්ඤාණ, ජිව්හා විඤ්ඤාණ, කාය විඤ්ඤාණ, මනෝ විඤ්ඤාණ"
+      },
+      {
+        "id": "c",
+        "text": "කෙස්, ලොම්, නිය, දත්, සම්, මස්, නහර, ඇට, ඇටමිදුලු, වකුගඩු, හෘදය, අක්මාව, බඩදිව, පපුව, බඩවැල්, අතුණු බහන්, නොපැසුණු ආහාර, මළ, පිත, සෙම, සැරව, ලේ, දහඩිය, මේද, තෙල, කඳුලු, බොරුනු තෙල, කෙළ, සොටු, සඳමිදුල, මුත්‍ර, මොළය"
+      },
+      {
+        "id": "d",
+        "text": "අවිද්‍යා, සංඛාර, විඤ්ඤාණ, නාමරූප, සළායතන, ඵස්ස, වේදනා, තණ්හා, උපාදාන, භව, ජාති, ජරා, ව්‍යාධි, මරණ, සෝක, පරිදේව, දුක්ඛ, දෝමනස්ස, උපායාස"
+      }
+    ],
+    "answer": "c",
+    "explanation": "කායගතාසති හා පටික්කූල මනසිකාර භාවනාවේදී ශරීරයේ යථා ස්වභාවය මෙනෙහි කිරීම සඳහා කෙස්, ලොම්, නිය, දත්, සම් ආදී දෙතිස් කුණප කොටස් තිස්දෙක භාවනා අරමුණක් ලෙස යොදා ගැනේ.",
+    "source_suggestion": "MN 119"
+  },
+  {
+    "id": "daham_360",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the Sigalovada Sutta was preached to young Sigalaka is standard primary-to-middle Dhamma school knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "lay-ethics",
+      "sutta-pitaka"
+    ],
+    "question": "සිඟාලෝවාද සූත්‍රය දේශනා කළේ කා හටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දීඝජානු කෝලිය පුත්‍රයාට"
+      },
+      {
+        "id": "b",
+        "text": "අනේපිඬු ගෘහපතිතුමාට"
+      },
+      {
+        "id": "c",
+        "text": "සිඟාලක ගෘහපති පුත්‍රයාට"
+      },
+      {
+        "id": "d",
+        "text": "සුභ තරුණයාට"
+      }
+    ],
+    "answer": "c",
+    "explanation": "රජගහ නුවර විසූ සිඟාලක ගෘහපති පුත්‍රයා උදෑසන තෙත් වස්ත්‍ර හා හිසකෙස් ඇතිව සදිසාවට නමස්කාර කරනු දුටු බුදුරජාණන් වහන්සේ ඔහුට ගිහි විනය ඇතුළත් සිඟාලෝවාද සූත්‍රය දේශනා කළ සේක.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_361",
+    "category": "dharmaya",
+    "levels": [
+      "dharmacharya",
+      "al"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The detailed breakdown of the sixty-two wrong views (desatak mithya drishti) in the Brahmajala Sutta is Dharmacharya and A/L material.",
+    "difficulty": "hard",
+    "tags": [
+      "brahmajala-sutta",
+      "mithya-drishti",
+      "sutta-pitaka"
+    ],
+    "question": "දෙසැටක් මිත්‍යා දෘෂ්ටීන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අහේතුක වාද 10 යි, අකිරිය වාද 10 යි, නත්ථික වාද 10 යි, ඊශ්වර නිර්මාණ වාද 10 යි, පුබ්බේකතහේතු වාද 10 යි, නියති වාද 12 යි."
+      },
+      {
+        "id": "b",
+        "text": "කේවල ශාස්වත වාද 4 යි, ඒකත්‍ය ශාස්වතවාද 4 යි, අන්තාන්තිකවාද 4 යි, අමරා වික්ඛේපවාද 4 යි, අධිච්ච සමුප්පන්න වාද 2 යි, සංඥා වාද 16 යි, අසංඥා වාද 8 යි, නේවසංඥා නාසංඥා වාද 8 යි, උච්ඡේදවාද 7 යි, දිට්ඨ ධම්ම නිබ්බාණ වාද 5 යි."
+      },
+      {
+        "id": "c",
+        "text": "රූප සක්කාය දිට්ඨි 15 යි, වේදනා සක්කාය දිට්ඨි 15 යි, සඤ්ඤා සක්කාය දිට්ඨි 12 යි, සංඛාර සක්කාය දිට්ඨි 10 යි, විඤ්ඤාණ සක්කාය දිට්ඨි 10 යි."
+      },
+      {
+        "id": "d",
+        "text": "ශාස්වත වාද 20 යි, උච්ඡේද වාද 20 යි, අකිරිය වාද 12 යි, සංසාර ශුද්ධි වාද 10 යි."
+      }
+    ],
+    "answer": "b",
+    "explanation": "දීඝ නිකායේ පළමුවන සූත්‍රය වන බ්‍රහ්මජාල සූත්‍රයේදී පූර්වාන්ත කල්පික දෘෂ්ටි දහඅටක් සහ අපරාන්ත කල්පික දෘෂ්ටි සතළිස් සතරක් වශයෙන් දෙසැටක් (62) මිථ්‍යා දෘෂ්ටීන් බෙදා පෙන්වා දී ඇත.",
+    "source_suggestion": "DN 1"
+  },
+  {
+    "id": "daham_362",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The thirty-eight blessings (mangala karunu) from the Maha Mangala Sutta are taught in middle Dhamma school grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "maha-mangala-sutta",
+      "blessings",
+      "sutta-pitaka"
+    ],
+    "question": "මංගල කරුණු නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මත්පැනින් වෙන්වීම, සන්සුන් ඉඳුරන් ඇති බව, නොපමාව කුසල් කිරීම, ගරු කිරීම, නිහතමානී බව, සතුට, කළගුණ දැනීම, සුදුසු කළ බණ ඇසීම, ඉවසීම, සුවච බව, භික්‍ෂුන් දැකීම, ධර්ම සාකච්ඡා කිරීම, තපස් රැකීම, බඹසර රැකීම, ආර්යය සත්‍යයන් දැකීම, නිවන් අවබෝධ කර ගැනීම, අටලෝ දහමින් කම්පා නොවීම, රාග නැති බව, නිර්භය සිත"
+      },
+      {
+        "id": "b",
+        "text": "සතුන් මැරීම, සොරකම් කිරීම, වැරදි කාම සේවනය, බොරු කීම, කේලාම් කීම, පරුෂ වචන කීම, හිස් වචන කීම, දැඩි ලෝභය, තරහව, මිථ්‍යා දෘෂ්ටිය"
+      },
+      {
+        "id": "c",
+        "text": "අවේලාවේ වීථි සංචාරය, නැටුම් ගැයුම් බැලීමට ඇබ්බැහි වීම, දූ කෙළියෙහි යෙදීම, පාප මිත්‍ර සේවනය, අලසකම, ණය ගැනීම"
+      },
+      {
+        "id": "d",
+        "text": "ඡන්දයෙන් අගතියට යාම, ද්වේෂයෙන් අගතියට යාම, භයෙන් අගතියට යාම, මෝහයෙන් අගතියට යාම, මානය, උද්ධච්චය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහා මංගල සූත්‍රයේදී දෙව් මිනිසුන්ගේ මෙලොව හා පරලොව යහපත පිණිස හේතු වන උතුම් මංගල කරුණු තිස්අටක් බුදුරජාණන් වහන්සේ විසින් දේශනා කරන ලදී.",
+    "source_suggestion": "Snp 2.4"
+  },
+  {
+    "id": "daham_372",
+    "category": "dharmaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The principle 'Pannavantassa ayam dhammo, nayam dhammo duppannassa' (this Dhamma is for the wise) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "panna",
+      "dhamma-qualities"
+    ],
+    "question": "බුදුන්ගේ ධර්මය කා සඳහාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධනවතුන් සඳහා"
+      },
+      {
+        "id": "b",
+        "text": "ප්‍රඥාවන්තයින් සඳහා"
+      },
+      {
+        "id": "c",
+        "text": "රජවරුන් සඳහා"
+      },
+      {
+        "id": "d",
+        "text": "බ්‍රාහ්මණයින් සඳහා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "'පඤ්ඤවන්තස්ස අයං ධම්මෝ - නායං ධම්මෝ දුප්පඤ්ඤස්ස' යන බුද්ධ දේශනාවට අනුව බුදුරජාණන් වහන්සේගේ ගම්භීර ශ්‍රී සද්ධර්මය වටහා ගත හැක්කේ නුවණැති ප්‍රඥාවන්තයින්ටය.",
+    "source_suggestion": "AN 8.30"
+  },
+  {
+    "id": "daham_381",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The seven types of wives from the Sattabhariya Sutta are taught in middle-to-upper Dhamma school grades and O/L Buddhism.",
+    "difficulty": "medium",
+    "tags": [
+      "sutta-pitaka",
+      "family-life",
+      "lay-ethics"
+    ],
+    "question": "බුදුදහමේ ඉගැන්වෙන සප්ත භාර්යාවෝ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මාතෘ, පිතෘ, භාතෘ, භගිනි, සඛී, ස්වාමි, දාසී"
+      },
+      {
+        "id": "b",
+        "text": "වධක, චෝර, ස්වාමි, මාතෘ, භගිනි, සඛී, දාසී"
+      },
+      {
+        "id": "c",
+        "text": "බ්‍රාහ්මණ, ක්ෂත්‍රිය, වෛශ්‍ය, ශුද්‍ර, මාතෘ, භගිනි, දාසී"
+      },
+      {
+        "id": "d",
+        "text": "වධක, චෝර, මිත්‍ර, මාතෘ, පුත්‍ර, සඛී, දාසී"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අංගුත්තර නිකායේ සත්තභරියා සූත්‍රයට අනුව භාර්යාවන් සත් දෙනා වන්නේ වධක, චෝර, ස්වාමි (ආර්ය), මාතෘ, භගිනි, සඛී සහ දාසී යන සත් දෙනාය. මින් මුල් තිදෙනා අයහපත් ගති ඇති අතර පසු සිව්දෙනා යහපත් ගුණ ඇති භාර්යාවෝ වෙති.",
+    "source_suggestion": "AN 7.63"
+  },
+  {
+    "id": "daham_383",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four rare things in the world (Dullabha Dhammas) are a standard doctrinal list taught in middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dhammapada",
+      "core-teachings"
+    ],
+    "question": "ලෝකයේ දුර්ලභ කරුණු 4 කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධනය ලැබීම, රූප සම්පත්තිය ලැබීම, උසස් කුලයක ඉපදීම, දීර්ඝායුෂ ලැබීම."
+      },
+      {
+        "id": "b",
+        "text": "රජකම ලැබීම, සිටු පදවිය ලැබීම, පිරිවර සම්පත් ලැබීම, කීර්තිය ලැබීම."
+      },
+      {
+        "id": "c",
+        "text": "මිනිසත් බව ලැබීම, බුද්ධෝත්පාද කාලයක් ලැබීම, ශ්‍රී සද්ධර්මය ලැබීම, දස අකුසල් වලින් වෙන්වීම."
+      },
+      {
+        "id": "d",
+        "text": "ලාභ ලැබීම, යසස ලැබීම, ප්‍රශංසා ලැබීම, කාම සැප ලැබීම."
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුදහමට අනුව මිනිසත් බව ලැබීම, බුදුවරයන් වහන්සේ නමකගේ පහළ වීම, ශ්‍රී සද්ධර්මය අසන්නට ලැබීම සහ දස අකුසලයෙන් වෙන්ව දැහැමිව ජීවත් වීම ලෝකයෙහි ඉතා දුර්ලභ කරුණු සතර වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_385",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Dahara Sutta teaching on the four things not to be despised for being young/small is taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "sutta-pitaka",
+      "dahara-sutta"
+    ],
+    "question": "කුඩා යයි සිතා වෙනස්කම් නොකළ යුතු සතර දෙනා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ගංගාව, බීජය, පහන් දැල්ල, වලාකුළ"
+      },
+      {
+        "id": "b",
+        "text": "ඇත් පැටවා, සිංහ පැටවා, අශ්ව පැටවා, ගව පැටවා"
+      },
+      {
+        "id": "c",
+        "text": "සිටු පුත්‍රයා, වෙළඳ පුත්‍රයා, ගොවි පුත්‍රයා, සේවක පුත්‍රයා"
+      },
+      {
+        "id": "d",
+        "text": "ගින්න, සර්පයා, කුඩා සාමනේර හිමි, රාජ කුමාරයා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සංයුක්ත නිකායේ දහර සූත්‍රයට අනුව ක්ෂත්‍රිය රාජ කුමාරයා, සර්පයා, ගින්න සහ සිල්වත් භික්ෂුව (සාමණේර හිමි) යන සතර දෙනා කුඩා යැයි සිතා අවමන් නොකළ යුතු බව බුදුරජාණන් වහන්සේ දේශනා කළ සේක.",
+    "source_suggestion": "SN 3.1"
+  },
+  {
+    "id": "daham_387",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six dangers of wandering the streets at unseemly hours from the Sigalovada Sutta are a standard O/L and middle-grade syllabus topic.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "lay-ethics",
+      "sutta-pitaka"
+    ],
+    "question": "අවේලාවේ ඇවිදීමේ දෝෂ හයක් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "තමාගේ ආරක්ෂාව නැති වීම, දරුවන්ට ආරක්ෂාව නැති වීම, ධනයට ආරක්ෂාව නොලැබීම, සැක කළ යුත්තෙකු වීම, අභූත චෝදනා ලැබීම, බොහෝ කරදරවලට මුහුණ දීමට සිදු වීම."
+      },
+      {
+        "id": "b",
+        "text": "වස්තු හානිය, කලහ ඇති වීම, රෝගවලට ගොදුරු වීම, අපකීර්තිය පැතිරීම, ලැජ්ජා නැතිව හැසිරීම, ප්‍රඥාව දුර්වල වීම."
+      },
+      {
+        "id": "c",
+        "text": "දිනුවොත් වෛර ඇති වීම, පැරදුනොත් දුක් වීම, ධනය විනාශ වීම, සභාවේදී වචනය නොපිළිගැනීම, මිතුරන්ගේ අවමන් ලැබීම, ආවාහ විවාහවලට නුසුදුසු වීම."
+      },
+      {
+        "id": "d",
+        "text": "අධික ශීතලයි කියා වැඩ නොකිරීම, අධික උෂ්ණයි කියා වැඩ නොකිරීම, සවස් විය කියා වැඩ නොකිරීම, උදෑසන වැඩි යැයි වැඩ නොකිරීම, බඩගිනි යැයි වැඩ නොකිරීම, බඩ පිරී ඇතැයි වැඩ නොකිරීම."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිඟාලෝවාද සූත්‍රයෙහි අකාල චරියාවෙහි හෙවත් අවේලාවේ වීථි සංචාරය කිරීමෙහි ආදීනව හයක් පෙන්වා දී ඇත. තමාට, අඹුදරුවන්ට හා ධනයට ආරක්ෂාව නැති වීම, සැකයට භාජනය වීම, අභූත චෝදනා ලැබීම හා බොහෝ දුක් කරදරවලට මුහුණ පෑමට සිදු වීම එම දෝෂ හයයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_390",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The classification of four types of persons moving between darkness and light (Tamonata Sutta) is taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "sutta-pitaka",
+      "puggala-bheda",
+      "kamma"
+    ],
+    "question": "සමාජයේ මිනිසුන් කොටස් හතරකට බෙදා දැක්විය හැකිය. එම කොටස් හතර නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "වැස්ස නැති ගෙරවුම් ඇති අය, ගෙරවුම් නැති වැස්ස ඇති අය, වැස්ස හා ගෙරවුම් නැති අය, වැස්ස හා ගෙරවුම් ඇති අය"
+      },
+      {
+        "id": "b",
+        "text": "අමු පෙනුම ඇති ඉදුණු අය, ඉදුණු පෙනුම ඇති අමු අය, අමු පෙනුම ඇති අමු අය, ඉදුණු පෙනුම ඇති ඉදුණු අය"
+      },
+      {
+        "id": "c",
+        "text": "උග්ඝටිතඤ්ඤූ පුද්ගලයන්, විපචිතඤ්ඤූ පුද්ගලයන්, නෙය්‍ය පුද්ගලයන්, පදපරම පුද්ගලයන්"
+      },
+      {
+        "id": "d",
+        "text": "ආලෝකයෙන් අඳුරට යන මිනිසුන්, අඳුරෙන් ආලෝකයට යන මිනිසුන්, ආලෝකයෙන් ආලෝකයට යන මිනිසුන්, අඳුරෙන් අඳුරට යන මිනිසුන්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "තමෝතමපරායන සූත්‍රයට අනුව උපන් තත්ත්වය සහ ක්‍රියාකලාපය අනුව ලෝකයේ පුද්ගලයන් සතර දෙනෙකු වන අතර ඔවුහු නම් අඳුරෙන් අඳුරට යන්නා, අඳුරෙන් ආලෝකයට යන්නා, ආලෝකයෙන් අඳුරට යන්නා සහ ආලෝකයෙන් ආලෝකයට යන්නාය.",
+    "source_suggestion": "AN 4.85"
+  },
+  {
+    "id": "daham_410",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Dhammapada verse 'Arogya parama labha... vissasa parama nati' is memorized and studied in upper primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dhammapada",
+      "sukha-vagga"
+    ],
+    "question": "බුදු දහමට අනුව පරම ඥාතියා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "විශ්වාසය (විශ්වාසා පරමා ඥාති)"
+      },
+      {
+        "id": "b",
+        "text": "නීරෝගීකම (ආරෝග්‍යා පරමා ලාභා)"
+      },
+      {
+        "id": "c",
+        "text": "සතුට (සන්තුට්ඨි පරමං ධනං)"
+      },
+      {
+        "id": "d",
+        "text": "නිවන (නිබ්බානං පරමං සුඛං)"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ධම්මපදයේ සුඛ වග්ගයෙහි සඳහන් 'විස්සාසා පරමා ඤාතී' යන බුදු වදනට අනුව පුද්ගලයෙකුට සිටින උතුම්ම ඥාතියා විශ්වාසවන්තයා වේ.",
+    "source_suggestion": "Dhp 204"
+  },
+  {
+    "id": "daham_411",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Health as the highest gain (Arogya parama labha) is a foundational Dhammapada teaching taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dhammapada",
+      "sukha-vagga"
+    ],
+    "question": "බුදු දහමට අනුව උතුම් ලාභය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සතුට (සන්තුට්ඨි පරමං ධනං)"
+      },
+      {
+        "id": "b",
+        "text": "විශ්වාසය (විශ්වාසා පරමා ඥාති)"
+      },
+      {
+        "id": "c",
+        "text": "නීරෝගීකම (ආරෝග්‍යා පරමා ලාභා)"
+      },
+      {
+        "id": "d",
+        "text": "නිවන (නිබ්බානං පරමං සුඛං)"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ධම්මපදයේ සුඛ වග්ගයෙහි දැක්වෙන 'ආරෝග්‍යා පරමා ලාභා' යන දේශනාවට අනුව බුදුදහමෙහි උතුම්ම ලාභය ලෙස හඳුන්වා ඇත්තේ නීරෝගීකමයි.",
+    "source_suggestion": "Dhp 204"
+  },
+  {
+    "id": "daham_412",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Contentment as the greatest wealth (Santutthi paramam dhanam) is a standard primary-grade Dhammapada teaching.",
+    "difficulty": "easy",
+    "tags": [
+      "dhammapada",
+      "sukha-vagga"
+    ],
+    "question": "බුදු දහමට අනුව පරම ධනය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නීරෝගීකම (ආරෝග්‍යා පරමා ලාභා)"
+      },
+      {
+        "id": "b",
+        "text": "විශ්වාසය (විශ්වාසා පරමා ඥාති)"
+      },
+      {
+        "id": "c",
+        "text": "නිවන (නිබ්බානං පරමං සුඛං)"
+      },
+      {
+        "id": "d",
+        "text": "සතුට (සන්තුට්ඨි පරමං ධනං)"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ධම්මපදයේ 'සන්තුට්ඨි පරමං ධනං' යන ගාථා පාඨයෙන් පැහැදිලි කරන පරිදි ලද දෙයින් සතුටු වීම හෙවත් සන්තුෂ්ටිය උතුම්ම ධනය වේ.",
+    "source_suggestion": "Dhp 204"
+  },
+  {
+    "id": "daham_413",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha's instruction in the Mahaparinibbana Sutta that the Dhamma and Vinaya would be the Teacher after his passing is taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "mahaparinibbana-sutta",
+      "dhamma-vinaya"
+    ],
+    "question": "බුදුන්ගෙන් පසුව සසුනෙහි ශාස්තෘවරයා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කාශ්‍යප මහරහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "ධර්මය හා විනය"
+      },
+      {
+        "id": "c",
+        "text": "ආනන්ද මහරහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "සැරියුත් මුගලන් අගසව් දෙනම"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහා පරිනිබ්බාන සූත්‍රයට අනුව තමන් වහන්සේගේ පිරිනිවන් පෑමෙන් පසු තමන් වහන්සේ විසින් දේශනා කරන ලද ධර්මය සහ පනවන ලද විනය ශාස්තෘවරයා ලෙස සලකන ලෙස බුදුරජාණන් වහන්සේ ආනන්ද හිමියන්ට වදාළ සේක.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_425",
+    "category": "dharmaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three miracles (Trividha Pratiharya) from the Kevaddha Sutta are taught in upper grades and O/L Buddhism.",
+    "difficulty": "medium",
+    "tags": [
+      "sutta-pitaka",
+      "kevaddha-sutta",
+      "miracles"
+    ],
+    "question": "ත්‍රිවිධ ප්‍රාතිහාර්ය නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෘද්ධි ප්‍රාතිහාර්ය, අනිදේශී ප්‍රාතිහාර්ය, අනුසාසන ප්‍රාතිහාර්ය"
+      },
+      {
+        "id": "b",
+        "text": "ත්‍රිවිධ රත්නය, ත්‍රිවිධ චෛත්‍ය, ත්‍රිවිධ පුණ්‍යක්‍රියා"
+      },
+      {
+        "id": "c",
+        "text": "ශීල සම්පත්තිය, සමාධි සම්පත්තිය, ප්‍රඥා සම්පත්තිය"
+      },
+      {
+        "id": "d",
+        "text": "පුබ්බේනිවාසානුස්සති ඥානය, චුතූපපාත ඥානය, ආසවක්ඛය ඥානය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "කේවට්ට සූත්‍රයට අනුව සෘද්ධි ප්‍රාතිහාර්යය, ආදේශනා ප්‍රාතිහාර්යය සහ අනුශාසනී ප්‍රාතිහාර්යය යනු ත්‍රිවිධ ප්‍රාතිහාර්යයන් වන අතර, මින් බුදුරජාණන් වහන්සේ වඩාත්ම අගය කළේ අනුශාසනී ප්‍රාතිහාර්යයයි.",
+    "source_suggestion": "DN 11"
+  },
+  {
+    "id": "daham_426",
+    "category": "dharmaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eleven benefits of Metta meditation from the Mettanisamsa Sutta are taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "metta",
+      "sutta-pitaka",
+      "meditation"
+    ],
+    "question": "මෛත්‍රී කිරීමෙන් ලැබෙන ආනිසංස නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආයුෂ වැඩීම, වර්ණය වැඩීම, සැපය ලැබීම, කාය බලය ලැබීම, ප්‍රඥාව වැඩීම."
+      },
+      {
+        "id": "b",
+        "text": "සුවසේ නින්ද, සුවසේ පිබිදීම, පවිටු සිහින නොදැකීම, මිනිසුන්ට ප්‍රිය වෙයි, දේවාරක්ෂාව ලැබේ, ගිනි වස සැර නොවදී, සිත සන්සුන් වෙයි, මුහුණ පිබිදෙයි, නුමුලාව කලුරිය කරයි, මරණින් මතු බඹලොව උපදී."
+      },
+      {
+        "id": "c",
+        "text": "සිහි නුවණින් යුතුව විසීම, ධනය වැඩි දියුණු වීම, කීර්ති රාවය පැතිරීම, පිරිස මැදට බිය නැතිව යා හැකි වීම, සුගතිගාමී වීම."
+      },
+      {
+        "id": "d",
+        "text": "කායික ලෙඩ රෝග දුරුවීම, ඉන්ද්‍රියයන් ප්‍රසන්න වීම, ආහාර හොඳින් දිරවීම, ගමන් බිමන්වලට පහසු වීම, සමාධිය දිගුකල් පැවතීම."
+      }
+    ],
+    "answer": "b",
+    "explanation": "මෙත්තානිසංස සූත්‍රයට අනුව මෛත්‍රී භාවනාව වැඩීමෙන් සුවසේ නින්ද යෑම, සුවසේ පිබිදීම, පවිටු සිහින නොදැකීම, මිනිසුන්ට හා අමනුෂ්‍යයන්ට ප්‍රිය වීම, දෙවියන්ගේ ආරක්ෂාව ලැබීම ඇතුළු ආනිසංස එකොළහක් හිමි වේ.",
+    "source_suggestion": "AN 11.15"
+  },
+  {
+    "id": "daham_448",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Eight Worldly Conditions (Atthaloka Dhamma) are a core doctrinal list taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "atthaloka-dhamma",
+      "core-teachings"
+    ],
+    "question": "අෂ්ඨ ලෝක ධර්මය හඳුන්වන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සම්මා දිට්ඨි, සම්මා සංකප්ප, සම්මා වාචා, සම්මා කම්මන්ත, සම්මා ආජීව, සම්මා වායාම, සම්මා සති, සම්මා සමාධි"
+      },
+      {
+        "id": "b",
+        "text": "ඡන්ද, දෝස, භය, මෝහ, ලෝභ, මාන, දිට්ඨි, උද්ධච්ච"
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රාණඝාත, අදත්තාදාන, කාමමිථ්‍යාචාර, මුසාවාද, පිසුනාවාච, ඵරුසාවාච, සම්ඵප්පලාප, මිථ්‍යාදෘෂ්ටි"
+      },
+      {
+        "id": "d",
+        "text": "ලාභ, අලාභ, යස, අයස, නින්දා, ප්‍රශංසා, සැප, දුක"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ලෝක සත්ත්වයාට ජීවිතයේදී මුහුණ දීමට සිදුවන ලාභ, අලාභ, යස, අයස, නින්දා, ප්‍රශංසා, සැප සහ දුක යන කරුණු අට 'අෂ්ට ලෝක ධර්මය' ලෙස හැඳින්වේ.",
+    "source_suggestion": "AN 8.6"
+  },
+  {
+    "id": "daham_450",
+    "category": "dharmaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Dhammapada verse 'Sabbadanam dhammadanam jinati' (the gift of Dhamma excels all gifts) is taught from early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dhammapada",
+      "dana",
+      "dhamma-dana"
+    ],
+    "question": "දානයන්ගෙන් උතුම් දානය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආමිස දානය."
+      },
+      {
+        "id": "b",
+        "text": "ධර්ම දානය."
+      },
+      {
+        "id": "c",
+        "text": "චීවර දානය."
+      },
+      {
+        "id": "d",
+        "text": "ආහාර දානය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "'සබ්බදානං ධම්මදානං ජිනාති' යන බුදු වදනට අනුව සියලු දානයන් අභිබවා සිටින උතුම්ම දානය ධර්ම දානය වේ.",
+    "source_suggestion": "Dhp 354"
+  },
+  {
+    "id": "daham_453",
+    "category": "dharmaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Understanding Nibbana as 'Avedayita Sukha' (bliss independent of feeling/sensation, taught in the Nibbana Sutta) is an advanced doctrinal concept.",
+    "difficulty": "hard",
+    "tags": [
+      "nibbana",
+      "sutta-pitaka",
+      "core-teachings"
+    ],
+    "question": "නිවනෙහි ඇති සැපය හඳුන්වන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවේදයිතික සැපය."
+      },
+      {
+        "id": "b",
+        "text": "වේදයිත සැපය."
+      },
+      {
+        "id": "c",
+        "text": "සාමිස සැපය."
+      },
+      {
+        "id": "d",
+        "text": "කාමසුඛල්ලිකානුයෝගී සැපය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "ලෞකික සැපයන් ඉන්ද්‍රිය මඟින් අරමුණු විඳීම හෙවත් වේදනාව මුල් කරගත් 'වේදයිත සැප' වන අතර, නිවන් සුවය එවැනි වේදනා විඳීමකින් තොර වූ ශාන්ත සුවයක් බැවින් 'අවේදයිත (අවේදයිතික) සැපය' ලෙස හැඳින්වේ.",
+    "source_suggestion": "AN 9.34"
+  },
+  {
+    "id": "daham_454",
+    "category": "dharmaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three mental unwholesome actions (Abhijjha, Vyapada, Miccha-ditthi) of the Dasa Akusala are taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dasa-akusala",
+      "kamma",
+      "core-teachings"
+    ],
+    "question": "සිතින් සිදුවන අකුසල් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රාණඝාතය කිරීම, නුදුන් දෙය ගැනීම, වැරදි කාම සේවනය."
+      },
+      {
+        "id": "b",
+        "text": "අන්සතු දේට ආශා කිරීම, මෛත්‍රී නොකිරීම, මිත්‍යා දෘෂ්ඨිය."
+      },
+      {
+        "id": "c",
+        "text": "බොරු කීම, කේලාම් කීම, නපුරු වචන කීම, හිස් වචන කීම."
+      },
+      {
+        "id": "d",
+        "text": "මත්ද්‍රව්‍ය භාවිතය, සූදුවෙහි යෙදීම, අවේලාවේ ඇවිදීම."
+      }
+    ],
+    "answer": "b",
+    "explanation": "දස අකුසල කර්ම අතරින් සිතින් සිදුවන අකුසල් තුන වන්නේ අභිධ්‍යාව (අන්සතු දේට දැඩි ලෙස ආශා කිරීම), ව්‍යාපාදය (මෛත්‍රී නොකිරීම හෙවත් තරහව) සහ මිථ්‍යා දෘෂ්ටිය (වැරදි දැකීම) යන තුනයි.",
+    "source_suggestion": "MN 41"
+  },
+  {
+    "id": "daham_455",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six directions (Sadisa) from the Sigalovada Sutta are taught in upper primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "sadisa",
+      "lay-ethics"
+    ],
+    "question": "සදිසා මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඊසාන දිසාව, ගිනිකොන දිසාව, නිරිත දිසාව, වයඹ දිසාව, උඩ දිසාව, යට දිසාව."
+      },
+      {
+        "id": "b",
+        "text": "පෙර දිසාව, දකුණු දිසාව, බටහිර දිසාව, උතුරු දිසාව, ඊසාන දිසාව, නිරිත දිසාව."
+      },
+      {
+        "id": "c",
+        "text": "පෙර දිසාව, දකුණු දිසාව, බටහිර දිසාව, උතුරු දිසාව, උඩ දිසාව, යට දිසාව."
+      },
+      {
+        "id": "d",
+        "text": "උතුරු දිසාව, දකුණු දිසාව, ගිනිකොන දිසාව, වයඹ දිසාව, මැද දිසාව, පෙර දිසාව."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිඟාලෝවාද සූත්‍රයෙහි සඳහන් සදිසා හෙවත් දිසා හය වන්නේ පෙර දිසාව (මව්පියෝ), දකුණු දිසාව (ගුරුවරු), පැසුළු/බටහිර දිසාව (අඹුදරුවෝ), උතුරු දිසාව (මිතුරෝ), යට දිසාව (සේවකයෝ) සහ උඩ දිසාව (පැවිදි උතුමෝ) යන හයයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_456",
+    "category": "dharmaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five Nikayas of the Sutta Pitaka are taught from Grade 5 upwards.",
+    "difficulty": "easy",
+    "tags": [
+      "sutta-pitaka",
+      "tipitaka"
+    ],
+    "question": "සූත්‍ර පිටකයේ පොත් පහ හඳුන්වන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පාරාජිකා පාළි, පාචිත්තිය පාළි, මහාවග්ග පාළි, චුල්ලවග්ග පාළි, පරිවාර පාළි."
+      },
+      {
+        "id": "b",
+        "text": "ධම්මසංගණී, විභංග, ධාතුකථා, පුග්ගලපඤ්ඤත්ති, කථාවත්ථු."
+      },
+      {
+        "id": "c",
+        "text": "ධම්මපදය, උදාන, ඉතිවුත්තක, සුත්තනිපාත, ජාතක පාළි."
+      },
+      {
+        "id": "d",
+        "text": "දීඝ නිකාය,මජ්ජිම නිකාය, අංගුත්තර නිකාය, සංයුක්ත නිකාය, ඛුද්ධක නිකාය."
+      }
+    ],
+    "answer": "d",
+    "explanation": "ත්‍රිපිටකයට අයත් සූත්‍ර පිටකය දීඝ නිකාය, මජ්ඣිම නිකාය, සංයුත්ත නිකාය, අංගුත්තර නිකාය සහ ඛුද්දක නිකාය යන නිකාය ග්‍රන්ථ පහකින් සමන්විත වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_458",
+    "category": "dharmaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The imposition of the Brahmadanda penalty on Bhikkhu Channa in the Mahaparinibbana Sutta is taught in middle grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "mahaparinibbana-sutta",
+      "brahmadanda",
+      "vinaya-pitaka"
+    ],
+    "question": "බුදුන් වහන්සේ බ්‍රහ්ම දණ්ඩණයනය පැන වූයේ කිනම් භික්ෂුවටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උපසේන භික්ෂුවට."
+      },
+      {
+        "id": "b",
+        "text": "ජන්න භික්ෂුවට."
+      },
+      {
+        "id": "c",
+        "text": "සුදින්න භික්ෂුවට."
+      },
+      {
+        "id": "d",
+        "text": "සෝණ භික්ෂුවට."
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහා පරිනිබ්බාන සූත්‍රයට අනුව තමන් වහන්සේ පිරිනිවන් පෑමෙන් පසුව ඡන්න (ජන්න) භික්ෂුවගේ මානය දුරු කරවීම සඳහා ඔහුට බ්‍රහ්මදණ්ඩනය පනවන ලෙස බුදුරජාණන් වහන්සේ ආනන්ද හිමියන්ට වදාළ සේක.",
+    "source_suggestion": "DN 16"
+  }
+]

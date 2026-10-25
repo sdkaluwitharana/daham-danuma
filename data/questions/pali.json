@@ -1,0 +1,79 @@
+[
+  {
+    "id": "daham_218",
+    "category": "pali",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Tun Sutta (Mangala, Ratana, Karaniya Metta) is learned by young Dhamma school students.",
+    "difficulty": "easy",
+    "tags": [
+      "sutta-pitaka",
+      "pirith",
+      "tun-suthraya"
+    ],
+    "question": "තුන් සූත්‍රය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධම්මචක්කප්පවත්තන සූත්‍රය, අනත්තලක්ඛණ සූත්‍රය, ආදිත්තපරියාය සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "සිඟාලෝවාද සූත්‍රය, පරාභව සූත්‍රය, වසල සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "මංගල සූත්‍රය, රතන සූත්‍රය, කරණීය මෙත්ත සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "මහා සතිපට්ඨාන සූත්‍රය, මහා පරිනිබ්බාන සූත්‍රය, බ්‍රහ්මජාල සූත්‍රය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මහා පිරිත් දේශනාවට අයත් ප්‍රධාන සූත්‍ර තුන වන මංගල සූත්‍රය, රතන සූත්‍රය සහ කරණීය මෙත්ත සූත්‍රය 'තුන් සූත්‍රය' නමින් හැඳින්වේ.",
+    "source_suggestion": "Kp"
+  },
+  {
+    "id": "daham_446",
+    "category": "pali",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The meaning of the quality 'Sugata' in the Navarahadi Buddha Guna is taught in upper primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "buddha-qualities",
+      "nava-arahadi-budu-guna",
+      "pali-terms"
+    ],
+    "question": "“සුගත” යන්නෙහි අර්ථය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සියලු ලෝකයන් මැනවින් දන්නා වූ."
+      },
+      {
+        "id": "b",
+        "text": "මනා සිසුරක් හිමි යහපත් ගමන් ඇති."
+      },
+      {
+        "id": "c",
+        "text": "දෙවි මිනිසුන්ට එකම ශාස්තෘ වූ."
+      },
+      {
+        "id": "d",
+        "text": "සියලු කෙලෙසුන් කෙරෙන් දුරු වූ."
+      }
+    ],
+    "answer": "b",
+    "explanation": "නව අරහාදී බුදු ගුණ අතර එන 'සුගත' යන ගුණයෙන් බුදුරජාණන් වහන්සේ මනා ගමන් ඇති බවත්, යහපත් වූ නිවන් මඟට වැඩි බවත්, මනා වූ ශරීර ශෝභාවකින් යුක්ත බවත් අදහස් කෙරේ.",
+    "source_suggestion": "UNKNOWN"
+  }
+]

@@ -1,0 +1,57 @@
+name: "අලුත් ප්‍රශ්නයක් · Suggest a new question"
+description: Propose a question to add to the bank.
+title: "[New question] "
+labels: ["new-question", "needs-review"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: මාතෘකාව · Category
+      options:
+        - බුද්ධ චරිතය (buddha-charitaya)
+        - ධර්මය (dharmaya)
+        - බෞද්ධ ඉතිහාසය (bauddha-ithihasaya)
+        - ශ්‍රාවක චරිත (sravaka-charitha)
+        - සීලය (sila)
+        - පින්කම් (pinkam)
+        - ජාතක කතා (jataka)
+        - පාලි (pali)
+    validations:
+      required: true
+  - type: input
+    id: level
+    attributes:
+      label: ශ්‍රේණිය · Grade / level
+      placeholder: "grade-6, ol, dharmacharya ..."
+  - type: textarea
+    id: question
+    attributes:
+      label: ප්‍රශ්නය · Question
+    validations:
+      required: true
+  - type: textarea
+    id: options
+    attributes:
+      label: පිළිතුරු හතර · Four options (mark the correct one with ✓)
+      value: |
+        a)
+        b)
+        c)
+        d)
+    validations:
+      required: true
+  - type: textarea
+    id: explanation
+    attributes:
+      label: පැහැදිලි කිරීම · Explanation
+  - type: input
+    id: source
+    attributes:
+      label: මූලාශ්‍රය · Source
+  - type: checkboxes
+    id: own_words
+    attributes:
+      label: Confirmation
+      options:
+        - label: මෙය මගේම වචනවලින් ලියා ඇත · I wrote this in my own words (not copied from a book or past paper)
+          required: true

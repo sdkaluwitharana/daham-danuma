@@ -1,0 +1,37 @@
+name: "වැරැද්දක් වාර්තා කරන්න · Report a mistake"
+description: A wrong answer, a typo, an unclear question or a factual error.
+title: "[Mistake] daham_"
+labels: ["mistake", "needs-review"]
+body:
+  - type: input
+    id: question_id
+    attributes:
+      label: ප්‍රශ්න අංකය · Question id
+      placeholder: daham_042
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: වැරැද්දේ ස්වභාවය · Type of problem
+      options:
+        - නිවැරදි පිළිතුර වැරදියි · Wrong answer key
+        - කරුණු දෝෂයක් · Factual error
+        - අක්ෂර වින්‍යාස දෝෂයක් · Spelling / typo
+        - ප්‍රශ්නය පැහැදිලි නැත · Question is unclear
+        - පිළිතුරු දෙකක් නිවැරදියි · More than one correct option
+        - ප්‍රශ්නය දෙවරක් ඇත · Duplicate question
+        - වෙනත් · Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: විස්තරය · What is wrong, and what should it be?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: මූලාශ්‍රය · Source (sutta, book, page) if you have one
+      placeholder: "MN 26, or Grade 6 Dhamma school textbook p. 34"

@@ -1,0 +1,119 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/sdkaluwitharana/daham-danuma/schema/question.schema.json",
+  "title": "Daham Danuma MCQ question",
+  "description": "One multiple-choice question in the Daham Danuma (දහම් දැනුම) Sinhala Buddhist question bank.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "category",
+    "levels",
+    "level_confidence",
+    "level_reason",
+    "difficulty",
+    "tags",
+    "question",
+    "options",
+    "answer",
+    "explanation",
+    "source_suggestion"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^daham_[0-9]{3,}$",
+      "description": "Stable unique id. Never reuse or renumber an id once published."
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "buddha-charitaya",
+        "dharmaya",
+        "bauddha-ithihasaya",
+        "sravaka-charitha",
+        "sila",
+        "pinkam",
+        "jataka",
+        "pali"
+      ]
+    },
+    "levels": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "grade-1",
+          "grade-2",
+          "grade-3",
+          "grade-4",
+          "grade-5",
+          "grade-6",
+          "grade-7",
+          "grade-8",
+          "grade-9",
+          "grade-10",
+          "grade-11",
+          "ol",
+          "al",
+          "daham-awasana",
+          "dharmacharya"
+        ]
+      }
+    },
+    "level_confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low"]
+    },
+    "level_reason": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Short English note on why the question fits the given levels."
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"]
+    },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      }
+    },
+    "question": {
+      "type": "string",
+      "minLength": 5
+    },
+    "options": {
+      "type": "array",
+      "minItems": 4,
+      "maxItems": 4,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "text"],
+        "properties": {
+          "id": { "type": "string", "enum": ["a", "b", "c", "d"] },
+          "text": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "answer": {
+      "type": "string",
+      "enum": ["a", "b", "c", "d"]
+    },
+    "explanation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_suggestion": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Canonical reference, e.g. a sutta id (\"SN 56.11\", \"Snp 2.1\") or a textbook reference. Use \"UNKNOWN\" when no source is recorded yet."
+    }
+  }
+}

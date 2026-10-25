@@ -1,0 +1,2545 @@
+[
+  {
+    "id": "daham_042",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Names the Five Ascetics (Panchavaggiya Bhikkhus).",
+    "difficulty": "easy",
+    "tags": [
+      "panchavaggiya",
+      "first-sermon"
+    ],
+    "question": "පස්වග මහනුන් කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සැරියුත් , මුගලන් , මහා කාශ්‍යප , ආනන්ද , අනුරුද්ධ"
+      },
+      {
+        "id": "b",
+        "text": "කොණ්ඩඤ්ඤ , භද්දිය , වප්ප , මහානාම , අස්සජි"
+      },
+      {
+        "id": "c",
+        "text": "යස , විමල , සුබාහු , පුණ්ණජි , ගවම්පති"
+      },
+      {
+        "id": "d",
+        "text": "උරුවෙල කාශ්‍යප , නදී කාශ්‍යප , ගයා කාශ්‍යප , කිම්බිල , භගු"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් තවුසාණන්ට උපස්ථාන කළ පස්වග මහණුන් වන්නේ කොණ්ඩඤ්ඤ, භද්දිය, වප්ප, මහානාම සහ අස්සජි යන තවුසන් පස්දෙනාය.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_052",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Tapassu and Bhalluka as the first two lay disciples taking the twofold refuge.",
+    "difficulty": "easy",
+    "tags": [
+      "lay-disciples",
+      "sath-sathiya"
+    ],
+    "question": "බුදුන් සරණ ගිය පළමුවනු උපාසක වරුන් දෙදෙනා (ද්වේවාචික) කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "යස කුල පුත්‍රයා සහ ඔහුගේ පියා"
+      },
+      {
+        "id": "b",
+        "text": "අනේපිඬු සිටුතුමා සහ චිත්ත ගෘහපතිතුමා"
+      },
+      {
+        "id": "c",
+        "text": "බිම්බිසාර රජතුමා සහ පසේනදී කෝසල රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "තපස්සු සහ භල්ලුක වෙළඳ දෙබෑයන්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සත්වන සතියේ රාජායතන කිරිපලු නුග රුක මුලදී විලඳ හා මී පැණි පූජා කළ තපස්සු සහ භල්ලුක වෙළඳ දෙබෑයෝ බුදුන් හා දහම් සරණ ගිය ප්‍රථම ද්වේවාචික උපාසකවරු දෙදෙනා වූහ.",
+    "source_suggestion": " Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_061",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Kondanna Thera as the first disciple to attain Stream-Entry (Sotapanna).",
+    "difficulty": "easy",
+    "tags": [
+      "panchavaggiya",
+      "first-sermon"
+    ],
+    "question": "බුදු බණ අසා ප්‍රථමයෙන් සෝවාන් වූයේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කොණ්ඩඤ්ඤ තවුසා"
+      },
+      {
+        "id": "b",
+        "text": "භද්දිය තවුසා"
+      },
+      {
+        "id": "c",
+        "text": "වප්ප තවුසා"
+      },
+      {
+        "id": "d",
+        "text": "අස්සජි තවුසා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "දම්සක් පැවතුම් සූත්‍ර දේශනාව අවසානයේ පස්වග තවුසන් අතුරින් ප්‍රථමයෙන්ම දහම් ඇස පහළ කරගෙන සෝවාන් ඵලයට පත් වූයේ කොණ්ඩඤ්ඤ තවුසාණන්ය.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_062",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Anna Kondanna Maha Rahathan Wahanse as the eldest and first Arahant disciple.",
+    "difficulty": "easy",
+    "tags": [
+      "panchavaggiya",
+      "arahants"
+    ],
+    "question": "ප්‍රථමයෙන්ම රහත් වූයේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "යස තවුසා"
+      },
+      {
+        "id": "b",
+        "text": "කොණ්ඩඤ්ඤ තවුසා"
+      },
+      {
+        "id": "c",
+        "text": "උරුවෙල කාශ්‍යප තවුසා"
+      },
+      {
+        "id": "d",
+        "text": "සැරියුත් පිරිවැජියා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "පස්වග මහණුන් අතරින් ප්‍රථමයෙන්ම සෝවාන් වී අනත්තලක්ඛණ සූත්‍ර දේශනාව අසා ප්‍රථමයෙන්ම රහත් භාවයට පත් වූයේ අඤ්ඤා කොණ්ඩඤ්ඤ මහරහතන් වහන්සේය.",
+    "source_suggestion": "SN 22.59"
+  },
+  {
+    "id": "daham_064",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Yasa's father, mother, and former wife as the first lay disciples taking the Threefold Refuge (Tevachika).",
+    "difficulty": "easy",
+    "tags": [
+      "lay-disciples",
+      "triple-gem"
+    ],
+    "question": "ප්‍රථමයෙන් තෙරුවන් සරණ ගිය (තේවාචික) උපාසක උපාසිකාවන් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුද්ධෝදන රජතුමා, මහා ප්‍රජාපතී ගෝතමී දේවිය සහ යසෝදරා දේවිය"
+      },
+      {
+        "id": "b",
+        "text": "අනේපිඬු සිටුතුමා, පුඤ්ඤලක්ඛණා දේවිය සහ සුජාතා දේවිය"
+      },
+      {
+        "id": "c",
+        "text": "මිගාර සිටුතුමා, විශාඛා සිටු දේවිය සහ සුමනා දේවිය"
+      },
+      {
+        "id": "d",
+        "text": "යසකුල පුත්‍රයා ගේ පියා මව සහ බිරිඳ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "යස කුල පුත්‍රයාගේ පියා ප්‍රථම තේවාචික උපාසකයා වූ අතර ඔහුගේ මව සහ පැරණි බිරිඳ ප්‍රථම තේවාචික උපාසිකාවෝ වූහ.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_067",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Lists the five wishes of King Bimbisara fulfilled upon meeting the Buddha.",
+    "difficulty": "medium",
+    "tags": [
+      "bimbisara",
+      "royal-patrons"
+    ],
+    "question": "බිම්බිසාර රජතුමාගේ ප්‍රාර්ථනා පහ කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සක්විති රජු වීම, දිව්‍ය ලෝකයේ ඉපදීම, සියලු රාජ්‍යයන් ජය ගැනීම, දීර්ඝායුෂ ලැබීම, මහා ධනවතෙකු වීම"
+      },
+      {
+        "id": "b",
+        "text": "රජගහ නුවර විශාල කිරීම, වේළුවනාරාමය කරවීම, ජීවක වෛද්‍යවරයා පත් කිරීම, අජාසත් කුමරු රජ කරවීම, සංඝයාට දන් දීම"
+      },
+      {
+        "id": "c",
+        "text": "තමා මහා රජු වීම, බුදුන්වහන්සේ තම රටට වැඩමවා ගැනීම, බුදුන්වහන්සේගේ ඇසුර ලැබීම, බුදුන්ගෙන් බණ ඇසීම, සත්‍ය අවබෝධය"
+      },
+      {
+        "id": "d",
+        "text": "පැවිදි බව ලැබීම, ධ්‍යාන උපදවා ගැනීම, සෘද්ධි බල ලැබීම, අග්‍ර උපස්ථායක වීම, රහත් බව ලැබීම"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බිම්බිසාර රජතුමා කුමාර කාලයේ සිට ප්‍රාර්ථනා කළ කරුණු පහ නම් මගධයේ රජ වීම, බුදුරජාණන් වහන්සේ තම රාජ්‍යයට වැඩමවීම, උන්වහන්සේ ඇසුරු කිරීම, දහම් ඇසීම සහ ධර්මය අවබෝධ කර ගැනීමයි.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_073",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Names the three Kassapa Jatila brothers of Uruvela, Nadi, and Gaya.",
+    "difficulty": "easy",
+    "tags": [
+      "jatila-brothers",
+      "sravaka-charitha"
+    ],
+    "question": "තුන් බෑ ජටිලයන් යනු කවරහුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උරුවෙල කාශ්‍යප, නදී කාශ්‍යප ගයා කාශ්‍යප"
+      },
+      {
+        "id": "b",
+        "text": "මහා කාශ්‍යප, කුමාර කාශ්‍යප, පූරණ කාශ්‍යප"
+      },
+      {
+        "id": "c",
+        "text": "කොණ්ඩඤ්ඤ, භද්දිය, වප්ප"
+      },
+      {
+        "id": "d",
+        "text": "ආනන්ද, නන්ද, අනුරුද්ධ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "උරුවෙල් දනව්වේ වාසය කළ තුන්බෑ ජටිලයන් වූයේ උරුවෙල කාශ්‍යප, නදී කාශ්‍යප සහ ගයා කාශ්‍යප යන සහෝදර තවුසන් තිදෙනාය.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_074",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Gives the exact numbers of disciples under the three Kassapa brothers (500, 300, and 200 = 1,000).",
+    "difficulty": "easy",
+    "tags": [
+      "jatila-brothers",
+      "sravaka-charitha"
+    ],
+    "question": "ඔවුන් ගේ ආගමික පිරිසක කෙතෙක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පිළිවෙලින් 300, 200 සහ 100 ක් වශයෙන් හයසියයකි"
+      },
+      {
+        "id": "b",
+        "text": "පිළිවෙලින් 500, 300 සහ 200 ක් වශයෙන් දහසකි"
+      },
+      {
+        "id": "c",
+        "text": "පිළිවෙලින් 250, 150 සහ 100 ක් වශයෙන් පන්සියයකි"
+      },
+      {
+        "id": "d",
+        "text": "පිළිවෙලින් 1000, 500 සහ 500 ක් වශයෙන් දෙදහසකි"
+      }
+    ],
+    "answer": "b",
+    "explanation": "උරුවෙල කාශ්‍යපට 500 ක්ද, නදී කාශ්‍යපට 300 ක්ද, ගයා කාශ්‍යපට 200 ක්ද වශයෙන් ජටිල ශිෂ්‍ය පිරිස දහසක් වූහ.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_076",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Covers the eight conditions (boons) requested by Ven. Ananda Thera upon becoming the Chief Attendant.",
+    "difficulty": "medium",
+    "tags": [
+      "ananda-thera",
+      "sravaka-charitha"
+    ],
+    "question": "ආනන්ද හාමුදුරුවන්ගේ වර අට නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "1. ප්‍රධාන ආසනය ලැබීම, 2. ප්‍රථම පිණ්ඩපාතය ලැබීම, 3. අග්‍ර සිවුරු ලැබීම, 4. රජවරුන්ගේ ආරාධනා පිළිගැනීම, 5. ගඳකිළියේ වාසය කිරීම, 6. ධර්ම භාණ්ඩාගාරික තනතුර ලැබීම, 7. සංඝයා පාලනය කිරීම."
+      },
+      {
+        "id": "b",
+        "text": "1. විහාරස්ථාන ඉදි කිරීම, 2. භික්ෂුණී ශාසනය පිහිටුවීම, 3. ආනන්ද බෝධිය රෝපණය කිරීම, 4. පිරිත් දේශනා කිරීම, 5. ධර්ම සංගායනා පැවැත්වීම, 6. විනය පැනවීම, 7. ධාතු බෙදා දීම."
+      },
+      {
+        "id": "c",
+        "text": "1. දිනපතා තුන්වරක් දහම් ඇසීම, 2. බුදුන් සමඟම පිඬු සිඟා වැඩීම, 3. අග්‍ර ශ්‍රාවක තනතුර ලැබීම, 4. සෘද්ධි ප්‍රාතිහාර්ය පෑම, 5. දිව්‍ය ලෝකවලට වැඩම කිරීම, 6. ශාක්‍ය වංශිකයන්ට දහම් දෙසීම, 7. පිරිනිවන් මංචකය අසල සිටීම."
+      },
+      {
+        "id": "d",
+        "text": "1. බුදුන්ට ලැබෙන සිවුරු තමනට නොදිය යුතුය, 2. බුදුන්ට ලැබෙන ප්‍රනීත ආහාර තමනට නොදිය යුතුය, 3. බුදුන් වැඩ හිඳින ගඳ කිළියේතමන් නතර කර නොගත යුතුය, 4. බුදුන්ට ලැබෙන ආරාධනාවන්ට තමන් කැඳවා නොයා යුතුය, 5. බුදුන් හමුවීමට එන අය කැඳවාගෙන ඒමට ඉඩ තිබිය යුතුය, 6. තමනට සැකයක් ඇති වූ ඕනෑම විටකදී බුදුන් හමු වී කතා කිරීමට අවසර තිබිය යුතුය, 7. තමන් නැති අවස්ථාවන්හිදී බුදුන් දෙසූ සියලුම ධර්මය ඒ ලෙසින් ම නැවත තමාටද කියා දිය යුතුය."
+      }
+    ],
+    "answer": "d",
+    "explanation": "ආනන්ද මහ තෙරුන් වහන්සේ ලාභ ප්‍රයෝජන අපේක්ෂාවෙන් තොරව තමන් වහන්සේ අග්‍ර උපස්ථායක තනතුර දරන බව ලොවට පෙන්වීම සඳහා ප්‍රතික්ෂේප වර සතරක් සහ අනුග්‍රහ වර සතරක් ඉල්ලා සිටියහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_079",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact identifying Anathapindika (Sudatta) as the donor of Jetavanaramaya (Devram Vehera).",
+    "difficulty": "easy",
+    "tags": [
+      "lay-disciples",
+      "monasteries"
+    ],
+    "question": "බුදුන් වහන්සේට දෙව්රම්වෙහෙර පූජා කලේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බිම්බිසාර මහ රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "මිගාර මහ සිටුතුමා"
+      },
+      {
+        "id": "c",
+        "text": "අනේපිඬු සිටුතුමා"
+      },
+      {
+        "id": "d",
+        "text": "ධම්මික මහ උපාසකතුමා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සැවැත් නුවර ජේත කුමරුගේ උයන රන් කහවණු අතුරා මිලට ගෙන බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට දෙව්රම් වෙහෙර පූජා කළේ අනේපිඬු මහ සිටුතුමාය.",
+    "source_suggestion": "Vinaya Cullavagga"
+  },
+  {
+    "id": "daham_087",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Subhadda the wanderer who became the last personal disciple ordained by the Buddha.",
+    "difficulty": "easy",
+    "tags": [
+      "parinibbana",
+      "sravaka-charitha"
+    ],
+    "question": "බුදුන්ගේ අවසන් ශ්‍රාවකයා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කොණ්ඩඤ්ඤ භික්ෂුව"
+      },
+      {
+        "id": "b",
+        "text": "භද්දිය භික්ෂුව"
+      },
+      {
+        "id": "c",
+        "text": "සුභද්ද භික්ෂුව"
+      },
+      {
+        "id": "d",
+        "text": "රාධ භික්ෂුව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "කුසිනාරා නුවර උපවත්තන සල් උයනේදී පිරිනිවන් මංචකයේ වැඩ සිටි බුදුරජාණන් වහන්සේගෙන් දහම් අසා පැවිදි වී රහත් වූ අවසන් ශ්‍රාවකයා වූයේ සුභද්ද භික්ෂුවයි.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_144",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Visakha offering Purvaramaya is a core primary-grade lesson on chief lay disciples.",
+    "difficulty": "easy",
+    "tags": [
+      "visakha",
+      "sacred-places",
+      "upasika"
+    ],
+    "question": "විශාකා සිටු දුව පිදූ ආරාමය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පූර්වාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "ජේතවනාරාමය"
+      },
+      {
+        "id": "c",
+        "text": "ඝෝෂිතාරාමය"
+      },
+      {
+        "id": "d",
+        "text": "වේළුවනාරාමය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහා උපාසිකා විශාඛා සිටු දියණිය විසින් සැවැත් නුවර ඉදිකරවා බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට පූජා කරන ලද ආරාමය පූර්වාරාමය (මිගාරමාතු ප්‍රාසාදය) නම් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_145",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Punnavaddhana as the husband of Visakha (son of Migara Situ) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "visakha",
+      "upasika"
+    ],
+    "question": "විශාකා සිටු දුවගේ සැමියා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුදත්ත සිටු කුමාරයා"
+      },
+      {
+        "id": "b",
+        "text": "ධනංජය සිටු කුමාරයා"
+      },
+      {
+        "id": "c",
+        "text": "පුණීවර්ධන සිටු කුමාරයා"
+      },
+      {
+        "id": "d",
+        "text": "යස සිටු කුමාරයා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "විශාඛා මහා උපාසිකාවගේ ස්වාමිපුරුෂයා වූයේ සැවැත් නුවර මිගාර සිටුතුමාගේ පුත් පුණ්‍යවර්ධන (පුණීවර්ධන) සිටු කුමාරයාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_151",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that Ven. Sariputta and Ven. Moggallana were the two Chief Disciples (Aggasavaka) is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "aggasavaka",
+      "chief-disciples",
+      "sariputta-thera",
+      "moggallana-thera"
+    ],
+    "question": "බුදුන්ගේ අගසව් තනතුරු දැරුවේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සැරියුත් සහ මුගලන් මහ රහතුන්"
+      },
+      {
+        "id": "b",
+        "text": "මහා කාශ්‍යප සහ ආනන්ද මහ රහතුන්"
+      },
+      {
+        "id": "c",
+        "text": "අනුරුද්ධ සහ උපාලි මහ රහතුන්"
+      },
+      {
+        "id": "d",
+        "text": "කොණ්ඩඤ්ඤ සහ රාහුල මහ රහතුන්"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගෞතම බුදුරජාණන් වහන්සේගේ ශාසනයෙහි අග්‍ර ශ්‍රාවක (අගසව්) තනතුරු දරන ලද්දේ සැරියුත් මහරහතන් වහන්සේ සහ මුගලන් මහරහතන් වහන්සේ විසිනි.",
+    "source_suggestion": "AN 1.188"
+  },
+  {
+    "id": "daham_152",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Sariputta's titles as foremost in wisdom and Dhamma Senapati (General of the Dhamma) are taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "aggasavaka",
+      "sariputta-thera",
+      "etadagga"
+    ],
+    "question": "නුවණැත්තන්ගේ අග්‍ර හා ධර්ම සේනාපති නමින් තැන තුරු ලැබුවේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මුගලන් තෙරණුවන්"
+      },
+      {
+        "id": "b",
+        "text": "මහා කාශ්‍යප තෙරණුවන්"
+      },
+      {
+        "id": "c",
+        "text": "ආනන්ද තෙරණුවන්"
+      },
+      {
+        "id": "d",
+        "text": "සැරියුත් තෙරණුවන්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදු සසුනෙහි මහා ප්‍රාඥයන් අතර අග්‍රස්ථානය මෙන්ම 'ධර්ම සේනාපති' යන ගෞරව නාමයද හිමි වූයේ දකුණත් සව් සැරියුත් මහරහතන් වහන්සේටය.",
+    "source_suggestion": "AN 1.189"
+  },
+  {
+    "id": "daham_153",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Nalaka village as the place of Parinibbana of Ven. Sariputta is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "sariputta-thera",
+      "aggasavaka",
+      "sacred-places"
+    ],
+    "question": "සැරියුත් හිමියන් පිරිනිවන් පෑවේ කොහේදිද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාලසිලා නම් වනයේදි"
+      },
+      {
+        "id": "b",
+        "text": "නාලක නම් ගමේදි"
+      },
+      {
+        "id": "c",
+        "text": "උපවත්තන නම් සල් උයනේදි"
+      },
+      {
+        "id": "d",
+        "text": "බේලුව නම් ගමේදි"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සැරියුත් මහරහතන් වහන්සේ තම මෑණියන් වූ රූපසාරී බැමිණිය සෝවාන් ඵලයෙහි පිහිටුවා උපන් ගම වූ නාලක ගමේ තමන් වහන්සේ උපන් කුටිය තුළදීම පිරිනිවන් පා වදාළ සේක.",
+    "source_suggestion": "SN 47.13"
+  },
+  {
+    "id": "daham_154",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Maha Moggallana being foremost in psychic powers (iddhimantanam) is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "aggasavaka",
+      "moggallana-thera",
+      "etadagga"
+    ],
+    "question": "සෘධිමතුන්ගෙන් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සැරියුත් තෙරුණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "අනුරුද්ධ තෙරුණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "මහ මුගලන් තෙරුණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "උපාලි තෙරුණුවෝ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ගෞතම බුදු සසුනෙහි සෘද්ධිමත් භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය (එතදග්‍ර තනතුර) ලැබූයේ වමත් සව් මහා මුගලන් මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.190"
+  },
+  {
+    "id": "daham_155",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Kalasila in Rajagaha as the place where Ven. Maha Moggallana attained Parinibbana is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "moggallana-thera",
+      "aggasavaka",
+      "sacred-places"
+    ],
+    "question": "මුගලන් හිමි පිරිනිවන් පෑවේ කොහේදීද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාලසිලා වනයේ දී"
+      },
+      {
+        "id": "b",
+        "text": "නාලක ගම්මානයේ දී"
+      },
+      {
+        "id": "c",
+        "text": "පාරිලෙය්‍ය වනයේ දී"
+      },
+      {
+        "id": "d",
+        "text": "මහාවන කූටාගාරශාලාවේ දී"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහා මුගලන් මහරහතන් වහන්සේ රජගහ නුවර ඉසිගිලි පර්වත පාමුල පිහිටි කාලසිලා නම් ස්ථානයේදී පිරිනිවන් පා වදාළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_156",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ahimsaka as the childhood name of Ven. Angulimala is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "angulimala-thera",
+      "sravaka-charitha"
+    ],
+    "question": "අංගුලිමාල හිමියන්ගේ කුඩා අවධියේ නම කුමක්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උපතිස්ස"
+      },
+      {
+        "id": "b",
+        "text": "කෝලිත"
+      },
+      {
+        "id": "c",
+        "text": "පිප්ඵලී"
+      },
+      {
+        "id": "d",
+        "text": "අහිංසක"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අංගුලිමාල මහරහතන් වහන්සේ උපන් දිනයෙහි කිසිවෙකුටත් හිංසාවක් සිදු නොවූ බැවින් ගිහි කල කුඩා අවධියේදී උන්වහන්සේට 'අහිංසක' යන නම තබන ලදී.",
+    "source_suggestion": "MN 86"
+  },
+  {
+    "id": "daham_157",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Bhaggava Brahmin and Mantani Brahmini as the parents of Ven. Angulimala are taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "angulimala-thera",
+      "sravaka-charitha"
+    ],
+    "question": "අංගුලිමාල හිමිගේ දෙමාපියන් කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වංගන්ත බමුණා සහ රූපසාරී බැමිණිය"
+      },
+      {
+        "id": "b",
+        "text": "භාර්ගව බමුණා සහ මන්තානි බැමිණිය"
+      },
+      {
+        "id": "c",
+        "text": "මොග්ගල්ලී බමුණා සහ ධනංජානි බැමිණිය"
+      },
+      {
+        "id": "d",
+        "text": "කපිල බමුණා සහ සුමනා බැමිණිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අංගුලිමාල මහරහතන් වහන්සේගේ ගිහි කල දෙමාපියන් වූයේ කොසොල් රජුගේ පුරෝහිත වූ භාර්ගව (භග්ගව) බමුණා සහ මන්තානි බැමිණියයි.",
+    "source_suggestion": "MN 86"
+  },
+  {
+    "id": "daham_158",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The story of how Ahimsaka came to be called Angulimala due to his teacher's demand for a thousand fingers is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "angulimala-thera",
+      "sravaka-charitha"
+    ],
+    "question": "අහිංසක අංගුලිමාල වූයේ ඇයි ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තම ගුරු දේවයාගේ ඉල්ලීම ඉටු කිරීමට මිනිසුන් මරා ඇඟිලි මාලයක් කර ලූ නිසාය."
+      },
+      {
+        "id": "b",
+        "text": "කොසොල් මහ රජතුමාගේ රාජකීය සේනාවට බැඳී සතුරු සේනා පරාජය කළ නිසාය."
+      },
+      {
+        "id": "c",
+        "text": "තක්සලා නුවර දිසාපාමොක් ආචාර්යවරයා වෙතින් ශිල්ප දහසක් මැනවින් ප්‍රගුණ කළ නිසාය."
+      },
+      {
+        "id": "d",
+        "text": "ජාලිනී වනයෙහි වෙසෙන දරුණු වන සතුන්ගෙන් මගී ජනතාව ආරක්ෂා කළ නිසාය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සෙසු ශිෂ්‍යයන්ගේ කේලාම් බස් ඇසූ දිසාපාමොක් ආචාර්යවරයා ගුරු පඬුරු ලෙස මිනිස් දකුණතැඟිලි දහසක් ඉල්ලූ බැවින්, එම ඉල්ලීම ඉටු කිරීමට ඇඟිලි මාලයක් කර ලූ නිසා අහිංසක කුමරු 'අංගුලිමාල' නම් විය.",
+    "source_suggestion": "MN 86"
+  },
+  {
+    "id": "daham_159",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Ratthapala being foremost among those who ordained out of faith (saddhapabbajitanam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "සැදැහැයෙන් මහණ වූවන්ගේ අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාහුල තෙරණුවන්"
+      },
+      {
+        "id": "b",
+        "text": "නන්ද තෙරණුවන්"
+      },
+      {
+        "id": "c",
+        "text": "රට්ඨපාල තෙරණුවන්"
+      },
+      {
+        "id": "d",
+        "text": "සීවලී තෙරණුවන්"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ධර්මය අසා ඇති වූ බලවත් ශ්‍රද්ධාවෙන්ම සියලු සැප සම්පත් අත්හැර පැවිදි වූ භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ රට්ඨපාල මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.199"
+  },
+  {
+    "id": "daham_160",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Maha Kassapa being foremost in ascetic practices (dhutavadana) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "maha-kassapa-thera",
+      "sravaka-charitha"
+    ],
+    "question": "ධූතාංගධාරීන්ගෙන් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උපාලි තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "මහා කාශ්‍යප තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "ආනන්ද තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "අනුරුද්ධ තෙරණුවෝ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "කෙලෙස් තවන වීර්යයෙන් යුතුව දැඩි ප්‍රතිපත්ති රකින ධූතාංගධාරී භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ මහා කාශ්‍යප මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.191"
+  },
+  {
+    "id": "daham_161",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Ananda as the Treasurer of the Dhamma (Dhamma Bhandagarika) is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "ananda-thera",
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "ධර්ම භාණ්ඩාගාරික වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සැරියුත් තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "මුගලන් තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "රාහුල තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "ආනන්ද තෙරණුවෝ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ දේශනා කළ සියලු ධර්මස්කන්ධය මතකයෙහි දරාගෙන ආරක්ෂා කළ බැවින් ආනන්ද මහරහතන් වහන්සේ 'ධර්ම භාණ්ඩාගාරික' යන ගෞරව නාමයෙන් හඳුන්වනු ලැබූහ.",
+    "source_suggestion": "AN 1.220"
+  },
+  {
+    "id": "daham_162",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Punna Mantaniputta being foremost among Dhamma preachers (dhammakathikanam) is an upper-grade/Dharmacharya detail.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "ධර්ම කථිකයන්ගෙන් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පුණ්ණ මන්තානිපුත්ත තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "මහා කච්චායන තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "කොණ්ඩඤ්ඤ තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "භද්දිය තෙරණුවෝ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "භික්ෂූන් වහන්සේලා අතර ධර්ම කථිකයන්ගෙන් (මැනවින් දහම් දෙසන්නවුන්ගෙන්) අග්‍රස්ථානය ලැබූයේ පුණ්ණ මන්තානිපුත්ත මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.194"
+  },
+  {
+    "id": "daham_163",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Ananda as the Chief Personal Attendant (Agga Upasthayaka) of the Buddha is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "ananda-thera",
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "අග්‍ර උපස්ථායක වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සැරියුත් තෙරුණුවන්ය."
+      },
+      {
+        "id": "b",
+        "text": "මුගලන් තෙරුණුවන්ය."
+      },
+      {
+        "id": "c",
+        "text": "ආනන්ද තෙරුණුවන්ය."
+      },
+      {
+        "id": "d",
+        "text": "උපාලි තෙරුණුවන්ය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේට විසිපස් වසරක් මුළුල්ලේ ඉතා සෙනෙහසින් හා ගෞරවයෙන් උපස්ථාන කළ අග්‍ර උපස්ථායකයාණන් වහන්සේ ආනන්ද තෙරණුවන්ය.",
+    "source_suggestion": "AN 1.224"
+  },
+  {
+    "id": "daham_164",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Upali being foremost among experts in the Vinaya (vinayadharanam) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "upali-thera",
+      "etadagga",
+      "vinaya-pitaka",
+      "sravaka-charitha"
+    ],
+    "question": "විනයධරයන්ගෙන් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කාශ්‍යප තෙරුණුවෝය."
+      },
+      {
+        "id": "b",
+        "text": "උපාලි තෙරුණුවෝය."
+      },
+      {
+        "id": "c",
+        "text": "අනුරුද්ධ තෙරුණුවෝය."
+      },
+      {
+        "id": "d",
+        "text": "රාහුල තෙරුණුවෝය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "ගෞතම බුදු සසුනෙහි විනයධර භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ උපාලි මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.219"
+  },
+  {
+    "id": "daham_165",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Rahula being foremost among those eager for training/discipline (sikkhakamanam) is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "rahula-thera",
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "ශික්ෂාකාමීන්ගෙන් අග්‍ර වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාහුල තෙරණුවන්ය."
+      },
+      {
+        "id": "b",
+        "text": "නන්ද තෙරණුවන්ය."
+      },
+      {
+        "id": "c",
+        "text": "සීවලී තෙරණුවන්ය."
+      },
+      {
+        "id": "d",
+        "text": "කිම්බිල තෙරණුවන්ය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "වැලි අහුරක් පමණවූත් කුඩා වරදකට පවා බිය වෙමින් ශික්ෂාපද ආරක්ෂා කළ බැවින් ශික්ෂාකාමී භික්ෂූන් අතරින් අග්‍රස්ථානය රාහුල මහරහතන් වහන්සේට හිමි විය.",
+    "source_suggestion": "AN 1.198"
+  },
+  {
+    "id": "daham_166",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Anuruddha being foremost in the Divine Eye (dibbacakkukanam) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "anuruddha-thera",
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "දිවැස් ඇත්තන්ගෙන් අග්‍ර වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කාශ්‍යප තෙරණුවන්"
+      },
+      {
+        "id": "b",
+        "text": "කොණ්ඩඤ්ඤ තෙරණුවන්"
+      },
+      {
+        "id": "c",
+        "text": "කච්චායන තෙරණුවන්"
+      },
+      {
+        "id": "d",
+        "text": "අනුරුද්ධ තෙරණුවන්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදු සසුනෙහි දිවැස් ලාභී (දිබ්බචක්ඛු අභිඥාලාභී) භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ අනුරුද්ධ මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.192"
+  },
+  {
+    "id": "daham_167",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Kumara Kassapa being foremost among eloquent/versatile preachers (citthakathikanam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "විචිත්‍ර ධර්ම කථිකයින්ගෙන් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කොට්ඨිත තෙරුණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "මහා කප්පින තෙරුණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "කුමාර කස්සප තෙරුණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "රේවත තෙරුණුවෝ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "විසිතුරු උපමා හා නිදසුන් ගෙනහැර දක්වමින් දහම් දෙසන විචිත්‍ර ධර්ම කථිකයන් අතරින් අග්‍රස්ථානය ලැබූයේ කුමාර කස්සප මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.217"
+  },
+  {
+    "id": "daham_168",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Nanda being foremost in guarding the sense doors (indriyesu guttadvaranam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "ඉන්ද්‍රීය සංවරයෙන් අග්‍රවූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාහුල තෙරණුවන්"
+      },
+      {
+        "id": "b",
+        "text": "නන්ද තෙරණුවන්"
+      },
+      {
+        "id": "c",
+        "text": "රට්ඨපාල තෙරණුවන්"
+      },
+      {
+        "id": "d",
+        "text": "සෝණ තෙරණුවන්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ඇස, කන, නාසය ආදී ඉඳුරන් මැනවින් හික්මවා ගත් ඉන්ද්‍රිය සංවරයෙන් යුතු භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ නන්ද මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.214"
+  },
+  {
+    "id": "daham_169",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Anathapindika being chief lay donor/upasaka is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "anathapindika",
+      "etadagga",
+      "upasaka",
+      "sravaka-charitha"
+    ],
+    "question": "අග්‍ර උපාසක වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනාථ පිණ්ඩික සිටුවරයා."
+      },
+      {
+        "id": "b",
+        "text": "ධනංජය සිටුවරයා."
+      },
+      {
+        "id": "c",
+        "text": "මිගාර සිටුවරයා."
+      },
+      {
+        "id": "d",
+        "text": "මෙණ්ඩක සිටුවරයා."
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගෞතම බුදු සසුනෙහි දන් දෙන සැදැහැවත් උපාසකවරුන් අතරින් අග්‍රස්ථානය හිමි වූයේ අනාථපිණ්ඩික (අනේපිඬු) මහ සිටුතුමාටය.",
+    "source_suggestion": "AN 1.249"
+  },
+  {
+    "id": "daham_170",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ugga Gahapati of Vesali being foremost among givers of agreeable things (manapadayikanam) is an upper-grade/Dharmacharya detail.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "upasaka",
+      "sravaka-charitha"
+    ],
+    "question": "රිසි දේ දෙන්නවුන්ගෙන් අග්‍ර වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "චිත්ත ගෘහපතියා"
+      },
+      {
+        "id": "b",
+        "text": "හත්ථක ගෘහපතියා"
+      },
+      {
+        "id": "c",
+        "text": "සූර අම්බට්ඨ ගෘහපතියා"
+      },
+      {
+        "id": "d",
+        "text": "උග්ග ගෘහපතියා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිත් පිනවන ප්‍රණීත හා රිසි දේ දන් දෙන උපාසකවරුන් (මනාපදායකයන්) අතරින් අග්‍රස්ථානය ලැබූයේ විශාලා මහනුවර උග්ග ගෘහපතිතුමාය.",
+    "source_suggestion": "AN 1.252"
+  },
+  {
+    "id": "daham_171",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Maha Pajapati Gotami Theri being foremost in seniority (rattaññūnaṃ / cirarattaññū) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "gotami-theri",
+      "sravaka-charitha"
+    ],
+    "question": "චිරරාත්‍රඥවන්ගෙන් අග්‍රවූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඛේමා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "ප්‍රජාපතී ගෝතමී තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "උප්පලවණ්ණා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "පටාචාරා තෙරණිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "භික්ෂුණී ශාසනය ආරම්භ කරමින් පළමුවෙන්ම පැවිදි බව ලැබූ බැවින් චිරරාත්‍රඥ (වැඩිමහලු/පැරණි බවින් යුතු) භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය මහා ප්‍රජාපතී ගෝතමී මහරහත් තෙරණියට හිමි විය.",
+    "source_suggestion": "AN 1.235"
+  },
+  {
+    "id": "daham_172",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Khema Theri being foremost in wisdom among bhikkhunis is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "khema-theri",
+      "sravaka-charitha"
+    ],
+    "question": "නුවණැත්තන්ගෙන් අග්‍රවූයේ කිනම් තෙරණියද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උප්පලවණ්ණා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "ධම්මදින්නා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "ඛේමා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "කිසාගෝතමී තෙරණිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ගෞතම බුදු සසුනෙහි මහා ප්‍රාඥ භික්ෂුණීන් වහන්සේලා (නුවණැත්තියන්) අතරින් අග්‍රස්ථානය ලැබූයේ අග්‍රශ්‍රාවිකා ඛේමා මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.236"
+  },
+  {
+    "id": "daham_173",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Uppalavanna Theri being foremost in psychic powers among bhikkhunis is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "uppalavanna-theri",
+      "sravaka-charitha"
+    ],
+    "question": "සෘධිමතියන්ගෙන් අග්‍රවූ තෙරණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උප්පලවන්නා තෙරණිය."
+      },
+      {
+        "id": "b",
+        "text": "ඛේමා තෙරණිය."
+      },
+      {
+        "id": "c",
+        "text": "පටාචාරා තෙරණිය."
+      },
+      {
+        "id": "d",
+        "text": "සෝණා තෙරණිය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "භික්ෂුණී ශාසනයෙහි සෘද්ධිමත් භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ අග්‍රශ්‍රාවිකා උප්පලවණ්ණා මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.237"
+  },
+  {
+    "id": "daham_174",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Yasodhara (Bhaddakaccana) Theri being foremost in attaining great supernormal knowledges (mahabhiññappattanam) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "yasodhara-theri",
+      "sravaka-charitha"
+    ],
+    "question": "අභිඥලාභීන්ගේ අග්‍රවූ තෙරණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නන්දා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "සකුලා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "භද්‍රා කුණ්ඩලකේසා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "යසෝදරා තෙරණිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "මහා අභිඥාලාභී භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ යසෝදරා (භද්දකච්චානා) මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.239"
+  },
+  {
+    "id": "daham_175",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Patacara Theri being foremost among Vinaya experts in the Bhikkhuni order is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "patacara-theri",
+      "sravaka-charitha"
+    ],
+    "question": "විනයධාරිනියන්ගෙන් අග්‍රවූ තෙරණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධම්මදින්නා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "පටාචාරා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "කිසාගෝතමී තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "සිඟාලමාතා තෙරණිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "භික්ෂුණී ශාසනයෙහි විනයධාරිණී භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය හිමි වූයේ පටාචාරා මහරහත් තෙරණියටය.",
+    "source_suggestion": "AN 1.238"
+  },
+  {
+    "id": "daham_176",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Nanda Theri being foremost among meditators in jhana (jhayinam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "sravaka-charitha"
+    ],
+    "question": "ධ්‍යානලාභිනියන්ගෙන් අග්‍රවූ තෙරණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෝණා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "සකුලා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "නන්දා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "භද්‍රා කාපිලානී තෙරණිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ධ්‍යාන වඩන (ධ්‍යානලාභී) භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ නන්දා (සුන්දරී නන්දා) මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.241"
+  },
+  {
+    "id": "daham_177",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Dhammadinna Theri being foremost among Dhamma preachers in the Bhikkhuni order is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "sravaka-charitha"
+    ],
+    "question": "ධර්මකතිකාවන්ගෙන් අග්‍රවූයේ කිනම් තෙරණියද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධම්මදින්නා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "පටාචාරා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "කිසාගෝතමී තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "නන්දා තෙරණිය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගැඹුරු දහම් කරුණු මැනවින් විග්‍රහ කරමින් දහම් දෙසන ධර්මකථික භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ ධම්මදින්නා මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.240"
+  },
+  {
+    "id": "daham_178",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Kisagotami Theri being foremost among wearers of coarse robes (lukhacivara-dharanam) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "kisagotami-theri",
+      "sravaka-charitha"
+    ],
+    "question": "රළු සිවුරුධාරිනියන්ගෙන් අග්‍රවූ තෙරණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඛේමා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "උප්පලවණ්ණා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "යසෝදරා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "කිසාගෝතමී තෙරණිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අල්පේච්ඡ දිවි පෙවෙතක් ගත කරමින් රළු සිවුරු දරන භික්ෂුණීන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ කිසාගෝතමී මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.245"
+  },
+  {
+    "id": "daham_179",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Visakha as the Chief Female Lay Disciple (Agga Upasika) is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "visakha",
+      "etadagga",
+      "upasika",
+      "sravaka-charitha"
+    ],
+    "question": "අග්‍ර උපාසිකාව වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුජාතා සිටුදුව"
+      },
+      {
+        "id": "b",
+        "text": "විශාකා සිටුදුව"
+      },
+      {
+        "id": "c",
+        "text": "සාමාවතී බිසව"
+      },
+      {
+        "id": "d",
+        "text": "මල්ලිකා බිසව"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ගෞතම බුදු සසුනෙහි දන් දෙන සැදැහැවත් උපාසිකාවන් අතරින් අග්‍ර උපාසිකා තනතුර හිමි වූයේ මිගාරමාතා විශාඛා මහා උපාසිකාවටය.",
+    "source_suggestion": "AN 1.259"
+  },
+  {
+    "id": "daham_180",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Queen Suppavasa of Koliya being foremost among givers of choice/exquisite alms (panitadayikanam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "upasika",
+      "sravaka-charitha"
+    ],
+    "question": "ප්‍රණීත දේ දෙන දායිකාවන්ගෙන් අග්‍රවූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාමාවතී බිසව"
+      },
+      {
+        "id": "b",
+        "text": "චූල සුභද්‍රා දේවිය"
+      },
+      {
+        "id": "c",
+        "text": "සුප්පවාසා බිසව"
+      },
+      {
+        "id": "d",
+        "text": "ඛුජ්ජුත්තරා උපාසිකාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ප්‍රණීත දේ දන් දෙන දායිකාවන් අතරින් අග්‍රස්ථානය ලැබූයේ සීවලී මහරහතන් වහන්සේගේ මෑණියන් වූ කෝලිය වංශික සුප්පවාසා බිසවයි.",
+    "source_suggestion": "AN 1.262"
+  },
+  {
+    "id": "daham_181",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Lakuntaka Bhaddiya being foremost among monks with a sweet voice (manjussaranam) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "මිහිරි හඬ ඇත්තන්ගෙන් අගතැන් වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලකුණ්ටක භද්දිය තෙරුණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "කාළුදායි තෙරුණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "සීවලී තෙරුණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "බක්කුල තෙරුණුවෝ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මිහිරි කටහඬින් දහම් දෙසන (මඤ්ජුස්සර) භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ ලකුණ්ටක භද්දිය මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.197"
+  },
+  {
+    "id": "daham_182",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Sobhita being foremost in recollecting past lives (pubbenivasanussatinam) is an upper-grade/Dharmacharya detail.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "පෙර විසූ කඳ පිළිවෙල සිහිකරන්නන් අතරින් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාගත තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "රාධ තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "මෝඝරාජ තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "සෝභිත තෙරණුවෝ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "පෙර විසූ කඳ පිළිවෙළ (අතීත භවයන්) සිහි කරන පුබ්බේනිවාසානුස්සති ඥානලාභී භික්ෂූන් අතරින් අග්‍රස්ථානය ලැබූයේ සෝභිත මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.218"
+  },
+  {
+    "id": "daham_183",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Nandaka being foremost among instructors/admonishers of bhikkhunis (bhikkhunovadakanam) is an upper-grade/Dharmacharya detail.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "bhikkhuni-sasana",
+      "sravaka-charitha"
+    ],
+    "question": "මෙහෙණින් වහන්සේලාට අවවාද දෙන්නවුන් අතරින් අග්‍ර වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කප්පින තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "නන්දක තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "පුණ්ණ තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "චූලපන්ථක තෙරණුවෝ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මෙහෙණින් වහන්සේලාට අවවාද අනුශාසනා කරන (භික්ඛුනෝවාදක) භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ නන්දක මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.213"
+  },
+  {
+    "id": "daham_184",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Vakkali being foremost among those resolved in faith (saddhadhimuttanam) is taught in grades 7–9.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "අධික ශ්‍රද්ධාව ඇත්තවුන් අතරින් අගතැන් වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බාහිය දාරුචීරිය තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "සුභූති තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "වක්කලී තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "කුණ්ඩධාන තෙරණුවෝ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේ කෙරෙහි අධික ශ්‍රද්ධාවෙන් (සද්ධාධිමුත්ත) යුතු වූ භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ වක්කලී මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.216"
+  },
+  {
+    "id": "daham_185",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Upasena Vangantaputta being foremost among those who are inspiring in all respects (samantapasadikanam) is a Dharmacharya-level etadagga detail.",
+    "difficulty": "hard",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "සියල්ල පහදන්නවුන් අතරින් අග තැන්පත් වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වාගපුත්ත තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "සෝණ කෝළිවිස තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "සෝණ කුටිකණ්ණ තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "මහා කොට්ඨිත තෙරණුවෝ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "හාත්පසින්ම සියලු පිරිස පහදවන (සමන්තපාසාදික) භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ වංගන්තපුත්ත උපසේන (වාගපුත්ත) මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.210"
+  },
+  {
+    "id": "daham_186",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Dabba Mallaputta being foremost among assigners of lodgings (senasanapannapakanam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "සෙනසුන් පනවන්නවූවන් අතරින් අග තැන්පත් වූයේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "භද්දිය තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "වංගීස තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "රේවත තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "දබ්බමල්ල තෙරණුවෝ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "භික්ෂූන් වහන්සේලාට සෙනසුන් පනවන්නවුන් (සේනාසනපඤ්ඤාපක) අතරින් අග්‍රස්ථානය ලැබූයේ දබ්බමල්ලපුත්ත මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.211"
+  },
+  {
+    "id": "daham_187",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Pilindivaccha being foremost among monks dear and pleasing to deities (devatanam piyamanapanam) is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "දෙවියන්ට ප්‍රියවූවන් අතරින් අගතැන්පත් භික්ෂුව කවරෙක්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බක්කුල තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "පිලින්දිවච්ච තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "කාළුදායි තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "මෝඝරාජ තෙරණුවෝ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අතීත භව ගණනාවක් පුරා පවත්වාගෙන ආ කුසල ශක්තිය හේතුවෙන් දෙවියන්ට ප්‍රියමනාප වූ භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය පිලින්දිවච්ඡ මහරහතන් වහන්සේට හිමි විය.",
+    "source_suggestion": "AN 1.212"
+  },
+  {
+    "id": "daham_188",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Uruvela Kassapa being foremost among monks with a large following (mahaparivaranam) is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "uruvela-kassapa-thera",
+      "sravaka-charitha"
+    ],
+    "question": "මහපිරිස් ඇත්තවුන් අතරින් ප්‍රධාන තෙරුන් වහන්සේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නදී කාශ්‍යප තෙරුණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "ගයා කාශ්‍යප තෙරුණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "උරුවෙල් කාශ්‍යප තෙරුණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "මහා කාශ්‍යප තෙරුණුවෝ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "පිරිවර පන්සියයක් සමඟ පැවිදි වී මහ පිරිස් ඇති (මහාපරිවාර) භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ උරුවෙල් කාශ්‍යප මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.208"
+  },
+  {
+    "id": "daham_189",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Sariputta being foremost in great wisdom (mahapannanam) is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sariputta-thera",
+      "aggasavaka",
+      "etadagga",
+      "sravaka-charitha"
+    ],
+    "question": "මහා ප්‍රාඥ තෙරුන් අතරින් ප්‍රධාන වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාරිපුත්ත තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "මොග්ගල්ලාන තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "ආනන්ද තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "අනුරුද්ධ තෙරණුවෝ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගෞතම බුදු සසුනෙහි මහා ප්‍රාඥ භික්ෂූන් වහන්සේලා අතරින් අග්‍රස්ථානය ලැබූයේ දකුණත් සව් සාරිපුත්ත (සැරියුත්) මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.189"
+  },
+  {
+    "id": "daham_190",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-1",
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the two Chief Disciples (Ven. Sariputta and Ven. Moggallana) is one of the earliest facts taught in primary Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "aggasavaka",
+      "chief-disciples",
+      "sariputta-thera",
+      "moggallana-thera"
+    ],
+    "question": "බුදුන්ගේ අග්‍ර ශ්‍රාවකයන් වහන්සේලා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආනන්ද සහ රාහුල තෙරුන්"
+      },
+      {
+        "id": "b",
+        "text": "සැරියුත් සහ මුගලන් තෙරුන්"
+      },
+      {
+        "id": "c",
+        "text": "මහා කාශ්‍යප සහ උපාලි තෙරුන්"
+      },
+      {
+        "id": "d",
+        "text": "අනුරුද්ධ සහ කොණ්ඩඤ්ඤ තෙරුන්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේගේ දකුණත් සව් හා වමත් සව් ලෙස අග්‍ර ශ්‍රාවක තනතුරු දැරූයේ සැරියුත් මහරහතන් වහන්සේ සහ මුගලන් මහරහතන් වහන්සේය.",
+    "source_suggestion": "AN 1.188"
+  },
+  {
+    "id": "daham_191",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Foremost positions (etadagga) among bhikkhuni disciples are taught in middle Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "bhikkhuni",
+      "great-disciples"
+    ],
+    "question": "දිවැස් ඇත්තවුන් අතරින් අගතැන්පත් භික්ෂූණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඛේමා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "සකුලා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "උප්පලවණ්ණා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "පටාචාරා තෙරණිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ගෞතම බුදු සසුනෙහි දිවැස් (දිබ්බචක්ඛු) ඇති භික්ෂුණීන් වහන්සේලා අතරින් අගතැන්පත් තනතුර ලැබුවේ සකුලා මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.14"
+  },
+  {
+    "id": "daham_192",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Specific etadagga titles of eminent bhikkhunis are covered in grades 7 and 8.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "bhikkhuni",
+      "great-disciples"
+    ],
+    "question": "වහා අවබෝධ කරගන්නවුන් අතරින් අග්‍රවූ තෙරණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කිසාගෝතමී තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "ධම්මදින්නා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "භද්දා කුන්ඩලකේසී තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "සෝණා තෙරණිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "වහා ධර්මය අවබෝධ කරගන්නා (ඛිප්පාභිඤ්ඤා) භික්ෂුණීන් වහන්සේලා අතරින් අගතැන්පත් වූයේ භද්දා කුණ්ඩලකේසී මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.14"
+  },
+  {
+    "id": "daham_193",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the foremost bhikkhunis and their distinct spiritual attainments fits middle school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "bhikkhuni",
+      "great-disciples"
+    ],
+    "question": "පෙර ජාති සිහි කරන්නියන් අතරින් අගතැන්පත් භික්ෂුණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "භද්ද කාපිලානි තෙරණිය."
+      },
+      {
+        "id": "b",
+        "text": "නන්දා තෙරණිය."
+      },
+      {
+        "id": "c",
+        "text": "සෝණා තෙරණිය."
+      },
+      {
+        "id": "d",
+        "text": "ධම්මදින්නා තෙරණිය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "පෙර විසූ කඳ පිළිවෙළ (පෙර ජාති) සිහි කරන භික්ෂුණීන් වහන්සේලා අතරින් භද්දා කාපිලානී මහරහත් තෙරණිය අගතැන්පත් වූවාය.",
+    "source_suggestion": "AN 1.14"
+  },
+  {
+    "id": "daham_194",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifying Yasodhara Theri's foremost attainment (mahabhijna) is standard middle-grade material.",
+    "difficulty": "easy",
+    "tags": [
+      "etadagga",
+      "bhikkhuni",
+      "great-disciples"
+    ],
+    "question": "අභිඥ ඇත්තියන් අතරින් අගතැන්පත් භික්ෂුණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා ප්‍රජාපතී ගෝතමී තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "ඛේමා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "කිසාගෝතමී තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "යශෝධරා තෙරණිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "මහා අභිඥා ලාභී භික්ෂුණීන් වහන්සේලා අතරින් අගතැන්පත් තනතුර ලැබුවේ යශෝධරා (භද්දකච්චානා) මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.14"
+  },
+  {
+    "id": "daham_195",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing Sigalamata Theri as foremost in faith (saddhadhimutta) requires detailed knowledge of the Etadagga Vagga.",
+    "difficulty": "medium",
+    "tags": [
+      "etadagga",
+      "bhikkhuni",
+      "saddha"
+    ],
+    "question": "මහත් ශ්‍රද්ධා ඇත්තවුන් අතරින් අගතැන්පත් භික්ෂූණිය කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පටාචාරා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "සිඟාල මාතා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "උප්පලවණ්ණා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "නන්දා තෙරණිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ශ්‍රද්ධාවෙන් මිදුණු හෙවත් මහත් ශ්‍රද්ධා ඇති භික්ෂුණීන් වහන්සේලා අතරින් අගතැන්පත් වූයේ සිඟාල මාතා මහරහත් තෙරණියයි.",
+    "source_suggestion": "AN 1.14"
+  },
+  {
+    "id": "daham_373",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The story of Matthakundali born in Tavatimsa heaven through mental devotion to the Buddha is taught in primary-to-middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "matthakundali",
+      "saddha",
+      "dhammapada-stories"
+    ],
+    "question": "මට්ඨ කුණ්ඩලී දෙව්ලොව ඉපදුනේ කුමන පිනකින්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කඨින චීවර පූජාවක් සිදු කිරීමෙන්"
+      },
+      {
+        "id": "b",
+        "text": "විශාල ආරාමයක් කරවා සංඝයාට පූජා කිරීමෙන්"
+      },
+      {
+        "id": "c",
+        "text": "සත් දිනක් මුළුල්ලේ මහා දානයක් පිරිනැමීමෙන්"
+      },
+      {
+        "id": "d",
+        "text": "බුදුරදුන් දැක සිත පැහැදීමෙන්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අදින්නපුබ්බක බ්‍රාහ්මණයාගේ පුත් මට්ඨකුණ්ඩලී කුමරු මරණාසන්න මොහොතේ තම නිවස ඉදිරිපිටට වැඩම කළ බුදුරජාණන් වහන්සේ දැක බුදු ගුණ කෙරෙහි සිත පහදවා ගැනීමේ පිනෙන් තව්තිසා දෙව්ලොව උපත ලැබීය.",
+    "source_suggestion": "Dhp 2"
+  },
+  {
+    "id": "daham_378",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the longest-lived disciples in the Buddha's dispensation (Ven. Bakkula and Ven. Anuruddha) is middle-to-upper Dhamma school knowledge.",
+    "difficulty": "medium",
+    "tags": [
+      "bakkula-thero",
+      "anuruddha-thero",
+      "sravaka-charitha"
+    ],
+    "question": "බුද්ධ ශාසනයේ සිට වැඩිම වයස් ගත වූ භික්ෂූන් දෙනමක් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "බක්කුල හිමි (160) අනුරුද්ධ හිමි (150)"
+      },
+      {
+        "id": "b",
+        "text": "සැරියුත් හිමි (120) මුගලන් හිමි (120)"
+      },
+      {
+        "id": "c",
+        "text": "රාහුල හිමි (140) සීවලී හිමි (135)"
+      },
+      {
+        "id": "d",
+        "text": "නන්ද හිමි (130) උපාලි හිමි (125)"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ගෞතම බුද්ධ ශාසනයෙහි නීරෝගී භික්ෂූන් අතර අග්‍රස්ථානය ලැබූ බක්කුල මහරහතන් වහන්සේ වසර 160ක් ද, දිවැස් ලාභීන් අතර අග්‍ර වූ අනුරුද්ධ මහරහතන් වහන්සේ වසර 150ක් ද වැඩිම ආයු කාලයක් වැඩ සිටි මහරහතන් වහන්සේලා අතර ප්‍රමුඛ වෙති.",
+    "source_suggestion": "MN 124"
+  },
+  {
+    "id": "daham_380",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that Ven. Sariputta attained arahantship while listening to the Vedanapariggaha (Dighanakha) Sutta is taught in Grade 8-9 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "sariputta-thero",
+      "chief-disciples",
+      "aggasavaka",
+      "vedanapariggaha-sutta"
+    ],
+    "question": "සැරියුත් හිමියන් රහත් වූයේ කිනම් සූත්‍රය ඇසීමෙන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධම්මචක්කප්පවත්තන සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "වේදනා පරිග්‍රහ සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "අනත්තලක්ඛණ සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "ආදිත්තපරියාය සූත්‍රය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "රජගහ නුවර ගිජ්ඣකූට පර්වතයෙහි සූකරඛත ලෙනෙහිදී බුදුරජාණන් වහන්සේ විසින් දීඝනඛ පරිබ්‍රාජකයාට වේදනා පරිග්ගහ (දීඝනඛ) සූත්‍රය දේශනා කරන අවස්ථාවේ පසෙක සිට බුදුරදුන්ට පවන් සලමින් එම දහමට සවන් දුන් සැරියුත් මහතෙරුන් වහන්සේ උතුම් අරහත්වයට පත් වූ සේක.",
+    "source_suggestion": "MN 74"
+  },
+  {
+    "id": "daham_384",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The lay name of Maha Kassapa Thero is a well-known fact in great disciples' biographies taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "great-disciples",
+      "maha-kassapa"
+    ],
+    "question": "මහා කාශ්‍යප මහ රහතන් වහන්සේගේ ගිහි නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පිප්ඵලී"
+      },
+      {
+        "id": "b",
+        "text": "උපතිස්ස"
+      },
+      {
+        "id": "c",
+        "text": "කෝලිත"
+      },
+      {
+        "id": "d",
+        "text": "සුදත්ත"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ධූතාංගධාරී භික්ෂූන් වහන්සේලා අතර අගතැන්පත් මහා කාශ්‍යප මහරහතන් වහන්සේගේ ගිහි කල නාමය පිප්ඵලී මාණවකයා විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_401",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Purvarama as the monastery built and offered by Visakha Maha Upasika is taught in upper primary and early middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "visakha",
+      "monasteries",
+      "great-disciples"
+    ],
+    "question": "විශාඛා මහ උපාසිකාව කරවූ විහාරය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ජේතවනාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "පූර්වාරාමය"
+      },
+      {
+        "id": "c",
+        "text": "වේළුවනාරාමය"
+      },
+      {
+        "id": "d",
+        "text": "ඝෝෂිතාරාමය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සැවැත් නුවර විසූ විශාඛා මහ උපාසිකාව විසින් තම මහලිය පළඳනාව විකුණා ලද ධනයෙන් ඉදිකොට බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට පූජා කළ විහාරය පූර්වාරාමයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_414",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Upatissa and Kolita becoming disenchanted with household life after watching the Giragga Samajja festival is taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "chief-disciples",
+      "aggasavaka"
+    ],
+    "question": "උපතිස්ස සහ කෝලිත දෙදෙනා ගිහි සැප කෙරෙහි කළකිරුණේ ඇයි?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර වාර්ෂිකව පැවැත්වෙන ගිරග්ග සමජ්ජ සැණකෙළිය නරඹා"
+      },
+      {
+        "id": "b",
+        "text": "කිඹුල්වත් නුවර පැවති වප් මඟුල් උත්සවය නරඹා"
+      },
+      {
+        "id": "c",
+        "text": "සැවැත් නුවර පැවති නැකැත් කෙළි උත්සවය නරඹා"
+      },
+      {
+        "id": "d",
+        "text": "විශාලා මහනුවර ඇතිවූ තුන්බිය දැක"
+      }
+    ],
+    "answer": "a",
+    "explanation": "උපතිස්ස සහ කෝලිත යන මිතුරන් දෙදෙනා රජගහ නුවර වාර්ෂිකව පැවැත්වෙන ගිරග්ග සමජ්ජ නම් නාට්‍ය සැණකෙළිය නරඹමින් සිටියදී ජීවිතයේ නිසරු බව වැටහී ගිහි සැප කෙරෙහි කලකිරී විමුක්තිය සොයා ගිහිගෙයින් නික්මුණහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_416",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Sariputta Maha Thero's Parinibbana at his birthplace in the village of Nalaka is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "chief-disciples",
+      "sariputta",
+      "aggasavaka"
+    ],
+    "question": "සැරියුත් තෙරුන් වහන්සේ පිරිනිවන් පෑවේ කොහිදිද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර කාළසිලා නම් ස්ථානයේදී"
+      },
+      {
+        "id": "b",
+        "text": "කුසිනාරා නුවර මල්ල රජදරුවන්ගේ සල් උයනේදී"
+      },
+      {
+        "id": "c",
+        "text": "සැවැත් නුවර ජේතවනාරාම විහාරයේදී"
+      },
+      {
+        "id": "d",
+        "text": "ස්වකීය ජන්ම භූමිය වූ නාලක නම් ගමේදී"
+      }
+    ],
+    "answer": "d",
+    "explanation": "දකුණත් සව් සැරියුත් මහරහතන් වහන්සේ තම මෑණියන් වූ රූපසාරී බැමිණිය සෝවාන් ඵලයෙහි පිහිටුවා, තමන් වහන්සේ උපන් නාලක ගමේ සූතිඝර ගබඩාවේදී ඉල් පුර පසළොස්වක පොහෝ දින පිරිනිවන් පෑ සේක.",
+    "source_suggestion": "SN 47.13"
+  },
+  {
+    "id": "daham_417",
+    "category": "sravaka-charitha",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Maha Kassapa Thero's close physical resemblance to the Buddha is taught in middle-grade lessons on great disciples.",
+    "difficulty": "easy",
+    "tags": [
+      "great-disciples",
+      "maha-kassapa"
+    ],
+    "question": "බුද්ධ ශ්‍රාවක අතරින් ශරීර ලක්ෂණයෙන් බුදුන් වහන්සේට බෙහෙවින් සමාන වූයේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කාශ්‍යප තෙරණුවෝ"
+      },
+      {
+        "id": "b",
+        "text": "උපාලි තෙරණුවෝ"
+      },
+      {
+        "id": "c",
+        "text": "අනුරුද්ධ තෙරණුවෝ"
+      },
+      {
+        "id": "d",
+        "text": "සීවලී තෙරණුවෝ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහා පුරුෂ ලක්ෂණ රැසකින් යුක්ත වූ මහා කාශ්‍යප මහරහතන් වහන්සේ ශරීර ප්‍රමාණයෙන් හා දේහ ලක්ෂණයෙන් බුදුරජාණන් වහන්සේට බෙහෙවින් සමාන වූ සේක.",
+    "source_suggestion": "UNKNOWN"
+  }
+]

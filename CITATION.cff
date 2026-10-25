@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Daham Danuma: An open Sinhala Buddhist multiple-choice question bank"
+version: 0.1.0
+date-released: 2026-10-25
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/sdkaluwitharana/daham-danuma"
+url: "https://github.com/sdkaluwitharana/daham-danuma"
+authors:
+  - family-names: Kaluwitharana
+    given-names: Sachith Dilshan
+    website: "https://sdkaluwitharana.lk"
+keywords:
+  - Sinhala
+  - Buddhism
+  - Dhamma school
+  - multiple-choice questions
+  - question answering
+  - low-resource language
+  - Sri Lanka

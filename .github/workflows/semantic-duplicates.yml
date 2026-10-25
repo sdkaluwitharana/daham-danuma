@@ -1,0 +1,41 @@
+name: Semantic duplicates
+
+# Run on demand: Actions → Semantic duplicates → Run workflow.
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: Sentence-embedding model (must support Sinhala)
+        default: sentence-transformers/LaBSE
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  semantic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies (CPU-only PyTorch)
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements-ml.txt
+
+      - name: Find semantic duplicates
+        run: python scripts/find_duplicates.py --semantic --model "${{ inputs.model }}"
+
+      - name: Publish report
+        if: always()
+        run: cat reports/duplicates.md >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: semantic-duplicate-report
+          path: reports/

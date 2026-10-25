@@ -1,0 +1,11 @@
+{
+  "title": "Daham Danuma: An open Sinhala Buddhist multiple-choice question bank",
+  "upload_type": "dataset",
+  "description": "An openly licensed bank of Sinhala-language multiple-choice questions on Buddhism, shaped around the Sri Lankan Dhamma school syllabus. Each question has four options, the correct answer, a Sinhala explanation, category, grade levels, difficulty and tags.",
+  "creators": [
+    { "name": "Kaluwitharana, Sachith Dilshan" }
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "sin",
+  "keywords": ["Sinhala", "Buddhism", "Dhamma school", "multiple-choice questions", "question answering", "low-resource language", "Sri Lanka"]
+}

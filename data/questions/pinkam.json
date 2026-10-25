@@ -1,0 +1,650 @@
+[
+  {
+    "id": "daham_041",
+    "category": "pinkam",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Lists the eight monastic requisites (Atapirikara) familiar to Dhamma school students.",
+    "difficulty": "easy",
+    "tags": [
+      "atapirikara",
+      "monastic-requisites"
+    ],
+    "question": "අටපිරිකරට අයත් දේ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තනිපට සිවුර , දෙපට සිවුර , අඳනකඩය , පාත්‍රය , දැලි පිහිය , ඉඳිකටුව , පටිය , පෙරහන්කඩය"
+      },
+      {
+        "id": "b",
+        "text": "තනිපට සිවුර , දෙපට සිවුර , අඳනකඩය , පාත්‍රය , කුඩය , පාවහන් , වටාපත , සැරයටිය"
+      },
+      {
+        "id": "c",
+        "text": "තුන් සිවුර , පාත්‍රය , පැන් කෙණ්ඩිය , පෙරහන්කඩය , පැදුර , කොට්ටය , වටාපත , කුඩය"
+      },
+      {
+        "id": "d",
+        "text": "තනිපට සිවුර , දෙපට සිවුර , පාත්‍රය , පටිය , පාවහන් , අවාන , දැහැටි දඬු , පැන් කෙණ්ඩිය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "අටපිරිකරට තුන් සිවුර (තනිපට සිවුර, දෙපට සිවුර, අඳනකඩය), පාත්‍රය, දැලි පිහිය, ඉඳිකටුව හා නූල්, පටිය සහ පෙරහන්කඩය යන පිරිකර අට අයත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_223",
+    "category": "pinkam",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three types of sacred objects of veneration (saririka, paribhogika, uddesika) are taught in grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "trividha-chaitya",
+      "veneration"
+    ],
+    "question": "ත්‍රිවිධ බෝධි නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලෝභ, ද්වේෂ, මෝහ."
+      },
+      {
+        "id": "b",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා."
+      },
+      {
+        "id": "c",
+        "text": "හීනමානය, සෙය්‍යමානය, සදිසමානය."
+      },
+      {
+        "id": "d",
+        "text": "ශාරීරික, උද්දේසික, පාරිභෝගික."
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ උදෙසා වැඳුම් පිදුම් කරන ත්‍රිවිධ චෛත්‍ය (පූජනීය වස්තු) වන්නේ ශාරීරික, පාරිභෝගික සහ උද්දේසික යන තුනයි.",
+    "source_suggestion": "Ja 479"
+  },
+  {
+    "id": "daham_232",
+    "category": "pinkam",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Three Bases of Meritorious Action (dana, sila, bhavana) are taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "trividha-punyakriya",
+      "merit"
+    ],
+    "question": "ත්‍රිවිධ පුන්‍යක්‍රියා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන, ශීල, භාවනා"
+      },
+      {
+        "id": "b",
+        "text": "බුද්ධ, ධම්ම, සංඝ"
+      },
+      {
+        "id": "c",
+        "text": "අලෝභ, අදෝස, අමෝහ"
+      },
+      {
+        "id": "d",
+        "text": "කාම ලෝකය, රූප ලෝකය, අරූප ලෝකය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "පින් රැස් කර ගැනීමේ ප්‍රධාන ක්‍රම තුන වන දාන, ශීල සහ භාවනා 'ත්‍රිවිධ පුණ්‍යක්‍රියා' ලෙස හැඳින්වේ.",
+    "source_suggestion": "AN 8.36"
+  },
+  {
+    "id": "daham_234",
+    "category": "pinkam",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three types of giving (amisa, dhamma, abhaya dana) are taught in grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "dana",
+      "trividha-dana"
+    ],
+    "question": "ත්‍රිවිධ දාන නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශාරීරික චෛත්‍යය, පාරිභෝගික චෛත්‍යය, උද්දේසික චෛත්‍යය"
+      },
+      {
+        "id": "b",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "c",
+        "text": "ආමිස දානය, ධර්ම දානය, අභය දානය"
+      },
+      {
+        "id": "d",
+        "text": "සැප වේදනා, දුක් වේදනා, උපේක්ෂා වේදනා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදු දහමෙහි දැක්වෙන ත්‍රිවිධ දානය වන්නේ ආමිස දානය, ධර්ම දානය සහ අභය දානයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_267",
+    "category": "pinkam",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The two forms of offering (amisa puja and pratipatti puja) are taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "amisa-puja",
+      "pratipatti-puja",
+      "veneration"
+    ],
+    "question": "පූජා විධි දෙක නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සමථ භාවනා, විදර්ශනා භාවනා"
+      },
+      {
+        "id": "b",
+        "text": "ග්‍රන්ථධූරය, විදර්ශනාධූරය"
+      },
+      {
+        "id": "c",
+        "text": "පරමාර්ථ දේශනා, සම්මුති දේශනා"
+      },
+      {
+        "id": "d",
+        "text": "ආමිස පූජා, ප්‍රතිපත්ති පූජා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ උදෙසා සිදු කරන පූජා විධි දෙක වන්නේ ආමිස පූජාව සහ ප්‍රතිපත්ති පූජාවයි.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_275",
+    "category": "pinkam",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Cetiya (saririka, paribhogika, uddesika) is core grade 5-6 syllabus content.",
+    "difficulty": "easy",
+    "tags": [
+      "trividha-chaitya",
+      "veneration"
+    ],
+    "question": "ත්‍රිවිධ චෛත්‍යය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුදු, පසේබුදු, මහරහත්"
+      },
+      {
+        "id": "b",
+        "text": "ආමිස දානය, ධර්ම දානය, අභය දානය"
+      },
+      {
+        "id": "c",
+        "text": "හිඳි පිළිම, හිටි පිළිම, ඔත් පිළිම"
+      },
+      {
+        "id": "d",
+        "text": "ශාරීරික, පාරිභෝගික, උද්දේසික"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ වෙනුවෙන් වැඳුම් පිදුම් කරන ත්‍රිවිධ චෛත්‍යය වන්නේ ශාරීරික චෛත්‍යය, පාරිභෝගික චෛත්‍යය සහ උද්දේසික චෛත්‍යයයි.",
+    "source_suggestion": "Ja 479"
+  },
+  {
+    "id": "daham_276",
+    "category": "pinkam",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Threefold Dana (amisa, dhamma, abhaya dana) is taught in grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "dana",
+      "trividha-dana"
+    ],
+    "question": "ත්‍රිවිධ දානය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආමිස දානය, ධර්ම දානය, අභය දානය"
+      },
+      {
+        "id": "b",
+        "text": "ශාරීරික, පාරිභෝගික, උද්දේසික"
+      },
+      {
+        "id": "c",
+        "text": "පාරමී, උප පාරමී, පරමාර්ථ පාරමී"
+      },
+      {
+        "id": "d",
+        "text": "දාන, ශීල, භාවනා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදු දහමෙහි උගන්වන ත්‍රිවිධ දානය වන්නේ ආමිස දානය, ධර්ම දානය සහ අභය දානය යන දාන තුනයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_287",
+    "category": "pinkam",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four requisites of a bhikkhu (sivpasaya) are foundational knowledge in primary-to-middle Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "sivpasaya",
+      "sangha",
+      "dana"
+    ],
+    "question": "සිව් පසය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "චීවර, පින්ඩපාත, සේනාසන හා ගිලානප්‍රත්‍ය"
+      },
+      {
+        "id": "b",
+        "text": "තුන් සිවුර, පාත්‍රය, දැලිපිහිය හා හිණපටිය"
+      },
+      {
+        "id": "c",
+        "text": "ආහාර, පාන, වස්ත්‍ර හා ආභරණ"
+      },
+      {
+        "id": "d",
+        "text": "දාන, ප්‍රියවචන, අර්ථචර්යා හා සමානාත්මතා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "භික්ෂූන් වහන්සේ නමකගේ පැවිදි දිවිය පවත්වා ගෙන යාම සඳහා අවශ්‍ය වන මූලික පිරිකර සතර වන්නේ චීවර (සිවුරු), පිණ්ඩපාත (ආහාර), සේනාසන (වාසස්ථාන) සහ ගිලානප්‍රත්‍ය (බෙහෙත් හේත්) යන සිව්පසයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_309",
+    "category": "pinkam",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five benefits of giving food/dana (ayu, vanna, sukha, bala, panna) are taught in elementary Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "dana",
+      "anisamsa",
+      "generosity"
+    ],
+    "question": "දානයෙහි ඇති ආනිශංසන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රූප, ශබ්ද, ගන්ධ, රස, ස්පර්ශ"
+      },
+      {
+        "id": "b",
+        "text": "ආයු, වර්ණ, සැප, බල, ප්‍රඥා"
+      },
+      {
+        "id": "c",
+        "text": "ශ්‍රද්ධා, ශීල, ශ්‍රැත, ත්‍යාග, ප්‍රඥා"
+      },
+      {
+        "id": "d",
+        "text": "ලාභ, යස, ප්‍රශංසා, සැප, කීර්ති"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සැදැහැ සිතින් දන් දෙන පුද්ගලයාට ආයුෂ, වර්ණය, සැපය, බලය සහ ප්‍රඥාව යන ආනිශංස පහ ලැබෙන බව භෝජන සූත්‍ර ආදී දේශනාවල සඳහන් වේ.",
+    "source_suggestion": "AN 5.37"
+  },
+  {
+    "id": "daham_335",
+    "category": "pinkam",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The nine virtues of the Buddha (nava arahadi buduguna) are learned early in primary Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "buduguna",
+      "triple-gem",
+      "vandana"
+    ],
+    "question": "නව අරහාදී බුදු ගුණ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ස්වාක්ඛාතෝ, සන්දිට්ඨිකෝ, අකාලිකෝ, ඒහිපස්සිකෝ, ඕපනයිකෝ, පච්චත්තං වේදිතබ්බෝ විඤ්ඤූහී"
+      },
+      {
+        "id": "b",
+        "text": "අරහං, සම්මා සම්බුද්ධෝ, විජ්ජාචරණ සම්පන්නෝ, සුගතෝ, ලෝකවිදූ, අනුත්තරෝ, පුරිසධම්ම සාරථි, සත්ථා, දේව මනුස්සානං, බුද්ධෝ, භගවා"
+      },
+      {
+        "id": "c",
+        "text": "සුපටිපන්නෝ, උජුපටිපන්නෝ, ඤායපටිපන්නෝ, සාමීචිපටිපන්නෝ, ආහුනෙය්‍යෝ, පාහුනෙය්‍යෝ, දක්ඛිණෙය්‍යෝ, අඤ්ජලිකරණීයෝ, අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්ස"
+      },
+      {
+        "id": "d",
+        "text": "සෝවාන් මාර්ගය, සෝවාන් ඵලය, සකෘදාගාමී මාර්ගය, සකෘදාගාමී ඵලය, අනාගාමී මාර්ගය, අනාගාමී ඵලය, අරහත් මාර්ගය, අරහත් ඵලය, නිර්වාණය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "භාග්‍යවත් බුදුරජාණන් වහන්සේ සතු අරහං, සම්මා සම්බුද්ධෝ, විජ්ජාචරණ සම්පන්නෝ, සුගතෝ, ලෝකවිදූ, අනුත්තරෝ පුරිසදම්ම සාරථි, සත්ථා දේවමනුස්සානං, බුද්ධෝ සහ භගවා යන උතුම් ගුණ නවය නව අරහාදී බුදු ගුණ නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_336",
+    "category": "pinkam",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The nine virtues of the Noble Sangha (nava sangha guna) are taught in primary Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "sangha-guna",
+      "triple-gem",
+      "vandana"
+    ],
+    "question": "නව විධ සඟ ගුණ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අරහං, සම්මා සම්බුද්ධෝ, විජ්ජාචරණ සම්පන්නෝ, සුගතෝ, ලෝකවිදූ, අනුත්තරෝ පුරිසදම්ම සාරථි, සත්ථා දේවමනුස්සානං, බුද්ධෝ, භගවා"
+      },
+      {
+        "id": "b",
+        "text": "ස්වාක්ඛාතෝ, සන්දිට්ඨිකෝ, අකාලිකෝ, ඒහිපස්සිකෝ, ඕපනයිකෝ, පච්චත්තං වේදිතබ්බෝ විඤ්ඤූහී"
+      },
+      {
+        "id": "c",
+        "text": "සූත්‍ර, ගෙය්‍ය, වෙය්‍යාකරණ, ගාථා, උදාන, ඉතිවුත්තක, ජාතක, අබ්භූතධම්ම, වේදල්ල"
+      },
+      {
+        "id": "d",
+        "text": "සුපටිපන්නෝ, උජුපටිපන්නෝ, ඥාය පටිපන්නෝ, සාමීචි පටිපන්නෝ, ආහුනෙය්‍යෝ, පාහුනෙය්‍යෝ, දක්ඛිනෙය්‍යෝ, අඤ්ජලිකරණීයෝ, අනුත්තරං"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ආර්ය මහා සංඝරත්නය සතු සුපටිපන්නෝ, උජුපටිපන්නෝ, ඤායපටිපන්නෝ, සාමීචිපටිපන්නෝ, ආහුනෙය්‍යෝ, පාහුනෙය්‍යෝ, දක්ඛිණෙය්‍යෝ, අඤ්ජලිකරණීයෝ සහ අනුත්තරං පුඤ්ඤක්ඛෙත්තං ලෝකස්ස යන ගුණ නවය නවවිධ සඟ ගුණ නම් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_343",
+    "category": "pinkam",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten meritorious deeds (dasa punnakiriya) are taught in elementary and middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dasa-punnakiriya",
+      "kusala",
+      "merit"
+    ],
+    "question": "දස පුණ්‍ය ක්‍රියා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන පාරමිතාව, ශීල පාරමිතාව, නෙක්ඛම්ම පාරමිතාව, පඤ්ඤා පාරමිතාව, වීරිය පාරමිතාව, ඛන්ති පාරමිතාව, සච්ච පාරමිතාව, අධිට්ඨාන පාරමිතාව, මෙත්තා පාරමිතාව, උපේක්ඛා පාරමිතාව"
+      },
+      {
+        "id": "b",
+        "text": "දානය, ශීලය, භාවනාව, පින්දීම, පින් ගැනීම, වතාවත් කිරීම, පිදිය යුත්තන් පිදීම, ධර්ම දේශනා කිරීම, ධර්මය ශ්‍රවනය කිරීම, දෘෂ්ටිය ඍජු බව"
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රාණඝාතයෙන් වෙන්වීම, අදත්තාදානයෙන් වෙන්වීම, කාම මිථ්‍යාචාරයෙන් වෙන්වීම, මුසාවාදයෙන් වෙන්වීම, පිසුණාවාචයෙන් වෙන්වීම, පරුෂ වචනයෙන් වෙන්වීම, සම්ප්‍රප්ලාපයෙන් වෙන්වීම, අභිධ්‍යාවෙන් වෙන්වීම, ව්‍යාපාදයෙන් වෙන්වීම, මිථ්‍යා දෘෂ්ටියෙන් වෙන්වීම"
+      },
+      {
+        "id": "d",
+        "text": "බුද්ධානුස්සති, ධම්මානුස්සති, සංඝානුස්සති, සීලානුස්සති, චාගානුස්සති, දේවානුස්සති, මරණානුස්සති, කායගතාසති, ආනාපානසති, උපසමානුස්සති"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෞද්ධයෙකුට දෛනික ජීවිතයේදී පින් රැස් කර ගත හැකි දස පුණ්‍යක්‍රියා වන්නේ දාන, සීල, භාවනා, පත්තිදාන (පින් දීම), පත්තානුමෝදනා (පින් ගැනීම), වෙය්‍යාවච්ච (වතාවත් කිරීම), අපචායන (පිදිය යුත්තන් පිදීම), ධම්මදේසනා, ධම්මසවණ සහ දිට්ඨිජුකම්ම යන දසයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_370",
+    "category": "pinkam",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eight great meritorious deeds (ata maha kusal) are standard Grade 6-7 and O/L Dhamma knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "ata-maha-kusal",
+      "pinkam",
+      "dana"
+    ],
+    "question": "අට මහ කුසල් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කඨින සිවුරු පූජා කිරීම, අටපිරිකර පූජා කිරීම, ආවාස පූජා කිරීම, බුදුන් ප්‍රමුඛ සංඝයාට දන්දීම, දහම් පොත් ලිවීම, වැසිකිළි පූජාව, බුද්ධ ප්‍රතිමා නෙළීම, කෙත්වතු පූජා කිරීම."
+      },
+      {
+        "id": "b",
+        "text": "සම්මා දිට්ඨි, සම්මා සංකප්ප, සම්මා වාචා, සම්මා කම්මන්ත, සම්මා ආජීව, සම්මා වායාම, සම්මා සති, සම්මා සමාධි."
+      },
+      {
+        "id": "c",
+        "text": "ලාභ, අලාභ, යස, අයස, නින්දා, ප්‍රශංසා, සැප, දුක."
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රාණඝාතයෙන් වැළකීම, සොරකමින් වැළකීම, අබ්‍රහ්මචරියාවෙන් වැළකීම, බොරු කීමෙන් වැළකීම, මත්ද්‍රව්‍යවලින් වැළකීම, විකාල භෝජනයෙන් වැළකීම, නැටුම් ගැයුම්වලින් වැළකීම, උස් අසුන් මහ අසුන්වලින් වැළකීම."
+      }
+    ],
+    "answer": "a",
+    "explanation": "බෞද්ධ සම්ප්‍රදායෙහි මහත් ඵල මහානිසංස ලබා දෙන පින්කම් අටක් ලෙස කඨින පූජාව, අටපිරිකර පූජාව, ආවාස පූජාව, බුද්ධ ප්‍රමුඛ මහා සංඝරත්නයට දන් දීම, දහම් පොත් ලිවීම, කෙත්වතු පූජාව, බුදු පිළිම කරවීම සහ වැසිකිළි කැසිකිළි කරවා පූජා කිරීම යන අටමහ කුසල් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_388",
+    "category": "pinkam",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Traditional ways of paying homage to the Triple Gem are taught in middle Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "vandana",
+      "devotional-practice"
+    ],
+    "question": "බුදුරජාණන් වහන්සේට නමස්කාර කරන ක්‍රම සතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආමිස පූජාව, ප්‍රතිපත්ති පූජාව, ශබ්ද පූජාව, ආලෝක පූජාව"
+      },
+      {
+        "id": "b",
+        "text": "බුද්ධ පූජාව, ධම්ම පූජාව, සංඝ පූජාව, චෛත්‍ය පූජාව"
+      },
+      {
+        "id": "c",
+        "text": "අංජලි නමස්කාරය, පංචාංග ප්‍රතිෂ්ඨාපිත නමස්කාර, උක්කුටික නමස්කාර, දණ්ඩ නමස්කාරය"
+      },
+      {
+        "id": "d",
+        "text": "කාය වන්දනාව, වචී වන්දනාව, මනෝ වන්දනාව, ධම්ම වන්දනාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේට ගෞරවයෙන් වන්දනා කරන ක්‍රම අතර අංජලි නමස්කාරය, පසඟ පිහිටුවා වඳින පංචාංග ප්‍රතිෂ්ඨාපිත නමස්කාරය, උක්කුටික නමස්කාරය සහ දණ්ඩ නමස්කාරය යන සතර ප්‍රධාන වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_389",
+    "category": "pinkam",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three conditions that make an offering of alms complete and greatly fruitful are taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dana",
+      "meritorious-deeds"
+    ],
+    "question": "දානයකට සම්පූර්ණ විය යුතු කරුණු 3 කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දැහැමින් උපයා ගත් දෙයක් වීම, එය ලබා ගැනීමට සුදුස්සෙකු වීම, පිරිසිදු සිතින් දීම"
+      },
+      {
+        "id": "b",
+        "text": "වටිනා වස්තුවක් වීම, විශාල පිරිසක් ඉදිරියේ දීම, ප්‍රසිද්ධිය බලාපොරොත්තුවෙන් දීම"
+      },
+      {
+        "id": "c",
+        "text": "පෙරවරු කාලයේ දීම, ආරාමයකදී පූජා කිරීම, පිරිකර සහිතව පූජා කිරීම"
+      },
+      {
+        "id": "d",
+        "text": "ඥාතීන් සමඟ එක්ව දීම, රසවත් ආහාර පමණක් දීම, උත්සවශ්‍රීයෙන් පූජා කිරීම"
+      }
+    ],
+    "answer": "a",
+    "explanation": "දානයක් මහත්ඵල මහානිසංස වීමට නම් දෙනු ලබන දාන වස්තුව දැහැමින් උපයාගත් දෙයක් වීම, ප්‍රතිග්‍රාහකයා ගුණවත් සුදුස්සෙකු වීම සහ දායකයා තුන් සිත පහදවාගෙන පිරිසිදු සිතින් පූජා කිරීම යන කරුණු තුන සම්පූර්ණ විය යුතුය.",
+    "source_suggestion": "AN 6.37"
+  },
+  {
+    "id": "daham_430",
+    "category": "pinkam",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The significance of Poson Poya as the day Buddhism was established in Sri Lanka is taught in the earliest grades.",
+    "difficulty": "easy",
+    "tags": [
+      "poya-days",
+      "poson-poya",
+      "sri-lanka-history"
+    ],
+    "question": "ලංකාවාසීන්ට පොසොන් පොහොය දිනය වැදගත් වන්නේ ඇයි?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලක්දිවට ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඩම කරවූ දිනය නිසා"
+      },
+      {
+        "id": "b",
+        "text": "ලක්දිව බුදුසසුන පිහිට වූ දිනය නිසා"
+      },
+      {
+        "id": "c",
+        "text": "බුදුරජාණන් වහන්සේ ප්‍රථම වරට ලක්දිවට වැඩම කළ දිනය නිසා"
+      },
+      {
+        "id": "d",
+        "text": "ලක්දිව ප්‍රථම ධර්ම සංගායනාව පැවැත්වූ දිනය නිසා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ ප්‍රමුඛ ධර්මදූත පිරිස ලක්දිවට වැඩම කොට දේවානම්පියතිස්ස රජතුමා ඇතුළු ලක්වැසියන් තෙරුවන් සරණෙහි පිහිටුවා ලක්දිව බුදුසසුන පිහිටුවීම සිදු වූයේ පොසොන් පුන් පොහෝ දිනක බැවින් එය ලක්වැසියන්ට සුවිශේෂී වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_438",
+    "category": "pinkam",
+    "levels": [
+      "grade-1",
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The thrice-blessed significance of Vesak Poya (Birth, Enlightenment, Parinibbana) is the very first Poya lesson taught in Grade 1.",
+    "difficulty": "easy",
+    "tags": [
+      "poya-days",
+      "vesak-poya",
+      "buddha-life"
+    ],
+    "question": "වෙසක් පෝය වැදගත් වීමට හේතු කීපයක් ලියන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මිහිඳු මහරහතන් වහන්සේ ලක්දිවට වැඩම කිරීම සිදු වූ දිනය නිසා"
+      },
+      {
+        "id": "b",
+        "text": "සිදුහත් කුමරුගේ ඉපදීම, බුදුවීම, පිරිනිවන් පෑම සිදු වූ දිනය නිසා"
+      },
+      {
+        "id": "c",
+        "text": "බුදුරජාණන් වහන්සේ මංගල ධර්ම දේශනය පැවැත්වූ දිනය නිසා"
+      },
+      {
+        "id": "d",
+        "text": "සංඝමිත්තා තෙරණිය ශ්‍රී මහා බෝධිය වැඩම කරවූ දිනය නිසා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේගේ උපත, ලොව්තුරා බුද්ධත්වයට පත්වීම සහ බුදුරජාණන් වහන්සේගේ මහා පරිනිර්වාණය යන තෙමඟුල සිදු වූයේ වෙසක් පුර පසළොස්වක පොහොය දිනයේදීය.",
+    "source_suggestion": "UNKNOWN"
+  }
+]

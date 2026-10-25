@@ -1,0 +1,17 @@
+{
+  "_help": "Human review of pairs flagged by scripts/find_duplicates.py. decision: duplicate (one copy will be removed) | not-duplicate (different questions, stop flagging) | needs-rewrite (keep both, but rewrite so each stands alone).",
+  "decisions": [
+    {
+      "pair": ["daham_198", "daham_215"],
+      "decision": "needs-rewrite",
+      "note": "Both read 'එය පැවැත්වූයේ...' but refer to different Councils (සංගායනා). Name the Council in each question so it works in shuffle mode.",
+      "reviewed_on": "2026-10-25"
+    },
+    {
+      "pair": ["daham_202", "daham_205"],
+      "decision": "needs-rewrite",
+      "note": "Same wording, different Councils. Name the Council in each question.",
+      "reviewed_on": "2026-10-25"
+    }
+  ]
+}

@@ -1,0 +1,4376 @@
+[
+  {
+    "id": "daham_001",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Foundational event of the Bodhisattva receiving the first definite prediction (niyata vivarana).",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "niyata-vivarana"
+    ],
+    "question": "බෝසතුන් නියත විවරණ ලැබුවේ කුමන බුදුරජාණන් වහන්සේගෙන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාශ්‍යප බුදුරජාණන් වහන්සේගෙන්"
+      },
+      {
+        "id": "b",
+        "text": "දීපංකර බුදුරජාණන් වහන්සේගෙන්"
+      },
+      {
+        "id": "c",
+        "text": "කෝණාගමන බුදුරජාණන් වහන්සේගෙන්"
+      },
+      {
+        "id": "d",
+        "text": "කකුසඳ බුදුරජාණන් වහන්සේගෙන්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අප මහා බෝසතාණන් වහන්සේ සුමේධ තාපස අවධියේදී ප්‍රථම වරට නියත විවරණ ලබා ගත්තේ දීපංකර බුදුරජාණන් වහන්සේගෙනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_002",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact about the father of Prince Siddhartha taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "royal-family"
+    ],
+    "question": "බෝසතුන්ගේ පියාණන් කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුද්ධෝදන රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "බිම්බිසාර රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "පසේනදී කෝසල රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "සුප්‍රබුද්ධ රජතුමා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේගේ පියාණන් වූයේ කිඹුල්වත්පුර රජ කළ සුද්ධෝදන මහ රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_003",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact about the mother of Prince Siddhartha taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "royal-family"
+    ],
+    "question": "බෝසතුන්ගේ මව්තුමිය කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා ප්‍රජාපතී ගෝතමී දේවිය"
+      },
+      {
+        "id": "b",
+        "text": "යසෝදරා දේවිය"
+      },
+      {
+        "id": "c",
+        "text": "මහමායා දේවිය"
+      },
+      {
+        "id": "d",
+        "text": "ඛේමා දේවිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේගේ මව්තුමිය වූයේ මහාමායා දේවියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_004",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Extended genealogy of the Sakyan royal family learned in middle primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "sakya-clan"
+    ],
+    "question": "සුද්ධෝදන රජතුමාගේ පියා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අංජන රජු"
+      },
+      {
+        "id": "b",
+        "text": "ජයසේන රජු"
+      },
+      {
+        "id": "c",
+        "text": "සුප්‍රබුද්ධ රජු"
+      },
+      {
+        "id": "d",
+        "text": "සිංහහනු රජු"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සුද්ධෝදන මහ රජතුමාගේ පියාණන් වූයේ ශාක්‍ය වංශික සිංහහනු රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_005",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Detailed names of King Suddhodana's siblings covered in middle school biography lessons.",
+    "difficulty": "medium",
+    "tags": [
+      "royal-family",
+      "sakya-clan"
+    ],
+    "question": "සුද්ධෝදන රජතුමාගේ සොහොයුරු සොහොයුරියන් කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශුක්ලෝදන , ධෝතෝදන , අමිතෝදන , මිතෝදන , අමිතා , ප්‍රමිතා"
+      },
+      {
+        "id": "b",
+        "text": "දණ්ඩපාණි , සුප්‍රබුද්ධ , අංජන , සිංහහනු , මහාමායා , ගෝතමී"
+      },
+      {
+        "id": "c",
+        "text": "භද්දිය , වප්ප , මහානාම , අස්සජි , රෝහිණී , සුමනා"
+      },
+      {
+        "id": "d",
+        "text": "නන්ද , ආනන්ද , අනුරුද්ධ , කිම්බිල , යසෝදරා , ජනපද කල්‍යාණී"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිංහහනු රජතුමාගේ දරුවන් වූ සුද්ධෝදන රජතුමාගේ සහෝදර සහෝදරියන් වන්නේ ශුක්ලෝදන, ධෝතෝදන, අමිතෝදන, මිතෝදන යන කුමාරවරුන් සහ අමිතා, ප්‍රමිතා යන කුමරියන්ය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_006",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Fundamental fact about the childhood name of the Bodhisattva.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "birth"
+    ],
+    "question": "බෝසතුන්ගේ කුමාර අවදියේ නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාහුල (රාහුලභද්‍ර)"
+      },
+      {
+        "id": "b",
+        "text": "සිදුහත් (සිද්ධාර්ථ)"
+      },
+      {
+        "id": "c",
+        "text": "නන්ද (නන්දසේන)"
+      },
+      {
+        "id": "d",
+        "text": "ආනන්ද (ආනන්දභද්‍ර)"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෝසතාණන් වහන්සේගේ ගිහි කුමාර අවධියේ නාමය සිදුහත් හෙවත් සිද්ධාර්ථ කුමරු විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_007",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Primary-level knowledge of the capital city of King Suddhodana.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "sacred-places"
+    ],
+    "question": "සුද්ධෝදන රජතුමාගේ රාජ්‍ය පිහිටා තිබුනේ කොහේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර (ගිරිබ්බජපුර)"
+      },
+      {
+        "id": "b",
+        "text": "සැවැත් නුවර (සාවත්ථිපුර)"
+      },
+      {
+        "id": "c",
+        "text": "කපිලවස්තුපුර (කිඹුල්වත්පුර)"
+      },
+      {
+        "id": "d",
+        "text": "විශාලා මහනුවර (වේසාලිපුර)"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සුද්ධෝදන මහ රජතුමාගේ ශාක්‍ය රාජ්‍යයේ අගනුවර කපිලවස්තුපුර හෙවත් කිඹුල්වත්පුර පිහිටා තිබුණි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_008",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Kaladevala (Asita) ascetic as the royal teacher of King Suddhodana.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "birth"
+    ],
+    "question": "සුද්ධෝදන රජතුමාගේ ගුරුවරයා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සර්වමිත්‍ර තවුසා"
+      },
+      {
+        "id": "b",
+        "text": "ආලාර කාලාම තවුසා"
+      },
+      {
+        "id": "c",
+        "text": "උද්දකරාමපුත්ත තවුසා"
+      },
+      {
+        "id": "d",
+        "text": "අසිත තවුසා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සුද්ධෝදන මහ රජතුමාගේ ගුරුවරයා වූයේ කාලදේවල හෙවත් අසිත තවුසාණන්ය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_009",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies King Anjana of Devadaha as the father of Queen Mahamaya.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "koliya-clan"
+    ],
+    "question": "මහමායා දේවියගේ පියා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අංජන රජු"
+      },
+      {
+        "id": "b",
+        "text": "සිංහහනු රජු"
+      },
+      {
+        "id": "c",
+        "text": "සුප්‍රබුද්ධ රජු"
+      },
+      {
+        "id": "d",
+        "text": "බිම්බිසාර රජු"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහාමායා දේවියගේ සහ මහා ප්‍රජාපතී ගෝතමී දේවියගේ පියාණන් වූයේ කෝලිය වංශික අංජන රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_010",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Devadaha as the hometown of Queen Mahamaya.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "sacred-places"
+    ],
+    "question": "මහමායා දේවිය ජීවත්වනු අගනුවර කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කුසිනාරා නුවර"
+      },
+      {
+        "id": "b",
+        "text": "දෙව්දහ නුවර"
+      },
+      {
+        "id": "c",
+        "text": "බරණැස් නුවර"
+      },
+      {
+        "id": "d",
+        "text": "සැවැත් නුවර"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහාමායා දේවියගේ උපන් නගරය වූ කෝලිය රාජධානියේ අගනුවර දෙව්දහ නුවරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_011",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic biography question on Queen Mahamaya's sister, Pajapati Gotami.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "koliya-clan"
+    ],
+    "question": "මහමායා දේවියගේ සහෝදරියගේ නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "යසෝදරා කුමරිය"
+      },
+      {
+        "id": "b",
+        "text": "කිසාගෝතමී කුමරිය"
+      },
+      {
+        "id": "c",
+        "text": "ගෝතමී කුමරිය"
+      },
+      {
+        "id": "d",
+        "text": "රෝහිණී කුමරිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මහාමායා දේවියගේ නැගණිය වූයේ පසුව සිදුහත් කුමරුන්ගේ සුළු මව වූ මහා ප්‍රජාපතී ගෝතමී කුමරියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_012",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Standard Dhamma school question on the Five Great Investigations (Pancha Maha Vilokana).",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "pancha-maha-vilokanaya"
+    ],
+    "question": "පස්මහ බැලුම් ( පංච මහා විලෝකනය ) නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාලය , දීපය , රාජ්‍යය , ගෝත්‍රය , පියා"
+      },
+      {
+        "id": "b",
+        "text": "සෘතුව , ද්වීපය , නගරය , වංශය , ගුරුවරයා"
+      },
+      {
+        "id": "c",
+        "text": "කල්පය , දේශය , භාෂාව , කුලය , මිතුරා"
+      },
+      {
+        "id": "d",
+        "text": "කාලය , ද්වීපය , දේශය , කුලය , මව"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සන්තුසිත දිව්‍ය රාජයාණන් මනුලොව උපත ලැබීමට පෙර කාලය, ද්වීපය, දේශය, කුලය සහ මව යන පස්මහ බැලුම් බැලූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_013",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Well-known narrative of Queen Mahamaya's dream before the Bodhisattva's conception.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "birth"
+    ],
+    "question": "මහමායා දේවිය දුටු සිහිනය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුදු ඇත් පැටවකු දේවිය සැතපුණු යහන වටා තුන්වරක් පැදකුණු කොට දකුණු ඇලයෙන් දේවියගේ කුස තුලට පිවිසීම."
+      },
+      {
+        "id": "b",
+        "text": "රන්වන් හංසයෙකු හිමාල පර්වතයේ සිට පැමිණ මාලිගාවේ සඳලුතලය මත වැසීම."
+      },
+      {
+        "id": "c",
+        "text": "දිව්‍යමය පියුම් සතක් මාලිගා උයනේ එකවර පිපී සුවඳ විහිදුවීම."
+      },
+      {
+        "id": "d",
+        "text": "සතරවරම් දෙවිවරුන් පැමිණ දේවියට රන් මාලයක් පූජා කිරීම."
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහාමායා දේවිය ඇසළ පුන් පොහෝ දින දුටු සිහිනය වූයේ සුදු ඇත් පැටවකු සුදු නෙළුම් මලක් සොඬින් ගෙන යහන වටා තුන්වරක් පැදකුණු කොට දකුණු ඇලයෙන් කුසට පිවිසීමයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_014",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Core primary-school fact identifying Lumbini Sal Uyana as the birthplace of Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "birth",
+      "sacred-places"
+    ],
+    "question": "සිදුහත් කුමරු උපත ලැබුවේ කොහේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බරණැස් නුවර ඉසිපතන මිගදාය උයනේදී."
+      },
+      {
+        "id": "b",
+        "text": "කපිලවස්තුපුර සහ දෙව්දහ නුවර අතර පිහිටි ලුම්බිණි සල් උයනේදී."
+      },
+      {
+        "id": "c",
+        "text": "කුසිනාරා නුවර උපවත්තන සල් උයනේදී."
+      },
+      {
+        "id": "d",
+        "text": "රජගහ නුවර වේළුවනාරාම උයනේදී."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ උපත ලැබුවේ කපිලවස්තුපුර සහ දෙව්දහ නුවර අතර පිහිටි ලුම්බිණි සල් උයනේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_015",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Meaning of the Bodhisattva's lion's roar utterance at birth (Aggo'hamasmi lokassa).",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "birth"
+    ],
+    "question": "සිදුහත් කුමරුන්ගේ ප්‍රථම ප්‍රීති වාක්‍යය පියුම් සතක් මත පා තබමින් ගොස් සත්වන පියුමේ සිට කළ උදාන වාක්‍යයේ අදහස කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සියලු සත්ත්වයෝ දුකින් මිදෙත්වා, සියලු සත්ත්වයෝ නිවන් දකිත්වා, ලොවට සාමය උදා වේවා."
+      },
+      {
+        "id": "b",
+        "text": "මා විසින් දුක අවබෝධ කරන ලදී, තෘෂ්ණාව ප්‍රහාණය කරන ලදී, නිවන සාක්ෂාත් කරන ලදී."
+      },
+      {
+        "id": "c",
+        "text": "මම ලොවට අග්‍රවෙමි. මම ලොවට ජේෂ්ඨ වෙමි. මම ලොවට ශ්‍රේෂ්ඨ වෙමි. නැවත මගේ උපතක් නොමැත. මේ මගෙ අවසන් උපතයි."
+      },
+      {
+        "id": "d",
+        "text": "අනේක ජාති සංසාරයේ සැරිසරමින් ගෘහ නිර්මාණ ශිල්පියා වූ තෘෂ්ණාව මම සෙවීමි."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් කුමරු උපන් මොහොතේ පියුම් සතක් මත වැඩම කොට තමන් වහන්සේ ලොවට අග්‍ර, ජ්‍යෙෂ්ඨ හා ශ්‍රේෂ්ඨ වන බවත් මේ අවසන් උපත බවත් උදාන වාක්‍යයෙන් ප්‍රකාශ කළහ.",
+    "source_suggestion": "MN 123"
+  },
+  {
+    "id": "daham_016",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Foundational fact that Prince Siddhartha was born on Vesak Full Moon Poya Day.",
+    "difficulty": "easy",
+    "tags": [
+      "birth",
+      "poya-days"
+    ],
+    "question": "සිදුහත් කුමාර උපත සිදුවූයේ කිනම් පොහෝ දිනකද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඇසළ පුර පසළොස්වක පොහෝ දින."
+      },
+      {
+        "id": "b",
+        "text": "පොසොන් පුර පසළොස්වක පොහෝ දින."
+      },
+      {
+        "id": "c",
+        "text": "දුරුතු පුර පසළොස්වක පොහෝ දින."
+      },
+      {
+        "id": "d",
+        "text": "වෙසක් පුර පසළොස්වක පොහෝ දින."
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේගේ උපත සිදු වූයේ වෙසක් පුර පසළොස්වක පොහෝ දිනයකදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_017",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact identifying Maha Pajapati Gotami as the foster mother of Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "birth"
+    ],
+    "question": "සිදුහත් කුමරුන්ගේ සුලු මව් කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා ප්‍රජාපතී ගෝතමී දේවිය."
+      },
+      {
+        "id": "b",
+        "text": "යසෝදරා දේවිය."
+      },
+      {
+        "id": "c",
+        "text": "චිත්‍රා දේවිය."
+      },
+      {
+        "id": "d",
+        "text": "කිසාගෝතමී දේවිය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහාමායා දේවිය කළුරිය කිරීමෙන් පසු සිදුහත් කුමරුන් මවක මෙන් හදා වඩා ගත් සුළු මව වූයේ මහා ප්‍රජාපතී ගෝතමී දේවියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_018",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Covers the co-natals (Sahajata) born on the same day as Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "birth",
+      "sahajata"
+    ],
+    "question": "සිදුහත් කුමරුන්ගේ උපත සිදුවූ දිනයේ උපන් වෙනත් අය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "නන්ද කුමරු , ආනන්ද කුමරු , අනුරුද්ධ කුමරු , භද්දිය කුමරු"
+      },
+      {
+        "id": "b",
+        "text": "යසෝදරා දේවිය , කාළුදායි ඇමති , ඡන්න ඇමති , කන්ථක අශ්වයා"
+      },
+      {
+        "id": "c",
+        "text": "රාහුල කුමරු , සුමන සාමණේරයන් , කොණ්ඩඤ්ඤ තවුසා , අසිත තවුසා"
+      },
+      {
+        "id": "d",
+        "text": "බිම්බිසාර රජතුමා , පසේනදී කෝසල රජතුමා , ජීවක වෛද්‍යවරයා , අනේපිඬු සිටුතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෝසත් උපත සිදු වූ දිනයේදීම යසෝදරා දේවිය, කාළුදායි ඇමති, ඡන්න ඇමති සහ කන්ථක අශ්වයා ඇතුළු සහජාත වස්තූන් හත පහළ විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_019",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Prince Nanda as the son of Maha Pajapati Gotami.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "sakya-clan"
+    ],
+    "question": "මහා ප්‍රජාපතී ගෝතමී දේවියගේ පුතා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආනන්ද කුමරුන්"
+      },
+      {
+        "id": "b",
+        "text": "රාහුල කුමරුන්"
+      },
+      {
+        "id": "c",
+        "text": "නන්ද කුමරුන්"
+      },
+      {
+        "id": "d",
+        "text": "අනුරුද්ධ කුමරුන්"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මහා ප්‍රජාපතී ගෝතමී දේවියගේ සහ සුද්ධෝදන මහ රජතුමාගේ පුත් කුමරුවන් වූයේ නන්ද කුමරුන්ය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_020",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Asita (Kaladevala) ascetic as the first to prophesy the Prince's Buddhahood.",
+    "difficulty": "easy",
+    "tags": [
+      "birth",
+      "bodhisattva"
+    ],
+    "question": "සිදුහත් කුමරුන් බුදුවන බව මුලින්ම පැවසුවේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාම බමුණා"
+      },
+      {
+        "id": "b",
+        "text": "ධජ බමුණා"
+      },
+      {
+        "id": "c",
+        "text": "ලක්ඛණ බමුණා"
+      },
+      {
+        "id": "d",
+        "text": "අසිත තවුසා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් කුමරුන් දෙතිස් මහා පුරුෂ ලක්ෂණවලින් යුක්ත බව දැක ඒකාන්තයෙන්ම බුදුවන බව මුලින්ම ප්‍රකාශ කළේ අසිත හෙවත් කාලදේවල තවුසාණන්ය.",
+    "source_suggestion": "SNP 3.11"
+  },
+  {
+    "id": "daham_021",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Covers the first occasion when King Suddhodana paid homage to his infant son.",
+    "difficulty": "easy",
+    "tags": [
+      "birth",
+      "royal-family"
+    ],
+    "question": "සුද්ධෝදන රජතුමා විසින් තම පුත් සිදුහත් කුමරා වෙත පළමු වතාවට වැන්දේ කවදාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කුමරුන් බුදුවන බව පවසමින් අසිත තවුසා විසින් කුමරුන්ට වැන්ද අවස්ථාවේදී."
+      },
+      {
+        "id": "b",
+        "text": "වප් මඟුල් උත්සව දිනයේ දඹ රුක මුල ධ්‍යාන වඩන අවස්ථාවේදී."
+      },
+      {
+        "id": "c",
+        "text": "බුද්ධත්වයෙන් පසු කිඹුල්වත්පුරයට වැඩම කොට යමා මහ පෙළහර පෑ අවස්ථාවේදී."
+      },
+      {
+        "id": "d",
+        "text": "සිදුහත් කුමරුන්ට නම් තැබීමේ උළෙලට බමුණන් පැමිණි අවස්ථාවේදී."
+      }
+    ],
+    "answer": "a",
+    "explanation": "අසිත තවුසාණන් සිදුහත් කුමරුන්ගේ ශ්‍රී පාදවලට වැන්ද ආකාරය දැක පිය රජතුමා වූ සුද්ධෝදන රජතුමා පළමු වරට තම පුත් කුමරුන්ට වැන්දේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_022",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Covers the second occasion when King Suddhodana paid homage to Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "royal-family"
+    ],
+    "question": "සුද්ධෝදන රජතුමා සිදුහත් කුමරුවන්ට දෙවැනි වර වැන්දේ කවදාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කුමරුන්ට නම් තැබීමේ දිනයේදී."
+      },
+      {
+        "id": "b",
+        "text": "වප් මගුල් දිනයේදී."
+      },
+      {
+        "id": "c",
+        "text": "සිදුහත් කුමරුන් ශිල්ප දැක්වූ දිනයේදී."
+      },
+      {
+        "id": "d",
+        "text": "සිදුහත් කුමරුන් විවාහ වූ දිනයේදී."
+      }
+    ],
+    "answer": "b",
+    "explanation": "වප් මඟුල් උත්සව දිනයේදී සිදුහත් කුමරුන් දඹ රුක් සෙවණේ ආනාපානසති ධ්‍යානයෙන් වැඩ සිටිනු දැක සුද්ධෝදන රජතුමා දෙවන වරට වැන්දේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_023",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Standard biographical fact that Queen Mahamaya passed away seven days after the birth.",
+    "difficulty": "easy",
+    "tags": [
+      "birth",
+      "royal-family"
+    ],
+    "question": "මහමායා දේවිය මියගියේ සිදුහත් කුමාර උපතින් පසු කීවෙනි දිනදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මසකින් (දින තිහකට පසු)"
+      },
+      {
+        "id": "b",
+        "text": "තෙමසකින් (මාස තුනකට පසු)"
+      },
+      {
+        "id": "c",
+        "text": "සතියකින් (දින හතකට පසු)"
+      },
+      {
+        "id": "d",
+        "text": "වසරකින් (දොළොස් මසකට පසු)"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් බෝසත් උපතින් දින හතකට පසු මහාමායා දේවිය කළුරිය කොට තුසිත දෙව්ලොව මාතෘ දිව්‍ය රාජයාව උපත ලැබූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_024",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Specific number of Brahmins invited to the naming ceremony (108 Brahmins).",
+    "difficulty": "easy",
+    "tags": [
+      "birth",
+      "bodhisattva"
+    ],
+    "question": "සිදුහත් කුමරුවන්ට නම් තැබීමේ උත්සවය සඳහා පැමිණි බමුණන් සංඛ්‍යාව කොපමණක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බමුණන් 8 දෙනෙකි"
+      },
+      {
+        "id": "b",
+        "text": "බමුණන් 60 දෙනෙකි"
+      },
+      {
+        "id": "c",
+        "text": "බමුණන් 500 දෙනෙකි"
+      },
+      {
+        "id": "d",
+        "text": "බමුණන් 108 දෙනෙකි"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් කුමරුන්ට නම් තැබීමේ උළෙල සඳහා බමුණන් 108 දෙනෙකු මාලිගාවට කැඳවූ අතර ඉන් දක්ෂතම බමුණන් 8 දෙනෙකු ලක්ෂණ පරීක්ෂා කළහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_025",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Sarvamitra (Visvamitra) as the royal tutor of Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "youth"
+    ],
+    "question": "සිදුහත් කුමරුන්ගේ ගුරුවරයාගේ නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සර්වමිත්‍ර පඬිවරයා."
+      },
+      {
+        "id": "b",
+        "text": "අසිත පඬිවරයා."
+      },
+      {
+        "id": "c",
+        "text": "කොණ්ඩඤ්ඤ පඬිවරයා."
+      },
+      {
+        "id": "d",
+        "text": "දිසාපාමොක් පඬිවරයා."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිදුහත් කුමරුන් කුඩා කල ශිල්ප ශාස්ත්‍ර හැදෑරීම සඳහා යොමු කරන ලද්දේ සර්වමිත්‍ර පඬිවරයා වෙතටය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_026",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Names the three seasonal palaces built for Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "youth"
+    ],
+    "question": "සිදුහත් කුමරුන් වෙනුවෙන් පිය මහ රජතුමා සාදවා දුන් මාලිගා තුන නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කෝකනද , සුධර්මා , වෛජයන්ත."
+      },
+      {
+        "id": "b",
+        "text": "රම්‍ය , සුරම්‍ය , සුභ."
+      },
+      {
+        "id": "c",
+        "text": "සෝභන , නන්දන , චිත්‍රලතා."
+      },
+      {
+        "id": "d",
+        "text": "මහමේඝ , රත්නමාලී , සුදර්ශන."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් කුමරුන්ට සෘතු තුනට ගැළපෙන පරිදි සුද්ධෝදන රජතුමා විසින් රම්‍ය, සුරම්‍ය සහ සුභ යන මාලිගා තුන කරවා දෙන ලදී.",
+    "source_suggestion": "AN 3.39"
+  },
+  {
+    "id": "daham_027",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Princess Yasodhara (Bhaddakaccana) as the consort of Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "youth"
+    ],
+    "question": "සිදුහත් කුමරුන් විවාහ වූයේ කා සමගද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා ප්‍රජාපතී ගෝතමී කුමරිය."
+      },
+      {
+        "id": "b",
+        "text": "රෝහිණී කුමරිය."
+      },
+      {
+        "id": "c",
+        "text": "යසෝධරා දේවිය හෙවත් භද්ද කච්ඡානා කුමරිය."
+      },
+      {
+        "id": "d",
+        "text": "සුජාතා කුමරිය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් කුමරුන් සොළොස් වියේදී විවාහ වූයේ යසෝදරා දේවිය හෙවත් භද්දකච්ඡානා කුමරිය සමඟය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_028",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Standard biographical fact that Prince Siddhartha married at age 16.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "youth"
+    ],
+    "question": "සිදුහත් කුමරුන් විවාහ වන විට වයස කීයද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වයස අවුරුදු 7යි."
+      },
+      {
+        "id": "b",
+        "text": "වයස අවුරුදු 20යි."
+      },
+      {
+        "id": "c",
+        "text": "වයස අවුරුදු 29යි."
+      },
+      {
+        "id": "d",
+        "text": "වයස අවුරුදු 16යි."
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් කුමරුන් යසෝදරා දේවිය සමඟ විවාහ වන විට උන්වහන්සේගේ වයස අවුරුදු 16 ක් විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_029",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies King Suprabuddha as the father of Princess Yasodhara.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "koliya-clan"
+    ],
+    "question": "යසෝදරා දේවියගේ පියා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුප්‍රබුද්ධ මහ රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "සිංහහනු මහ රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "බිම්බිසාර මහ රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "පසේනදී කෝසල මහ රජතුමා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "යසෝදරා දේවියගේ පියාණන් වූයේ කෝලිය වංශික සුප්‍රබුද්ධ මහ රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_030",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Prince Devadatta as the brother of Princess Yasodhara.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "koliya-clan"
+    ],
+    "question": "යශෝධරා දේවියගේ සොයුරා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නන්ද කුමරා"
+      },
+      {
+        "id": "b",
+        "text": "දේවදත්ත කුමරා"
+      },
+      {
+        "id": "c",
+        "text": "ආනන්ද කුමරා"
+      },
+      {
+        "id": "d",
+        "text": "අනුරුද්ධ කුමරා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සුප්‍රබුද්ධ රජතුමාගේ සහ අමිතා දේවියගේ පුත්‍රයා වූ දේවදත්ත කුමරා යසෝදරා දේවියගේ සොහොයුරා විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_031",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact identifying Prince Rahula as the son of Prince Siddhartha.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන්ගේ පුතාගේ නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නන්ද කුමරා"
+      },
+      {
+        "id": "b",
+        "text": "සුමන කුමරා"
+      },
+      {
+        "id": "c",
+        "text": "රාහුල කුමරා"
+      },
+      {
+        "id": "d",
+        "text": "භද්දිය කුමරා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් කුමරුන්ට සහ යසෝදරා දේවියට දාව උපන් පුත් කුමරුවන් වූයේ රාහුල කුමරාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_032",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Kisagotami as the noblewoman who recited the Nibbuta Pada.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන්ට නිබ්බුත පද කීවේ කවුරුන් විසින්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා ප්‍රජාපතී ගෝතමී විසින්"
+      },
+      {
+        "id": "b",
+        "text": "විශාඛා සිටු දියණිය විසින්"
+      },
+      {
+        "id": "c",
+        "text": "සුජාතා සිටු දියණිය විසින්"
+      },
+      {
+        "id": "d",
+        "text": "කිසාගෝතමී විසින්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "උයන් කෙළියේ සිට මාලිගාවට පැමිණෙන සිදුහත් කුමරුන්ගේ තේජස්වී රූපශ්‍රීය දැක කිසාගෝතමී කුමරිය විසින් නිබ්බුත පද ප්‍රකාශ කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_033",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Sinhala meaning of the Nibbuta Pada verses ('Nibbuta nuna sa mata...').",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation",
+      "pali"
+    ],
+    "question": "නිබ්බුත පද මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මෙවන් පුතෙක් ලද මව නිවුනේමය. මෙවන් පුතෙක් ලද පියා නිවුනේමය. මෙවන් පතියෙකු ලද බිරිඳද නිවුනේමය."
+      },
+      {
+        "id": "b",
+        "text": "මෙවන් රජෙකු ලද රට සශ්‍රීක වේවා. මෙවන් කුමරෙකු ලද වංශය බැබළේවා. මෙවන් නායකයෙකු ලද සේනාව ජය ගනීවා."
+      },
+      {
+        "id": "c",
+        "text": "සියලු දුක් නැසූ උතුමාණන්ට නමස්කාර වේවා. සියලු කෙලෙස් නැසූ උතුමාණන්ට නමස්කාර වේවා. ලොව එළිය කළ උතුමාණන්ට නමස්කාර වේවා."
+      },
+      {
+        "id": "d",
+        "text": "දැකීමෙන් පවා සිත පැහැදෙන උතුමාණන්ට ජය වේවා. කරුණාවෙන් පිරි හදවතක් ඇති උතුමාණන්ට දීර්ඝායුෂ වේවා."
+      }
+    ],
+    "answer": "a",
+    "explanation": "කිසාගෝතමී කුමරිය කී 'නිබ්බුතා නූන සා මාතා' යන ගාථාවේ අදහස නම් මෙවන් පුතෙකු ලද මවත්, පියාත්, මෙවන් ස්වාමියෙකු ලද බිරිඳත් ඒකාන්තයෙන්ම නිවුණේය යන්නයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_034",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Core primary-level knowledge of the Four Foresights (Sathara Pera Nimithi).",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "four-sights",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන් දුටු සතර පෙර නිමිති නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජෙක් , සිටුවරයෙක් , ගොවියෙක් , වෙළෙන්දෙක්"
+      },
+      {
+        "id": "b",
+        "text": "මහල්ලෙක් , ලෙඩෙක් , මළකඳක් , පැවිද්දෙක්"
+      },
+      {
+        "id": "c",
+        "text": "කුඩා දරුවෙක් , තරුණයෙක් , මහල්ලෙක් , රජෙක්"
+      },
+      {
+        "id": "d",
+        "text": "අන්ධයෙක් , බිහිරෙක් , දුගියෙක් , සිරකරුවෙක්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් කුමරුන් උයන් කෙළියට යන අතරමඟදී දුටු සතර පෙර නිමිති වන්නේ මහල්ලෙක්, ලෙඩෙක්, මළකඳක් සහ පැවිදි රුවකි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_035",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the two direct catalysts for Prince Siddhartha's disenchantment with household life.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන්ට ගිහිගෙය කළකිරීමට හේතුවූයේ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාජ්‍ය පාලනයේ දුෂ්කරතා දැකීම හා ශාක්‍ය කෝලිය යුද්ධය ඇතිවීම."
+      },
+      {
+        "id": "b",
+        "text": "පිය රජතුමාගේ අණ පිළිපැදීමට සිදුවීම හා සෘතු වෙනස්වීමේ පීඩාව."
+      },
+      {
+        "id": "c",
+        "text": "සතර පෙර නිමිති දැකීම හා නළඟනන්ගේ විකාර දැකීම."
+      },
+      {
+        "id": "d",
+        "text": "මාලිගාවේ ධනය අවසන් වීම හා මිතුරන් ගිහිගෙය අත්හැර යාම."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සතර පෙර නිමිති දැකීමෙන් ජීවිතයේ යථාර්ථය වටහා ගැනීමත්, රාත්‍රියේ නින්දට වැටුණු නළඟනන්ගේ විකාර ස්වරූපය දැකීමත් සිදුහත් කුමරුන්ට ගිහිගෙය කළකිරීමට හේතු විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_036",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic chronological fact that the Great Renunciation took place at age 29.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන්ට ගිහිගෙයින් නික්මීම (මහාභිනිෂ්ක්‍රමණය) කරන විට ඔහුගේ වයස කීයද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවුරුදු 16"
+      },
+      {
+        "id": "b",
+        "text": "අවුරුදු 35"
+      },
+      {
+        "id": "c",
+        "text": "අවුරුදු 80"
+      },
+      {
+        "id": "d",
+        "text": "අවුරුදු 29"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ මහාභිනිෂ්ක්‍රමණය සිදු කළේ වයස අවුරුදු 29 දීය.",
+    "source_suggestion": "MN 26"
+  },
+  {
+    "id": "daham_037",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Esala Poya Day as the day of the Great Renunciation.",
+    "difficulty": "easy",
+    "tags": [
+      "renunciation",
+      "poya-days"
+    ],
+    "question": "සිදුහත් කුමරුන් ගිහිගෙයින් නික්මුනේ කිනම් දිනකද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඇසළ පෝය දිනකදී"
+      },
+      {
+        "id": "b",
+        "text": "වෙසක් පෝය දිනකදී"
+      },
+      {
+        "id": "c",
+        "text": "නවම් පෝය දිනකදී"
+      },
+      {
+        "id": "d",
+        "text": "මැදින් පෝය දිනකදී"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිදුහත් කුමරුන් රාහුල කුමරු උපන් ඇසළ පුර පසළොස්වක පොහෝ දින රාත්‍රියේ ගිහිගෙයින් නික්මුණහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_038",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Channa the charioteer and Kanthaka the horse as companions during the Great Renunciation.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන් ගිහිගෙයින් නික්මුනේ කා සමගද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාළුදායි ඇමති සහ පණ්ඩක අසු සමග"
+      },
+      {
+        "id": "b",
+        "text": "ඡන්න ඇමති සහ කන්ථක අසු සමග"
+      },
+      {
+        "id": "c",
+        "text": "සුදත්ත ඇමති සහ වලාහක අසු සමග"
+      },
+      {
+        "id": "d",
+        "text": "සන්තති ඇමති සහ ඡද්දන්ත ඇතු සමග"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් කුමරුන් මහාභිනිෂ්ක්‍රමණය සඳහා පිටත් වූයේ ඡන්න ඇමතිවරයා සහ කන්ථක අශ්වයා සමඟය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_039",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the bank of River Anoma as the place where the Bodhisattva went forth.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation",
+      "sacred-places"
+    ],
+    "question": "සිදුහත් කුමරුන් පැවිදි වුනේ කොහේදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නේරංජනා නදී තීරයේදී"
+      },
+      {
+        "id": "b",
+        "text": "රෝහිණී නදී තීරයේදී"
+      },
+      {
+        "id": "c",
+        "text": "අනෝමා නදී තීරයේදී"
+      },
+      {
+        "id": "d",
+        "text": "ගංගා නදී තීරයේදී"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් කුමරුන් කන්ථක අසු පිටින් ගොස් අනෝමා නදී තීරයේදී කෙස් වැටිය කපා අහසට දමා පැවිදි බව ලබා ගත්හ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_040",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Ghatikara Maha Brahma as the donor of the eight requisites at the Bodhisattva's going forth.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation"
+    ],
+    "question": "සිදුහත් කුමරුන් පැවිදි වන අවස්ථාවේ අටපිරිකර පූජා කළේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සහම්පතී මහා බ්‍රාහ්මණයා"
+      },
+      {
+        "id": "b",
+        "text": "බක මහා බ්‍රාහ්මණයා"
+      },
+      {
+        "id": "c",
+        "text": "සනංකුමාර මහා බ්‍රාහ්මණයා"
+      },
+      {
+        "id": "d",
+        "text": "ඝටීකාර මහා බ්‍රාහ්මණයා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අනෝමා නදී තීරයේදී පැවිදි වන සිදුහත් බෝසතාණන් වහන්සේට අටපිරිකර පූජා කළේ පෙර කාශ්‍යප බුදු සමයේ මිතුරෙකුව සිටි ඝටීකාර මහා බ්‍රහ්මයාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_043",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies self-mortification (Attakilamathanuyoga) practiced alongside the five ascetics.",
+    "difficulty": "medium",
+    "tags": [
+      "dukkara-kiriya",
+      "middle-way"
+    ],
+    "question": "පස්වග තවුසන් සිදුහත් තවුසානන්ට ඉගැන්වූ මාර්ගය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාමසුඛල්ලිකානුයෝගය"
+      },
+      {
+        "id": "b",
+        "text": "මජ්ඣිමා පටිපදාව"
+      },
+      {
+        "id": "c",
+        "text": "අත්තකිලමථානුයෝගය"
+      },
+      {
+        "id": "d",
+        "text": "ආනාපානසති භාවනාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "පස්වග තවුසන් සමඟ එක්ව සිදුහත් තවුසාණන් සය වසරක් පුරා අනුගමනය කළ ශරීරයට දැඩි දුක් දෙන ක්‍රියා පිළිවෙත අත්තකිලමථානුයෝගය නම් වේ.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_044",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the seventh jhana (Akincannayatana) learned under Alara Kalama.",
+    "difficulty": "medium",
+    "tags": [
+      "bodhisattva",
+      "teachers",
+      "jhana"
+    ],
+    "question": "ආලාර කාළාම ගෙන් සිදුහත් තවුසා උගත්තේ කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නේවසඤ්ඤානාසඤ්ඤායතනය"
+      },
+      {
+        "id": "b",
+        "text": "ආකාසානඤ්චායතනය"
+      },
+      {
+        "id": "c",
+        "text": "විඤ්ඤාණඤ්චායතනය"
+      },
+      {
+        "id": "d",
+        "text": "ආකිඤ්චඤ්ඤායතනය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් තවුසාණන් ආලාර කාලාම තවුසා වෙතින් අරූපාවචර ධ්‍යානයක් වූ ආකිඤ්චඤ්ඤායතන සමාපත්තිය ප්‍රගුණ කළහ.",
+    "source_suggestion": "MN 26"
+  },
+  {
+    "id": "daham_045",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the eighth jhana (Nevasannanasannayatana) learned under Uddaka Ramaputta.",
+    "difficulty": "medium",
+    "tags": [
+      "bodhisattva",
+      "teachers",
+      "jhana"
+    ],
+    "question": "උද්දකරාම පුත්තගෙන් සිදුහත් තවුසානන් උගත් දෑ හඳුන්වන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "නේවසඤ්ඤානාසඤ්ඤායතනය"
+      },
+      {
+        "id": "b",
+        "text": "ආකිඤ්චඤ්ඤායතනය"
+      },
+      {
+        "id": "c",
+        "text": "ආකාසානඤ්චායතනය"
+      },
+      {
+        "id": "d",
+        "text": "විඤ්ඤාණඤ්චායතනය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිදුහත් තවුසාණන් උද්දකරාමපුත්ත තවුසා වෙතින් ඉහළම ලෞකික අරූපාවචර ධ්‍යානය වූ නේවසඤ්ඤානාසඤ්ඤායතනය උගත්හ.",
+    "source_suggestion": "MN 26"
+  },
+  {
+    "id": "daham_046",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Well-known event of Sujata offering milk-rice on the day of Enlightenment.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "dana"
+    ],
+    "question": "බෝසතුන්ට බුදුවීමට පෙර කිරිපිඬු පූජා කළේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "විශාඛා නම් සිටු දුව"
+      },
+      {
+        "id": "b",
+        "text": "සුජාතා නම් සිටු දුව"
+      },
+      {
+        "id": "c",
+        "text": "සාමාවතී නම් සිටු දුව"
+      },
+      {
+        "id": "d",
+        "text": "රෝහිණී නම් සිටු දුව"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සේනානි ගමේ සුජාතා සිටු දියණිය විසින් වෙසක් පුන් පොහෝ දින උදෑසන අජපාල නුග රුක මුල වැඩ සිටි බෝසතාණන් වහන්සේට කිරිපිඬු දානය පූජා කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_047",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Vesak Poya Day as the day Sujata offered milk-rice.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "poya-days"
+    ],
+    "question": "සුජාතා සිටු දුව කිරිපිඬු පූජා කළේ කිනම් දිනකදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඇසළ පෝය දිනකදී."
+      },
+      {
+        "id": "b",
+        "text": "පොසොන් පෝය දිනකදී."
+      },
+      {
+        "id": "c",
+        "text": "වෙසක් පෝය දිනකදී."
+      },
+      {
+        "id": "d",
+        "text": "මැදින් පෝය දිනකදී."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සුජාතා සිටු දියණිය බෝසතාණන් වහන්සේට කිරිපිඬු පූජා කළේ උන්වහන්සේ බුද්ධත්වයට පත් වූ වෙසක් පුන් පොහෝ දින උදෑසනය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_048",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Sotthiya the grass-cutter Brahmin who offered eight handfuls of kusa grass.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "bodhisattva"
+    ],
+    "question": "බෝසතාණන්ට කුස තන අට මිටක් පූජා කළේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අසිත බමුණා"
+      },
+      {
+        "id": "b",
+        "text": "කොණ්ඩඤ්ඤ බමුණා"
+      },
+      {
+        "id": "c",
+        "text": "සුදත්ත බමුණා"
+      },
+      {
+        "id": "d",
+        "text": "සොත්ථිය බමුණා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බෝසතාණන් වහන්සේ ඇසතු බෝ රුක වෙත වඩින අතරමඟදී සොත්ථිය නම් බමුණා විසින් කුස තණ අට මිටක් පූජා කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_049",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Fundamental primary-school fact that the Bodhisattva attained Enlightenment beneath the Asathu Bodhi tree at Bodh Gaya.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "sacred-places"
+    ],
+    "question": "සිදුහත් තවුසාණන් බුද්ධත්වයට පත්වූයේ කොහේදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුද්ධ ගයාවේ ඇසතු වෘක්ෂය මුල."
+      },
+      {
+        "id": "b",
+        "text": "ලුම්බිණි උයනේ සල් වෘක්ෂය මුල."
+      },
+      {
+        "id": "c",
+        "text": "කිඹුල්වත්පුර දඹ වෘක්ෂය මුල."
+      },
+      {
+        "id": "d",
+        "text": "සැවැත් නුවර රුක්අත්තන වෘක්ෂය මුල."
+      }
+    ],
+    "answer": "a",
+    "explanation": "අප මහා බෝසතාණන් වහන්සේ සම්මා සම්බුද්ධත්වයට පත් වූයේ බුද්ධගයාවේ නේරංජනා නදී තීරයේ පිහිටි ඇසතු බෝධි වෘක්ෂය මුලදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_050",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact that the Bodhisattva attained Enlightenment on Vesak Full Moon Poya Day.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "poya-days"
+    ],
+    "question": "සිදුහත් තවුසාණන් බුද්ධත්වයට පත් වූයේ කිනම් දිනකදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඇසළ පුන් පොහොය දිනෙක."
+      },
+      {
+        "id": "b",
+        "text": "වෙසක් පුන් පොහොය දිනෙක."
+      },
+      {
+        "id": "c",
+        "text": "නවම් පුන් පොහොය දිනෙක."
+      },
+      {
+        "id": "d",
+        "text": "වප් පුන් පොහොය දිනෙක."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ උතුම් සම්මා සම්බුද්ධත්වයට පත් වූයේ වෙසක් පුර පසළොස්වක පොහෝ දිනයකදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_051",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Standard sequence of the Seven Weeks (Sath Sathiya) following Enlightenment.",
+    "difficulty": "easy",
+    "tags": [
+      "sath-sathiya",
+      "enlightenment"
+    ],
+    "question": "සත් සතිය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 බෝධිමූලයේ 2 රුවන් සක්මනේ 3 අනිමිස ලෝචන පූජාව 4 අජපාල නුග රුක මුල 5 රුවන් ගෙයි 6 කිරිපලු නුග රුක මුල 7 මුචලින්ද නාග දරණයේ."
+      },
+      {
+        "id": "b",
+        "text": "1 අජපාල නුග රුක මුල 2 බෝධිමූලයේ 3 අනිමිස ලෝචන පූජාව 4 මුචලින්ද නාග දරණයේ 5 රුවන් සක්මනේ 6 රුවන් ගෙයි 7 කිරිපලු නුග රුක මුල."
+      },
+      {
+        "id": "c",
+        "text": "1 බෝධිමූලයේ ම 2 බෝධිය දෙස ඇසිපිය නොහෙලා බලා සිටීමෙන්. (අනිමිස ලෝචන පූජාව.) 3 රුවන් සක්මනේ යෙදීමෙන් 4 රුවන් ගෙයි වැඩ හිඳ ධර්මය මෙනෙහි කරමින්. 5 අජපාල නුග රුක මුල. 6 මුචලින්ද නාග දරණයේ වැඩ හිඳිමින් 7 කිරිපලු නුග රුක මුල."
+      },
+      {
+        "id": "d",
+        "text": "1 බෝධිමූලයේ 2 අනිමිස ලෝචන පූජාව 3 රුවන් ගෙයි 4 රුවන් සක්මනේ 5 මුචලින්ද නාග දරණයේ 6 අජපාල නුග රුක මුල 7 කිරිපලු නුග රුක මුල."
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුද්ධත්වයෙන් පසු බුදුරජාණන් වහන්සේ බෝ මැඬ, අනිමිස ලෝචන පූජාව, රුවන් සක්මන, රුවන් ගෙය, අජපාල නුග රුක, මුචලින්ද නාග දරණය සහ රාජායතන කිරිපලු රුක මුල යන පිළිවෙළින් සත් සතිය ගත කළහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_053",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Explains why the Buddha performed the Twin Miracle (Yamaka Maha Pelahara) immediately after Enlightenment.",
+    "difficulty": "medium",
+    "tags": [
+      "enlightenment",
+      "yamaka-maha-pelahara"
+    ],
+    "question": "බුදුන් වහන්සේ ප්‍රථමයෙන් යමා මහ පෙළහර පෑවේ කුමක් නිසාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දෙවියන්ගේ සැක දුරු කිරීම පිණිස"
+      },
+      {
+        "id": "b",
+        "text": "ශාක්‍ය වංශිකයන්ගේ මානය දුරු කිරීම පිණිස"
+      },
+      {
+        "id": "c",
+        "text": "තුන්බෑ ජටිලයන්ගේ මිථ්‍යා දෘෂ්ටිය දුරු කිරීම පිණිස"
+      },
+      {
+        "id": "d",
+        "text": "අන්‍ය තීර්ථකයන්ගේ අභියෝගය ජය ගැනීම පිණිස"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුද්ධත්වයෙන් පසු රුවන් සක්මනේදී බුදුරජාණන් වහන්සේ සැබැවින්ම බුදු වූයේදැයි දෙවියන් තුළ ඇති වූ සැකය දුරු කිරීම පිණිස ප්‍රථම වරට යමා මහ පෙළහර පෑ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_054",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Sahampati Maha Brahma as the one who invited the Buddha to teach the Dhamma.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "enlightenment"
+    ],
+    "question": "බුදුරදුන්ට දහම් දෙසන ලෙසට ආරාධනා කළේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඝටීකාර මහා බ්‍රහ්මයා"
+      },
+      {
+        "id": "b",
+        "text": "සහම්පතී මහා බ්‍රහ්මයා"
+      },
+      {
+        "id": "c",
+        "text": "සනංකුමාර මහා බ්‍රහ්මයා"
+      },
+      {
+        "id": "d",
+        "text": "සුමන සමන් දිව්‍ය රාජයා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ගැඹුරු වූ ශ්‍රී සද්ධර්මය ලෝක සත්ත්වයාගේ හිතසුව පිණිස දේශනා කරන ලෙස බුදුරජාණන් වහන්සේට ආරාධනා කළේ සහම්පතී මහා බ්‍රහ්මයාය.",
+    "source_suggestion": "SN 6.1"
+  },
+  {
+    "id": "daham_055",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Fundamental fact that the first sermon was preached to the Five Ascetics.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "panchavaggiya"
+    ],
+    "question": "බුදුන් වහන්සේ පළමු ධර්ම දේශනය කළේ කවුරුන් හටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තුන්බෑ ජටිලයන්ට"
+      },
+      {
+        "id": "b",
+        "text": "භද්දවග්ගිය කුමරුවන්ට"
+      },
+      {
+        "id": "c",
+        "text": "පස්වග තවුසන්ට"
+      },
+      {
+        "id": "d",
+        "text": "යස කුල පුත්‍රයා ඇතුළු පිරිසට"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේ සිය මංගල ධර්ම දේශනය වූ දම්සක් පැවතුම් සූත්‍රය දේශනා කළේ පස්වග තවුසන් උදෙසාය.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_056",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Esala Full Moon Poya Day as the day of the First Sermon.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "poya-days"
+    ],
+    "question": "පස්වග තවුසන්ට දම් දෙසුවේ කිනම් දිනකදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වෙසක් පුන් පෝය දිනක දී"
+      },
+      {
+        "id": "b",
+        "text": "පොසොන් පුන් පෝය දිනක දී"
+      },
+      {
+        "id": "c",
+        "text": "ඉල් පුන් පෝය දිනක දී"
+      },
+      {
+        "id": "d",
+        "text": "ඇසළ පුන් පෝය දිනක දී"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ පස්වග මහණුන්ට ප්‍රථම ධර්ම දේශනය පැවැත්වූයේ ඇසළ පුර පසළොස්වක පොහෝ දිනයකදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_057",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Isipatana Migadaya in Baranasi as the venue of the First Sermon.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "sacred-places"
+    ],
+    "question": "එම ධර්ම දේශනය සිදු කළේ කොහෙද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බරණැස් නුවර ඉසිපතනයේ මිගදායි හිදී."
+      },
+      {
+        "id": "b",
+        "text": "රජගහ නුවර වේළුවනාරාමයෙහිදී."
+      },
+      {
+        "id": "c",
+        "text": "සැවැත් නුවර ජේතවනාරාමයෙහිදී."
+      },
+      {
+        "id": "d",
+        "text": "විශාලා මහනුවර කූටාගාර ශාලාවෙහිදී."
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේ සිය ප්‍රථම ධර්ම දේශනය පැවැත්වූයේ බරණැස් නුවර ඉසිපතන මිගදායේදීය.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_063",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the composition of the first group of 60 Arahant missionaries.",
+    "difficulty": "easy",
+    "tags": [
+      "dharmaduta",
+      "sravaka-charitha"
+    ],
+    "question": "ප්‍රථම ධර්මදූතයින් පිරිස නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "තුන්බෑ ජටිලයන් සහ ඔවුන්ගේ ශිෂ්‍යයන් 1000 දෙනා"
+      },
+      {
+        "id": "b",
+        "text": "සැරියුත් මුගලන් දෙනම සහ ඔවුන්ගේ පිරිස 250 දෙනා"
+      },
+      {
+        "id": "c",
+        "text": "පස් වග මහනුන්, යසකුල පුත්‍රයා සහ ඔහුගේ මිතුරන් 54 (60 දෙනෙකි)"
+      },
+      {
+        "id": "d",
+        "text": "භද්දවග්ගිය කුමරුවන් 30 දෙනා සහ ශාක්‍ය කුමරුවන් 30 දෙනා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ලොව ප්‍රථම ධර්මදූත පිරිස වූ රහතන් වහන්සේලා 60 නමට පස්වග මහණුන් 5 නම, යස කුල පුත්‍රයා සහ ඔහුගේ මිතුරන් 54 දෙනා ඇතුළත් වූහ.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_066",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies King Bimbisara and Veluvanaramaya as the first monastery offered to the Buddha and Sangha.",
+    "difficulty": "easy",
+    "tags": [
+      "monasteries",
+      "royal-patrons"
+    ],
+    "question": "බුදුන් ප්‍රථමයෙන්ම ගැන ප්‍රථමයෙන් ම ආරාමයක් පූජා කළේ කවුද? එහි නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනේපිඬු සිටුතුමා - ජේතවනාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "බිම්බිසාර රජතුමා - වේළුවනාරාමය"
+      },
+      {
+        "id": "c",
+        "text": "විශාඛා මහා උපාසිකාව - පූර්වාරාමය"
+      },
+      {
+        "id": "d",
+        "text": "ජීවක වෛද්‍යවරයා - ජීවකම්බවනාරාමය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට ප්‍රථම ආරාම පූජාව ලෙස රජගහ නුවර වේළුවනාරාමය පූජා කළේ මගධාධිපති බිම්බිසාර මහ රජතුමාය.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_068",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Explains that the second Twin Miracle at Kapilavatthu was performed to dispel the pride of the Sakyans.",
+    "difficulty": "easy",
+    "tags": [
+      "yamaka-maha-pelahara",
+      "sakya-clan"
+    ],
+    "question": "බුදුන් වහන්සේ දෙවන වර යමා මහ පෙළහර පෑවේ කුමක් නිසාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දෙවියන්ගේ සැක දුරු කිරීම සඳහා"
+      },
+      {
+        "id": "b",
+        "text": "අන්‍ය තීර්ථකයන්ගේ මානය බිඳීම සඳහා"
+      },
+      {
+        "id": "c",
+        "text": "බක බ්‍රහ්මයාගේ දෘෂ්ටිය දුරු කිරීම සඳහා"
+      },
+      {
+        "id": "d",
+        "text": "ශාක්‍යයන්ගේ මානය දුරු කිරීම සඳහා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "කිඹුල්වත්පුරයට වැඩම කළ අවස්ථාවේ වැඩිහිටි ශාක්‍ය රජදරුවන් තුළ පැවති ජාති මානය දුරු කිරීම සඳහා බුදුරජාණන් වහන්සේ දෙවන වරට යමා මහ පෙළහර පෑ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_071",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Famous exhortation ('Charatha Bhikkhave Charikam...') given to the first 60 missionaries.",
+    "difficulty": "easy",
+    "tags": [
+      "dharmaduta",
+      "buddha-charitaya"
+    ],
+    "question": "ප්‍රථම ධර්මදූත පිරිසට දුන් අවවාදය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "“මහණෙනි, සියලු සංස්කාර ධර්මයෝ නැසෙන සුලුය. එබැවින් අප්‍රමාදව කුසල් දහම් සම්පාදනය කරව්.”"
+      },
+      {
+        "id": "b",
+        "text": "“මහණෙනි, තමන්ට තමන්ම පිහිට කරගෙන වාසය කරන්න. ධර්මය පිහිට කරගෙන වාසය කරන්න. වෙනත් සරණක් නොසොයන්න.”"
+      },
+      {
+        "id": "c",
+        "text": "“මහණෙනි බොහෝ ජනයාගේ හිත සුව පිණිස, දෙව් මිනිසුන්ගේ අර්ථය සුව පිණිස, චාරිකාවෙහි හැසිරෙන්න, මුල, මැද, අග කල්‍යාණ වූ ධර්මය දෙසන්න. එක මගෙකින් දෙදෙනෙකු නොයන්න.”"
+      },
+      {
+        "id": "d",
+        "text": "“මහණෙනි, කාමසුඛල්ලිකානුයෝගය හා අත්තකිලමථානුයෝගය යන අන්ත දෙක අත්හැර මැදුම් පිළිවෙත අනුගමනය කරන්න.”"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ප්‍රථම රහතන් වහන්සේලා සැට නම ධර්ම චාරිකාවේ පිටත් කර හරිමින් බුදුරජාණන් වහන්සේ 'චරථ භික්ඛවේ චාරිකං බහුජන හිතාය බහුජන සුඛාය' යනුවෙන් අවවාද කළ සේක.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_072",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the 30 Bhaddavaggiya princes encountered in the Kappasika grove on the way to Uruvela.",
+    "difficulty": "easy",
+    "tags": [
+      "dharmaduta",
+      "sravaka-charitha"
+    ],
+    "question": "දෙවන ධර්මදූත පිරිස වූයේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "යස කුල පුත්‍රයාගේ මිතුරන් 54 දෙනා"
+      },
+      {
+        "id": "b",
+        "text": "සැරියුත් මුගලන් දෙනමගේ පිරිස 250 දෙනා"
+      },
+      {
+        "id": "c",
+        "text": "කිඹුල්වත්පුර ශාක්‍ය කුමරුවන් 500 දෙනා"
+      },
+      {
+        "id": "d",
+        "text": "භද්ද වග්ගිය කුමරුවන් 30 දෙනා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ප්‍රථම ධර්මදූත පිරිස පිටත් කර හැරීමෙන් පසු උරුවෙල් දනව්වට වඩින අතරමඟ කප්පාසික වන ලැහැබේදී බුදුරජාණන් වහන්සේ භද්දවග්ගිය කුමරුවන් 30 දෙනා දමනය කොට පැවිදි කළ සේක.",
+    "source_suggestion": "Vinaya Mahavagga"
+  },
+  {
+    "id": "daham_077",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Lists the five divisions of the Buddha's daily routine (Budokisa).",
+    "difficulty": "easy",
+    "tags": [
+      "daily-routine",
+      "buddha-charitaya"
+    ],
+    "question": "බුදුන් වහන්සේගේ දින චර්යාව යෙදී තිබූ ආකාරය කෙසේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පෙර බත් කිස, පසු බත් කිස, පෙර යම් කිස, මැදියම් කිස, පැසුළුයම් කිස"
+      },
+      {
+        "id": "b",
+        "text": "උදෑසන කිස, දහවල් කිස, සවස කිස, රාත්‍රී කිස, අලුයම් කිස"
+      },
+      {
+        "id": "c",
+        "text": "දාන කිස, සීල කිස, භාවනා කිස, දේශනා කිස, විවේක කිස"
+      },
+      {
+        "id": "d",
+        "text": "පිණ්ඩපාත කිස, ධර්ම දේශනා කිස, භික්ෂු අවවාද කිස, දේවතා පැන කිස, මහා කරුණා කිස"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේගේ දෛනික කාලසටහන හෙවත් පංච බුද්ධ කෘත්‍යය පෙරබත් කිස, පසුබත් කිස, පෙරයම් කිස, මැදියම් කිස සහ පැසුළුයම් කිස යනුවෙන් කොටස් පහකින් යුක්ත විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_078",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Beluva village near Vesali as the place of the Buddha's 45th and final rains retreat.",
+    "difficulty": "medium",
+    "tags": [
+      "parinibbana",
+      "vassa"
+    ],
+    "question": "බුදුන් වහන්සේ අවසන් වරට වස් එළඹියේ කොහේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර වේළුවනාරාමයෙහි"
+      },
+      {
+        "id": "b",
+        "text": "බේලුව නම් ගමෙහි"
+      },
+      {
+        "id": "c",
+        "text": "සැවැත් නුවර ජේතවනාරාමයෙහි"
+      },
+      {
+        "id": "d",
+        "text": "බරණැස් නුවර ඉසිපතනාරාමයෙහි"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ සිය ජීවිතයේ අවසාන වස් කාලය (45 වන වස් කාලය) ගත කළේ විශාලා මහනුවර අසල පිහිටි බේලුව නම් ගමෙහිය.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_080",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Standard biographical fact that the Buddha's ministry lasted 45 years.",
+    "difficulty": "easy",
+    "tags": [
+      "buddha-charitaya",
+      "parinibbana"
+    ],
+    "question": "බුදුන් වහන්සේ බුද්ධත්වය ලබා කොපමණ කලක් ජීවත් වූයේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවුරුදු විසි නවයකි"
+      },
+      {
+        "id": "b",
+        "text": "අවුරුදු තිස් පහකි"
+      },
+      {
+        "id": "c",
+        "text": "අවුරුදු අසූවකි"
+      },
+      {
+        "id": "d",
+        "text": "අවුරුදු හතළිස් පහකි"
+      }
+    ],
+    "answer": "d",
+    "explanation": "වයස අවුරුදු 35 දී බුද්ධත්වයට පත් වූ බුදුරජාණන් වහන්සේ වයස අවුරුදු 80 දී පිරිනිවන් පාන තෙක් වසර 45 ක් පුරා ලෝක සත්ත්වයාට දහම් දෙසූ සේක.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_081",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the Chapala Chetiya at Vesali as where the Buddha relinquished the life-principle (Ayu Sanskara).",
+    "difficulty": "medium",
+    "tags": [
+      "parinibbana",
+      "sacred-places"
+    ],
+    "question": "බුදුරජාණන් වහන්සේ ආයු සංස්කාරය කළේ කොහේදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "චාපාල චෛත්‍ය අසලදීය."
+      },
+      {
+        "id": "b",
+        "text": "ගෝතමක චෛත්‍ය අසලදීය."
+      },
+      {
+        "id": "c",
+        "text": "සත්තම්බ චෛත්‍ය අසලදීය."
+      },
+      {
+        "id": "d",
+        "text": "බහුපුත්ත චෛත්‍ය අසලදීය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "පිරිනිවන් පෑමට තුන් මසකට පෙර මැදින් පුර පසළොස්වක පොහෝ දින බුදුරජාණන් වහන්සේ විශාලා මහනුවර චාපාල චෛත්‍යස්ථානයේදී ආයු සංස්කාරය අත්හළ සේක.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_082",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Chunda Kammaraputta of Pava as the donor of the Buddha's last meal.",
+    "difficulty": "easy",
+    "tags": [
+      "parinibbana",
+      "dana"
+    ],
+    "question": "බුදුන් වහන්සේට අවසන් දානය පිළිගැන්වූයේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුජාතා සිටු දියණිය"
+      },
+      {
+        "id": "b",
+        "text": "චුන්ද කම්මාර පුත්‍රයා"
+      },
+      {
+        "id": "c",
+        "text": "තපස්සු භල්ලුක වෙළඳ දෙබෑයන්"
+      },
+      {
+        "id": "d",
+        "text": "පුක්කුස මල්ල පුත්‍රයා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේට පිරිනිවන් පෑමට පෙර අවසන් දානය පූජා කිරීමේ උතුම් භාග්‍යය හිමි වූයේ පාවා නුවර චුන්ද කම්මාරපුත්‍රයාටය.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_083",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Lohitapakkhandika as the illness experienced by the Buddha before Parinibbana.",
+    "difficulty": "medium",
+    "tags": [
+      "parinibbana",
+      "buddha-charitaya"
+    ],
+    "question": "බුදුන් වහන්සේට අවසන් කාලයේ වැළඳුන රෝගය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වාතාබාධ රෝගය"
+      },
+      {
+        "id": "b",
+        "text": "පාණ්ඩු රෝගය"
+      },
+      {
+        "id": "c",
+        "text": "ලෝහිත පක්ඛදිකා රෝගය"
+      },
+      {
+        "id": "d",
+        "text": "උදරාබාධ රෝගය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේට පිරිනිවන් මංචකයට වැඩම කිරීමට පෙර වැළඳුණු දැඩි ගිලන් බව ධර්ම ග්‍රන්ථවල ලෝහිත පක්ඛන්දිකා රෝගය ලෙස දැක්වේ.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_084",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Fundamental primary-school fact that the Buddha attained Parinibbana in the Upavattana Sal Grove of the Mallas in Kusinara.",
+    "difficulty": "easy",
+    "tags": [
+      "parinibbana",
+      "sacred-places"
+    ],
+    "question": "බුදුන් වහන්සේ පිරිනිවන් පා වදාලේ කොහිදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කපිලවස්තුපුර ලුම්බිණි සල් උයනේ දී."
+      },
+      {
+        "id": "b",
+        "text": "බරණැස් නුවර ඉසිපතන මිගදාය උයනේ දී."
+      },
+      {
+        "id": "c",
+        "text": "රජගහ නුවර ජීවක අඹ උයනේ දී."
+      },
+      {
+        "id": "d",
+        "text": "කුසිනාරා නුවර මල්ලව රජ දරුවන්ගේ උපවත්තන සල් උයනේ දී."
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ පිරිනිවන් පා වදාළේ කුසිනාරා නුවර මල්ල රජදරුවන්ගේ උපවත්තන සල් උයනේදීය.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_085",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic fact that the Buddha passed away at the age of eighty.",
+    "difficulty": "easy",
+    "tags": [
+      "parinibbana",
+      "buddha-charitaya"
+    ],
+    "question": "බුදුන් වහන්සේ පිරිනිවන් පාන විට වයස කීයද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවුරුදු අසූවකි"
+      },
+      {
+        "id": "b",
+        "text": "අවුරුදු තිස් පහකි"
+      },
+      {
+        "id": "c",
+        "text": "අවුරුදු හතළිස් පහකි"
+      },
+      {
+        "id": "d",
+        "text": "අවුරුදු අනූවකි"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේ පිරිනිවන් පා වදාරන විට උන්වහන්සේගේ වයස අවුරුදු අසූවක් විය.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_086",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-1",
+      "grade-2"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Basic primary-level fact that the Buddha's Parinibbana occurred on Vesak Full Moon Poya Day.",
+    "difficulty": "easy",
+    "tags": [
+      "parinibbana",
+      "poya-days"
+    ],
+    "question": "බුදුන් වහන්සේ පිරිනිවන් පෑවේ කිනම් දිනකදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඇසළ පුර පසළොස්වක පෝ දිනක"
+      },
+      {
+        "id": "b",
+        "text": "වෙසක් පුර පසළොස්වක පෝ දිනක"
+      },
+      {
+        "id": "c",
+        "text": "පොසොන් පුර පසළොස්වක පෝ දිනක"
+      },
+      {
+        "id": "d",
+        "text": "වප් පුර පසළොස්වක පෝ දිනක"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේගේ පිරිනිවන් පෑම සිදු වූයේ වෙසක් පුර පසළොස්වක පොහෝ දිනයකදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_096",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Specific chronological order of later vassa residences (19th, 20th, 21st, 45th) requires upper-grade knowledge of the Buddha's ministry.",
+    "difficulty": "medium",
+    "tags": [
+      "vassa-kala",
+      "buddha-ministry",
+      "sacred-places"
+    ],
+    "question": "බුදුන් වහන්සේ වස් විසූ තැන් පිළිවෙලින් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "19 වන වස් කාලය බරණැස ඉසිපතනාරාමය 20 වන වස් කාලය වේළුවනාරාමය 21 වන වස් කාලය විශාලා මහනුවර 45 වන වස් කාලය ජේතවනාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "19 වන වස් කාලය චාලිය පව්ව 20 වන වස් කාලය රජගහ නුවර 21 වන වස් කාලය සැවැත් නුවර ජේතවනාරාමය 45 වන වස් කාලය බේලුව ගමෙහි"
+      },
+      {
+        "id": "c",
+        "text": "19 වන වස් කාලය කිඹුල්වත් නුවර 20 වන වස් කාලය තව්තිසා දෙව්ලොව 21 වන වස් කාලය පාරිලෙය්‍ය වනය 45 වන වස් කාලය කොසඹෑ නුවර"
+      },
+      {
+        "id": "d",
+        "text": "19 වන වස් කාලය සුංසුමාරගිරි පව්ව 20 වන වස් කාලය චාලිය පව්ව 21 වන වස් කාලය බේලුව ගමෙහි 45 වන වස් කාලය රජගහ නුවර"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ දහනව වන වස් කාලය චාලිය පව්වෙහිද, විසිවන වස් කාලය රජගහ නුවරද, විසිඑක්වන වස් කාලයේ සිට සැවැත් නුවර ජේතවනාරාමය හා පූර්වාරාමය ඇසුරු කරමින්ද, අවසාන වූ හතළිස් පස්වන වස් කාලය බේලුව ගමෙහිද වස් විසූ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_141",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Anathapindika (Anepidhu Situ) donating Jetavanaramaya is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "anathapindika",
+      "sravaka-charitha"
+    ],
+    "question": "ජේතවනාරාමය පූජා කලේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බිම්බිසාර මහ රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "ඝෝෂක සිටුතුමා"
+      },
+      {
+        "id": "c",
+        "text": "අනේපිඬු සිටුතුමා"
+      },
+      {
+        "id": "d",
+        "text": "චිත්ත ගෘහපතිතුමා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සැවැත් නුවර දෙව්රම් වෙහෙර හෙවත් ජේතවනාරාමය රන් කහවණු අතුරා මිලදී ගෙන බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට පූජා කරන ලද්දේ අනේපිඬු මහ සිටුතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_142",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the Buddha spent the most vassa seasons at Jetavanaramaya in Savatthi is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "vassa-kala",
+      "sacred-places",
+      "buddha-ministry"
+    ],
+    "question": "බුදුරදුන් වැඩිම කාලයක් වස් විසුවේ කොහේද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර වේළුවනාරාමයේ"
+      },
+      {
+        "id": "b",
+        "text": "සැවැත් නුවර ජේතවනාරාමයේ"
+      },
+      {
+        "id": "c",
+        "text": "විශාලා මහනුවර කූටාගාරශාලා විහාරයේ"
+      },
+      {
+        "id": "d",
+        "text": "කිඹුල්වත් නුවර නිග්‍රෝධාරාමයේ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ තම පන්සාළිස් වසක බුද්ධ කාලය තුළ වැඩිම වස් කාල ගණනක් (දහනව වසක්) වැඩ විසුවේ සැවැත් නුවර ජේතවනාරාමයේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_143",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Nigrodharama as the monastery offered by the Sakyans in Kapilavatthu is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "royal-family",
+      "buddha-ministry"
+    ],
+    "question": "ශාක්‍යයන් බුදුන්ට බුදු ආරාමය කුමක්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වේළුවනාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "ජේතවනාරාමය"
+      },
+      {
+        "id": "c",
+        "text": "පූර්වාරාමය"
+      },
+      {
+        "id": "d",
+        "text": "නීග්‍රෝධාරාමය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ කිඹුල්වත් පුරයට වැඩම කළ අවස්ථාවේදී ශාක්‍ය වංශික ඥාතීන් විසින් උන්වහන්සේ ප්‍රමුඛ මහා සංඝරත්නය උදෙසා පූජා කරන ලද ආරාමය නිග්‍රෝධාරාමයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_146",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Parileyyaka elephant and monkey ministering to the Buddha during the 10th vassa is a well-known primary school story.",
+    "difficulty": "easy",
+    "tags": [
+      "vassa-kala",
+      "parileyyaka",
+      "buddha-ministry"
+    ],
+    "question": "බුදුරදුන්ට දසවන වස පාරිලෙය්‍ය වනයේදී සත්කාර කළේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මුවෙක් සහ හාවෙක්"
+      },
+      {
+        "id": "b",
+        "text": "වඳුරෙක් සහ ඇතෙක්"
+      },
+      {
+        "id": "c",
+        "text": "සිංහයෙක් සහ අශ්වයෙක්"
+      },
+      {
+        "id": "d",
+        "text": "මොනරෙක් සහ හංසයෙක්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ දසවන වස් කාලය පාරිලෙය්‍ය වනයෙහි හුදෙකලාව වැඩ වසන සමයෙහි පාරිලෙය්‍ය ඇත් රජු උන්වහන්සේට උපස්ථාන කළ අතර වඳුරෙක් මී වදයක් පූජා කළේය.",
+    "source_suggestion": "Ud 4.5"
+  },
+  {
+    "id": "daham_147",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ghosaka Situ donating Ghositaramaya in Kosambi is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "sravaka-charitha",
+      "buddha-ministry"
+    ],
+    "question": "කොසඹෑ නුවර ඝෝෂිතාරාමය පිදුවේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කුක්කුට සිටුතුමා."
+      },
+      {
+        "id": "b",
+        "text": "පාවාරික සිටුතුමා."
+      },
+      {
+        "id": "c",
+        "text": "මෙණ්ඩක සිටුතුමා."
+      },
+      {
+        "id": "d",
+        "text": "ඝෝෂක සිටුතුමා."
+      }
+    ],
+    "answer": "d",
+    "explanation": "කොසඹෑ නුවර පිහිටි ප්‍රසිද්ධ ආරාමයක් වූ ඝෝෂිතාරාමය ඉදිකරවා බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට පූජා කරන ලද්දේ ඝෝෂක සිටුතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_148",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "grade-10"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five demands (panca varani) made to split the Sangha are studied in upper Dhamma school grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "vinaya-pitaka",
+      "sangha-history"
+    ],
+    "question": "දෙව්දත් හිමියන්ගේ ඉල්ලීම් පහ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 භික්ෂූන් දිවි තෙක් ආරණ්‍යගත විය යුතුය, 2 දිවි තෙක් පින්ඩපාතික විය යුතුය, 3 දිවිතෙක් පාංශකූලික විය යුතුය, 4 දිවිතෙක් වෘක්ෂ මූල ගත විය යුතුය, 5 දිවිතෙක් මාංශ භක්ෂණයෙන් වැලකිය යුතය."
+      },
+      {
+        "id": "b",
+        "text": "1 භික්ෂූන් දිවි තෙක් නගරවාසී විය යුතුය, 2 දිවි තෙක් රාජ භෝජන වැළඳිය යුතුය, 3 දිවිතෙක් ගෘහපති චීවර දැරිය යුතුය, 4 දිවිතෙක් ප්‍රාසාදවල විසිය යුතුය, 5 දිවිතෙක් නිශ්ශබ්දව විසිය යුතුය."
+      },
+      {
+        "id": "c",
+        "text": "1 භික්ෂූන් දිවි තෙක් ඒකාසනික විය යුතුය, 2 දිවි තෙක් පාත්‍ර භෝජනික විය යුතුය, 3 දිවිතෙක් තුන් සිවුරු දැරිය යුතුය, 4 දිවිතෙක් සොහොන් ගත විය යුතුය, 5 දිවිතෙක් නිදි වර්ජිත විය යුතුය."
+      },
+      {
+        "id": "d",
+        "text": "1 භික්ෂූන් දිවි තෙක් ගිලන්පස නොගත යුතුය, 2 දිවි තෙක් පාවහන් නොදැරිය යුතුය, 3 දිවිතෙක් කුඩ නොදැරිය යුතුය, 4 දිවිතෙක් ස්නානය නොකළ යුතුය, 5 දිවිතෙක් ගිනි නොතැපිය යුතුය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "භික්ෂූන් වහන්සේලා දිවි ඇති තෙක් ආරණ්‍යගත වීම, පිණ්ඩපාතික වීම, පාංශුකූලික වීම, වෘක්ෂමූලික වීම සහ මත්ස්‍ය මාංශයෙන් වැළකීම යන කරුණු පහ අනිවාර්ය නීති බවට පත් කරන ලෙස දෙව්දත් හිමියන් ඉල්ලා සිටි නමුත් බුදුරජාණන් වහන්සේ මධ්‍යම ප්‍රතිපදාව අනුව එය අනිවාර්ය නොකළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_150",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Royal Physician Jivaka treating the Buddha's injured foot is a well-known episode taught in grades 5–7.",
+    "difficulty": "easy",
+    "tags": [
+      "jivaka",
+      "sravaka-charitha",
+      "buddha-ministry"
+    ],
+    "question": "බුදුන්ගේ ඇගේ ලේ සෙලවූ වෙලාවේ වෛද්‍ය කටයුතු කලේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනේපිඬු මහ සිටුතුමා"
+      },
+      {
+        "id": "b",
+        "text": "රාජකීය වෛද්‍ය ජීවකතුමා"
+      },
+      {
+        "id": "c",
+        "text": "චිත්ත ගෘහපතිතුමා"
+      },
+      {
+        "id": "d",
+        "text": "උග්ග ගෘහපතිතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ගිජ්ඣකූට පර්වතයේදී ගල් පතුරක් වැදීමෙන් බුදුරජාණන් වහන්සේගේ ශ්‍රී පාදයෙහි ලේ සෙලවුණු අවස්ථාවේදී ඊට වෛද්‍ය ප්‍රතිකාර සිදු කරන ලද්දේ ජීවක කෝමාරභච්ච රාජකීය වෛද්‍යතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_225",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Five Great Observations (Pasmaha Balum) examined by the Bodhisattva in Tusita heaven are taught in grade 4-5.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "pasmaha-balum",
+      "birth"
+    ],
+    "question": "පස්මහ බැලුම් යනු මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ"
+      },
+      {
+        "id": "b",
+        "text": "කාලය, ද්වීපය, දේශය, කුලය, මව"
+      },
+      {
+        "id": "c",
+        "text": "ශ්‍රද්ධා, වීර්ය, සති, සමාධි, ප්‍රඥා"
+      },
+      {
+        "id": "d",
+        "text": "විතක්ක, විචාර, ප්‍රීති, සුඛ, ඒකග්ගතා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිද්ධාර්ථ බෝසතාණන් වහන්සේ තුසිත දෙව්ලොව සිට මනුලොව උපත ලැබීමට පෙර බැලූ පස්මහ බැලුම් නම් කාලය, ද්වීපය, දේශය, කුලය සහ මව යන පහයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_241",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Fourfold Resolute Effort (caturanga samannagata viriya) made by the Bodhisattva under the Bodhi tree is taught in grade 7-8.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "enlightenment",
+      "viriya"
+    ],
+    "question": "චතුරංග වීර්යය සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාලය, ද්වීපය, දේශය, කුලය සහ මව යන පස්මහ බැලුම් පරීක්ෂා කොට මනුලොව උපත ලැබීම."
+      },
+      {
+        "id": "b",
+        "text": "මගේ ශරීරයේ මස් වියලේවා, ලේ සිඳේවා, ඇට විසිරේවා, නහර වියලේවා, බුදු වී මිස මෙම ආසනයෙන් නොනැගිටිමි."
+      },
+      {
+        "id": "c",
+        "text": "දස පාරමී, දස උප පාරමී සහ දස පරමාර්ථ පාරමී යන සමතිස් පෙරුම් දම් සම්පූර්ණ කිරීම."
+      },
+      {
+        "id": "d",
+        "text": "මහලු රුවක්, ලෙඩ රුවක්, මළ රුවක් සහ පැවිදි රුවක් යන සතර පෙර නිමිති දැක ගිහිගෙය අත්හැරීම."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සම්මා සම්බුද්ධත්වයට පත් වන දිනයේ බෝසතාණන් වහන්සේ ඇසතු බෝ රුක මුලදී 'මගේ ශරීරයේ සම, නහර, ඇට ඉතිරි වී මස් ලේ වියළී ගියද බුදු වී මිස මේ අසුනෙන් නොනැඟිටිමි' යැයි අධිෂ්ඨාන කළ අංග හතරකින් යුත් වීර්යය චතුරංග සමන්නාගත වීර්යයයි.",
+    "source_suggestion": "AN 2.5"
+  },
+  {
+    "id": "daham_279",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The names of Mara's three daughters (Tanha, Rati, Raga) appear in the account of the weeks after Enlightenment.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "buddha-life"
+    ],
+    "question": "මාර දූවරු තිදෙනා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලෝභ, ද්වේෂ, මෝහ"
+      },
+      {
+        "id": "b",
+        "text": "කාම තණ්හා, භව තණ්හා, විභව තණ්හා"
+      },
+      {
+        "id": "c",
+        "text": "හීනමානය, සෙය්‍යමානය, සදිසමානය"
+      },
+      {
+        "id": "d",
+        "text": "තණ්හා, රතී, රඟා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අජපාල නුග රුක මුල වැඩ සිටි බුදුරජාණන් වහන්සේ වෙත පැමිණ පරාජයට පත් වූ මාර දූවරු තිදෙනා නම් තණ්හා, රතී සහ රඟා යන තිදෙනාය.",
+    "source_suggestion": "SN 4.25"
+  },
+  {
+    "id": "daham_290",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four sacred pilgrimage sites inspiring spiritual urgency (samvejaniya-tthana) are standard middle-grade material.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "pilgrimage",
+      "mahaparinibbana-sutta"
+    ],
+    "question": "බෞද්ධයෙකු විසින් දැක පිය සංවේග උපදවා ගත යුතු ස්ථාන මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර වේළුවනාරාමය, සැවැත් නුවර ජේතවනාරාමය, විශාලා මහනුවර කූටාගාර ශාලාව, කොසඹෑ නුවර ඝෝෂිතාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "බුදුරජාණන් වහන්සේ ඉපදුණු ස්ථානය, බුදු බව ලැබූ ස්ථානය, ප්‍රථම දම්සක් පැවැත් වූ ස්ථානය, පිරිනිවන් පෑ ස්ථානය"
+      },
+      {
+        "id": "c",
+        "text": "කිඹුල්වත් නුවර රම්‍ය මාලිගය, සුරම්‍ය මාලිගය, සුභ මාලිගය, මඟුල් උයන"
+      },
+      {
+        "id": "d",
+        "text": "අනුරාධපුර ජය ශ්‍රී මහා බෝධිය, ථූපාරාමය, රුවන්වැලි මහා සෑය, මිහින්තලා පුදබිම"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහා පරිනිබ්බාන සූත්‍රයේදී බුදුරජාණන් වහන්සේ වදාළ පරිදි සැදැහැවත් බෞද්ධයෙකු විසින් දැක පහන් සංවේගය උපදවා ගත යුතු ස්ථාන සතර වන්නේ බෝසතාණන් වහන්සේ උපන් ලුම්බිණිය, බුද්ධත්වයට පත් බුද්ධගයාව, ප්‍රථම ධර්ම දේශනාව පැවැත්වූ බරණැස ඉසිපතනය සහ පිරිනිවන් පෑ කුසිනාරා නුවරයි.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_315",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six colors of the Buddha's aura and the Buddhist flag (sad-varna) are taught in primary-to-middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-flag",
+      "sad-varna",
+      "buddha-rasmi"
+    ],
+    "question": "ෂඩ් වර්ණයන් ලියන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ, ආකාස, ආලෝක"
+      },
+      {
+        "id": "b",
+        "text": "චක්ඛු, සෝත, ඝාන, ජිව්හා, කාය, මන"
+      },
+      {
+        "id": "c",
+        "text": "නීල, පීත, ලෝහිත, ඕධාත, මඤ්ජෙට්ඨ, ප්‍රභාෂ්වර"
+      },
+      {
+        "id": "d",
+        "text": "රූප, ශබ්ද, ගන්ධ, රස, ස්පර්ශ, ධම්ම"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේගේ ශ්‍රී දේහයෙන් විහිදුණු ෂඩ්වර්ණ බුද්ධ රශ්මි මාලාව සහ බෞද්ධ කොඩියේ දැක්වෙන වර්ණ හය වන්නේ නීල (නිල්), පීත (කහ), ලෝහිත (රතු), ඕදාත (සුදු), මඤ්ජෙට්ඨ (මදටිය) සහ ප්‍රභාස්වර (මිශ්‍ර වර්ණය) යන හයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_344",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten perfections (dasa paramita) fulfilled by the Bodhisattva are taught in primary and middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "ten-parametis",
+      "bodhisattva",
+      "paramita"
+    ],
+    "question": "දස පාරමිතා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාන පාරමිතාව, ශීල පාරමිතාව, නෙක්කම්ම පාරමිතාව, පඤ්ඤා පාරමිතාව, වීරිය පාරමිතාව, ඛන්තී පාරමිතාව, සච්ච පාරමිතාව, අධිට්ඨාන පාරමිතාව, මෙත්තා පාරමිතාව, උපේක්‍ඛා පාරමිතාව"
+      },
+      {
+        "id": "b",
+        "text": "දානය, ශීලය, භාවනාව, පින් දීම, පින් ගැනීම, වතාවත් කිරීම, පිදිය යුත්තන් පිදීම, ධර්ම දේශනා කිරීම, ධර්මය ශ්‍රවණය කිරීම, දෘෂ්ටිය ඍජු බව"
+      },
+      {
+        "id": "c",
+        "text": "බුද්ධානුස්සති, ධම්මානුස්සති, සංඝානුස්සති, සීලානුස්සති, චාගානුස්සති, දේවානුස්සති, මරණානුස්සති, කායානුස්සති, ආනාපානසති, උපසමානුස්සති"
+      },
+      {
+        "id": "d",
+        "text": "දාන, සීල, පරිත්‍යාග, ඍජු බව, මෘදු බව, තාපස ගුණය, අක්‍රෝධය, අවිහිංසාව, ඉවසීම, අවිරෝධතාව"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහා බෝසතාණන් වහන්සේ විසින් සම්මා සම්බුද්ධත්වය උදෙසා සාරාසංඛ්‍ය කල්ප ලක්ෂයක් මුළුල්ලේ පුරන ලද උතුම් ගුණ ධර්ම දසය දස පාරමිතා නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_357",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The thirty-two physical marks of a Great Being (detis maha purisa lakkhana) from the Lakkhana Sutta are taught in senior classes.",
+    "difficulty": "medium",
+    "tags": [
+      "maha-purisa-lakkhana",
+      "lakkhana-sutta",
+      "buddha-charitaya"
+    ],
+    "question": "බුදුන් වහන්සේගේ ශරීරයේ තිබූ දෙතිස් මහා පුරුෂ ලක්‍ෂණ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අරහං ගුණය, සම්මා සම්බුද්ධෝ ගුණය, විජ්ජාචරණ සම්පන්න ගුණය, සුගත ගුණය, ලෝකවිදූ ගුණය, අනුත්තරෝ පුරිසදම්ම සාරථි ගුණය, සත්ථා දේවමනුස්සානං ගුණය, බුද්ධ ගුණය, භගවා ගුණය."
+      },
+      {
+        "id": "b",
+        "text": "රසනහරයන්ගේ රසය උකහා ගැනීම ක්‍ෂණික බව, සිංහයාගේ වැනි හනු ඇති බව, සම හතලිස් දත් ඇති බව, උස් පහත් නැති සම දත් ඇති බව, අතර සිදුරු නැති බව, ශුක්ල දත් ඇති බව, පළල් දිවක් ඇති බව, බ්‍රහ්මයාගේ කටහඬ වැනි මිහිරි කටහඬක් ඇති බව, තද නිල් ඇස් ඇති බව, එකෙනෙහි උපන් රතු වස්සෙකුගේ වැනි අක්‍ෂි ගෝලයක් ඇති බව, දෙබැම අතර නළල මැද ඌර්ණ රෝම ධාතුව ඇති බව, මට සිලුටු සීර්ෂ මණ්ඩල ඇති බව."
+      },
+      {
+        "id": "c",
+        "text": "දාන පාරමිතාව, ශීල පාරමිතාව, නෙක්ඛම්ම පාරමිතාව, පඤ්ඤා පාරමිතාව, වීරිය පාරමිතාව, ඛන්ති පාරමිතාව, සච්ච පාරමිතාව, අධිට්ඨාන පාරමිතාව, මෙත්තා පාරමිතාව, උපේක්ඛා පාරමිතාව."
+      },
+      {
+        "id": "d",
+        "text": "ඉන්ද්‍රිය පරෝපරියත්ත ඥානය, ආසයානුසය ඥානය, යමක පාටිහාරිය ඥානය, මහා කරුණා සමාපත්ති ඥානය, සබ්බඤ්ඤුත ඥානය, අනාවරණ ඥානය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "දීඝ නිකායේ ලක්ඛණ සූත්‍රයෙහි සඳහන් පරිදි පෙර ආත්මභාවයන්හි පුරන ලද මහා කුසල කර්මයන්ගේ විපාක වශයෙන් බුදුරජාණන් වහන්සේගේ ශ්‍රී දේහයෙහි ඌර්ණ රෝම ධාතුව, බ්‍රහ්මස්වරය, සම සතළිස් දත් ආදී දෙතිස් මහා පුරුෂ ලක්ෂණ පිහිටා තිබුණි.",
+    "source_suggestion": "DN 30"
+  },
+  {
+    "id": "daham_359",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three fears (tun biya) in Vesali are taught in primary and middle Dhamma school grades alongside the Ratana Sutta.",
+    "difficulty": "easy",
+    "tags": [
+      "vesali",
+      "tun-biya",
+      "ratana-sutta"
+    ],
+    "question": "විශාලා මහ නුවර ඇති වූ තුන් බිය මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රෝග බිය, අමනුෂ්‍ය බිය, දුර්භික්‍ෂ බිය"
+      },
+      {
+        "id": "b",
+        "text": "ජාති බිය, ජරා බිය, මරණ බිය"
+      },
+      {
+        "id": "c",
+        "text": "අත්තානුවාද බිය, පරානුවාද බිය, දණ්ඩ බිය"
+      },
+      {
+        "id": "d",
+        "text": "ගිනි බිය, ජල බිය, සොර බිය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "විශාලා මහනුවර නියඟය හේතුවෙන් මුලින්ම දුර්භික්ෂ බිය ද, ඉන්පසු අමනුෂ්‍ය බිය ද, රෝග බිය ද යන තුන් බිය හටගත් අතර රතන සූත්‍ර දේශනාවෙන් එම උවදුරු සංසිඳී ගියේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_371",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha's first utterance (pathama buddhavacana: Aneka jati samsaram) is taught in middle Dhamma school grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "pathama-buddhavacana",
+      "enlightenment",
+      "dhammapada"
+    ],
+    "question": "ප්‍රථම බුද්ධ වචනය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "හන්දදානි භික්ඛවේ ආමන්තයාමි වෝ වයධම්මා සංඛාරා අප්පමාදේන සම්පාදේථ යන බුද්ධ වචනය"
+      },
+      {
+        "id": "b",
+        "text": "සබ්බපාපස්ස අකරණං කුසලස්ස උපසම්පදා සචිත්ත පරියෝදපනං යන ගාථාව"
+      },
+      {
+        "id": "c",
+        "text": "අනේක ජාති සංසාරං සන්ධා විස්සසං අනිබ්බිසං යන ගාථාව"
+      },
+      {
+        "id": "d",
+        "text": "යේ ධම්මා හේතුප්පභවා තේසං හේතුං තථාගතෝ ආහ යන ගාථාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බෝසතාණන් වහන්සේ සම්මා සම්බුද්ධත්වයට පත් වූ මොහොතේ ප්‍රීති වාක්‍යයක් ලෙස දේශනා කළ ප්‍රථම බුද්ධ වචනය වන්නේ ධම්මපදයේ ජරා වග්ගයෙහි දැක්වෙන 'අනේක ජාති සංසාරං' යන උදාන ගාථාවයි.",
+    "source_suggestion": "Dhp 153-154"
+  },
+  {
+    "id": "daham_374",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha's final words (pacchima buddhavacana) from the Mahaparinibbana Sutta are taught in Grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "pacchima-buddhavacana",
+      "parinibbana",
+      "mahaparinibbana-sutta",
+      "appamada"
+    ],
+    "question": "අවසාන බුද්ධ වචනය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "හන්දදානේ භික්ඛවේ ආමන්තයාමි වෝ, වයධම්මා සංඛාරා, අප්පමාදේන සම්පාදේත"
+      },
+      {
+        "id": "b",
+        "text": "අනේක ජාති සංසාරං සන්ධාවිස්සං අනිබ්බිසං, ගහකාරකං ගවේසන්තෝ දුක්ඛා ජාති පුනප්පුනං"
+      },
+      {
+        "id": "c",
+        "text": "චරථ භික්ඛවේ චාරිකං බහුජන හිතාය බහුජන සුඛාය ලෝකානුකම්පාය අත්ථාය හිතාය සුඛාය දේවමනුස්සානං"
+      },
+      {
+        "id": "d",
+        "text": "අත්තදීපා භික්ඛවේ විහරථ අත්තසරණා අනඤ්ඤසරණා, ධම්මදීපා ධම්මසරණා අනඤ්ඤසරණා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "කුසිනාරා නුවර උපවත්තන සල් උයනේදී පිරිනිවන් පෑමට පෙර බුදුරජාණන් වහන්සේ වදාළ අවසාන බුද්ධ වචනය වන්නේ 'සියලු සංස්කාර ධර්මයෝ නැසෙන සුලුය, එබැවින් අප්‍රමාදීව කුසල් දහම් සම්පාදනය කරව්' යන අවවාදයයි.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_376",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the Buddha preached the Abhidhamma Pitaka to Matru Divyaraja in Tavatimsa heaven is taught in primary-to-middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "abhidhamma",
+      "matru-divyaraja",
+      "tavatimsa"
+    ],
+    "question": "මාතෘ දිව්‍ය රාජයාට දේශනා කළ ධර්මය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සූත්‍ර පිටකය"
+      },
+      {
+        "id": "b",
+        "text": "විජම් පිටකය (අභිධර්මය)"
+      },
+      {
+        "id": "c",
+        "text": "විනය පිටකය"
+      },
+      {
+        "id": "d",
+        "text": "ජාතක පාළිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ සත්වන වස් කාලයේ තව්තිසා දෙව්ලොවට වැඩම කොට මාතෘ දිව්‍ය රාජයා ප්‍රධාන දෙව් බඹ පිරිසට තුන් මසක් මුළුල්ලේ විජම් පිටකය හෙවත් අභිධර්ම පිටකය දේශනා කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_377",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that Bodh Gaya is the sacred place of the Buddha's enlightenment is taught in early primary Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "bodh-gaya",
+      "enlightenment",
+      "sacred-places"
+    ],
+    "question": "බුද්ධ ගයාව ප්‍රසිද්ධ වූයේ කුමක් නිසාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සිද්ධාර්ථ බෝසතාණන් වහන්සේගේ උපත සිදු වූ ස්ථානය නිසා"
+      },
+      {
+        "id": "b",
+        "text": "බුදුරජාණන් වහන්සේ ප්‍රථම ධර්ම දේශනාව පැවැත්වූ ස්ථානය නිසා"
+      },
+      {
+        "id": "c",
+        "text": "බුදුරජාණන් වහන්සේ පිරිනිවන් පා වදාළ ස්ථානය නිසා"
+      },
+      {
+        "id": "d",
+        "text": "බුදුන් වහන්සේගේ බුද්ධත්වය සිදු වූ ස්ථානය නිසා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ඇසතු බෝධිමූලයේදී අප මහා බෝසතාණන් වහන්සේ උතුම් සම්මා සම්බුද්ධත්වයට පත් වූ පූජනීය ස්ථානය බුද්ධගයාව බැවින් එය ලෝකවාසී බෞද්ධයන්ගේ පරම පූජනීය සිද්ධස්ථානයක් ලෙස ප්‍රසිද්ධ විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_392",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The names of the eight brahmins invited to Prince Siddhartha's naming ceremony are taught in middle Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "bodhisattva",
+      "naming-ceremony",
+      "brahmins"
+    ],
+    "question": "සිදුහත් කුමරුට නම් තැබූ බමුණන් අට දෙනා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කොණ්ඩඤ්ඤ, වප්ප, භද්දිය, මහානාම, අස්සජි, නාලක, අසිත, යස"
+      },
+      {
+        "id": "b",
+        "text": "උරුවෙල් කාශ්‍යප, නදී කාශ්‍යප, ගයා කාශ්‍යප, සාරිපුත්ත, මොග්ගල්ලාන, කොණ්ඩඤ්ඤ, රාම, භෝජ"
+      },
+      {
+        "id": "c",
+        "text": "රාම, ධජ, ලක්ඛන, මන්තී, සුයාම, සුදත්ත, භෝජ, කොණ්ඩඤ්ඤ"
+      },
+      {
+        "id": "d",
+        "text": "පොක්ඛරසාති, සෝණදණ්ඩ, කූටදන්ත, ජාණුස්සෝණි, චංකී, තාරුක්ඛ, තෝදෙය්‍ය, කොණ්ඩඤ්ඤ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් කුමරුන්ට නම් තැබීමේ උළෙලට සහභාගී වී ලක්ෂණ පරීක්ෂා කළ බමුණන් අට දෙනා වන්නේ රාම, ධජ, ලක්ඛණ, මන්තී, කොණ්ඩඤ්ඤ, භෝජ, සුයාම සහ සුදත්ත යන පඬිවරුන්ය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_393",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The list of the Seven Buddhas (Sath Buduwaru) is a well-known devotional and historical topic in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "previous-buddhas",
+      "sath-buduwaru"
+    ],
+    "question": "සත් බුදුවරු නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "විපස්සී, සිඛී, වෙස්සභූ, කකුසඳ, කෝණාගම, කස්සප, ගෞතම"
+      },
+      {
+        "id": "b",
+        "text": "තණ්හංකර, මේධංකර, සරණංකර, දීපංකර, කොණ්ඩඤ්ඤ, මංගල, සුමන"
+      },
+      {
+        "id": "c",
+        "text": "රේවත, සෝභිත, අනෝමදස්සී, පදුම, නාරද, පදුමුත්තර, සුමේධ"
+      },
+      {
+        "id": "d",
+        "text": "සුජාත, පියදස්සී, අත්ථදස්සී, ධම්මදස්සී, සිද්ධත්ථ, තිස්ස, ඵුස්ස"
+      }
+    ],
+    "answer": "a",
+    "explanation": "විපස්සී, සිඛී, වෙස්සභූ, කකුසඳ, කෝණාගමන, කාශ්‍යප සහ අප ගෞතම බුදුරජාණන් වහන්සේ යන බුදුවරයන් වහන්සේලා සත් නම 'සත් බුදුවරු' ලෙස හැඳින්වෙති.",
+    "source_suggestion": "DN 14"
+  },
+  {
+    "id": "daham_394",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Bodhisattva's residence in Tusita heaven as Santusita Deva Putraya before his final birth is taught in early Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "tusita-heaven",
+      "birth"
+    ],
+    "question": "සිදුහත්කුමරුන් පෙර ආත්මයේදී උපත ලබා සිටි දෙව්ලොව කුමක්ද? කුමන නමකින්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තව්තිසා දෙව්ලොව සක් දෙව් රජු නමින්"
+      },
+      {
+        "id": "b",
+        "text": "තුසිත දෙව්ලොව සන්තුසිත දෙව් පුත්‍රයා නමින්"
+      },
+      {
+        "id": "c",
+        "text": "යාම දෙව්ලොව සුයාම දෙව් පුත්‍රයා නමින්"
+      },
+      {
+        "id": "d",
+        "text": "නිම්මානරතී දෙව්ලොව සුනිම්මිත දෙව් පුත්‍රයා නමින්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ මිනිස් ලොව උපත ලැබීමට පෙර තුසිත දිව්‍ය ලෝකයෙහි සන්තුසිත නම් දිව්‍ය පුත්‍රයා ලෙස වැඩ සිටි සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_395",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Prince Siddhartha's attainment of the first jhana through Anapanasati at the ploughing festival at five months of age is taught in grades 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "wap-mangula",
+      "anapanasati"
+    ],
+    "question": "සිදුහත් කුමරු ආනාපානාසති භාවනාවේ යෙදුනේ ඉපදී කීවෙනි මාසයේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඉපදී මාස තුනකදී"
+      },
+      {
+        "id": "b",
+        "text": "ඉපදී මාස හතකදී"
+      },
+      {
+        "id": "c",
+        "text": "ඉපදී මාස පහකදී"
+      },
+      {
+        "id": "d",
+        "text": "ඉපදී මාස නවයකදී"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් කුමරුන් ඉපදී මාස පහක් ගතවූ දින පැවති වප් මඟුල් උත්සවයේදී දඹ රුක සෙවණෙහි වැඩ හිඳ ආනාපානසති භාවනාව වඩා ප්‍රථම ධ්‍යානය උපදවා ගත් සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_396",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The date and Poya day of the Bodhisattva's conception in Queen Mahamaya's womb are standard lower-middle grade facts.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "esala-poya",
+      "royal-family"
+    ],
+    "question": "බෝසතානුන් මහාමායා දේවියගේ කුසෙහි පිළිසිඳ ගත්තේ කවදාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ක්‍රි.පූ 623 දී වෙසක් මස පුන් පෝ දින"
+      },
+      {
+        "id": "b",
+        "text": "ක්‍රි.පූ 588 දී වෙසක් මස පුන් පෝ දින"
+      },
+      {
+        "id": "c",
+        "text": "ක්‍රි.පූ 543 දී වෙසක් මස පුන් පෝ දින"
+      },
+      {
+        "id": "d",
+        "text": "ක්‍රි.පූ 624 දී ඇසල මස පුන් පෝ දින"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ තුසිත දෙව්ලොවින් චුතව මහාමායා දේවියගේ කුසෙහි පිළිසිඳ ගත්තේ ක්‍රි.පූ. 624 ඇසළ මස පුර පසළොස්වක පොහොය දිනයේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_397",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The enshrining of the Bodhisattva's hair relics in the Silumina Seya in Tavatimsa heaven by Sakka is taught in primary and early middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "renunciation",
+      "sacred-places"
+    ],
+    "question": "බෝසතුන් පැවදි වූ දිනයේදී තම කෙස් කපා අහසට විසි කළ අවස්ථාවේ සක් දෙව් රජ විසින් එම කේෂ ධාතූන් රන් කරඬුවකින් තව්තිසා දෙව් භවනට ගෙන ගොස් කරවන ලද සෑය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සිලුමිණ සෑය"
+      },
+      {
+        "id": "b",
+        "text": "සළුමිණි සෑය"
+      },
+      {
+        "id": "c",
+        "text": "මහියංගණ සෑය"
+      },
+      {
+        "id": "d",
+        "text": "ගිරිහඬු සෑය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ අනෝමා නදී තෙරදී කෙස්වැටිය කපා අහසට දැමූ කල සක්දෙව් රජු එය රන් කරඬුවකින් පිළිගෙන තව්තිසා දෙව්ලොව සිළුමිණි සෑයෙහි තැන්පත් කළේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_398",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six years of ascetic practice by the Bodhisattva is one of the most basic facts of the Buddha's life taught in early grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "ascetic-practice"
+    ],
+    "question": "සිදුහත් බෝසතුන් අවුරුදු කීයක් දුෂ්කර ක්‍රියා කළේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවුරුදු 4 කි"
+      },
+      {
+        "id": "b",
+        "text": "අවුරුදු 6 කි"
+      },
+      {
+        "id": "c",
+        "text": "අවුරුදු 7 කි"
+      },
+      {
+        "id": "d",
+        "text": "අවුරුදු 5 කි"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ ගිහිගෙයින් නික්ම පැවිදිව උතුම් බුද්ධත්වය පතා උරුවෙල් දනව්වේදී අවුරුදු හයක් පුරා දුෂ්කර ක්‍රියා කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_399",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The meaning of Urna Roma Dhatu among the 32 marks of a Great Man is taught in middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "mahapurisa-lakkhana",
+      "buddha-qualities"
+    ],
+    "question": "ඌර්ණ රෝම ධාතුව යනු කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලොව්තුරු බුදුවරුන්ගේ හා සක්විති රජවරුන්ගේ හිස් මුදුනෙහි පිහිටන උෂ්ණීෂ ලක්ෂණයයි"
+      },
+      {
+        "id": "b",
+        "text": "ලොව්තුරු බුදුවරුන්ගේ හා සක්විති රජවරුන්ගේ යටිපතුල්හි පිහිටන චක්‍ර ලක්ෂණයයි"
+      },
+      {
+        "id": "c",
+        "text": "ලොව්තුරු බුදුවරුන්ගේ හා සක්විති රජවරුන්ගේ දෙබැම අතර පිහිටන රෝමයයි"
+      },
+      {
+        "id": "d",
+        "text": "ලොව්තුරු බුදුවරුන්ගේ හා සක්විති රජවරුන්ගේ මුඛයෙහි පිහිටන සතළිස් දන්ත ධාතූන්ය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "දෙතිස් මහා පුරුෂ ලක්ෂණ අතරින් එකක් වන ඌර්ණ රෝම ධාතුව යනු ලොව්තුරා බුදුවරයන් වහන්සේලාගේ හා සක්විති රජවරුන්ගේ දෙබැම අතර නළල් තලයෙහි පිහිටන සුදු පැහැති මෘදු රෝම ධාතුවයි.",
+    "source_suggestion": "DN 30"
+  },
+  {
+    "id": "daham_400",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The names of Prince Siddhartha's half-brother and half-sister are basic facts about the royal family taught in early grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "royal-family"
+    ],
+    "question": "සිදුහත් කුමරුගේ සොහොයුරා සහ සොහොයුරිය කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ආනන්ද කුමරු සහ අනුලා කුමරිය"
+      },
+      {
+        "id": "b",
+        "text": "රාහුල කුමරු සහ චිත්‍රා කුමරිය"
+      },
+      {
+        "id": "c",
+        "text": "තිස්ස කුමරු සහ රෝහිණී කුමරිය"
+      },
+      {
+        "id": "d",
+        "text": "නන්ද කුමරු සහ නන්දා කුමරිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සුද්ධෝදන රජතුමාට සහ මහා ප්‍රජාපතී ගෝතමී දේවියට දාව උපන් නන්ද කුමරු සහ නන්දා කුමරිය සිදුහත් කුමරුන්ගේ සොහොයුරා සහ සොහොයුරිය වූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_402",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Queen Mahamaya passing away seven days after Prince Siddhartha's birth and being reborn in Tusita heaven is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "mahamaya",
+      "birth"
+    ],
+    "question": "මහාමායා දේවිය තුසිත දෙව්ලොව මාතෘ දිව්‍ය රාජයා ලෙස උපත ලැබුවේ සිදුහත් කුමරු ඉපදී දින කීයකට පසුවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දින පහකින්"
+      },
+      {
+        "id": "b",
+        "text": "දින හතකින්"
+      },
+      {
+        "id": "c",
+        "text": "දින තුනකින්"
+      },
+      {
+        "id": "d",
+        "text": "දින දසයකින්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිදුහත් කුමරුන් උපත ලබා දින හතකට පසුව මහාමායා දේවිය කලුරිය කොට තුසිත දෙව්ලොව මාතෘ දිව්‍ය රාජයා ලෙස උපත ලැබුවාය.",
+    "source_suggestion": "MN 123"
+  },
+  {
+    "id": "daham_405",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha's encounter with Upaka the Ajivaka on the road to Isipatana is taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "enlightenment",
+      "first-sermon",
+      "upaka"
+    ],
+    "question": "බුදුන් වහන්සේ තමා කවුදැයි මුලින්ම පැහැදිළි කළේ කාටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උපක ආජීවකයාට"
+      },
+      {
+        "id": "b",
+        "text": "සච්චක පඬිවරයාට"
+      },
+      {
+        "id": "c",
+        "text": "සුභද්‍ර පිරිවැජියාට"
+      },
+      {
+        "id": "d",
+        "text": "අසිත තවුසාට"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුද්ධත්වයෙන් පසු පස්වග මහණුන් සොයා බරණැස ඉසිපතන මිගදායට වැඩම කරන අතරමඟදී හමුවූ උපක ආජීවකයාට බුදුරජාණන් වහන්සේ තමන් වහන්සේ අනන්තජින හෙවත් සියල්ල දිනූ බුදුවරයෙකු බව මුලින්ම ප්‍රකාශ කළ සේක.",
+    "source_suggestion": "MN 26"
+  },
+  {
+    "id": "daham_406",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The specific vassa retreat at Veranja during a famine (12th vassa) is taught in middle-to-upper Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "vassa-retreats",
+      "veranja"
+    ],
+    "question": "බුදුන් බෝහෝ දුක් පීඩා වින්දේ කුමන වස් කාලයේදිද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1 වන කාලය බරණැස් පුරදී"
+      },
+      {
+        "id": "b",
+        "text": "12 වන කාලය වේරංජා පුරදී"
+      },
+      {
+        "id": "c",
+        "text": "7 වන කාලය තව්තිසා දෙව්ලොවදී"
+      },
+      {
+        "id": "d",
+        "text": "10 වන කාලය පාරිලෙය්‍ය වනයේදී"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ දොළොස්වන වස් කාලය වේරංජා පුරයෙහි ගත කළ අතර, එකල එහි ඇතිවූ දැඩි දුර්භික්ෂය නිසා අශ්ව වෙළෙන්දන් පූජා කළ යව හාල් වළඳමින් එම වස් කාලය ගත කිරීමට සිදු විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_407",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the specific vassa (16th vassa at Alavi) when the Buddha tamed Alavaka is a middle-grade biography detail.",
+    "difficulty": "medium",
+    "tags": [
+      "vassa-retreats",
+      "alavaka"
+    ],
+    "question": "ආලවක යක්ෂයා දමනය කළේ කීවෙනි වස් කාලයේදිද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "5 වන වස් කාලයේ - විශාලා පුරදී"
+      },
+      {
+        "id": "b",
+        "text": "11 වන වස් කාලයේ - ඒකනාලා ගමේදී"
+      },
+      {
+        "id": "c",
+        "text": "16 වන වස් කාලයේ - අලව් පුරදී"
+      },
+      {
+        "id": "d",
+        "text": "15 වන වස් කාලයේ - කිඹුල්වත් පුරදී"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේ තම දහසය වන වස් කාලය අලව් නුවර වැඩ සිටි සමයේදී ආලවක යක්ෂයා දමනය කොට ආලවක සූත්‍රය දේශනා කොට ඔහු සෝවාන් ඵලයෙහි පිහිටුවූ සේක.",
+    "source_suggestion": "Snp 1.10"
+  },
+  {
+    "id": "daham_408",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Devadatta rolling a rock from Gijjhakuta mountain is a well-known episode taught in primary and early middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "gijjhakuta",
+      "rajagaha"
+    ],
+    "question": "දෙව්දත් හිමි බුදුන්ට ගල් පෙරලූයේ කුමන පර්වතයක සිටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වේභාර පර්වතයේ සිට"
+      },
+      {
+        "id": "b",
+        "text": "ඉසිගිලි පර්වතයේ සිට"
+      },
+      {
+        "id": "c",
+        "text": "පණ්ඩව පර්වතයේ සිට"
+      },
+      {
+        "id": "d",
+        "text": "ගිජ්ජකූට පර්වතයේ සිට"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ රජගහ නුවර ගිජ්ඣකූට පර්වත පාමුල සක්මන් කරමින් වැඩ සිටියදී දෙව්දත් තෙරුන් ගිජ්ඣකූට පර්වතය මුදුනේ සිට උන්වහන්සේ වෙත ගලක් පෙරළීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_409",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The story of taming the elephant Nalagiri with loving-kindness is taught in the earliest grades of Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "nalagiri",
+      "metta"
+    ],
+    "question": "රා පොවා බුදු රදුන් වෙත යැව්වේ කුමන ඇතාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පාරිලෙය්‍ය ඇතා"
+      },
+      {
+        "id": "b",
+        "text": "නාලාගිරි ඇතා"
+      },
+      {
+        "id": "c",
+        "text": "කඩොල් ඇතා"
+      },
+      {
+        "id": "d",
+        "text": "භද්‍රවතී ඇතා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "රජගහ නුවර වීථියෙහි පිඬුසිඟා වඩින බුදුරජාණන් වහන්සේ වෙත රා පොවා එවන ලද නාලාගිරි ඇතා උන්වහන්සේගේ අපරිමිත මහා මෛත්‍රී බලයෙන් දමනය විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_415",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the Paccekabuddha Matanga attained Parinibbana on the day of the Bodhisattva's birth is a detailed literary fact for upper levels.",
+    "difficulty": "hard",
+    "tags": [
+      "paccekabuddha",
+      "birth",
+      "buddhist-literature"
+    ],
+    "question": "සිදුහත් කුමරු උපන් දින පිරිනිවන් පෑ පසේ බුදු වරයා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තගරසිඛී නම් පසේ බුදුවරයා"
+      },
+      {
+        "id": "b",
+        "text": "උපරිඪ නම් පසේ බුදුවරයා"
+      },
+      {
+        "id": "c",
+        "text": "මාතංග නම් පසේ බුදුවරයා"
+      },
+      {
+        "id": "d",
+        "text": "සුදස්සන නම් පසේ බුදුවරයා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බෞද්ධ සාහිත්‍යයෙහි දැක්වෙන පරිදි සිදුහත් බෝසතාණන් වහන්සේ උපත ලද දිනයේදී ලොව වැඩ සිටි අවසන් පසේබුදුවරයාණන් වූ මාතංග පසේබුදුරජාණන් වහන්සේ පිරිනිවන් පෑ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_431",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "grade-10"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The classification of the Buddha's journeys into Turita Carika and Aturita Carika is taught in middle-to-upper grades.",
+    "difficulty": "medium",
+    "tags": [
+      "buddha-ministry",
+      "carika"
+    ],
+    "question": "බුදුන් වහන්සේගේ චාරිකා දෙක නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "පෙරවරු චාරිකා, පස්වරු චාරිකා"
+      },
+      {
+        "id": "b",
+        "text": "ග්‍රාම චාරිකා, වන චාරිකා"
+      },
+      {
+        "id": "c",
+        "text": "තුරිත චාරිකා, අතුරිත චාරිකා"
+      },
+      {
+        "id": "d",
+        "text": "වස්සාන චාරිකා, හේමන්ත චාරිකා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේ ලෝක සත්ත්වයාට සෙත සැලසීම පිණිස වැඩම කළ ධර්ම චාරිකා දෙවැදෑරුම් වේ. යම් පුද්ගලයෙකුට වහා පිහිට වීම සඳහා ඉක්මනින් වැඩම කරන 'තුරිත චාරිකා' සහ ගම් නියම්ගම්හි පිළිවෙළින් සෙමින් වඩින 'අතුරිත චාරිකා' එම දෙකයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_435",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The occasions on which the earth quaked in the Mahaparinibbana Sutta are taught in middle-to-upper grades.",
+    "difficulty": "easy",
+    "tags": [
+      "mahaparinibbana-sutta",
+      "parinibbana"
+    ],
+    "question": "පොලොව කම්පා වූ අවස්ථාවන් නම් කරන්න?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සිදුහත් කුමරුන්ට නම් තැබූ අවස්ථාව"
+      },
+      {
+        "id": "b",
+        "text": "සිදුහත් කුමරුන් ශිල්ප දැක්වූ අවස්ථාව"
+      },
+      {
+        "id": "c",
+        "text": "බුදුන් වහන්සේ පිරිනිවන් පෑ අවස්ථාව"
+      },
+      {
+        "id": "d",
+        "text": "රාහුල කුමරුන් උපත ලැබූ අවස්ථාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මහා පරිනිබ්බාන සූත්‍රයට අනුව බෝසතුන් මව්කුස පිළිසිඳ ගැනීම, උපත ලැබීම, බුදුවීම, දම්සක් පැවතුම් සූත්‍රය දේශනා කිරීම, ආයු සංස්කාරය අත්හැරීම සහ බුදුරජාණන් වහන්සේ පිරිනිවන් පෑම යන අවස්ථාවලදී මහ පොළොව කම්පා විය.",
+    "source_suggestion": "DN 16"
+  },
+  {
+    "id": "daham_437",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha belonging to the Adicca (Surya / Solar) clan as stated in the Pabbajja Sutta is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "royal-family",
+      "gotra",
+      "pabbajja-sutta"
+    ],
+    "question": "බුදුන් වහන්සේ කිනම් ගෝත්‍රයකට අයත්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "“ආදිච්ච” නම් ගෝත්‍රයට"
+      },
+      {
+        "id": "b",
+        "text": "“භාරද්වාජ” නම් ගෝත්‍රයට"
+      },
+      {
+        "id": "c",
+        "text": "“කාශ්‍යප” නම් ගෝත්‍රයට"
+      },
+      {
+        "id": "d",
+        "text": "“වාසිෂ්ඨ” නම් ගෝත්‍රයට"
+      }
+    ],
+    "answer": "a",
+    "explanation": "පබ්බජ්ජා සූත්‍රයෙහි 'ආදිච්චා නාම ගොත්තේන - සාකියා නාම ජාතියා' යනුවෙන් සඳහන් පරිදි බුදුරජාණන් වහන්සේ ගෝත්‍රයෙන් ආදිච්ච (සූර්ය) ගෝත්‍රයට හෙවත් ගෞතම ගෝත්‍රයට අයත් වූ සේක.",
+    "source_suggestion": "Snp 3.1"
+  },
+  {
+    "id": "daham_439",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Narasiha Gatha recited by Queen Yasodhara describing the Buddha's noble appearance to Prince Rahula are taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "narasiha-gatha",
+      "yasodhara",
+      "rahula"
+    ],
+    "question": "නරසීහ ගාථා වලින් කියවෙන්නේ කා ගැනද? එම ගාථා කීවේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාහුල කුමරුන් ගැන, සුද්ධෝදන රජතුමා."
+      },
+      {
+        "id": "b",
+        "text": "නන්ද කුමරුන් ගැන, මහා ප්‍රජාපතී ගෝතමී දේවිය."
+      },
+      {
+        "id": "c",
+        "text": "බුදුන් වහන්සේ ගැන, යශෝදරා දේවිය."
+      },
+      {
+        "id": "d",
+        "text": "සිදුහත් කුමරුන් ගැන, කිසාගෝතමී දේවිය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "කිඹුල්වත් පුරයේ වීථියෙහි පිඬුසිඟා වඩින බුදුරජාණන් වහන්සේගේ රූප ශෝභාව හා උතුම් ගුණ වර්ණනා කරමින් යශෝධරා දේවිය විසින් රාහුල කුමරුන්ට තම පියාණන් හඳුන්වා දීම සඳහා නරසීහ ගාථා පවසන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_440",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Five Ascetics attaining arahantship upon hearing the Anattalakkhana Sutta is taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "first-disciples",
+      "panca-vaggiya",
+      "sutta-pitaka"
+    ],
+    "question": "පස්වග මහණුන් රහත් වූයේ කිනම් සූත්‍රයක් ඇසීමෙන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධම්මචක්කප්පවත්තන සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "ආදිත්ත පරියාය සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "මහා සතිපට්ඨාන සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "ආනාත්ම ලක්ෂණ සූත්‍රය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "පස්වග මහණුන් දම්සක් පැවතුම් සූත්‍රය ශ්‍රවණය කිරීමෙන් පිළිවෙළින් සෝවාන් ඵලයට පත් වූ අතර, ඉන් පසු දේශනා කළ අනත්තලක්ඛණ (අනාත්ම ලක්ෂණ) සූත්‍රය ඇසීමෙන් පස්දෙනා වහන්සේම උතුම් රහත් ඵලයට පත් වූහ.",
+    "source_suggestion": "SN 22.59"
+  },
+  {
+    "id": "daham_441",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The meaning of the utterance 'Rahula jato, bandhanam jatam' upon the birth of Prince Rahula is taught in primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "rahula",
+      "renunciation"
+    ],
+    "question": "රාහුල යන්නෙන් අදහස් කලේ කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ගිහිගෙයි බැඳීමක් හටගත්තේය කියා."
+      },
+      {
+        "id": "b",
+        "text": "සියලු අදහස් ඉටුවන්නේය කියා."
+      },
+      {
+        "id": "c",
+        "text": "රාජ වංශය බබළවන්නේය කියා."
+      },
+      {
+        "id": "d",
+        "text": "මහත් සතුටක් උපන්නේය කියා."
+      }
+    ],
+    "answer": "a",
+    "explanation": "යශෝධරා දේවියට පුත් කුමරෙකු උපන් බව ඇසූ සිදුහත් බෝසතාණන් වහන්සේ 'රාහුලෝ ජාතෝ, බන්ධනං ජාතං' හෙවත් 'රාහුලයෙක් උපන්නේය, බැඳීමක් ඇති විය' යැයි කළ ප්‍රකාශය අනුව කුමරුට රාහුල යන නම තබන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_442",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Dhammacakkappavattana Sutta as the Buddha's first sermon is a foundational fact taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "first-sermon",
+      "sutta-pitaka",
+      "isipatana"
+    ],
+    "question": "බුදුන් වහන්සේගේ මංගල දේශනය සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා මංගල සූත්‍රය."
+      },
+      {
+        "id": "b",
+        "text": "ධම්ම චක්ක පවත්තන සූත්‍රය."
+      },
+      {
+        "id": "c",
+        "text": "කරණීය මෙත්ත සූත්‍රය."
+      },
+      {
+        "id": "d",
+        "text": "රතන සූත්‍රය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ බුද්ධත්වයෙන් පසු ඇසළ පුර පසළොස්වක පොහෝ දින බරණැස ඉසිපතන මිගදායේදී පස්වග මහණුන් උදෙසා පැවැත්වූ මංගල ධර්ම දේශනය ධම්මචක්කප්පවත්තන සූත්‍රයයි.",
+    "source_suggestion": "SN 56.11"
+  },
+  {
+    "id": "daham_443",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Princess Yasodhara belonging to the Koliya clan is taught in upper primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "royal-family",
+      "yasodhara"
+    ],
+    "question": "යශෝදරා දේවියගේ වංශය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මල්ල වංශය."
+      },
+      {
+        "id": "b",
+        "text": "ලිච්ඡවී වංශය."
+      },
+      {
+        "id": "c",
+        "text": "කෝලිය වංශය."
+      },
+      {
+        "id": "d",
+        "text": "මෞර්ය වංශය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "දෙව්දහ නුවර සුප්පබුද්ධ රජතුමාගේ සහ අමිතා දේවියගේ දියණිය වූ යශෝධරා දේවිය කෝලිය වංශයට අයත් කුමරියකි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_445",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha giving hair relics (Kesadhatu) to the merchants Tapassu and Bhalluka is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "tapassu-bhalluka",
+      "relics",
+      "enlightenment"
+    ],
+    "question": "තපස්සු භල්ලුක දෙදෙනාට වන්දනාමාන සඳහා බුදුන් දුන්නේ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කේෂධාතුන්"
+      },
+      {
+        "id": "b",
+        "text": "පාත්‍රාධාතුන්"
+      },
+      {
+        "id": "c",
+        "text": "ග්‍රීවාධාතුන්"
+      },
+      {
+        "id": "d",
+        "text": "අකුධාතුන්"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුද්ධත්වයෙන් සත්වන සතියෙහි රජායතන කිරිපලු රුක මුල වැඩ සිටි බුදුරජාණන් වහන්සේට විලඳ හා මී පැණි පූජා කළ තපස්සු භල්ලුක වෙළඳ දෙබෑයන්ට නිති වන්දනා කිරීම සඳහා කේශ ධාතූන් වහන්සේලා ලබා දුන් සේක.",
+    "source_suggestion": "Vin 1"
+  },
+  {
+    "id": "daham_447",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Receiving the first vivarana from Dipankara Buddha and the final (24th) vivarana from Kassapa Buddha as Jotipala Manavaka is taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhisattva",
+      "niyata-vivarana",
+      "previous-buddhas"
+    ],
+    "question": "අවසාන නියත විවරණ ලබා ගත්තේ කාගෙන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දීපංකර බුදුන්ගෙන්"
+      },
+      {
+        "id": "b",
+        "text": "කොණ්ඩඤ්ඤ බුදුන්ගෙන්"
+      },
+      {
+        "id": "c",
+        "text": "කාශ්‍යප බුදුන්ගෙන්"
+      },
+      {
+        "id": "d",
+        "text": "විපස්සී බුදුන්ගෙන්"
+      }
+    ],
+    "answer": "c",
+    "explanation": "අප මහා බෝසතාණන් වහන්සේ ප්‍රථම නියත විවරණය දීපංකර බුදුරජාණන් වහන්සේගෙන් ලබාගත් අතර, ජෝතිපාල මාණවකව සිටියදී අවසාන නියත විවරණය ලබා ගත්තේ කාශ්‍යප බුදුරජාණන් වහන්සේගෙනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_449",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Asita's nephew Nalaka ordaining upon his uncle's advice to await Prince Siddhartha's Enlightenment is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "asita",
+      "nalaka",
+      "bodhisattva"
+    ],
+    "question": "අසිත තවුසාගේ ඉල්ලීම පරිදි පැවදි වූ කුමරු කාගේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඔහුගේ නැගණියගේ පුත් නාලක කුමරු"
+      },
+      {
+        "id": "b",
+        "text": "ඔහුගේ සොහොයුරාගේ පුත් උපතිස්ස කුමරු"
+      },
+      {
+        "id": "c",
+        "text": "ඔහුගේ මිතුරාගේ පුත් යස කුල කුමරු"
+      },
+      {
+        "id": "d",
+        "text": "ඔහුගේ ගුරුවරයාගේ පුත් පිප්ඵලී කුමරු"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිදුහත් කුමරුන් මතු ඒකාන්තයෙන්ම බුදු වන බව දුටු අසිත (කාළදේවල) තවුසා තමාට ඒ වන විට ජීවත්ව සිටීමට නොලැබෙන බැවින්, තම නැගණියගේ පුත් නාලක කුමරුන්ට බුදුසසුන බලාපොරොත්තුවෙන් පැවිදි වන ලෙස උපදෙස් දුන්නේය.",
+    "source_suggestion": "Snp 3.11"
+  },
+  {
+    "id": "daham_451",
+    "category": "buddha-charitaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The noble mental virtues of the Buddha such as gratitude, compassion, and loving-kindness are taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "buddha-qualities",
+      "virtues"
+    ],
+    "question": "බුදුන් වහන්සේගේ ශේෂ්ඨ මානසික ගුණාංග ලියන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "රාජ්‍ය බලය, ධන සම්පත්තිය, පිරිවර බලය, වංශවත් බව, ශිල්ප දක්ෂතාව"
+      },
+      {
+        "id": "b",
+        "text": "ලාභ ලැබීම, යසස ලැබීම, ප්‍රශංසා ලැබීම, කීර්තිය ලැබීම, සැප ලැබීම"
+      },
+      {
+        "id": "c",
+        "text": "කලගුණ සැලකීම, කරුණාව, දයාව, මෛත්‍රීය, පරෝපකාර"
+      },
+      {
+        "id": "d",
+        "text": "දෙතිස් මහා පුරුෂ ලක්ෂණ, අසූ අනුව්‍යංජන, බඹයක් පමණ රැස් මාලාව, ස්වර්ණවර්ණ ඡවි වර්ණය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "කළගුණ සැලකීම, මහා කරුණාව, දයාව, මෛත්‍රිය සහ පරෝපකාරය යනාදිය බුදුරජාණන් වහන්සේගේ චරිතයෙන් ප්‍රකට වූ ශ්‍රේෂ්ඨ මානසික ගුණාංගයන් වේ.",
+    "source_suggestion": "UNKNOWN"
+  }
+]

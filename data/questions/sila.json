@@ -1,0 +1,775 @@
+[
+  {
+    "id": "daham_220",
+    "category": "sila",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The basic definition of Sila (restraint of mind, body and speech / bodily and verbal restraint) is taught early.",
+    "difficulty": "easy",
+    "tags": [
+      "sila",
+      "ethical-conduct"
+    ],
+    "question": "ශීලය යනු කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සිත, කය, වචනය සංවර වීම"
+      },
+      {
+        "id": "b",
+        "text": "කාම තණ්හා, භව තණ්හා හා විභව තණ්හා පැවැත්වීම"
+      },
+      {
+        "id": "c",
+        "text": "ලෝභ, ද්වේෂ හා මෝහ යන අකුසල මූලයන් වර්ධනය කිරීම"
+      },
+      {
+        "id": "d",
+        "text": "චක්ඛු, සෝත, ඝාන, ජිව්හා, කාය හා මන යන ඉන්ද්‍රියයන් හඳුනා ගැනීම"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සීලය යනු හික්මීම හෙවත් තිදොර (සිත, කය, වචනය) මනාව සංවර කර ගැනීමයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_228",
+    "category": "sila",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The meaning of the Five Precepts in Sinhala is taught in lower primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "five-precepts",
+      "panca-sila"
+    ],
+    "question": "පංච ශීලය තේරුම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රාණ ඝාතයෙන් වෙන්වීම, අදත්තාදානයෙන් වෙන්වීම, කාම මිත්ථාචාරයෙන් වෙන්වීම, මුසාවාදයෙන් වෙන්වීම, සුරාපානයෙන් වෙන්වීම."
+      },
+      {
+        "id": "b",
+        "text": "බොරු කීම, කේලම් කීම, පරුෂ වචන කීම හා හිස් වචන කීම යන සතරින් වෙන්වීම."
+      },
+      {
+        "id": "c",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව හා සමානාත්මතාවය යන ගුණධර්ම පුරුදු කිරීම."
+      },
+      {
+        "id": "d",
+        "text": "මෙත්තා, කරුණා, මුදිතා හා උපේක්ඛා යන සතර බඹවිහරණ වැඩීම."
+      }
+    ],
+    "answer": "a",
+    "explanation": "පංච ශීලය යනු ප්‍රාණඝාතයෙන්, අදත්තාදානයෙන්, කාම මිථ්‍යාචාරයෙන්, මුසාවාදයෙන් සහ සුරාපානයෙන් වැළකීම යන සිල්පද පහ ආරක්ෂා කිරීමයි.",
+    "source_suggestion": "AN 8.39"
+  },
+  {
+    "id": "daham_230",
+    "category": "sila",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifying the Five Precepts as the Nitya Sila (regular/permanent morality of a layperson) is basic Dhamma.",
+    "difficulty": "easy",
+    "tags": [
+      "five-precepts",
+      "nitya-sila"
+    ],
+    "question": "නිත්‍ය ශීලය යනු කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අෂ්ටාංග ශීලය."
+      },
+      {
+        "id": "b",
+        "text": "දස ශීලය."
+      },
+      {
+        "id": "c",
+        "text": "පංච ශීලය."
+      },
+      {
+        "id": "d",
+        "text": "උපසම්පදා ශීලය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "ගිහි බෞද්ධයෙකු විසින් දිනපතා නිතිපතා ආරක්ෂා කළ යුතු නිත්‍ය ශීලය වන්නේ පංච ශීලයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_239",
+    "category": "sila",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Defilements of Action (cattaro kammakilesa) from the Sigalovada Sutta are taught in grade 8-9 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "kamma-kilesa",
+      "sigalovada-sutta"
+    ],
+    "question": "සතර කර්ම ක්ලේෂ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඡන්දය, ද්වේෂය, භය, මෝහය"
+      },
+      {
+        "id": "b",
+        "text": "මෙත්තා, කරුණා, මුදිතා, උපේක්ඛා"
+      },
+      {
+        "id": "c",
+        "text": "දානය, ප්‍රිය වචනය, අර්ථචර්යාව, සමානාත්මතාවය"
+      },
+      {
+        "id": "d",
+        "text": "සතුන් මැරීම, සොරකම් කිරීම, කාමයෙහි වරදවා හැසිරීම, බොරු කීම"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිඟාලෝවාද සූත්‍රයෙහි සඳහන් සතර කර්ම ක්ලේෂ නම් සතුන් මැරීම (ප්‍රාණඝාතය), සොරකම් කිරීම (අදත්තාදානය), කාමයෙහි වරදවා හැසිරීම (කාමමිථ්‍යාචාරය) සහ බොරු කීම (මුසාවාදය) යන සතරයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_252",
+    "category": "sila",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Unwholesome Verbal Actions (vaci duccarita) are taught from grade 5.",
+    "difficulty": "easy",
+    "tags": [
+      "dasa-akusal",
+      "vaci-kamma",
+      "right-speech"
+    ],
+    "question": "වචනයෙන් කෙරෙන අකුසල් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බොරු කීම, කේලම් කීම, හිස්වචන කීම, පරුෂ වචන කීම."
+      },
+      {
+        "id": "b",
+        "text": "සතුන් මැරීම, සොරකම් කිරීම, කාමයෙහි වරදවා හැසිරීම, සුරාපානය කිරීම."
+      },
+      {
+        "id": "c",
+        "text": "ඡන්දය, ද්වේෂය, භය, මෝහය."
+      },
+      {
+        "id": "d",
+        "text": "අභිධ්‍යාව, ව්‍යාපාදය, මිථ්‍යාදෘෂ්ටිය, මෝහය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "වචනයෙන් සිදුවන අකුසල කර්ම හතර නම් බොරු කීම (මුසාවාද), කේලම් කීම (පිසුණාවාචා), පරුෂ වචන කීම (ඵරුසාවාචා) සහ හිස් වචන කීම (සම්ඵප්පලාප) යන සතරයි.",
+    "source_suggestion": "MN 41"
+  },
+  {
+    "id": "daham_271",
+    "category": "sila",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three bodily unwholesome actions (kaya duccarita) are taught from grade 5.",
+    "difficulty": "easy",
+    "tags": [
+      "dasa-akusal",
+      "kaya-kamma",
+      "sila"
+    ],
+    "question": "කයින් කරන ක්‍රියා අපිරිසිදු වීමට බලපාන හේතු මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බොරු කීම, කේලම් කීම, පරුෂ වචන කීම"
+      },
+      {
+        "id": "b",
+        "text": "අභිධ්‍යාව, ව්‍යාපාදය, මිථ්‍යාදෘෂ්ටිය"
+      },
+      {
+        "id": "c",
+        "text": "දානය, ශීලය, භාවනාව"
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රාණඝාතය, අදත්තාදානය, කාමමිත්‍යාචාරය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "කයින් සිදු කරන ක්‍රියා අපිරිසිදු වීමට බලපාන කාය දුෂ්චරිත තුන නම් ප්‍රාණඝාතය (සතුන් මැරීම), අදත්තාදානය (සොරකම් කිරීම) සහ කාමමිථ්‍යාචාරය (කාමයෙහි වරදවා හැසිරීම) යන තුනයි.",
+    "source_suggestion": "MN 41"
+  },
+  {
+    "id": "daham_289",
+    "category": "sila",
+    "levels": [
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four biases (satara agatiya) are taught in middle-grade Dhamma school and O/L syllabi.",
+    "difficulty": "easy",
+    "tags": [
+      "satara-agatiya",
+      "ethics",
+      "righteous-conduct"
+    ],
+    "question": "සතර අගතිය මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලෝභ, දෝස, මෝහ, මාන"
+      },
+      {
+        "id": "b",
+        "text": "කාමච්ඡන්ද, ව්‍යාපාද, ථීනමිද්ධ, විචිකිච්ඡා"
+      },
+      {
+        "id": "c",
+        "text": "දිට්ඨි, මාන, උද්ධච්ච, අවිජ්ජා"
+      },
+      {
+        "id": "d",
+        "text": "ඡන්ද, ද්වේෂ, මෝහ, භය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "යුක්තිය හා සාධාරණත්වය ඉටු කිරීමේදී පුද්ගලයෙකු නොමඟට යොමු වන කරුණු සතර වන්නේ ඡන්ද (කැමැත්ත), ද්වේෂ (තරහව), මෝහ (මුළාව) සහ භය (බිය) යන සතර අගතියයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_291",
+    "category": "sila",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four defilements of action (satara kamma-kilesa) from the Sigalovada Sutta are core Grade 7-8 and O/L topics.",
+    "difficulty": "easy",
+    "tags": [
+      "kamma-kilesa",
+      "sigalovada-sutta",
+      "five-precepts"
+    ],
+    "question": "සතර කර්ම ක්ලේශයන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රාණ ඝාතය, බොරු කීම, සොරකම් කිරීම, කාමය වරදවා හැසිරීම"
+      },
+      {
+        "id": "b",
+        "text": "බොරු කීම, කේලාම් කීම, පරුෂ වචන කීම, හිස් වචන කීම"
+      },
+      {
+        "id": "c",
+        "text": "අභිධ්‍යාව, ව්‍යාපාදය, මිථ්‍යා දෘෂ්ටිය, සුරාපානය"
+      },
+      {
+        "id": "d",
+        "text": "ඡන්දයෙන් යාම, ද්වේෂයෙන් යාම, භයෙන් යාම, මෝහයෙන් යාම"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිඟාලෝවාද සූත්‍රයට අනුව පුද්ගලයෙකුගේ ක්‍රියාවන් කිලිටි කරන සතර කර්ම ක්ලේශයන් වන්නේ ප්‍රාණඝාතය, සොරකම් කිරීම, කාමයෙහි වරදවා හැසිරීම සහ බොරු කීමයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_295",
+    "category": "sila",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four false friends (mitta-patirupaka) from the Sigalovada Sutta are standard Grade 7-8 and O/L syllabus material.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "friendship",
+      "mitta-patirupaka"
+    ],
+    "question": "මිත්‍ර ප්‍රතිරූපයන් සතර මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අඤඤදත්තර, වචී පරම, අනුප්පියභානි, අපාය සහාය"
+      },
+      {
+        "id": "b",
+        "text": "උපකාරක මිත්‍ර, සමාන සුඛදුක්ඛ මිත්‍ර, අත්ථක්ඛායී මිත්‍ර, අනුකම්පක මිත්‍ර"
+      },
+      {
+        "id": "c",
+        "text": "දාන, ප්‍රියවචන, අර්ථචර්යා, සමානාත්මතා"
+      },
+      {
+        "id": "d",
+        "text": "ඡන්ද, ද්වේෂ, භය, මෝහ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සිඟාලෝවාද සූත්‍රයට අනුව මිතුරු වෙසින් පෙනී සිටින ව්‍යාජ මිතුරන් (මිත්‍ර ප්‍රතිරූපකයන්) සතර දෙනා වන්නේ අඤ්ඤදත්ථුහර, වචීපරම, අනුප්පියභාණී සහ අපායසහාය යන සතර දෙනායි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_296",
+    "category": "sila",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four noble friends (kalyana/suhada mitta) from the Sigalovada Sutta are taught in Grade 7-8 and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "kalyana-mitta",
+      "friendship"
+    ],
+    "question": "කල්‍යාණ මිත්‍රයින් හතර දෙනා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අඤ්ඤදත්ථුහර මිත්‍ර, වචීපරම මිත්‍ර, අනුප්පියභාණී මිත්‍ර, අපායසහාය මිත්‍ර"
+      },
+      {
+        "id": "b",
+        "text": "අත්ථි සුඛ, භෝග සුඛ, අනණ සුඛ, අනවජ්ජ සුඛ"
+      },
+      {
+        "id": "c",
+        "text": "උපකාරක මිත්‍ර, සමාන සුඛ දුක්ඛ මිත්‍ර, අත්තක්ඛායී මිත්‍ර, අනුකම්පක මිත්‍ර"
+      },
+      {
+        "id": "d",
+        "text": "උට්ඨාන සම්පදා, ආරක්ඛ සම්පදා, කල්‍යාණමිත්තතා, සමජීවිකතා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිඟාලෝවාද සූත්‍රයේදී බුදුරජාණන් වහන්සේ පෙන්වා දුන් සැබෑ හිතවත් කල්‍යාණ මිත්‍රයන් සතර දෙනා වන්නේ උපකාරක මිත්‍ර, සමාන සුඛදුක්ඛ මිත්‍ර, අත්ථක්ඛායී මිත්‍ර සහ අනුකම්පක මිත්‍ර යන සතර දෙනායි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_301",
+    "category": "sila",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Catuparisuddhi sila (the fourfold moral restraint of a bhikkhu) is taught in senior Dhamma school and Dharmacharya levels.",
+    "difficulty": "medium",
+    "tags": [
+      "catuparisuddhi-sila",
+      "monastic-discipline",
+      "sila"
+    ],
+    "question": "සතර සංවර සීලය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පංච සීලය, අෂ්ටාංග සීලය, නවාංග සීලය, දස සීලය"
+      },
+      {
+        "id": "b",
+        "text": "ප්‍රාතිමෝක්‍ෂ, ඉන්ද්‍රීය, ආජීව පාරිශුද්ධ, ප්‍රත්‍ය සන්නිශ්‍රිත"
+      },
+      {
+        "id": "c",
+        "text": "චීවර, පිණ්ඩපාත, සේනාසන, ගිලානප්‍රත්‍ය"
+      },
+      {
+        "id": "d",
+        "text": "කාය සංවරය, වචී සංවරය, මනෝ සංවරය, ආජීව සංවරය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "උපසම්පදා භික්ෂූන් වහන්සේ නමක් විසින් ආරක්ෂා කළ යුතු සතර සංවර සීලය (චතුපාරිශුද්ධි සීලය) වන්නේ ප්‍රාතිමෝක්ෂ සංවර සීලය, ඉන්ද්‍රිය සංවර සීලය, ආජීව පාරිශුද්ධි සීලය සහ ප්‍රත්‍යසන්නිශ්‍රිත සීලයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_305",
+    "category": "sila",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five wrong trades (panca miccha-vanijja) under Right Livelihood are taught from Grade 6-7 through O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "samma-ajiva",
+      "five-wrong-trades",
+      "noble-eightfold-path"
+    ],
+    "question": "පුද්ගලයෙකු විසින් නොකළ යුතු වෙළඳාම් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධාන්‍ය වෙළඳාම, රෙදිපිළි වෙළඳාම, ඖෂධ වෙළඳාම, සුවඳ ද්‍රව්‍ය වෙළඳාම, ලෝහ වෙළඳාම"
+      },
+      {
+        "id": "b",
+        "text": "සත්ව වෙළඳාම, මාංස වෙළඳාම, විෂ වර්ග තවළඳාම, ආයුධ වෙළඳාම, මත් ද්‍රව්‍ය වෙළඳාම"
+      },
+      {
+        "id": "c",
+        "text": "කෘෂිකර්මාන්තය, ගව පාලනය, රාජ්‍ය සේවය, වෙළහෙළඳාම, ශිල්ප කර්මාන්තය"
+      },
+      {
+        "id": "d",
+        "text": "බොරු කීම, කේලාම් කීම, පරුෂ වචන කීම, හිස් වචන කීම, මිථ්‍යා දෘෂ්ටිය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "වණිජ්ජා සූත්‍රයට අනුව සම්මා ආජීවය රකින ගිහි බෞද්ධයෙකු විසින් නොකළ යුතු වෙළඳාම් පහ වන්නේ සත්ත්ව වෙළඳාම, මාංස වෙළඳාම, ආයුධ වෙළඳාම, විෂ වර්ග වෙළඳාම සහ මත්ද්‍රව්‍ය වෙළඳාමයි.",
+    "source_suggestion": "AN 5.177"
+  },
+  {
+    "id": "daham_312",
+    "category": "sila",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five precepts (panca sila) in Pali are learned by young children in early Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "five-precepts",
+      "panca-sila",
+      "daily-conduct"
+    ],
+    "question": "පංච ශීලය නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "විකාල භෝජනා වේරමණී, නච්ච ගීත වාදිත විසූක දස්සනා වේරමණී, මාලා ගන්ධ විලේපන ධාරණ මණ්ඩන විභූසනට්ඨානා වේරමණී, උච්චාසයන මහාසයනා වේරමණී, ජාතරූප රජත පටිග්ගහණා වේරමණී"
+      },
+      {
+        "id": "b",
+        "text": "මුසාවාදා වේරමණී, පිසුණාවාචා වේරමණී, ඵරුසාවාචා වේරමණී, සම්ඵප්පලාපා වේරමණී, මිච්ඡා ආජීවා වේරමණී"
+      },
+      {
+        "id": "c",
+        "text": "බුද්ධං සරණං ගච්ඡාමි, ධම්මං සරණං ගච්ඡාමි, සංඝං සරණං ගච්ඡාමි, දුතියම්පි බුද්ධං සරණං ගච්ඡාමි, තතියම්පි බුද්ධං සරණං ගච්ඡාමි"
+      },
+      {
+        "id": "d",
+        "text": "පාණාතිපාතා වේරමණී, අදින්නාදානා වේරමණී, කාමේසු මිච්ඡාචාරා වේරමණී, මුසාවාදා වේරමණී, සුරාමේරය මජ්ජපමාදට්ඨානා වේරමණී"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ගිහි බෞද්ධයාගේ නිත්‍ය ශීලය වන පංච ශීලයට ප්‍රාණඝාතයෙන් වැළකීම, සොරකමින් වැළකීම, කාම මිථ්‍යාචාරයෙන් වැළකීම, බොරු කීමෙන් වැළකීම සහ මත්ද්‍රව්‍ය භාවිතයෙන් වැළකීම යන සිකපද පහ අයත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_316",
+    "category": "sila",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six directions (sadisa) in the Sigalovada Sutta are a key topic in Grade 7-8 and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "six-directions",
+      "social-ethics"
+    ],
+    "question": "සදිසා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "නැගෙනහිර දිශාව ගුරුවරු, දකුණු දිශාව මව්පියන්, බටහිර දිශාව මිත්‍රයෝ, උතුරු දිශාව අඹු දරුවෝ, යට දිශාව මහණ බමුණෝ, උඩ දිශාව කම්කරුවන්"
+      },
+      {
+        "id": "b",
+        "text": "නැගෙනහිර දිශාව මව්පියන්, දකුණු දිශාව ගුරුවරු, බටහිර දිශාව අඹු දරුවෝ, උතුරු දිශාව මිත්‍රයෝ, යට දිශාව දැසි දස් කම්කරුවන්, උඩ දිශාව මහණ බමුණෝ"
+      },
+      {
+        "id": "c",
+        "text": "නැගෙනහිර දිශාව රජතුමා, දකුණු දිශාව අමාත්‍යවරු, බටහිර දිශාව නෑදෑයෝ, උතුරු දිශාව අසල්වැසියෝ, යට දිශාව ගොවියෝ, උඩ දිශාව වෙළෙන්දෝ"
+      },
+      {
+        "id": "d",
+        "text": "නැගෙනහිර දිශාව බුදුරජාණන් වහන්සේ, දකුණු දිශාව ධර්ම රත්නය, බටහිර දිශාව සංඝ රත්නය, උතුරු දිශාව දෙවිවරු, යට දිශාව මනුෂ්‍යයෝ, උඩ දිශාව බ්‍රහ්මයෝ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිඟාලෝවාද සූත්‍රයේදී බුදුරජාණන් වහන්සේ සදිසා නමස්කාරය අර්ථවත් කරමින් නැගෙනහිර මව්පියන්ටත්, දකුණ ගුරුවරුන්ටත්, බටහිර අඹුදරුවන්ටත්, උතුර මිතුරන්ටත්, යට දැසිදස් කම්කරුවන්ටත්, උඩ මහණ බමුණන්ටත් උපමා කරමින් යුතුකම් ඉටු කළ යුතු ආකාරය පෙන්වා දුන් සේක.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_318",
+    "category": "sila",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five factors required to complete the unwholesome kamma of stealing (adinnadana) are taught in Grade 8-9.",
+    "difficulty": "medium",
+    "tags": [
+      "adinnadana",
+      "five-precepts",
+      "kamma-pattha"
+    ],
+    "question": "සොරකම් කිරීමේ අකුසල කර්මය සිදුවීමට සම්පූර්ණ විය යුතු අංග නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "අන්සතු දෙයක් වීම, අන්සතු බව දැනගැනීම, සොරකම් කිරීමේ සිත පහළ වීම, තිබූ තැනින් ඉවත් කිරීම, පැහැර ගැනීම."
+      },
+      {
+        "id": "b",
+        "text": "ප්‍රාණියෙකු වීම, ප්‍රාණියෙකු බව දැනගැනීම, මරණ චේතනාව ඇතිවීම, මැරීමට උපක්‍රම යෙදීම, ඒ උපක්‍රමයෙන් මරණය සිදුවීම."
+      },
+      {
+        "id": "c",
+        "text": "අසත්‍ය කරුණක් වීම, රවටන චේතනාව ඇතිවීම, එය ප්‍රකාශ කිරීමට උත්සාහ ගැනීම, අසන්නා විසින් තේරුම් ගැනීම, අසත්‍යය තහවුරු කිරීම."
+      },
+      {
+        "id": "d",
+        "text": "මත්ද්‍රව්‍යයක් වීම, මත්වන බව දැනගැනීම, පානය කිරීමේ කැමැත්ත ඇතිවීම, පානය කිරීමට උත්සාහ ගැනීම, ශරීරගත කර ගැනීම."
+      }
+    ],
+    "answer": "a",
+    "explanation": "අදත්තාදාන (සොරකම් කිරීමේ) අකුසල කර්ම පථය සම්පූර්ණ වීමට නම් අන්සතු වස්තුවක් වීම, අන්සතු බව දැන ගැනීම, සොරා ගැනීමේ සිත (ථෙය්‍ය චිත්තය) ඇති වීම, ගැනීමට උපක්‍රම යෙදීම සහ තිබූ තැනින් ඉවත් කර පැහැර ගැනීම යන අංග පහ සම්පූර්ණ විය යුතුය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_320",
+    "category": "sila",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The causes of ruin of wealth (bhoga-vinasa / parihani dhamma) from the Sigalovada Sutta are taught in Grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "bhoga-apayamukha",
+      "parihani-dhamma"
+    ],
+    "question": "සප්ත පරිහානි ධර්ම මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සතුන් මැරීම, සොරකම් කිරීම, වැරදි කාම සේවනය, බොරු කීම, කේලාම් කීම, පරුෂ වචන කීම."
+      },
+      {
+        "id": "b",
+        "text": "මත්පැන් පානය කිරීම, අවේලාවේ වීථි සංචාරය, සීමාරහිත ලෙස නෘත්‍ය බැලීමට යාම, දූ කෙලියට ඇබ්බැහි වීම, නරක මිත්‍ර ආශ්‍රය, අලසකම."
+      },
+      {
+        "id": "c",
+        "text": "නිතර රැස්වීම, සමගිව කටයුතු කිරීම, නීති කඩ නොකිරීම, වැඩිහිටියන්ට සැලකීම, කාන්තාවන් ආරක්ෂා කිරීම, පූජනීය ස්ථාන රැක ගැනීම."
+      },
+      {
+        "id": "d",
+        "text": "කාමච්ඡන්දය, ව්‍යාපාදය, ථීනමිද්ධය, උද්ධච්චකුක්කුච්චය, විචිකිච්ඡාව, අවිද්‍යාව."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිඟාලෝවාද සූත්‍රයේදී පුද්ගලයෙකුගේ ධනය හා දියුණුව පිරිහීමට හේතු වන කරුණු (භෝග විනාශ මුඛ) ලෙස මත්පැන් පානය, අවේලාවේ වීථි සංචාරය, නිතර නැටුම් ගැයුම් බැලීමට යාම, දූ කෙළියෙහි යෙදීම, පාප මිත්‍ර සේවනය සහ අලසකම පෙන්වා දී ඇත.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_323",
+    "category": "sila",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five constituent factors of panatipata (killing) are taught in middle-to-upper Dhamma school classes.",
+    "difficulty": "easy",
+    "tags": [
+      "panatipata",
+      "five-precepts",
+      "kamma-pattha"
+    ],
+    "question": "ප්‍රාණඝාත අකුසලයක් සිදුවීමට සම්පූර්ණ වියයුතු අංග කවරේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අන්සතු දෙයක් වීම, අන්සතු බව දැනගැනීම, සොරකම් කිරීමේ සිත පහළ වීම, ගැනීමට උපක්‍රම යෙදීම, තිබූ තැනින් ඉවත් කර පැහැර ගැනීම."
+      },
+      {
+        "id": "b",
+        "text": "අසත්‍ය කරුණක් වීම, රවටන අදහස ඇතිවීම, ප්‍රකාශ කිරීමේ උත්සාහය, අසන්නාට වැටහීම, අසත්‍යය පිළිගැන්වීම."
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රාණියකුවීම, ප්‍රාණියකු බව දැනගැනීම, මරණ චේතනාව ඇතිවීම, මැරීමට උපක්‍රමයක් යෙදීම, මරණය සිදුකිරීම."
+      },
+      {
+        "id": "d",
+        "text": "බිඳිය හැකි පිරිසක් වීම, බිඳවීමේ අදහස ඇතිවීම, කේලාම් කීමට උත්සාහ ගැනීම, අසන්නාට එය වැටහීම, සමගිය බිඳී යාම."
+      }
+    ],
+    "answer": "c",
+    "explanation": "ප්‍රාණඝාත අකුසල කර්ම පථය සම්පූර්ණ වීමට නම් පණ ඇති සත්ත්වයෙකු වීම, පණ ඇති සත්ත්වයෙකු බව දැන ගැනීම, මැරීමේ චේතනාව ඇති වීම, මැරීමට උපක්‍රමයක් යෙදීම සහ එම උපක්‍රමය නිසා ජීවිතක්ෂයට පත් වීම යන අංග පහ සම්පූර්ණ විය යුතුය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_345",
+    "category": "sila",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The ten wholesome courses of action (dasa kusal) are taught in elementary and middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "dasa-kusal",
+      "kusala-kammapatha",
+      "sila"
+    ],
+    "question": "දස කුසල් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "දානය, ශීලය, භාවනාව, පින් දීම, පින් ගැනීම, වතාවත් කිරීම, පිදිය යුත්තන් පිදීම, ධර්ම දේශනා කිරීම, ධර්මය ශ්‍රවණය කිරීම, දෘෂ්ටිය ඍජු බව"
+      },
+      {
+        "id": "b",
+        "text": "දාන පාරමිතාව, ශීල පාරමිතාව, නෙක්ඛම්ම පාරමිතාව, පඤ්ඤා පාරමිතාව, වීරිය පාරමිතාව, ඛන්ති පාරමිතාව, සච්ච පාරමිතාව, අධිට්ඨාන පාරමිතාව, මෙත්තා පාරමිතාව, උපේක්ඛා පාරමිතාව"
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රාණඝාතයෙන් වෙන්වීම, අදත්තාදානයෙන් වෙන්වීම, අබ්‍රහ්මචරියාවෙන් වෙන්වීම, මුසාවාදයෙන් වෙන්වීම, මත්ද්‍රව්‍ය භාවිතයෙන් වෙන්වීම, විකාල භෝජනයෙන් වෙන්වීම, නැටුම් ගැයුම්වලින් වෙන්වීම, මල් ගඳ විලවුන්වලින් වෙන්වීම, උස් අසුන්වලින් වෙන්වීම, රන් රිදී පිළිගැනීමෙන් වෙන්වීම"
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රාණ ඝාතයෙන් වෙන්වීම, අදත්තාදානයෙන් වෙන්වීම, කාම මිත්‍යාචාරයෙන් වෙන් වීම, මුසාවාදයෙන් වෙන් වීම, පිසුණාවාචයෙන් වෙන් මීම, පරුෂ වචනයෙන් වෙන් වීම, සම්ප්‍රප්ලාපයෙන් වෙන් වීම, අභිධ්‍යාවෙන් වෙන්වීම, ව්‍යාපාදයෙන් වෙන් වීම, මිත්‍යා දෘෂ්ටියෙන් වෙන් වීම"
+      }
+    ],
+    "answer": "d",
+    "explanation": "කයින් සිදුවන කුසල් තුනත්, වචනයෙන් සිදුවන කුසල් සතරත්, මනසින් සිදුවන කුසල් තුනත් එක්ව ගත් කල දස කුසල කර්ම පථය නමින් හැඳින්වේ.",
+    "source_suggestion": "MN 41"
+  },
+  {
+    "id": "daham_391",
+    "category": "sila",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five duties of a pupil towards a teacher from the Sigalovada Sutta are taught from late primary to early middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "duties",
+      "lay-ethics"
+    ],
+    "question": "සිසුන් වසින් තම ගුරුවරයාට ඉටු කළ යුතු යුතුකම් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මනාව හික්මවීම, මනාව ඉගැන්වීම, ශිල්ප ශාස්ත්‍ර මැනවින් කියා දීම, මිතුරන්ට හඳුන්වා දීම, ආරක්ෂාව සැලසීම."
+      },
+      {
+        "id": "b",
+        "text": "දැක හුනස්නෙන් නැගිටීම, උපස්ථාන කිරීම, ගුරු බසට සවන් දීම, අත් පා මෙහෙවර කටයුතු කර දීම, හොඳින් ඉගෙන ගැනීම."
+      },
+      {
+        "id": "c",
+        "text": "පවින් වැළැක්වීම, යහපතෙහි යෙදවීම, ශිල්ප ශාස්ත්‍ර ඉගැන්වීම, සුදුසු කල ආවාහ විවාහ කර දීම, දායාද පවරා දීම."
+      },
+      {
+        "id": "d",
+        "text": "ගරු බුහුමන් දැක්වීම, අවමන් නොකිරීම, සතුටු සිතින් පිළිගැනීම, දානමාන පිරිනැමීම, දහම් ඇසීම."
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිඟාලෝවාද සූත්‍රයට අනුව ශිෂ්‍යයා විසින් දකුණු දිශාව නියෝජනය කරන ගුරුවරයාට ඉටු කළ යුතු යුතුකම් පහ වන්නේ ගුරුවරයා දැක හුනස්නෙන් නැගිටීම, උවටැන් කිරීම, කීකරුව ඇහුම්කන් දීම, අත්පා මෙහෙවර කිරීම සහ මැනවින් ශිල්ප ඉගෙන ගැනීමයි.",
+    "source_suggestion": "DN 31"
+  },
+  {
+    "id": "daham_452",
+    "category": "sila",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The duties of children towards their parents from the Sigalovada Sutta are taught in upper primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sigalovada-sutta",
+      "duties",
+      "parents"
+    ],
+    "question": "දෙමාපියන්ට දරුවන්ගෙන් ඉටුවිය යුතු යුතුකම් ලියන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පවින් වැළැක්වීම, යහපතෙහි යෙදවීම, ශිල්ප ඉගැන්වීම, සුදුසු කල ආවාහ විවාහ කරදීම."
+      },
+      {
+        "id": "b",
+        "text": "දුක සැප විමසීම, ආගන්තුක සත්කාර කිරීම, ප්‍රිය වචන කතා කිරීම, සමානාත්මතාවයෙන් සැලකීම."
+      },
+      {
+        "id": "c",
+        "text": "දැක හුනස්නෙන් නැගිටීම, උවටැන් කිරීම, කීකරුව සවන් දීම, මැනවින් ශිල්ප ඉගෙන ගැනීම."
+      },
+      {
+        "id": "d",
+        "text": "දෙමාපියන් පෝෂණය කිරීම, කුල වංශය රැක ගැනීම, දේපල රැක ගැනීම. මිය ගිය දෙමාපියන්ට පින් දීම."
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිඟාලෝවාද සූත්‍රයට අනුව දරුවන් විසින් දෙමාපියන්ට ඉටු කළ යුතු යුතුකම් වන්නේ දෙමාපියන් පෝෂණය කිරීම, ඔවුන්ගේ කටයුතු කර දීම, කුල පරපුර රැක ගැනීම, දායාද නිසි ලෙස පරිහරණය කිරීම සහ මියගිය පසු පින් අනුමෝදන් කිරීමයි.",
+    "source_suggestion": "DN 31"
+  }
+]

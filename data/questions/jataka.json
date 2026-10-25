@@ -1,0 +1,270 @@
+[
+  {
+    "id": "daham_069",
+    "category": "jataka",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the Chanda Kinnara Jataka preached to Princess Yasodhara.",
+    "difficulty": "easy",
+    "tags": [
+      "jataka-stories",
+      "yasodhara"
+    ],
+    "question": "යශෝධරා දේවියට දේශනා කල ජාතක කතාව කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සඳ කිඳුරු ජාතකය"
+      },
+      {
+        "id": "b",
+        "text": "වෙස්සන්තර ජාතකය"
+      },
+      {
+        "id": "c",
+        "text": "මහා ධර්මපාල ජාතකය"
+      },
+      {
+        "id": "d",
+        "text": "සාම ජාතකය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "යසෝදරා දේවියගේ පෙර භවයන්හි පැවති පතිභක්තිය හා ගුණධර්ම අගයමින් බුදුරජාණන් වහන්සේ ඇයගේ මාලිගාවේදී සඳකිඳුරු ජාතකය දේශනා කළ සේක.",
+    "source_suggestion": "JA 485"
+  },
+  {
+    "id": "daham_070",
+    "category": "jataka",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the Maha Dhammapala Jataka preached to King Suddhodana.",
+    "difficulty": "easy",
+    "tags": [
+      "jataka-stories",
+      "suddhodana"
+    ],
+    "question": "සුද්ධෝදන රජතුමාට දේශනා කළ කළ ජාතක කතාව කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සඳ කිඳුරු ජාතකය"
+      },
+      {
+        "id": "b",
+        "text": "මහා ධර්මපාල ජාතකය"
+      },
+      {
+        "id": "c",
+        "text": "මඛාදේව ජාතකය"
+      },
+      {
+        "id": "d",
+        "text": "කුස ජාතකය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සුද්ධෝදන මහ රජතුමාට කරුණු පහදා දෙමින් බුදුරජාණන් වහන්සේ මහා ධර්මපාල ජාතකය දේශනා කොට රජතුමාව අනාගාමී ඵලයෙහි පිහිටුවූ සේක.",
+    "source_suggestion": "JA 447"
+  },
+  {
+    "id": "daham_140",
+    "category": "jataka",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Understanding what Jataka stories are (accounts of the Bodhisatta fulfilling the ten paramitas across past lives) is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "jataka-stories",
+      "bodhisattva",
+      "ten-parametis"
+    ],
+    "question": "ජාතක කතා යනු මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුදුබව ලැබීමට උපස්තම්භක වූ දස පාරමී, දහම් බෝසතුන් විසින් විවිධ භවයන්හී පුරාලූ ආකාරය දැක්වෙන කුහුල දනවන කතා පෙළට ජාතක කතා යයි කියනු ලැබේ."
+      },
+      {
+        "id": "b",
+        "text": "බුදුරජාණන් වහන්සේ විසින් භික්ෂු භික්ෂුණී උභය සංඝයාගේ හික්මීම උදෙසා පනවන ලද විනය ශික්ෂාපද සහ නීතිරීති ඇතුළත් දේශනා පෙළට ජාතක කතා යයි කියනු ලැබේ."
+      },
+      {
+        "id": "c",
+        "text": "ලක්දිව රජ කළ සැදැහැවත් රජවරුන් විසින් වෙහෙර විහාර හා වැව් අමුණු ඉදිකරමින් බුදු සසුන ආරක්ෂා කළ ආකාරය දැක්වෙන වංශකතා පෙළට ජාතක කතා යයි කියනු ලැබේ."
+      },
+      {
+        "id": "d",
+        "text": "සිත, චෛතසික, රූප සහ නිර්වාණ යන පරමාර්ථ ධර්මයන් පිළිබඳව ගැඹුරින් විග්‍රහ කෙරෙන අභිධර්ම පිටකයේ ඇතුළත් ධර්ම කොටස්වලට ජාතක කතා යයි කියනු ලැබේ."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සම්මා සම්බුද්ධත්වය ලැබීම පිණිස අප මහා බෝසතාණන් වහන්සේ විසින් අතීත භවයන්හිදී දස පාරමී ධර්මයන් සම්පූර්ණ කළ ආකාරය විස්තර කෙරෙන කතා පුවත් ජාතක කතා ලෙස හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_427",
+    "category": "jataka",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "grade-10"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the names of the three sons of Queen Dhamma in the Culladhammapala / related narrative tradition is a middle-to-upper grade detail.",
+    "difficulty": "hard",
+    "tags": [
+      "royal-family",
+      "buddhist-literature"
+    ],
+    "question": "ධර්ම මෙහෙසියගේ දරුවන් තිදෙනා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උරුවෙල්, නදී, ගයා"
+      },
+      {
+        "id": "b",
+        "text": "අනුරුද්ධ, මහානාම, භද්දිය"
+      },
+      {
+        "id": "c",
+        "text": "සුමන, අසෝක, තිස්ස"
+      },
+      {
+        "id": "d",
+        "text": "ජාලිය, කෘෂ්ණජිනා, සුමේධ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ධර්ම මෙහෙසියගේ දරුවන් තිදෙනා වූයේ සුමන, අසෝක සහ තිස්ස යන කුමාරවරුන් තිදෙනාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_428",
+    "category": "jataka",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Candakinnara Jataka preached in reference to Princess Yasodhara's devotion is taught in primary and early middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sanda-kinduru-jataka",
+      "yasodhara",
+      "jataka-stories"
+    ],
+    "question": "සඳ කිඳුරු ජාතකය දේශනා කලේ කාටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා ප්‍රජාපතී ගෝතමී දේවියට"
+      },
+      {
+        "id": "b",
+        "text": "ඛේමා දේවියට"
+      },
+      {
+        "id": "c",
+        "text": "මල්ලිකා දේවියට"
+      },
+      {
+        "id": "d",
+        "text": "යශෝධරා දේවියට"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ කිඹුල්වත් පුරයට වැඩම කළ අවස්ථාවේදී යශෝධරා දේවියගේ පතිභක්තිය හා පෙර භවයන්හිදී දැක්වූ සෙනෙහස අගය කරමින් සඳකිඳුරු ජාතකය දේශනා කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_436",
+    "category": "jataka",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha preaching the Vessantara Jataka to the Sakyans in Kapilavatthu after the Twin Miracle and Pokkharavassa rain is taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "vessantara-jataka",
+      "sakyans",
+      "jataka-stories"
+    ],
+    "question": "වෙස්සන්තර ජාතකය දේශනා කලේ කාටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහනුවර මගධ වැසියන්ට"
+      },
+      {
+        "id": "b",
+        "text": "සැවැත්නුවර කෝසල වැසියන්ට"
+      },
+      {
+        "id": "c",
+        "text": "විශාලා මහනුවර ලිච්ඡවීන්ට"
+      },
+      {
+        "id": "d",
+        "text": "කිඹුල්වත්පුර ශාක්‍යන්ට"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ කිඹුල්වත් පුරයට වැඩම කළ අවස්ථාවේදී ශාක්‍යයන්ගේ මානය දුරු කොට, එහි ඇදහැළුණු පොක්ඛරවස්ස වැස්ස නිමිති කරගෙන කිඹුල්වත්පුර ශාක්‍ය ඥාතීන්ට වෙස්සන්තර ජාතකය දේශනා කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_444",
+    "category": "jataka",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Vessantara Jataka preached to the Sakyan clan upon the Buddha's visit to Kapilavatthu is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "vessantara-jataka",
+      "sakyans",
+      "jataka-stories"
+    ],
+    "question": "බුදුන් වහන්සේ ශාක්‍යන්ට දෙසූ ප්‍රථම ජාතක කතාව කුක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සඳකිඳුරු ජාතකය."
+      },
+      {
+        "id": "b",
+        "text": "මහා ධර්මපාල ජාතකය."
+      },
+      {
+        "id": "c",
+        "text": "සාම ජාතකය."
+      },
+      {
+        "id": "d",
+        "text": "වෙස්සන්තර ජාතකය."
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේ කිඹුල්වත් පුරයට වැඩම කළ පසු දින රැස්වූ ශාක්‍ය වංශික ඥාති පිරිසට පොක්ඛරවස්ස වැස්ස නිමිති කරගෙන වෙස්සන්තර ජාතකය දේශනා කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  }
+]

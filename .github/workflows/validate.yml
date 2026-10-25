@@ -1,0 +1,46 @@
+name: Validate dataset
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate questions
+        run: python scripts/validate.py
+
+      - name: Check for duplicates
+        run: python scripts/find_duplicates.py --fail-on exact
+
+      - name: Publish duplicate report
+        if: always()
+        run: |
+          if [ -f reports/duplicates.md ]; then
+            cat reports/duplicates.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Build exports
+        run: python scripts/build.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: daham-danuma-dist
+          path: |
+            dist/
+            reports/

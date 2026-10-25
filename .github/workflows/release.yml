@@ -1,0 +1,65 @@
+name: Release
+
+# Publish a GitHub release (tag like v0.2.0) to:
+#   1. attach JSON / JSONL / CSV files to the release
+#   2. mirror the dataset to Hugging Face (needs the HF_TOKEN secret)
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      HF_DATASET_REPO: ${{ vars.HF_DATASET_REPO || 'sdkaluwitharana/daham-danuma' }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt huggingface_hub
+
+      - name: Validate and build
+        run: |
+          python scripts/validate.py --quiet
+          python scripts/find_duplicates.py --fail-on exact
+          python scripts/build.py
+
+      - name: Attach files to the GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload "${{ github.event.release.tag_name }}" \
+            dist/daham_danuma.json dist/daham_danuma.jsonl dist/daham_danuma.csv dist/stats.json \
+            --clobber
+
+      - name: Mirror to Hugging Face
+        if: env.HF_TOKEN != ''
+        run: |
+          mkdir -p hf/data
+          cp huggingface/README.md hf/README.md
+          cp dist/daham_danuma.jsonl hf/data/train.jsonl
+          cp dist/daham_danuma.csv hf/data/daham_danuma.csv
+          cp LICENSE hf/LICENSE
+          python - <<'PY'
+          import os
+          from huggingface_hub import HfApi
+          api = HfApi(token=os.environ["HF_TOKEN"])
+          repo = os.environ["HF_DATASET_REPO"]
+          api.create_repo(repo, repo_type="dataset", exist_ok=True)
+          api.upload_folder(
+              folder_path="hf",
+              repo_id=repo,
+              repo_type="dataset",
+              commit_message=f"Release ${{ github.event.release.tag_name }}",
+          )
+          print(f"https://huggingface.co/datasets/{repo}")
+          PY

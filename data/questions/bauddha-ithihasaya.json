@@ -1,0 +1,4730 @@
+[
+  {
+    "id": "daham_075",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Jetavanaramaya in Savatthi as the location of the Ananda Bodhi tree.",
+    "difficulty": "easy",
+    "tags": [
+      "ananda-bodhi",
+      "sacred-places"
+    ],
+    "question": "ආනන්ද බෝධිය රෝපණය කලේ කොහේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර වේළුවනාරාමයේ"
+      },
+      {
+        "id": "b",
+        "text": "විශාලා මහනුවර මහා වනයේ"
+      },
+      {
+        "id": "c",
+        "text": "සැවැත් නුවර ජේතවනාරාමයේ"
+      },
+      {
+        "id": "d",
+        "text": "කොසඹෑ නුවර ඝෝෂිතාරාමයේ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුදුරජාණන් වහන්සේ බැහැර වැඩි අවස්ථාවල සැදැහැවතුන්ට වන්දනා කිරීම පිණිස ආනන්ද හිමියන්ගේ මූලිකත්වයෙන් සැවැත් නුවර ජේතවනාරාමයේ ආනන්ද බෝධිය රෝපණය කරන ලදී.",
+    "source_suggestion": "JA 479"
+  },
+  {
+    "id": "daham_088",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Covers the timing and Poya day of the Buddha's first visit to Sri Lanka.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "poya-days"
+    ],
+    "question": "බුදුන්ගේ ප්‍රථම ලංකා ගමනය සිදුවූයේ බුදුබව ලබා කොපමන කලකට පසුවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පස් වසරකට පසු වූ බක් පුර පසළොස්වක පෝය දිනයේ"
+      },
+      {
+        "id": "b",
+        "text": "අට වසරකට පසු වූ වෙසක් පුර පසළොස්වක පෝය දිනයේ"
+      },
+      {
+        "id": "c",
+        "text": "සත් මසකට පසු වූ පොසොන් පුර පසළොස්වක පෝය දිනයේ"
+      },
+      {
+        "id": "d",
+        "text": "මාස නවයකට පසු වූ දුරුතු පුර පසළොස්වක පෝය දිනයේ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේගේ ප්‍රථම ලංකා ගමන සිදු වූයේ බුද්ධත්වයෙන් මාස නවයකට පසු උදා වූ දුරුතු පුර පසළොස්වක පොහෝ දිනයේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_089",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Mahiyanganaya as the destination of the Buddha's first visit to Sri Lanka.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "sacred-places"
+    ],
+    "question": "එම පැමිණීම සිදු වූයේ ලංකාවේ කිනම් ප්‍රදේශයකටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහියංගනයට (යක්ෂ දමණය සඳහා)"
+      },
+      {
+        "id": "b",
+        "text": "නාගදීපයට (නාග ගෝත්‍රිකයන් සමගි කරවීම සඳහා)"
+      },
+      {
+        "id": "c",
+        "text": "කැලණියට (මණිඅක්ඛිත නාරජුගේ ආරාධනය සඳහා)"
+      },
+      {
+        "id": "d",
+        "text": "අනුරාධපුරයට (මහමෙව්නා උයන පූජා කිරීම සඳහා)"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේගේ ප්‍රථම ලංකා ගමන සිදු වූයේ මහියංගනයේ මහානාග වනෝද්‍යානයට රැස්ව සිටි යක්ෂ ගෝත්‍රිකයන් දමනය කිරීම සඳහාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_090",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Sumana Saman Deviyo as the initial builder of the Mahiyangana Stupa.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "stupas"
+    ],
+    "question": "මහියංගනය චෛත්‍යය කරවූයේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මණිඅක්ඛිත නා රජු"
+      },
+      {
+        "id": "b",
+        "text": "සුමන සමන් දෙවි රජු"
+      },
+      {
+        "id": "c",
+        "text": "චූලෝදර නා රජු"
+      },
+      {
+        "id": "d",
+        "text": "මහෝදර නා රජු"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහියංගනයට වැඩම කළ බුදුරජාණන් වහන්සේගෙන් දහම් අසා සෝවාන් වූ සුමන සමන් දිව්‍ය රාජයා විසින් කේශ ධාතූන් වහන්සේලා තැන්පත් කොට මහියංගන චෛත්‍යය මුලින්ම කරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_091",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the Hair Relics (Kesa Dhatu) enshrined initially in the Mahiyangana Stupa.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "relics"
+    ],
+    "question": "මහියංගන චෛත්‍යයේ නිදන් කර ඇත්තේ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුදුන් වහන්සේගේ දකුණු අකු ධාතුව"
+      },
+      {
+        "id": "b",
+        "text": "බුදුන් වහන්සේගේ ලලාට ධාතුව"
+      },
+      {
+        "id": "c",
+        "text": "බුදුන් වහන්සේගෙන් ලබාගත් කේශ ධාතුන්"
+      },
+      {
+        "id": "d",
+        "text": "බුදුන් වහන්සේ පරිභෝග කළ පාත්‍රා ධාතුව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සුමන සමන් දෙවිඳුන්ගේ ඉල්ලීම පරිදි බුදුරජාණන් වහන්සේ ලබා දුන් කේශ ධාතූන් වහන්සේලා මුලින්ම මහියංගන චෛත්‍යයේ නිධන් කරන ලදී (පසුව ග්‍රීවා ධාතුවද තැන්පත් කෙරිණි).",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_092",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies Nagadeepa as the destination of the Buddha's second visit to Sri Lanka.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "sacred-places"
+    ],
+    "question": "බුදුන් වහන්සේගේ දෙවන ලංකා ගමන සිදු වූයේ කිනම් ප්‍රදේශයකද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහියංගනයට"
+      },
+      {
+        "id": "b",
+        "text": "කැලණියට"
+      },
+      {
+        "id": "c",
+        "text": "දීඝවාපියට"
+      },
+      {
+        "id": "d",
+        "text": "නාග දීපයට"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදුරජාණන් වහන්සේගේ දෙවන ලංකා ගමන සිදු වූයේ නාගදීපයටය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_093",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifies the timing of the second visit to Sri Lanka (5th year after Enlightenment).",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "bauddha-ithihasaya"
+    ],
+    "question": "එම ගමන සිදුවූයේ බුද්ධත්වය බුද්ධත්වයෙන් කොපමණ කලකට පසුවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පස් වසරකට පසුව"
+      },
+      {
+        "id": "b",
+        "text": "නව මසකට පසුව"
+      },
+      {
+        "id": "c",
+        "text": "අට වසරකට පසුව"
+      },
+      {
+        "id": "d",
+        "text": "දස වසරකට පසුව"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේ නාගදීපයට වැඩම කළ දෙවන ලංකා ගමන සිදු වූයේ බුද්ධත්වයෙන් පස් වසරකට පසුවය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_094",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Explains that the second visit to Nagadeepa resolved the conflict between Chulodara and Mahodara.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "bauddha-ithihasaya"
+    ],
+    "question": "බුදුන් වහන්සේ දෙවන වරට ලංකාවට පැමිණියේ ඇයි?",
+    "options": [
+      {
+        "id": "a",
+        "text": "යක්ෂ ගෝත්‍රිකයන් දමනය කොට ගිරි දිවයිනට යැවීමට"
+      },
+      {
+        "id": "b",
+        "text": "චූලෝදර මහෝදර දෙදෙනාගේ යුද්ධය සමථයකට පත් කිරීමට"
+      },
+      {
+        "id": "c",
+        "text": "සමනළ කඳු මුදුනෙහි වම් සිරිපතුල පිහිටුවීමට"
+      },
+      {
+        "id": "d",
+        "text": "මහමෙව්නා උයනෙහි සමවත් සුවයෙන් වැඩ සිටීමට"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මිණිපළඟක් අරබයා චූලෝදර සහ මහෝදර යන නා රජවරුන් දෙදෙනා අතර ඇති වීමට ගිය මහා යුද්ධය සමථයකට පත් කිරීම සඳහා බුදුරජාණන් වහන්සේ දෙවන වරට ලංකාවට වැඩම කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_095",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Summarizes the timing, host, and key events of the Buddha's third visit to Sri Lanka.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-visits",
+      "sacred-places"
+    ],
+    "question": "බුදුන් වහන්සේගේ තුන්වන ලංකා ගමනය සිදුවූයේ බුද්ධත්වයෙන් කොපමණ කළකට පසුවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මාස නවයකට පසුව සුමන සමන් දෙවියන්ගේ ආරාධනයෙන් මහියංගනයට වැඩම කොට කේශ ධාතූන් ලබා දුන් සේක."
+      },
+      {
+        "id": "b",
+        "text": "පස් වසරකට පසුව චූලෝදර මහෝදර නාරජුන්ගේ ගැටුම සංසිඳුවා නාගදීපයට වැඩම කොට මිණිපළඟ පූජාව පිළිගත් සේක."
+      },
+      {
+        "id": "c",
+        "text": "අට වසරකට පසුව මණිඅක්ඛිත නාරජුගේ ආරාධනයෙන් කැලණියට වැඩම කොට සුමන සුමන සමන් දෙවියන්ගේ ආරාධනයෙන් සමනළ පව්වට වැඩ සිරි පතුල පිහිට වීය."
+      },
+      {
+        "id": "d",
+        "text": "දොළොස් වසරකට පසුව දේවානම්පියතිස්ස රජුගේ ආරාධනයෙන් අනුරාධපුරයට වැඩම කොට ශ්‍රී මහා බෝධිය රෝපණය කළ සේක."
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුද්ධත්වයෙන් අටවන වසරේ වෙසක් පුන් පොහෝ දින මණිඅක්ඛිත නා රජුගේ ආරාධනයෙන් කැලණියට වැඩම කළ බුදුරජාණන් වහන්සේ, සුමන සමන් දෙවිඳුන්ගේ ආරාධනයෙන් සමනළ කඳු මුදුනේ සිරිපතුල පිහිටුවා වදාළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_097",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Poson Full Moon Poya Day as the arrival day of Arahant Mahinda is taught in early primary Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "mahindagamanaya",
+      "poya-days",
+      "sri-lanka-history"
+    ],
+    "question": "මිහිඳු මහරහතන් මහ රහතන් වහන්සේ ලංකාවට වැඩම කළේ කිනම් දිනකදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පොසොන් මස පුර පසළොස්වක පෝය දිනයේ දී"
+      },
+      {
+        "id": "b",
+        "text": "වෙසක් මස පුර පසළොස්වක පෝය දිනයේ දී"
+      },
+      {
+        "id": "c",
+        "text": "ඇසළ මස පුර පසළොස්වක පෝය දිනයේ දී"
+      },
+      {
+        "id": "d",
+        "text": "උඳුවප් මස පුර පසළොස්වක පෝය දිනයේ දී"
+      }
+    ],
+    "answer": "a",
+    "explanation": "අනුබුදු මිහිඳු මහරහතන් වහන්සේ ඇතුළු ධර්මදූත පිරිස ශ්‍රී ලංකාවට වැඩම කළේ පොසොන් මස පුර පසළොස්වක පොහොය දිනයකදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_098",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Mihintale in Anuradhapura as the place where Arahant Mahinda arrived is a foundational primary-grade fact.",
+    "difficulty": "easy",
+    "tags": [
+      "mahindagamanaya",
+      "mihintale",
+      "sri-lanka-history",
+      "sacred-places"
+    ],
+    "question": "උන්වහන්සේ වැඩම කළේ කුමන ප්‍රදේශයටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "යාපනය දඹකොළ පටුන වරායට"
+      },
+      {
+        "id": "b",
+        "text": "මහියංගණ මහා නාග වනෝද්‍යානයට"
+      },
+      {
+        "id": "c",
+        "text": "අනුරාධපුර මිහින්තලා කඳු මුදුනට"
+      },
+      {
+        "id": "d",
+        "text": "කැලණිය මණිඅක්ඛික නා රජුගේ භවනට"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ ප්‍රමුඛ ධර්මදූත පිරිස ලක්දිවට වැඩම කළේ අනුරාධපුර මිහින්තලා කඳු මුදුනෙහි පිහිටි අම්බස්ථලයටය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_099",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Naming all six companions of Arahant Mahinda is standard in grades 4 to 6.",
+    "difficulty": "easy",
+    "tags": [
+      "mahindagamanaya",
+      "sri-lanka-history",
+      "dharmaduta"
+    ],
+    "question": "උන් වහන්සේ සමග ලංකාවට පැමිණි පිරිස කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සෝණ, උත්තර, මජ්ඣන්තික, මහාදේව හිමිවරුන්, සුමන සාමණේර සහ අරිට්ඨ උපාසක යන අයයි."
+      },
+      {
+        "id": "b",
+        "text": "රක්ඛිත, ධම්මරක්ඛිත, මහාධම්මරක්ඛිත, මහාරක්ඛිත හිමිවරුන්, නිග්‍රෝධ සාමණේර සහ භණ්ඩුක උපාසක යන අයයි."
+      },
+      {
+        "id": "c",
+        "text": "මජ්ඣිම, කස්සපගොත්ත, මූලකදේව, දුන්දභිස්සර හිමිවරුන්, සුමන සාමණේර සහ අරිට්ඨ උපාසක යන අයයි."
+      },
+      {
+        "id": "d",
+        "text": "ඉට්ඨිය, උත්තිය, සම්බල, භද්දසාල හිමිවරුන්, සුමන සාමණේර සහ භණ්ඩුක උපාසක යන අයයි."
+      }
+    ],
+    "answer": "d",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ සමඟ ඉට්ඨිය, උත්තිය, සම්බල, භද්දසාල යන මහරහතන් වහන්සේලා සිව්නමත්, සුමන සාමණේරයන් වහන්සේත්, භණ්ඩුක උපාසකතුමාත් ලක්දිවට වැඩම කළහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_100",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Devanampiyatissa as the ruler during the introduction of Buddhism is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "mahindagamanaya",
+      "kings",
+      "sri-lanka-history"
+    ],
+    "question": "එවකට ලංකාවේ රාජ්‍ය කළ රජතුමා කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දුටුගැමුණු මහ රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "දේවානම්පියතිස්ස මහ රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "වළගම්බා මහ රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "භාතිකාභය මහ රජතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ ලක්දිවට වැඩම කරන සමයෙහි ශ්‍රී ලංකාවේ රාජ්‍ය විචාරනු ලැබුවේ දේවානම්පියතිස්ස මහ රජතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_101",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Cullahatthipadopama Sutta as the first sermon preached to King Devanampiyatissa is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "mahindagamanaya",
+      "sutta-pitaka",
+      "sri-lanka-history"
+    ],
+    "question": "මිහිඳු මහරහතන් වහන්සේ දේවානම් පියතිස්ස රජතුමාට දේශනා කල සූත්‍රය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සමචිත්ත පරියාය සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "දේවදූත සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "චුල්ල හත්ථි පදෝපම සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "ආසිවිසෝපම සූත්‍රය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ දේවානම්පියතිස්ස මහ රජතුමාගේ නුවණ විමසීමෙන් අනතුරුව රජතුමා ඇතුළු පිරිසට පළමුවෙන්ම දේශනා කළේ චුල්ලහත්ථිපදෝපම සූත්‍රයයි.",
+    "source_suggestion": "MN 27"
+  },
+  {
+    "id": "daham_102",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The donation of the Mahamevnawa park to the Sangha by King Devanampiyatissa is a core grade 4–6 history topic.",
+    "difficulty": "easy",
+    "tags": [
+      "mahindagamanaya",
+      "kings",
+      "sri-lanka-history",
+      "sacred-places"
+    ],
+    "question": "මහමෙවුනා උයන සඟසතු කොට පූජා කලේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දේවානම්පියතිස්ස මහ රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "මුටසීව මහ රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "කාවන්තිස්ස මහ රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "සද්ධාතිස්ස මහ රජතුමා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට වැඩ විසීම සඳහා අනුරාධපුර මහමෙවුනා උයන සඟසතු කොට පූජා කරන ලද්දේ දේවානම්පියතිස්ස මහ රජතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_103",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the right collarbone relic is enshrined in Thuparamaya is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "relics",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "ථූපාරාම චෛත්‍යය තුළ තැන්පත් කර ඇත්තේ කුමන ධාතුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුදුන් වහන්සේගේ ග්‍රීවා ධාතුව."
+      },
+      {
+        "id": "b",
+        "text": "බුදුන් වහන්සේගේ ලලාට ධාතුව."
+      },
+      {
+        "id": "c",
+        "text": "බුදුන් වහන්සේගේ වම් දළදා වහන්සේ."
+      },
+      {
+        "id": "d",
+        "text": "බුදුන් වහන්සේගේ දකුණු අකු ධාතුව."
+      }
+    ],
+    "answer": "d",
+    "explanation": "දේවානම්පියතිස්ස මහ රජතුමා විසින් ඉදිකරවන ලද ථූපාරාම චෛත්‍ය රාජයාණන් තුළ බුදුරජාණන් වහන්සේගේ දකුණු අකු ධාතූන් වහන්සේ තැන්පත් කර ඇත.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_104",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Thuparamaya as the first stupa built after the official introduction of Buddhism is a fundamental primary-level fact.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "sri-lanka-history",
+      "stupas"
+    ],
+    "question": "ශ්‍රී ලංකාවේ බුදු දහම පිහිටුවීමෙන් පසුව සාදවන ලද ප්‍රථම චෛත්‍යය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රුවන්වැලි මහා සෑය"
+      },
+      {
+        "id": "b",
+        "text": "ථූපාරාමය"
+      },
+      {
+        "id": "c",
+        "text": "මිරිසවැටි චෛත්‍යය"
+      },
+      {
+        "id": "d",
+        "text": "අභයගිරි චෛත්‍යය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහින්දාගමනයෙන් පසු ශ්‍රී ලංකාවේ බුදු දහම පිහිටුවීමෙන් අනතුරුව දේවානම්පියතිස්ස මහ රජතුමා විසින් කරවන ලද ප්‍රථම චෛත්‍යය ථූපාරාමයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_105",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Arahant Sanghamitta Theri bringing the Bhikkhuni order to Sri Lanka is taught in early primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sanghamitta-theri",
+      "bhikkhuni-sasana",
+      "sri-lanka-history"
+    ],
+    "question": "ශ්‍රී ලංකාවේ භික්ෂුණී ශාසනය පිහිටුවීම සඳහා දඹදිවින් මෙහි වැඩම කළ රහත් මෙහෙණින් වහන්සේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සංඝමිත්තා මෙහෙණින් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "මහා ප්‍රජාපතී ගෝතමී මෙහෙණින් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "ඛේමා මහ රහත් මෙහෙණින් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "උප්පලවණ්ණා මහ රහත් මෙහෙණින් වහන්සේ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ලක්දිව අනුලා දේවිය ඇතුළු කාන්තාවන් පැවිදි කරවා භික්ෂුණී ශාසනය පිහිටුවීම සඳහා දඹදිව සිට වැඩම කළේ සංඝමිත්තා මහරහත් මෙහෙණින් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_106",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifying Arittha Thera and Anula Devi as the first Sri Lankan bhikkhu and bhikkhuni is standard in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "bhikkhu-sasana",
+      "bhikkhuni-sasana"
+    ],
+    "question": "ශ්‍රී ලංකාවේ පළමුවෙන් ම පැවිදි වූ භික්ෂුව හා භික්ෂුණිය කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "භණ්ඩුක උපාසකතුමා සහ විහාරමහා දේවිය."
+      },
+      {
+        "id": "b",
+        "text": "මලියදේව මහරහතන් වහන්සේ සහ සෝමා දේවිය."
+      },
+      {
+        "id": "c",
+        "text": "තිස්ස රජුගේ සොයුරු අරිට්ඨ සහ මහා නාග ගේ බිසව අනුලා දේවිය."
+      },
+      {
+        "id": "d",
+        "text": "සුමන සාමණේරයන් වහන්සේ සහ හේමමාලි කුමරිය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "ශ්‍රී ලංකාවේ පළමුවෙන්ම පැවිදි බව ලැබූ ලාංකික භික්ෂුව අරිට්ඨ කුමරු වන අතර, පළමුවෙන්ම පැවිදි වූ ලාංකික කාන්තාව අනුලා දේවියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_107",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Unduvap Poya as the arrival day of Sanghamitta Theri is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sanghamitta-theri",
+      "poya-days",
+      "sri-lanka-history"
+    ],
+    "question": "සංඝමිත්තා මෙහෙණින් වහන්සේ ලංකාවට පැමිණියේ කිනම් දිනකද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පොසොන් පුර පසළොස්වක පෝ දින."
+      },
+      {
+        "id": "b",
+        "text": "දුරුතු පුර පසළොස්වක පෝ දින."
+      },
+      {
+        "id": "c",
+        "text": "වප් පුර පසළොස්වක පෝ දින."
+      },
+      {
+        "id": "d",
+        "text": "උදුවප් පුර පසළොස්වක පෝ දින."
+      }
+    ],
+    "answer": "d",
+    "explanation": "සංඝමිත්තා මහරහත් තෙරණින් වහන්සේ ජය ශ්‍රී මහා බෝධීන් වහන්සේගේ දක්ෂිණ ශාඛාව රැගෙන ලක්දිවට වැඩම කළේ උඳුවප් පුර පසළොස්වක පොහොය දිනකදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_108",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Dambakola Patuna as the port where Sanghamitta Theri arrived is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "sanghamitta-theri",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "සංඝමිත්තා මෙහෙණින් වහන්සේ වැඩම කළේ ශ්‍රී ලංකාවේ කුමන ප්‍රදේශයකටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මිහින්තලා කඳු මුදුනට"
+      },
+      {
+        "id": "b",
+        "text": "දඹකොළ පටුනට"
+      },
+      {
+        "id": "c",
+        "text": "මාතොට මහා තීර්ථයට"
+      },
+      {
+        "id": "d",
+        "text": "ගෝකණ්ණ වරායට"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සංඝමිත්තා මහරහත් තෙරණින් වහන්සේ ප්‍රමුඛ පිරිස ජය ශ්‍රී මහා බෝධි ශාඛාව වැඩම කරවමින් නැව් මඟින් සේන්දු වූයේ උතුරු ලක දඹකොළ පටුන වරායටය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_109",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Sanghamitta Theri bringing the Sri Maha Bodhi sapling is a foundational primary-school lesson.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-maha-bodhi",
+      "sanghamitta-theri",
+      "sri-lanka-history"
+    ],
+    "question": "ජය ශ්‍රී මහා බෝධි ශාඛාවක් ලංකාවට රැගෙන ආවේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සංඝමිත්තා මහා තෙරණින් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "අනුලා මහා තෙරණින් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "පටාචාරා මහා තෙරණින් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "ගෝතමී මහා තෙරණින් වහන්සේ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "දඹදිව බුද්ධගයාවේ පිහිටි ජය ශ්‍රී මහා බෝධීන් වහන්සේගේ දක්ෂිණ ශාඛාව ලක්දිවට වැඩම කරවන ලද්දේ සංඝමිත්තා මහරහත් තෙරණින් වහන්සේ විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_110",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the southern branch (dakshina shakhava) of the Jaya Sri Maha Bodhi was brought to Sri Lanka is standard in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-maha-bodhi",
+      "sri-lanka-history"
+    ],
+    "question": "එසේ රැගෙන ආවේ බෝධියේ කුමන ශාඛාවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උත්තර ශාඛාව"
+      },
+      {
+        "id": "b",
+        "text": "පූර්ව ශාඛාව"
+      },
+      {
+        "id": "c",
+        "text": "දක්ෂිණ ශාඛාව"
+      },
+      {
+        "id": "d",
+        "text": "පශ්චිම ශාඛාව"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සංඝමිත්තා මහරහත් තෙරණින් වහන්සේ විසින් ශ්‍රී ලංකාවට වැඩම කරවනු ලැබුවේ ජය ශ්‍රී මහා බෝධීන් වහන්සේගේ දක්ෂිණ (දකුණු) ශාඛාවයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_111",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Arahant Arittha as the first Sri Lankan arahant is taught in middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "sravaka-charitha"
+    ],
+    "question": "ශ්‍රී ලංකාවේ ප්‍රථම රහතන් වහන්සේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මලියදේව රහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "අරිට්ඨ රහතන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "ථේරපුත්තාභය රහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "කුණ්ඩදාන රහතන් වහන්සේ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ලක්දිව පැවිදි වී පළමුවෙන්ම අර්හත්වයට පත් වූ සිංහල භික්ෂූන් වහන්සේ මහා අරිට්ඨ මහරහතන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_112",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The 68 rock caves (Atasata Len) at Mihintale as the first vassa residence in Sri Lanka is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "mihintale",
+      "vassa-kala",
+      "sri-lanka-history"
+    ],
+    "question": "ලංකාවේ භික්ෂූන් ප්‍රථමයෙන් වස් විසුවේ කොහේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මාතලේ අළුවිහාර ලෙන්හි"
+      },
+      {
+        "id": "b",
+        "text": "දඹුල්ල රජමහා විහාර ලෙන්හි"
+      },
+      {
+        "id": "c",
+        "text": "සිතුල්පව්ව රජමහා විහාර ලෙන්හි"
+      },
+      {
+        "id": "d",
+        "text": "මිහින්තලේ අටසැටලෙන්හි"
+      }
+    ],
+    "answer": "d",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නය ලක්දිව ප්‍රථම වස් කාලය ගත කළේ දේවානම්පියතිස්ස රජතුමා විසින් පූජා කරන ලද මිහින්තලේ අටසැට ලෙන්වලය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_113",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Queen Anula attaining Sotapatti first among Sri Lankan women is taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "bhikkhuni-sasana"
+    ],
+    "question": "ශ්‍රී ලංකාවේ ප්‍රථම වරට සෝවාන් වූ කාන්තාව කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනුලා දේවී"
+      },
+      {
+        "id": "b",
+        "text": "විහාරමහා දේවී"
+      },
+      {
+        "id": "c",
+        "text": "සෝමා දේවී"
+      },
+      {
+        "id": "d",
+        "text": "හේමමාලි කුමරිය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේගෙන් ධර්මය ශ්‍රවණය කොට ශ්‍රී ලංකාවේ ප්‍රථම වරට සෝවාන් ඵලයට පත් වූ කාන්තාව අනුලා දේවියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_114",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Writing down the Tipitaka at Matale Aluviharaya is a core middle-grade Buddhist history fact.",
+    "difficulty": "easy",
+    "tags": [
+      "tripitaka",
+      "sri-lanka-history",
+      "sacred-places"
+    ],
+    "question": "පළමු වරට ත්‍රිපිටකය ග්‍රන්ථාරූඪ කරන ලද්දේ කොහේදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනුරාධපුර මහා විහාරයේ දී"
+      },
+      {
+        "id": "b",
+        "text": "පොළොන්නරුව ගල්විහාරයේ දී"
+      },
+      {
+        "id": "c",
+        "text": "මාතලේ අළුවිහාරයේ දී"
+      },
+      {
+        "id": "d",
+        "text": "මිහින්තලේ කණ්ඨක චෛත්‍යය අසල දී"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මුඛ පරම්පරාවෙන් පවත්වාගෙන ආ ත්‍රිපිටක බුද්ධ ධර්මය ආරක්ෂා කර ගැනීම පිණිස පළමු වරට පුස්කොළ පොත්වල ග්‍රන්ථාරූඪ කරන ලද්දේ මාතලේ අළුවිහාරයේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_115",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that the Tipitaka was committed to writing during King Valagamba's reign is taught in grades 5–7.",
+    "difficulty": "easy",
+    "tags": [
+      "tripitaka",
+      "kings",
+      "sri-lanka-history"
+    ],
+    "question": "එසේ කරන ලද්දේ කුමන රජ කාලයේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දේවානම්පියතිස්ස රජතුමාගේ කාලයේදී"
+      },
+      {
+        "id": "b",
+        "text": "වළගම්බා රජතුමාගේ කාලයේදී"
+      },
+      {
+        "id": "c",
+        "text": "දුටුගැමුණු රජතුමාගේ කාලයේදී"
+      },
+      {
+        "id": "d",
+        "text": "මහසෙන් රජතුමාගේ කාලයේදී"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ත්‍රිපිටක ධර්මය පළමු වරට ග්‍රන්ථාරූඪ කරන ලද්දේ වළගම්බා රජතුමාගේ රාජ්‍ය සමයෙහිදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_116",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Analyzing sociological and historical reasons for the rapid spread of Buddhism in Sri Lanka is an O/L and upper-grade topic.",
+    "difficulty": "medium",
+    "tags": [
+      "mahindagamanaya",
+      "sri-lanka-history"
+    ],
+    "question": "ශ්‍රී ලංකාවේ බුදු සසුන ව්‍යාප්ත වීමට හේතු වූ කාරණා මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දඹදිව සිට ශිල්පීන් නොපැමිණීම, රාජ්‍ය අනුග්‍රහය නොලැබීම, පැරණි ඇදහිලි සියල්ල නීතියෙන් තහනම් කිරීම, විදේශීය වෙළඳාම නතර කිරීම."
+      },
+      {
+        "id": "b",
+        "text": "ත්‍රිපිටකය එකලම ග්‍රන්ථාරූඪ කර තිබීම, සංඝමිත්තා තෙරණිය පළමුව වැඩම කිරීම, දළදා වහන්සේ එවකට වැඩම කර තිබීම, පොළොන්නරුව අගනුවර වීම."
+      },
+      {
+        "id": "c",
+        "text": "සියලු වැසියන් පැවිදි දිවියට පත් වීම, කෘෂිකර්මාන්තය අත්හැරීම, වෙනත් කිසිදු ඇදහිල්ලක් ලක්දිව නොපැවතීම, විදේශීය භාෂාවකින් පමණක් දහම් දෙසීම."
+      },
+      {
+        "id": "d",
+        "text": "රාජ්‍ය අනුග්‍රහය ලැබීම, බුදුන් වහන්සේ තෙවරක්ම ලක්දිවට වැඩ ධර්මය දේශනා කිරීම, එක සංවිධානාත්මක ආගමක් නො තිබීම, ධර්මය ප්‍රචාරය සඳහා නිවැරදි මාර්ගෝපදේශකයන් සිටීම, බෞද්ධ ඉගැන්වීම් ලාංකිකයාගේ ජීවන වෘත්තියට බාධාවක් නොවීම."
+      }
+    ],
+    "answer": "d",
+    "explanation": "රාජ්‍ය අනුග්‍රහය හිමි වීම, බුදුරජාණන් වහන්සේගේ ලංකාගමන තුළින් පසුබිම සැකසී තිබීම, සංවිධානාත්මක ආගමක් එවකට නොතිබීම සහ මිහිඳු මහරහතන් වහන්සේ වැනි නිවැරදි මාර්ගෝපදේශකයන් ලැබීම ලක්දිව බුදු සසුන ව්‍යාප්ත වීමට බලපෑ ප්‍රධාන හේතු විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_117",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Mahiyangana Stupa as the oldest stupa in Sri Lanka (built during the Buddha's lifetime) is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "stupas",
+      "sri-lanka-history"
+    ],
+    "question": "ශ්‍රී ලංකාවේ පැරණිම චෛත්‍යය කුමක්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහියංගන චෛත්‍යය රාජයා"
+      },
+      {
+        "id": "b",
+        "text": "රුවන්වැලි චෛත්‍යය රාජයා"
+      },
+      {
+        "id": "c",
+        "text": "ජේතවන චෛත්‍යය රාජයා"
+      },
+      {
+        "id": "d",
+        "text": "අභයගිරි චෛත්‍යය රාජයා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේගේ ප්‍රථම ලංකාගමනයේදී ලබා දුන් කේශ ධාතූන් වහන්සේලා නිධන් කොට සුමන සමන් දෙවිඳුන් විසින් ඉදිකරවන ලද මහියංගණ චෛත්‍යය ශ්‍රී ලංකාවේ පැරණිතම චෛත්‍යය ලෙස සැලකේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_118",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Princess Hemamali and Prince Dantha bringing the Tooth Relic to Sri Lanka is a well-known primary school lesson.",
+    "difficulty": "easy",
+    "tags": [
+      "tooth-relic",
+      "sri-lanka-history"
+    ],
+    "question": "ශ්‍රී ලංකාවට දන්ත ධාතූන් වහන්සේ වැඩම වූයේ කවුරුන්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අනුලා දේවිය සහ අරිට්ඨ කුමාරයා"
+      },
+      {
+        "id": "b",
+        "text": "සෝමා දේවිය සහ ගැමුණු කුමාරයා"
+      },
+      {
+        "id": "c",
+        "text": "හේමමාලි කුමරිය සහ දන්ත කුමාරයා"
+      },
+      {
+        "id": "d",
+        "text": "භද්දකච්චායනා කුමරිය සහ දීඝායු කුමාරයා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "කිත්සිරිමෙවන් රජ දවස කලිඟු රට සිට ශ්‍රී ලංකාවට වම් දළදා වහන්සේ වැඩම කරවනු ලැබුවේ හේමමාලි කුමරිය සහ දන්ත කුමාරයා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_119",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "medium",
+    "level_reason": "King Kirti Sri Rajasinghe's contribution to the modern Kandy Esala Dalada Perahera tradition is covered in middle/upper Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "tooth-relic",
+      "kings",
+      "sri-lanka-history",
+      "pinkam"
+    ],
+    "question": "අවසන් වරට දළදා පෙරහැර පැවැත් වූ ශ්‍රී ලංකාවේ රජතුමා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දේවානම්පියතිස්ස රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "කීර්ති ශ්‍රී රාජසිංහ රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "දුටුගැමුණු රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "වළගම්බා රජතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "මහනුවර යුගයේදී දළදා පෙරහැරට සිව් මහා දේවාල පෙරහැර එක් කරමින් වර්තමාන ආකෘතියෙන් දළදා පෙරහැර පැවැත්වීමට කටයුතු කළ ප්‍රධාන රජතුමා කීර්ති ශ්‍රී රාජසිංහ රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_120",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Prince Arittha leading the mission to India to bring the Sri Maha Bodhi sapling is taught in grades 5–7.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-maha-bodhi",
+      "sri-lanka-history"
+    ],
+    "question": "ශ්‍රී ලංකාවට ජය ශ්‍රී මහා බෝ සමිඳුන් වැඩම කරවීමට ගිය දූත පිරිසේ නායකයා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දන්ත කුමාරයා"
+      },
+      {
+        "id": "b",
+        "text": "සාලිය කුමාරයා"
+      },
+      {
+        "id": "c",
+        "text": "තිස්ස කුමාරයා"
+      },
+      {
+        "id": "d",
+        "text": "අරිට්ඨ කුමාරයා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "දේවානම්පියතිස්ස රජතුමාගේ නියමයෙන් ජය ශ්‍රී මහා බෝධීන් වහන්සේ වැඩම කරවීම සඳහා දඹදිව ධර්මාශෝක අධිරාජයා වෙත ගිය දූත පිරිසේ නායකත්වය දැරුවේ අරිට්ඨ කුමාරයාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_121",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Maliyadeva Maha Arahant as the last famous Arahant recorded in Sri Lankan tradition is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "sravaka-charitha"
+    ],
+    "question": "ශ්‍රී ලංකාවේ විසූ අන්තිම රහතන් වහන්සේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මලියදේව මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "මහා අරිට්ඨ මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "මිහිඳු මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "ඉට්ඨිය මහ රහතන් වහන්සේ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "ලාංකික බෞද්ධ සම්ප්‍රදායට අනුව ශ්‍රී ලංකාවේ වැඩ විසූ අවසාන මහරහතන් වහන්සේ ලෙස සැලකෙන්නේ මලියදේව මහරහතන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_122",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ruwanwelisaya, Mirisawetiya, and Lovamahapaya as King Dutugemunu's religious constructions are taught in grades 4–6.",
+    "difficulty": "easy",
+    "tags": [
+      "kings",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "දුටු ගැමුණු රජතුමා විසින් කරවන ලද වෙහෙර විහාර මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ථූපාරාමය, ඉසුරුමුණිය, වෙස්සගිරිය"
+      },
+      {
+        "id": "b",
+        "text": "අභයගිරිය, ලංකාරාමය, දඹුලු විහාරය"
+      },
+      {
+        "id": "c",
+        "text": "රුවන්වැලි මහා සෑය, මිරිසවැටිය, ලෝවා මහා පාය"
+      },
+      {
+        "id": "d",
+        "text": "ගල් විහාරය, ලංකාතිලකය, කිරිවෙහෙර"
+      }
+    ],
+    "answer": "c",
+    "explanation": "දුටුගැමුණු මහ රජතුමා විසින් අනුරාධපුරයේ ඉදිකරවන ලද ප්‍රධාන පූජනීය ස්ථාන වන්නේ රුවන්වැලි මහා සෑය, මිරිසවැටි දාගැබ සහ ලෝවාමහාපායයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_123",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The carvings on the Sandakada Pahana (Moonstone) and their artistic/spiritual symbols are taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-art",
+      "sri-lanka-history"
+    ],
+    "question": "සඳකඩ පහනෙහි දක්නට ඇති සංකේත සඳහන් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ධර්ම චක්‍රය, ත්‍රිශූලය, ස්වස්තිකය, සිරිපතුල."
+      },
+      {
+        "id": "b",
+        "text": "පත්මය, ලියවැල, සත්ව රූප, හංස පංතිය."
+      },
+      {
+        "id": "c",
+        "text": "සිංහ රූපය, පුන්කලස, නාග රාජ රූපය, වාමන රූප."
+      },
+      {
+        "id": "d",
+        "text": "මකර තොරණ, දේව රූප, සූර්ය මණ්ඩලය, චන්ද්‍ර මණ්ඩලය."
+      }
+    ],
+    "answer": "b",
+    "explanation": "පැරණි හෙළ කලාකරුවාගේ විශිෂ්ට නිර්මාණයක් වන සඳකඩපහණෙහි පලාපෙති, සත්ව පෙළ (ඇත්, අස්, සිංහ, ගව), ලියවැල, හංස පංතිය සහ මධ්‍යයෙහි පත්මය (නෙළුම් මල) දක්නට ලැබේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_124",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ancient Buddha statues in Sri Lanka (Maligawila, Avukana, Buduruwagala) are studied in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-art",
+      "buddha-statues",
+      "sri-lanka-history"
+    ],
+    "question": "ලංකාවේ උසම බුදු පිළිමය කුමක්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සමාධි බුදු පිළිමය"
+      },
+      {
+        "id": "b",
+        "text": "තොලුවිල බුදු පිළිමය"
+      },
+      {
+        "id": "c",
+        "text": "මැදිරිගිරිය බුදු පිළිමය"
+      },
+      {
+        "id": "d",
+        "text": "මාළිගාවිල බුදු පිළිමය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ඔක්කම්පිටිය මාලිගාවිල පිහිටි හුණුගලින් නිමවන ලද හිටි බුදු පිළිම වහන්සේ ලංකාවේ පැරණි හුදෙකලා හිටි බුදු පිළිම අතර විශාලතම හා උසම ප්‍රතිමාවක් ලෙස ප්‍රකටය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_125",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Comprehensive list of temples built by King Devanampiyatissa is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "දේවානම් පියතිස්ස රජතුමා විසින් කරවන ලද විහාර මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ථූපාරාමය, තිස්ස මහා විහාරය, ඉසුරුමුණිය, හත්තාල්හක මෙහෙණාවර, දඹකොළ පටුනේ විහාරය, වෙස්ස ගිරිය"
+      },
+      {
+        "id": "b",
+        "text": "රුවන්වැලි මහා සෑය, මිරිසවැටිය, ලෝවා මහා පාය, සිතුල්පව්ව, තිස්සමහාරාමය, කිරින්ද විහාරය"
+      },
+      {
+        "id": "c",
+        "text": "අභයගිරිය, ලංකාරාමය, දඹුලු විහාරය, අළුවිහාරය, සෝමාවතිය, මුතියංගණය"
+      },
+      {
+        "id": "d",
+        "text": "ගල් විහාරය, ලංකාතිලකය, තිවංක පිළිමගෙය, කිරිවෙහෙර, පබළු වෙහෙර, දෙමළ මහා සෑය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "දේවානම්පියතිස්ස මහ රජතුමා විසින් ථූපාරාමය, ඉසුරුමුණිය, වෙස්සගිරිය, හත්ථාළ්හක මෙහෙණවර, දඹකොළ පටුනේ ජම්බුකෝල විහාරය සහ තිස්සමහා විහාරය ආදී ආගමික ස්ථාන කරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_126",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Polonnaruwa Atadage built by King Vijayabahu I as a Temple of the Tooth is taught in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "polonnaruwa",
+      "sri-lanka-history",
+      "tooth-relic"
+    ],
+    "question": "පොළොන්නරුව අටදාගෙය කරවූ රජතුමා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා පරාක්‍රමබාහු රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "නිශ්ශංකමල්ල රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "පළමු වන විජයබාහු රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "දෙවන පරාක්‍රමබාහු රජතුමා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "චෝල පාලනයෙන් රට මුදාගත් පළමුවන විජයබාහු රජතුමා විසින් දළදා වහන්සේ තැන්පත් කිරීම සඳහා පොළොන්නරුවේ අටදාගෙය ඉදිකරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_127",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Isurumuniya Viharaya being founded by King Devanampiyatissa is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "kings",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "ඉසුරුමුණි විහාරය කරවූ රජතුමා නම් කරන්න ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දුටුගැමුණු රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "දේවානම් පියතිස්ස රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "වළගම්බා රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "මහසෙන් රජතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අනුරාධපුර ඉසුරුමුණි විහාරය මුලින්ම කරවන ලද්දේ දේවානම්පියතිස්ස මහ රජතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_128",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ven. Migettuwatte Gunananda Thera leading the Panadura Debate (1873) is a key Buddhist revival lesson in grades 6–8.",
+    "difficulty": "easy",
+    "tags": [
+      "panadura-vadaya",
+      "buddhist-revival",
+      "sri-lanka-history"
+    ],
+    "question": "පානදුරා වාදය ආරම්භ කළ හිමියන් කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "හික්කඩුවේ ශ්‍රී සුමංගල හිමි"
+      },
+      {
+        "id": "b",
+        "text": "වැලිවිට ශ්‍රී සරණංකර හිමි"
+      },
+      {
+        "id": "c",
+        "text": "රත්මලානේ ශ්‍රී ධර්මාලෝක හිමි"
+      },
+      {
+        "id": "d",
+        "text": "මිගෙට්ටුවත්තේ ගුණානන්ද හිමි"
+      }
+    ],
+    "answer": "d",
+    "explanation": "1873 වර්ෂයේදී පැවැත්වුණු ඓතිහාසික පානදුරා වාදයේදී බෞද්ධ පක්ෂය වෙනුවෙන් පෙරමුණ ගෙන කටයුතු කළේ වාදීභසිංහ මිගෙට්ටුවත්තේ ගුණානන්ද ස්වාමීන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_129",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Recognizing famous ancient Buddha statues of Sri Lanka is taught in grades 5–7.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-art",
+      "buddha-statues",
+      "sri-lanka-history"
+    ],
+    "question": "ශ්‍රී ලංකාවේ ප්‍රසිද්ධ බුද්ධ ප්‍රතිමා නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "බුදුරුවගල, මැදිරිගිරිය, අවුකන, සැස්සේරුව, මාලිගාවිල"
+      },
+      {
+        "id": "b",
+        "text": "සීගිරිය, යාපහුව, රිටිගල, නාලන්දා ගෙඩිගෙය, කුට්ටම් පොකුණ"
+      },
+      {
+        "id": "c",
+        "text": "තිසා වැව, බසවක්කුලම වැව, මින්නේරිය වැව, කලා වැව, පරාක්‍රම සමුද්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "ලෝවාමහාපාය, රත්න ප්‍රාසාදය, බද්ධසීමා ප්‍රාසාදය, සත්මහල් ප්‍රාසාදය, නිශ්ශංක ලතා මණ්ඩපය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරුවගල, මැදිරිගිරිය, අවුකන, සැස්සේරුව සහ මාලිගාවිල යන ස්ථානයන්හි පිහිටි බුද්ධ ප්‍රතිමා වහන්සේලා හෙළ කලා කෞශල්‍යය විදහා දක්වන ප්‍රසිද්ධ බුදු පිළිම වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_130",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Polonnaruwa Hatadage built by King Nissankamalla is taught in middle/upper Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "polonnaruwa",
+      "sri-lanka-history"
+    ],
+    "question": "පොලොන්නරුවේ හැටදාගේ ඉදිකළ රජතුමා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පළමුවන විජයබාහු රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "නිශ්ශංක මල්ල රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "පළමුවන පරාක්‍රමබාහු රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "කීර්ති ශ්‍රී මේඝවර්ණ රජතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "පොළොන්නරුවේ දළදා මළුවෙහි පිහිටි හැටදාගෙය ඉදිකරවන ලද්දේ නිශ්ශංකමල්ල රජතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_131",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Religious monuments built by King Parakramabahu I in Polonnaruwa are covered in grades 7–9.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "polonnaruwa",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "පළමුවන පරාක්‍රමබාහු රජතුමා කරවූ ආගමික ස්ථාන කවරේද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ථූපාරාමය, ඉසුරුමුණිය, වෙස්සගිරිය"
+      },
+      {
+        "id": "b",
+        "text": "රුවන්වැලි මහා සෑය, මිරිසවැටිය, ලෝවාමහාපාය"
+      },
+      {
+        "id": "c",
+        "text": "ලංකාතිලකය, ගල් විහාරය, දෙමළ මහා සෑය"
+      },
+      {
+        "id": "d",
+        "text": "අභයගිරිය, ලංකාරාමය, සෝමාවතිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "පොළොන්නරු යුගයේ රජ කළ පළමුවන පරාක්‍රමබාහු මහ රජතුමා විසින් ලංකාතිලක පිළිමගෙය, ගල් විහාරය (උත්තරාරාමය) සහ දෙමළ මහා සෑය ආදී ආගමික ස්ථාන කරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_132",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Atamasthana (Eight Sacred Places in Anuradhapura) is a standard primary/middle grade topic.",
+    "difficulty": "easy",
+    "tags": [
+      "atamasthana",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "අනුරාධපුරයේ පිහිටි පූජනීය අටමස්ථානය නම් කරන්න ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහියංගණය, නාගදීපය, කැලණිය, ශ්‍රී පාදස්ථානය, දිවාගුහාව, දීඝවාපිය, මුතියංගණය, කතරගම"
+      },
+      {
+        "id": "b",
+        "text": "ගල් විහාරය, ලංකාතිලකය, හැටදාගෙය, අටදාගෙය, වටදාගෙය, රන්කොත් වෙහෙර, කිරිවෙහෙර, තිවංක පිළිමගෙය"
+      },
+      {
+        "id": "c",
+        "text": "මිහින්තලය, තන්තිරිමලය, අවුකන, සැස්සේරුව, විජිතපුරය, දඹුල්ල, අළුවිහාරය, සිතුල්පව්ව"
+      },
+      {
+        "id": "d",
+        "text": "ජය ශ්‍රී මහා බෝධිය, ලෝවා මහා පාය, මිරිස වැටිය, ලංකාරාමය, ථූපාරාමය, රුවන්වැලි සෑය, ජේතවනාරාමය ,අභයගිරිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අනුරාධපුරයේ පිහිටි අටමස්ථානයට ජය ශ්‍රී මහා බෝධිය, ලෝවාමහාපාය, මිරිසවැටිය, ලංකාරාමය, ථූපාරාමය, රුවන්වැලි මහා සෑය, ජේතවනාරාමය සහ අභයගිරිය යන පූජනීය ස්ථාන අට අයත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_133",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that both the Hair Relics (Kesha Dhatu) and the Collar/Neckbone Relic (Griva Dhatu) are enshrined in Mahiyangana Stupa is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "relics",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "මහියංගනය චෛත්‍යයේ තැන්පත් කොට ඇති ධාතූන් වහන්සේලා මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පළමු වන කේශ ධාතුව හා පසුව ග්‍රීවා ධාතුව තැන්පත් කොට ඇත."
+      },
+      {
+        "id": "b",
+        "text": "දකුණු අකු ධාතුව හා පාත්‍රා ධාතුව තැන්පත් කොට ඇත."
+      },
+      {
+        "id": "c",
+        "text": "ලලාට ධාතුව හා වම් දළදා වහන්සේ තැන්පත් කොට ඇත."
+      },
+      {
+        "id": "d",
+        "text": "ද්‍රෝණයක් ධාතූන් වහන්සේලා හා පටී ධාතුව තැන්පත් කොට ඇත."
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහියංගණ චෛත්‍ය රාජයාණන් තුළ පළමුව සුමන සමන් දෙවිඳුන් විසින් බුදුරජාණන් වහන්සේගේ කේශ ධාතූන් වහන්සේලාද, පසුව සරභූ මහරහතන් වහන්සේ විසින් ග්‍රීවා ධාතූන් වහන්සේද තැන්පත් කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_134",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Saddhatissa building the Dighavapi Stupa is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "sacred-places",
+      "stupas",
+      "sri-lanka-history"
+    ],
+    "question": "දීඝවාපි චෛත්‍ය ඉදිකල රජතුමා කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දේවානම්පියතිස්ස රජතුමාගේ සොහොයුරු මහානාග යුවරජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "වළගම්බා රජතුමාගේ පුත් චෝරනාග රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "දුටුගැමුණු රජතුමාගේ සොහොයුරු සද්ධාතිස්ස රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "ධාතුසේන රජතුමාගේ පුත් මුගලන් රජතුමා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සොළොස්මස්ථානයන්ගෙන් එකක් වන දීඝවාපි චෛත්‍ය රාජයාණන් කරවන ලද්දේ දුටුගැමුණු මහ රජතුමාගේ සොහොයුරු වූ සද්ධාතිස්ස රජතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_135",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Kavantissa building Tissamaharama Stupa is taught in middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "kings",
+      "sacred-places",
+      "stupas",
+      "sri-lanka-history"
+    ],
+    "question": "තිස්සමහාරාමය කරවන ලද්දේ කිනම් රජු විසින් ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වළගම්බා රජතුමා (එහි බුදුරදුන්ගේ පාත්‍රා ධාතුව නිදන් කළ බව සඳහන් වේ.)"
+      },
+      {
+        "id": "b",
+        "text": "කාවන්තිස්ස රජතුමා (එහි බුදුරදුන්ගේ යටි දළඳාව නිදන් කළ බව සඳහන් වේ.)"
+      },
+      {
+        "id": "c",
+        "text": "මහසෙන් රජතුමා (එහි බුදුරදුන්ගේ පටී ධාතුව නිදන් කළ බව සඳහන් වේ.)"
+      },
+      {
+        "id": "d",
+        "text": "කීර්ති ශ්‍රී මේඝවර්ණ රජතුමා (එහි බුදුරදුන්ගේ කේශ ධාතුව නිදන් කළ බව සඳහන් වේ.)"
+      }
+    ],
+    "answer": "b",
+    "explanation": "රුහුණු පුරවරයේ පිහිටි තිස්සමහාරාම මහා චෛත්‍යය කරවන ලද්දේ කාවන්තිස්ස මහ රජතුමා විසින් වන අතර එහි ලලාට ධාතුව හා යටි දළදාව නිදන් කර ඇති බව සඳහන් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_136",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Planting of the Jaya Sri Maha Bodhi by King Devanampiyatissa in the Mahamevnawa Park is taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-maha-bodhi",
+      "kings",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "ජයශ්‍රී මහා බෝධිය රෝපණය කලේ කවුරුන් විසින්ද ? කොහෙදීද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දෙවන පෑතිස් රජතුමා විසින් අනුරාධපුර මහමෙව්නා උයනේ."
+      },
+      {
+        "id": "b",
+        "text": "දුටුගැමුණු රජතුමා විසින් අනුරාධපුර රන්මසු උයනේ."
+      },
+      {
+        "id": "c",
+        "text": "කාවන්තිස්ස රජතුමා විසින් මාගම තිස්සමහාරාම විහාර භූමියේ."
+      },
+      {
+        "id": "d",
+        "text": "වළගම්බා රජතුමා විසින් මාතලේ අළුවිහාර භූමියේ."
+      }
+    ],
+    "answer": "a",
+    "explanation": "සංඝමිත්තා මහරහත් තෙරණින් වහන්සේ විසින් වැඩම කරවන ලද ජය ශ්‍රී මහා බෝධීන් වහන්සේ දේවානම්පියතිස්ස (දෙවන පෑතිස්) රජතුමා විසින් අනුරාධපුර මහමෙව්නා උයනෙහි රෝපණය කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_137",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Solosmasthana (Sixteen Sacred Places of Sri Lanka) is a standard middle-grade lesson.",
+    "difficulty": "easy",
+    "tags": [
+      "solosmasthana",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "සොලොස්මස්ථාන නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ලුම්බිණිය, බුද්ධගයාව, බරණැස ඉසිපතනය, කුසිනාරාව, සැවැත්නුවර, රජගහනුවර, විශාලා මහනුවර, කොසඹෑ නුවර, සංකස්ස පුරය, පාවා නුවර, කිඹුල්වත් නුවර, දේවදහ නුවර, අලව් නුවර, චම්පා නුවර, මධුරා පුරය, පැළලුප් නුවර"
+      },
+      {
+        "id": "b",
+        "text": "ගල් විහාරය, ලංකාතිලකය, තිවංක පිළිමගෙය, හැටදාගෙය, අටදාගෙය, වටදාගෙය, රන්කොත් වෙහෙර, කිරිවෙහෙර, පබළු වෙහෙර, මැදිරිගිරිය, සෝමාවතිය, තන්තිරිමලය, අවුකන, සැස්සේරුව, බුදුරුවගල, මාලිගාවිල"
+      },
+      {
+        "id": "c",
+        "text": "දඹුල්ල, අළුවිහාරය, සිතුල්පව්ව, මුල්කිරිගල, රිදී විහාරය, ගඩලාදෙණිය, ලංකාතිලක විහාරය, ඇම්බැක්කේ, දෙගල්දොරුව, කූරගල, දෙවිනුවර, තොටගමුව, වීදාගම, කෑරගල, පැපිලියාන, බෙල්ලන්විල"
+      },
+      {
+        "id": "d",
+        "text": "මහියංගණය ,නාගදීපය ,කැලණිය, ශ්‍රී පාදස්ථානය, දිවාගුහාව, දීඝවාපිය, මුතියංගනය, තිස්ස මහා විහාරය, ශ්‍රී මහා බෝධිය, මිරිසවැටිය, රුවන්වැලිසෑය, ථූපාරාමය, අභයගිරිය, ජේතවනය, සේල චෛත්‍යය, කතරගම"
+      }
+    ],
+    "answer": "d",
+    "explanation": "මහියංගණය, නාගදීපය, කැලණිය, ශ්‍රී පාදස්ථානය, දිවාගුහාව, දීඝවාපිය, මුතියංගනය, තිස්ස මහා විහාරය, ශ්‍රී මහා බෝධිය, මිරිසවැටිය, රුවන්වැලිසෑය, ථූපාරාමය, අභයගිරිය, ජේතවනය, සේල චෛත්‍යය සහ කතරගම කිරිවෙහෙර යන පූජනීය ස්ථාන දහසය සොළොස්මස්ථාන නම් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_138",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "grade-10"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Detailed list of Polonnaruwa religious monuments associated with King Parakramabahu the Great is studied in upper grades.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "polonnaruwa",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "මහා පරාක්‍රමබාහු රජතුමා ඉදිකළ ආගමික ස්ථාන මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ථූපාරාමය, ඉසුරුමුණිය, වෙස්සගිරිය, රුවන්වැලි මහා සෑය, මිරිසවැටිය, ලෝවාමහාපාය, අභයගිරිය, ලංකාරාමය, දක්ඛිණ ථූපය, මිහින්තලා මහා සෑය, සේල චෛත්‍යය."
+      },
+      {
+        "id": "b",
+        "text": "ජේතවන විහාර සංකීර්ණය, ආලාහන පිරිවෙන, බද්ධ සීමා ප්‍රසාදය, තිවංක පිළිම ගෙය, දෙමළ මහා සෑය, පොත්ගුල් වෙහෙර, රන්කොත් වෙහෙර, උත්තරාරාමය (ගල් විහාරය), කිරිවෙහෙර, ලංකාතිලක පිළිමගෙය, පබලු වෙහෙර."
+      },
+      {
+        "id": "c",
+        "text": "ගඩලාදෙණිය විහාරය, ලංකාතිලක විහාරය, ඇම්බැක්කේ දේවාලය, දෙගල්දොරුව රජමහා විහාරය, මහනුවර ශ්‍රී දළදා මාලිගාව, අස්ගිරි මහා විහාරය, මල්වතු මහා විහාරය, ගංගාරාම විහාරය."
+      },
+      {
+        "id": "d",
+        "text": "දඹුලු රජමහා විහාරය, මාතලේ අළුවිහාරය, රිදී විහාරය, මුල්කිරිගල රජමහා විහාරය, සිතුල්පව්ව රජමහා විහාරය, තිස්සමහාරාමය, කිරින්ද විහාරය, කතරගම කිරිවෙහෙර."
+      }
+    ],
+    "answer": "b",
+    "explanation": "පොළොන්නරු යුගයේ රජ කළ මහා පරාක්‍රමබාහු රජතුමා විසින් ආලාහන පිරිවෙන, බද්ධසීමා ප්‍රාසාදය, තිවංක පිළිමගෙය, දෙමළ මහා සෑය, උත්තරාරාමය (ගල් විහාරය), ලංකාතිලක පිළිමගෙය ඇතුළු විහාරාරාම රාශියක් ඉදිකරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_139",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "grade-10"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Monuments built by King Nissankamalla in Polonnaruwa are taught in grades 8–10.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "polonnaruwa",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "නිශ්ශංකමල්ල රජතුමා ඉදිකල ආගමික ස්ථාන කිහිපයක් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "රුවන්වැලි මහා සෑය, ලෝවාමහාපාය, මිරිසවැටි චෛත්‍යය, ථූපාරාම දාගැබ."
+      },
+      {
+        "id": "b",
+        "text": "ඉසුරුමුණි විහාරය, වෙස්සගිරිය, හත්ථාළ්හක මෙහෙණවර, තිස්සමහා විහාරය."
+      },
+      {
+        "id": "c",
+        "text": "නිශ්ශංක ලතා මණ්ඩපය, හැටදාගෙය, වටදාගෙය, සත්මහල් ප්‍රාසාදය."
+      },
+      {
+        "id": "d",
+        "text": "ගඩලාදෙණිය විහාරය, ඇම්බැක්කේ දේවාලය, දෙගල්දොරුව විහාරය, රිදී විහාරය."
+      }
+    ],
+    "answer": "c",
+    "explanation": "නිශ්ශංකමල්ල රජතුමා විසින් පොළොන්නරුවේ නිශ්ශංක ලතා මණ්ඩපය, හැටදාගෙය, වටදාගෙය සහ සත්මහල් ප්‍රාසාදය ආදී ආගමික ගොඩනැගිලි කරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_196",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The immediate reason for convening the First Buddhist Council is a foundational Buddhist history topic.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council",
+      "sasana-history"
+    ],
+    "question": "ප්‍රථම ධර්ම සංගායනාව පැවැත්වීමට හේතුවූ කාරණා මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුභද්ද භික්ෂුවගේ ධර්ම විරෝධී හා විනය විරෝධී ප්‍රකාශයයි."
+      },
+      {
+        "id": "b",
+        "text": "වජ්ජිපුත්තක භික්ෂූන් විසින් දස අකැප වස්තූන් කැපයයි ප්‍රකාශ කිරීමයි."
+      },
+      {
+        "id": "c",
+        "text": "ලාභ සත්කාර අපේක්ෂාවෙන් අන්‍ය තීර්ථකයන් බුදු සසුනට ඇතුළු වීමයි."
+      },
+      {
+        "id": "d",
+        "text": "බැමිණිටියා මහා සාගතය නිසා ත්‍රිපිටක ධර්මය වනපොත්ව පවත්වා ගැනීම අපහසු වීමයි."
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුද්ධ පරිනිර්වාණයෙන් පසු මහලු පැවිද්දෙකු වූ සුභද්ද භික්ෂුව කළ ධර්ම විරෝධී හා විනය විරෝධී ප්‍රකාශය මුල් කරගෙන ධර්ම විනය ආරක්ෂා කරනු පිණිස ප්‍රථම ධර්ම සංගායනාව පැවැත්විණි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_197",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The number of arahants participating in the First Buddhist Council is taught in grade 6-7 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council"
+    ],
+    "question": "ප්‍රථම සංගායනාවට භික්ෂූන් වහන්සේ කී නමක් සහභාගි වුණාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "හත්සිය නමක් (700)"
+      },
+      {
+        "id": "b",
+        "text": "දහස් නමක් (1000)"
+      },
+      {
+        "id": "c",
+        "text": "පන්සිය නමක් (500)"
+      },
+      {
+        "id": "d",
+        "text": "තුන්සිය නමක් (300)"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ප්‍රථම ධර්ම සංගායනාව සඳහා මහා කාශ්‍යප මහරහතන් වහන්සේ ප්‍රමුඛ මහරහතන් වහන්සේලා පන්සිය නමක් (500) සහභාගි වූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_198",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Timing of the First Council after the Parinibbana is standard grade 6-7 Buddhist history.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council"
+    ],
+    "question": "එය පැවැත්වූයේ බුද්ධ පරිනිර්වානයෙන් කොපමණ කලකට පසුවද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවුරුදු සියයකට පසුව"
+      },
+      {
+        "id": "b",
+        "text": "අවුරුදු දෙසිය තිස්හයකට පසුව"
+      },
+      {
+        "id": "c",
+        "text": "සත් දිනකට පසුව"
+      },
+      {
+        "id": "d",
+        "text": "තුන් මාසයකට පසුව"
+      }
+    ],
+    "answer": "d",
+    "explanation": "ප්‍රථම ධර්ම සංගායනාව ගෞතම බුදුරජාණන් වහන්සේගේ පරිනිර්වාණයෙන් තුන් මාසයකට පසුව ආරම්භ කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_199",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the president of the First Buddhist Council is core middle-grade syllabus knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council",
+      "great-disciples"
+    ],
+    "question": "එහි මුලසුන දැරුවේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මොග්ගලීපුත්ත තිස්ස මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "මහා කාශ්‍යප මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "සබ්බකාමී මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "මිහිඳු මහ රහතන් වහන්සේ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ප්‍රථම ධර්ම සංගායනාවේ මුලසුන හෙවත් ප්‍රධානත්වය දරන ලද්දේ මහා කාශ්‍යප මහ රහතන් වහන්සේ විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_200",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The traditional Pali-derived name 'Panchasatika Sangiti' is taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council"
+    ],
+    "question": "එය හැඳින්වූයේ කිනම් නමකින්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පංච සතිකා සංගීති"
+      },
+      {
+        "id": "b",
+        "text": "සත්ත සතිකා සංගීති"
+      },
+      {
+        "id": "c",
+        "text": "සාහස්සිකා සංගීති"
+      },
+      {
+        "id": "d",
+        "text": "ආලෝකලෙන සංගීති"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහරහතන් වහන්සේලා පන්සිය නමක් සහභාගි වූ බැවින් ප්‍රථම ධර්ම සංගායනාව 'පංච සතිකා සංගීති' නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_201",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The venue of the First Buddhist Council (Sattapanni cave at Vebhara rock in Rajagaha) is core history.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council",
+      "sacred-places"
+    ],
+    "question": "එය පැවැත්වූයේ කොහිද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "විශාලා මහනුවර වාලුකාරාමයේ"
+      },
+      {
+        "id": "b",
+        "text": "පැළලුප් නුවර අශෝකාරාමයේ"
+      },
+      {
+        "id": "c",
+        "text": "රජගහ නුවර වේභාර පර්වතය පාමුළ සප්තපර්නි ගුහාවේ"
+      },
+      {
+        "id": "d",
+        "text": "මාතලේ අලුවිහාර ගල්ලෙනේ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ප්‍රථම ධර්ම සංගායනාව පැවැත්වූයේ රජගහ නුවර වේභාර පර්වතය පාමුල පිහිටි සප්තපර්ණී ගල් ගුහාවේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_202",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Royal patronage of the First Buddhist Council by King Ajatasattu is taught from grade 6.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "first-council",
+      "royal-patronage"
+    ],
+    "question": "එයට අනුග්‍රහය දැක්වූ රජු කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාලාශෝක රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "අජාසත්ත රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "ධර්මාශෝක රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "දේවානම්පියතිස්ස රජතුමා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "රජගහ නුවර පැවති ප්‍රථම ධර්ම සංගායනාව සඳහා රාජකීය අනුග්‍රහය ලබා දුන්නේ අජාසත්ත රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_203",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Ten Unlawful Points (dasa akapa vatthu) of the Vajjiputtaka monks are taught in grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "second-council",
+      "vinaya"
+    ],
+    "question": "දෙවන ධර්ම සංගායනාව පැවැත්වීමට හේතු වූ කරුණු මොනවාද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුභද්ද භික්ෂුව විසින් කරන ලද ධර්ම විනය විරෝධී ප්‍රකාශය."
+      },
+      {
+        "id": "b",
+        "text": "අන්‍ය තීර්ථකයන් ලාභ ප්‍රයෝජන උදෙසා සසුනට ඇතුළු වීම."
+      },
+      {
+        "id": "c",
+        "text": "ත්‍රිපිටක ධර්මය පුස්තකාරූඪ කොට ආරක්ෂා කිරීමේ අවශ්‍යතාව."
+      },
+      {
+        "id": "d",
+        "text": "වජ්ජි පුත්තක භික්ෂූන් විසින් දස අකැප වස්තූන් කැපයයි කීම."
+      }
+    ],
+    "answer": "d",
+    "explanation": "විශාලා මහනුවර වජ්ජිපුත්තක භික්ෂූන් විසින් විනයට පටහැනි දස අකැප වස්තූන් කැප යැයි ප්‍රකාශ කිරීම දෙවන ධර්ම සංගායනාව පැවැත්වීමට හේතු විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_204",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the Second Council took place 100 years after the Parinibbana is standard syllabus material.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "second-council"
+    ],
+    "question": "එය පවත්වන ලද්දේ බුද්ධ පරිනිර්වානයෙන් කොපමන කලකට පසුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අවුරුදු සියයකට පසු"
+      },
+      {
+        "id": "b",
+        "text": "තුන් මාසයකට පසු"
+      },
+      {
+        "id": "c",
+        "text": "අවුරුදු දෙසිය තිස්හයකට පසු"
+      },
+      {
+        "id": "d",
+        "text": "අවුරුදු හාරසිය පනහකට පසු"
+      }
+    ],
+    "answer": "a",
+    "explanation": "දෙවන ධර්ම සංගායනාව බුද්ධ පරිනිර්වාණයෙන් අවුරුදු සියයකට (100) පසුව පවත්වන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_205",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Kalasoka's royal patronage of the Second Council is taught in grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "second-council",
+      "royal-patronage"
+    ],
+    "question": "එයට අනුග්‍රහය දැක්වූ රජු කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අජාසත්ත රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "ධර්මාශෝක රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "කාලාශෝක රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "වළගම්බා රජතුමා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "දෙවන ධර්ම සංගායනාව සඳහා රාජකීය අනුග්‍රහය දැක්වූයේ කාලාශෝක රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_206",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Leading elders of the Second Council (Yasa Thera / Sabbakami Thera) are studied in middle school.",
+    "difficulty": "medium",
+    "tags": [
+      "buddhist-councils",
+      "second-council",
+      "great-disciples"
+    ],
+    "question": "එහි ප්‍රධානත්වය ගත්තේ කවුද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කාශ්‍යප තෙරණුවන්"
+      },
+      {
+        "id": "b",
+        "text": "යස තෙරණුවන්"
+      },
+      {
+        "id": "c",
+        "text": "මොග්ගලීපුත්ත තිස්ස තෙරණුවන්"
+      },
+      {
+        "id": "d",
+        "text": "මිහිඳු තෙරණුවන්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "වජ්ජිපුත්තක භික්ෂූන්ගේ දස අකැප වස්තූන්ට එරෙහිව දෙවන ධර්ම සංගායනාව සංවිධානය කිරීමෙහි මූලිකත්වය ගත්තේ කාකණ්ඩක පුත්‍ර යස මහරහත් තෙරණුවන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_207",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The participation of 700 arahants in the Second Council is standard middle-grade history.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "second-council"
+    ],
+    "question": "එයට සහභාගි වූ භික්ෂු පිරිස කොතෙක්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රහතුන් වහන්සේලා පන්සිය නමක්"
+      },
+      {
+        "id": "b",
+        "text": "රහතුන් වහන්සේලා දහසක්"
+      },
+      {
+        "id": "c",
+        "text": "රහතුන් වහන්සේලා තුන්සිය නමක්"
+      },
+      {
+        "id": "d",
+        "text": "රහතුන් වහන්සේලා හත්සිය නමක්"
+      }
+    ],
+    "answer": "d",
+    "explanation": "දෙවන ධර්ම සංගායනාව සඳහා මහරහතුන් වහන්සේලා හත්සිය (700) නමක් සහභාගි වූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_208",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the name Sattasatika Sangiti for the Second Council fits grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "second-council"
+    ],
+    "question": "එය හැඳින්වූයේ කුමන නමකින්ද ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සත්ත සතික සංගීතිය."
+      },
+      {
+        "id": "b",
+        "text": "පංච සතික සංගීතිය."
+      },
+      {
+        "id": "c",
+        "text": "සාහස්සිකා සංගීතිය."
+      },
+      {
+        "id": "d",
+        "text": "ථේරවාදී සංගීතිය."
+      }
+    ],
+    "answer": "a",
+    "explanation": "රහතන් වහන්සේලා හත්සිය නමක් සහභාගි වූ බැවින් දෙවන ධර්ම සංගායනාව 'සත්ත සතික සංගීතිය' ලෙස හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_209",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Valukarama in Vesali as the venue of the Second Council is standard Buddhist history.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "second-council",
+      "sacred-places"
+    ],
+    "question": "එය පැවැත්වූ ස්ථානය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ නුවර සප්තපර්ණී ගුහාවේදී"
+      },
+      {
+        "id": "b",
+        "text": "පැළලුප් නුවර අශෝකාරාමයේදී"
+      },
+      {
+        "id": "c",
+        "text": "විශාලා මහනුවර වාලුකාරාමයේදී"
+      },
+      {
+        "id": "d",
+        "text": "සැවැත් නුවර ජේතවනාරාමයේදී"
+      }
+    ],
+    "answer": "c",
+    "explanation": "දෙවන ධර්ම සංගායනාව පැවැත්වූයේ විශාලා මහනුවර වාලුකාරාම විහාරස්ථානයේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_210",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The reason for the Third Buddhist Council (non-Buddhists entering the Order for gain) is taught in grade 7-8.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "third-council",
+      "sasana-history"
+    ],
+    "question": "තුන්වන ධර්ම සංගායනාව පැවැත්වීමට හේතු මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සුභද්ද භික්ෂුවගේ ධර්ම විනය විරෝධී ප්‍රකාශය නිසා"
+      },
+      {
+        "id": "b",
+        "text": "ලාභ සත්කාර බලාපොරොත්තුවෙන් සසුනට පැමිණෙන පිරිස වැඩිවීම නිසා"
+      },
+      {
+        "id": "c",
+        "text": "වජ්ජිපුත්තක භික්ෂූන් දස අකැප වස්තූන් කැපයයි ප්‍රකාශ කළ නිසා"
+      },
+      {
+        "id": "d",
+        "text": "බැමිණිටියා මහා සාගතය හා යුද්ධ කෝලාහල ඇති වූ නිසා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අශෝක අධිරාජයාගේ රාජ්‍ය සමයේදී ලාභ සත්කාර බලාපොරොත්තුවෙන් අන්‍ය තීර්ථකයන් බුදු සසුනට ඇතුළු වී මිථ්‍යා මත පැතිරවීම නිසා සසුන පිරිසිදු කිරීමට තුන්වන ධර්ම සංගායනාව පැවැත්විණි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_211",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Moggaliputta Tissa Thera presiding over the Third Council is core Buddhist history.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "third-council",
+      "great-disciples"
+    ],
+    "question": "එහි ප්‍රධානත්වය ගෙන කටයුතු කළේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහා කාශ්‍යප මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "සබ්බකාමී මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "උපාලි මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "මොග්ගලී පුත්ත තිස්ස මහ රහතන් වහන්සේ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "තුන්වන ධර්ම සංගායනාවේ මුලසුන හෙවත් ප්‍රධානත්වය දැරුවේ මොග්ගලීපුත්ත තිස්ස මහ රහතන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_212",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Emperor Asoka's patronage of the Third Buddhist Council is widely taught.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "third-council",
+      "royal-patronage"
+    ],
+    "question": "මේ සඳහා අනුග්‍රහය දැක්වූ රජතුමා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "අශෝක රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "අජාසත්ත රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "කාලාශෝක රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "බිම්බිසාර රජතුමා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "තුන්වන ධර්ම සංගායනාව සාර්ථකව පැවැත්වීම සඳහා පූර්ණ රාජකීය අනුග්‍රහය දැක්වූයේ ධර්මාශෝක (අශෝක) රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_213",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Sahassika Sangiti as the name of the Third Council is taught in grade 7-8 and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "third-council"
+    ],
+    "question": "එය හැඳින්වූ නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පංච සතිකා සංගීතිය"
+      },
+      {
+        "id": "b",
+        "text": "සත්ත සතිකා සංගීතිය"
+      },
+      {
+        "id": "c",
+        "text": "සාහස්සිකා සංගීතිය"
+      },
+      {
+        "id": "d",
+        "text": "ආලෝකලෙන සංගීතිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මහරහතන් වහන්සේලා දහසක් (1000) සහභාගි වූ බැවින් තුන්වන ධර්ම සංගායනාව 'සාහස්සිකා සංගීතිය' නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_214",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The number of monks (1000) participating in the Third Council is standard syllabus material.",
+    "difficulty": "easy",
+    "tags": [
+      "buddhist-councils",
+      "third-council"
+    ],
+    "question": "තුන්වන ධර්ම සංගායනාවට භික්ෂූන් කොපමණ පිරිසක් සහභාගී වීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "භික්ෂූන් වහන්සේලා පන්සියයක්"
+      },
+      {
+        "id": "b",
+        "text": "භික්ෂූන් වහන්සේලා දහසක්"
+      },
+      {
+        "id": "c",
+        "text": "භික්ෂූන් වහන්සේලා හත්සියයක්"
+      },
+      {
+        "id": "d",
+        "text": "භික්ෂූන් වහන්සේලා තුන්සියයක්"
+      }
+    ],
+    "answer": "b",
+    "explanation": "තුන්වන ධර්ම සංගායනාව සඳහා මොග්ගලීපුත්ත තිස්ස මහරහතන් වහන්සේ විසින් තෝරාගත් මහරහතන් වහන්සේලා දහසක් (1000) සහභාගි වූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_215",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The date of the Third Council (236 years after Parinibbana) is taught in grade 7-8 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "buddhist-councils",
+      "third-council"
+    ],
+    "question": "එය පැවැත්වූයේ බුද්ධ පරිනිර්වානයෙන් කොපමණ කලකට පසුවද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තුන් මාසයකට පසුව"
+      },
+      {
+        "id": "b",
+        "text": "අවුරුදු 100 කට පසුව"
+      },
+      {
+        "id": "c",
+        "text": "අවුරුදු 450 කට පසුව"
+      },
+      {
+        "id": "d",
+        "text": "අවුරුදු 236 කට පසුව"
+      }
+    ],
+    "answer": "d",
+    "explanation": "තුන්වන ධර්ම සංගායනාව පැවැත්වූයේ බුද්ධ පරිනිර්වාණයෙන් අවුරුදු 236 කට පසුවය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_216",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The city where the Third Council was held (Pataliputra / Pelalup Nuwara) is standard history.",
+    "difficulty": "medium",
+    "tags": [
+      "buddhist-councils",
+      "third-council",
+      "sacred-places"
+    ],
+    "question": "එය පැවැත්වූයේ කොහේදීද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පැලලුප් නුවර වාලුකාරාමයේදී"
+      },
+      {
+        "id": "b",
+        "text": "රජගහ නුවර වේළුවනාරාමයේදී"
+      },
+      {
+        "id": "c",
+        "text": "සැවැත් නුවර ජේතවනාරාමයේදී"
+      },
+      {
+        "id": "d",
+        "text": "කොසඹෑ නුවර ඝෝෂිතාරාමයේදී"
+      }
+    ],
+    "answer": "a",
+    "explanation": "තුන්වන ධර්ම සංගායනාව පැවැත්වූයේ පැළලුප් (පාටලීපුත්‍ර) නුවරදීය (සම්ප්‍රදායික ඉතිහාසයට අනුව පැළලුප් නුවර අශෝකාරාමයේදී පැවැත්විණි).",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_263",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Pali names and meanings of the Ten Unlawful Points (dasa akapa vatthu) are studied in senior grades and Dharmacharya.",
+    "difficulty": "hard",
+    "tags": [
+      "second-council",
+      "vinaya",
+      "dasa-akapa-vatthu"
+    ],
+    "question": "දස අකැප වස්තූන් මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රාණඝාතය, අදත්තාදානය, කාමමිථ්‍යාචාරය, මුසාවාදය, පිසුණාවාචා, ඵරුසාවාචා, සම්ඵප්පලාප, අභිධ්‍යාව, ව්‍යාපාදය, මිථ්‍යාදෘෂ්ටිය."
+      },
+      {
+        "id": "b",
+        "text": "දාන, ශීල, නෛෂ්ක්‍රම්‍ය, ප්‍රඥා, වීර්ය, ක්ෂාන්ති, සත්‍ය, අධිෂ්ඨාන, මෛත්‍රී, උපේක්ෂා."
+      },
+      {
+        "id": "c",
+        "text": "දාන, සීල, භාවනා, පත්තිදාන, පත්තානුමෝදනා, වෙය්‍යාවච්ච, අපචායන, දේසනා, සවන, දිට්ඨිජුකම්ම."
+      },
+      {
+        "id": "d",
+        "text": "7. කප්පති අමථිත කප්පෝ (දන් වළඳා අවසානයේ ඉතිරි වූ මිදීගෙන එන කිරි කැප කරවා නොගෙන යළිත් වැළඳීම කැපය.) 8. කප්පති ජලෝගී කප්පෝ (පැසීගෙන එන සුරාපානය කිරීම කැපය.) 9. කප්පති අදසක නිසීදනා (වාටිය නොමැසූ හිඳගන්නා ඇතිරිල්ලක් ප්‍රයෝජනයට ගැනීම කැපය.) 10. කප්පති ජාති රූප රජතං (රන් රිදී කහවුණු පිළිගැනීම කැපය.)"
+      }
+    ],
+    "answer": "d",
+    "explanation": "දෙවන ධර්ම සංගායනාවට හේතු වූ වජ්ජිපුත්තක භික්ෂූන් ඉදිරිපත් කළ දස අකැප වස්තූන් අතරට අමථිත කප්ප, ජලෝගී කප්ප, අදසක නිසීදන සහ ජාතරූප රජත යනාදී විනය විරෝධී කරුණු අයත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_273",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The three postures of Buddha statues (hidi, hiti, ot pilima) are taught in grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "buddha-statues",
+      "buddhist-art"
+    ],
+    "question": "පුරාණ බුද්ධ පිළිම වර්ග බෙදා දැක්විය හැකි ආකාර 3 කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශාරීරික චෛත්‍ය, පාරිභෝගික චෛත්‍ය, උද්දේසික චෛත්‍ය"
+      },
+      {
+        "id": "b",
+        "text": "හිඳි පිළිම, හිටි පිළිම, ඔත් පිළිම"
+      },
+      {
+        "id": "c",
+        "text": "බුබ්බුලාකාර චෛත්‍ය, ධාන්‍යාකාර චෛත්‍ය, ඝණ්ටාකාර චෛත්‍ය"
+      },
+      {
+        "id": "d",
+        "text": "සඳකඩපහණ, මුරගල, කොරවක්ගල"
+      }
+    ],
+    "answer": "b",
+    "explanation": "පුරාණ බුද්ධ ප්‍රතිමා වහන්සේලා ඉරියව් අනුව ප්‍රධාන වශයෙන් හිඳි පිළිම (වැඩ හිඳින), හිටි පිළිම (වැඩ සිටින) සහ ඔත් පිළිම (සැතපෙන) යනුවෙන් ආකාර තුනකට බෙදා දැක්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_313",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The five minor disciplinary charges brought before Ven. Ananda Mahathera at the First Buddhist Council are taught in senior classes.",
+    "difficulty": "medium",
+    "tags": [
+      "ananda-thero",
+      "first-buddhist-council",
+      "vinaya-pitaka"
+    ],
+    "question": "භික්‍ෂුන් වහන්සේලා විසින් ආනන්ද හාමුදුරුවන්ට කළ චෝදනා පහ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සංඝ භේදය ඇති කිරීමට උත්සාහ කිරීම, ධර්ම සංගායනාවට සහභාගී නොවීම, භික්ෂූන්ට ධර්මය ඉගැන්වීම පැහැර හැරීම, අගසව් තනතුර ඉල්ලා සිටීම, විනය නීති වෙනස් කිරීමට යෝජනා කිරීම"
+      },
+      {
+        "id": "b",
+        "text": "ඛුද්දානු ඛුද්දක ශික්‍ෂා පද කවරේදැයි බුදුරදුන්ගෙන් නොවිමසීම, බුදුරජාණන් වහන්සේට කල්පයක් ජීවත් වීමට ආරාධනා නොකිරීම, බුදුන් වහන්සේගේ වැසි සළුව පාගාගෙන මැසීම, බුදුන් වහන්සේ ප්‍රතික්ෂේප කරද්දීත් ස්ත්‍රීන්ට ශාසනයේ පැවිද්ද ලබා දීමට කටයුතු කිරීම, බුදුන් වහන්සේ පිරිනිවීමෙන් පසු බුද්ධ ශරීරය මාගමුන් ලවා වැන්දවීමේදී ඔවුන්ගේ හැඬු කඳුලු බුදු සිරුර කිළුටු කිරීම"
+      },
+      {
+        "id": "c",
+        "text": "වස් කාලයේ චාරිකාවේ හැසිරීම, අවසරයකින් තොරව ගම්මානවලට පිඬුසිඟා වැඩීම, අතිරේක සිවුරු තබා ගැනීම, විකාලයේ ආහාර වැළඳීම, රන් රිදී පිළිගැනීම"
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රථම ධර්ම සංගායනාව කල් දැමීම, මහා කාශ්‍යප මහරහතන් වහන්සේගේ අවවාද නොපිළිගැනීම, ධර්ම භාණ්ඩාගාරික ධුරය ප්‍රතික්ෂේප කිරීම, අජාසත් රජතුමාගේ අනුග්‍රහය නොපිළිගැනීම, රජගහ නුවරින් බැහැරව වැඩ සිටීම"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ප්‍රථම ධර්ම සංගායනාවේදී ථේරවාදී භික්ෂූන් වහන්සේලා විසින් ආනන්ද මහරහතන් වහන්සේ වෙත ඉදිරිපත් කළ කරුණු පහ චුල්ලවග්ග පාළියෙහි පංචසතික ඛන්ධකයේ සඳහන් වන අතර, සංඝයා කෙරෙහි ගෞරවයෙන් උන්වහන්සේ ඒ පිළිබඳ කරුණු පැහැදිලි කළ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_317",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The six architectural shapes of stupas (dagab hada) are taught in middle-to-upper Dhamma school and Buddhist civilization.",
+    "difficulty": "easy",
+    "tags": [
+      "stupa",
+      "buddhist-architecture",
+      "sri-lanka-history"
+    ],
+    "question": "දාගැබ්වල හැඩය අනුව ඒවායේ වර්ග කිරීම් දක්වන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පද්මාසන, වීරාසන, භද්‍රාසන, වජ්‍රාසන, සිංහාසන, සුඛාසන"
+      },
+      {
+        "id": "b",
+        "text": "අභය මුද්‍රාව, ධර්මචක්‍ර මුද්‍රාව, සමාධි මුද්‍රාව, විතර්ක මුද්‍රාව, වරද මුද්‍රාව, භූමිස්පර්ශ මුද්‍රාව"
+      },
+      {
+        "id": "c",
+        "text": "පදනම, තුන්මල් පේසාව, ගර්භය, හතරැස් කොටුව, දේවතා කොටුව, කොත් කැරැල්ල"
+      },
+      {
+        "id": "d",
+        "text": "ඝණ්ඨාකාර, ඝටාකාර, බුබ්බුලාකාර, ධාන්‍යාකාර, පද්මාකාර, ආමලකාකාර"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සාම්ප්‍රදායික බෞද්ධ වාස්තු විද්‍යාවට අනුව දාගැබ්වල ගර්භයේ හැඩය පදනම් කර ගෙන ඝණ්ඨාකාර (සීනුවක හැඩය), ඝටාකාර (කළයක හැඩය), බුබ්බුලාකාර (දිය බුබුළක හැඩය), ධාන්‍යාකාර (වී ගොඩක හැඩය), පද්මාකාර (නෙළුම් මලක හැඩය) සහ ආමලකාකාර (නෙල්ලි ගෙඩියක හැඩය) වශයෙන් ප්‍රධාන වර්ග හයක් දැක්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_319",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "al"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The seven eternal substances (sapta padartha) taught by Pakudha Kaccayana in the Samannaphala Sutta are upper-level / A/L material.",
+    "difficulty": "hard",
+    "tags": [
+      "samannaphala-sutta",
+      "pakudha-kaccayana",
+      "six-heretical-teachers"
+    ],
+    "question": "සප්ත පදාර්ථ නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "රූප, වේදනා, සඤ්ඤා, සංඛාර, විඤ්ඤාණ, ආකාස, නිබ්බාන."
+      },
+      {
+        "id": "b",
+        "text": "ශ්‍රද්ධා, ශීල, හිරි, ඔත්තප්ප, ශ්‍රැත, ත්‍යාග, ප්‍රඥා."
+      },
+      {
+        "id": "c",
+        "text": "පඨවි, ආපෝ, තේජෝ, වායෝ, සුඛ, දුක්ඛ, ජීව."
+      },
+      {
+        "id": "d",
+        "text": "සති, ධම්මවිචය, විරිය, පීති, පස්සද්ධි, සමාධි, උපේක්ඛා."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සාමඤ්ඤඵල සූත්‍රයට අනුව ෂට් ශාස්තෘවරුන් අතර සිටි පකුධ කච්චායන විසින් ඉදිරිපත් කරන ලද සප්ත පදාර්ථ වාදයට පඨවි, ආපෝ, තේජෝ, වායෝ, සුඛ, දුක්ඛ සහ ජීව යන කොටස් හත අයත් වේ.",
+    "source_suggestion": "DN 2"
+  },
+  {
+    "id": "daham_327",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The eight sacred places of Anuradhapura (Atamasthana) are taught in primary and middle Dhamma school grades.",
+    "difficulty": "easy",
+    "tags": [
+      "atamasthana",
+      "anuradhapura",
+      "sacred-places",
+      "sri-lanka-history"
+    ],
+    "question": "අටමස්ථාන නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "මහියංගණය, නාගදීපය, කැලණිය, ශ්‍රී පාදස්ථානය, දිවාගුහාව, දීඝවාපිය, මුතියංගණය, තිස්සමහාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "ජය ශ්‍රී මහ බෝධිය, ථූපාරාමය, ලෝවාමහාපාය, රුවන්වැලිසෑය, මිරිසවැටිය, ජේතවනාරාමය, ලංකාරාමය, අභයගිරිය"
+      },
+      {
+        "id": "c",
+        "text": "ලුම්බිණිය, බුද්ධගයාව, බරණැස ඉසිපතනය, කුසිනාරාව, සැවැත් නුවර, රජගහ නුවර, විශාලා මහනුවර, සංකස්ස පුරය"
+      },
+      {
+        "id": "d",
+        "text": "ගල් විහාරය, වටදාගෙය, හැටදාගෙය, අටදාගෙය, රන්කොත් වෙහෙර, කිරි වෙහෙර, ලංකාතිලකය, ථූපාරාම ප්‍රතිමාඝරය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අනුරාධපුර පුදබිමෙහි පිහිටි අටමස්ථානයට ජය ශ්‍රී මහා බෝධිය, රුවන්වැලිසෑය, ථූපාරාමය, ලෝවාමහාපාය, අභයගිරිය, ජේතවනාරාමය, මිරිසවැටිය සහ ලංකාරාමය යන පූජනීය ස්ථාන අට අයත් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_353",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The main structural parts of a stupa (chaitya) are taught in middle Dhamma school grades and O/L Buddhism.",
+    "difficulty": "easy",
+    "tags": [
+      "stupa",
+      "chaitya",
+      "buddhist-architecture"
+    ],
+    "question": "බෝධියේ කොටස් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පළාපෙති වළල්ල, ගිනිදැල් වළල්ල, සත්ත්ව පේළිය, ලියවැල, හංස පේළිය, පද්මය"
+      },
+      {
+        "id": "b",
+        "text": "ඝණ්ඨාකාර, ඝටාකාර, බුබ්බුලාකාර, ධාන්‍යාකාර, පද්මාකාර, ආමලකාකාර"
+      },
+      {
+        "id": "c",
+        "text": "අභය මුද්‍රාව, සමාධි මුද්‍රාව, ධර්මචක්‍ර මුද්‍රාව, විතර්ක මුද්‍රාව, භූමිස්පර්ශ මුද්‍රාව, වරද මුද්‍රාව"
+      },
+      {
+        "id": "d",
+        "text": "(චෛත්‍යය) පදනම, තුන් මල් පේසාව, ගර්භය, හතරැස් කොටුව, කොත් කැරැල්ල, කොත"
+      }
+    ],
+    "answer": "d",
+    "explanation": "චෛත්‍යයක (දාගැබක) ප්‍රධාන වාස්තු විද්‍යාත්මක අංග වන්නේ පදනම, තුන්මල් පේසාව (පේසා වළලු තුන), ගර්භය, හතරැස් කොටුව, දේවතා කොටුව, කොත් කැරැල්ල සහ කොත (චූඩා මාණික්‍යය) යන කොටස්ය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_354",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The decorative bands of the Sandakadapahana (moonstone) are taught in middle Dhamma school grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "sandakadapahana",
+      "buddhist-art",
+      "sri-lanka-history"
+    ],
+    "question": "සඳකඩ පහනේ කොටස් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පදනම, තුන්මල් පේසාව, ගර්භය, හතරැස් කොටුව හා කොත් කැරැල්ල"
+      },
+      {
+        "id": "b",
+        "text": "පළාපෙති, සතුන්, ලියවැල්, හංස පේළිය හා පියුම"
+      },
+      {
+        "id": "c",
+        "text": "කොරවක්ගල, මුරගල, පියගැටපෙළ, වාහල්කඩ හා ඡත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "සිංහ රුව, අශ්ව රුව, ඇත් රුව, ගව රුව හා ධර්ම චක්‍රය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "සිංහල බෞද්ධ කලා ශිල්පයේ විශිෂ්ට නිර්මාණයක් වන සඳකඩපහනෙහි පිටත සිට ඇතුළතට පිළිවෙළින් පලාපෙති මෝස්තරය, ඇත් අස් සිංහ ගව යන සතුන් සතර දෙනාගේ පේළිය, ලියවැල, හංස පේළිය සහ මැද පිපුණු පියුම දක්නට ලැබේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_355",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Prof. Senarath Paranavitana's spiritual interpretation of the moonstone carvings is taught in Grade 8-9 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "sandakadapahana",
+      "buddhist-art",
+      "symbolism"
+    ],
+    "question": "සඳකඩ පහනේ කොටස් වලින් නිරූපනය වන්නේ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පළාපෙති - රාග, ද්වේශ | සතුන් - ජාති, ජරා, ව්‍යාධි, මරණය | ලියවැල් - තෘෂ්ණාව | හංස පේළිය - ගිහිගෙය හැරයාම | පියුම - නිර්වානය"
+      },
+      {
+        "id": "b",
+        "text": "පළාපෙති - සූවාසූ දහසක් ධර්මස්කන්ධය | සතුන් - සතර සතිපට්ඨානය | ලියවැල් - සත්තිස් බෝධිපාක්ෂික ධර්ම | හංස පේළිය - නවාංග ශාස්තෘ ශාසනය | පියුම - ත්‍රිවිධ රත්නය"
+      },
+      {
+        "id": "c",
+        "text": "පළාපෙති - සතර අපාය | සතුන් - සතර වරම් දෙවිවරු | ලියවැල් - සදෙව් ලෝක | හංස පේළිය - සොළොස් බ්‍රහ්ම ලෝක | පියුම - අරූප තල"
+      },
+      {
+        "id": "d",
+        "text": "පළාපෙති - පංච ශීලය | සතුන් - සතර සංග්‍රහ වස්තු | ලියවැල් - දස රාජ ධර්ම | හංස පේළිය - සප්ත අපරිහානීය ධර්ම | පියුම - අටලෝ දහම"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මහාචාර්ය සෙනරත් පරණවිතාන මහතාගේ අර්ථකථනයට අනුව සඳකඩපහනේ පලාපෙතිවලින් කෙලෙස් ගිනි ද, සතුන් සතර දෙනාගෙන් ජාති ජරා ව්‍යාධි මරණ ද, ලියවැලෙන් තෘෂ්ණාව ද, හංස පේළියෙන් හොඳ නරක වෙන්කර දැන ගිහිගෙය හැරයාම ද, පියුමෙන් නිර්වාණය ද සංකේතවත් කෙරේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_358",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The doctrinal symbolism of the structural parts of a stupa is taught in Grade 8-9 and O/L Buddhism.",
+    "difficulty": "medium",
+    "tags": [
+      "stupa",
+      "symbolism",
+      "buddhist-architecture"
+    ],
+    "question": "දාගැබක කොටස් වලින් නිරූපණය වන දේ මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "පදනම :- සතර අපාය | තුන් මහල් පේසාව :- තුන් ලෝකය | ගර්භය :- සදෙව් ලෝක | සතරැස් කොටුව :- සතර වරම් දෙවිවරු | කොත :- බ්‍රහ්ම ලෝකය"
+      },
+      {
+        "id": "b",
+        "text": "පදනම :- පංච ශීලය | තුන් මහල් පේසාව :- තිසරණය | ගර්භය :- දස කුසල් | සතරැස් කොටුව :- සතර සංග්‍රහ වස්තු | කොත :- අටලෝ දහම"
+      },
+      {
+        "id": "c",
+        "text": "පදනම :- රාග ද්වේෂ මෝහ | තුන් මහල් පේසාව :- ජාති ජරා මරණ | ගර්භය :- තෘෂ්ණාව | සතරැස් කොටුව :- සතර අගතිය | කොත :- පංචස්කන්ධය"
+      },
+      {
+        "id": "d",
+        "text": "පදනම :- සූවාසූ දහසක් ධර්මය | තුන් මහල් පේසාව :- ත්‍රිවිධ රත්නය | ගර්භය :- සත්තිස් බෝධි පාක්‍ෂික ධර්මය | සතරැස් කොටුව :- නවාංග ශාස්තෘ ශාසනය (චතුරාර්ය සත්‍යය) | කොත :- නිවන (නිර්වානය)"
+      }
+    ],
+    "answer": "d",
+    "explanation": "දාගැබක එක් එක් අංගයෙන් උතුම් දහම් කරුණු සංකේතවත් කෙරෙන අතර පදනමෙන් සූවාසූ දහසක් ධර්මස්කන්ධයත්, පේසා වළලු තුනෙන් තෙරුවනත්, ගර්භයෙන් සත්තිස් බෝධිපාක්ෂික ධර්මත්, කොතෙන් අමා මහ නිවනත් නිරූපණය වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_363",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Historic sites in Anuradhapura and Polonnaruwa featuring famous moonstones are taught in Grade 8-9 and Buddhist civilization.",
+    "difficulty": "easy",
+    "tags": [
+      "sandakadapahana",
+      "anuradhapura",
+      "polonnaruwa",
+      "sri-lanka-history"
+    ],
+    "question": "සඳකඩ පහන පිහිටි ස්ථාන කිහිපයක් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සීගිරිය පර්වතය, දඹුල්ල රජමහා විහාරය, අවුකන විහාරය, බුදුරුවගල විහාරය"
+      },
+      {
+        "id": "b",
+        "text": "සංකස්ස පුරය, කුසිනාරා නුවර, බරණැස ඉසිපතනය, ලුම්බිණි සල් උයන"
+      },
+      {
+        "id": "c",
+        "text": "අනුරාධපුර ථූපාරාමය, මැදිරිගිරිය, පොළොන්නරුව වටදා ගෙය, ථූපාරාම අටදාගෙය"
+      },
+      {
+        "id": "d",
+        "text": "මහනුවර ශ්‍රී දළදා මාලිගාව, ගඩලාදෙණිය විහාරය, ලංකාතිලක විහාරය, ඇම්බැක්කේ දේවාලය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "අනුරාධපුර හා පොළොන්නරුව යුගවලට අයත් විශිෂ්ටතම සඳකඩපහන් අනුරාධපුර බිසෝ මාලිගාව, ථූපාරාමය, මැදිරිගිරිය වටදාගෙය සහ පොළොන්නරුව වටදාගෙය ආදී පුදබිම්වල දක්නට ලැබේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_364",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The symbolic hand gestures (mudra) of Buddha statues and their examples are taught in Grade 8-9 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "buddha-statues",
+      "mudra",
+      "buddhist-art"
+    ],
+    "question": "බුදු පිළිම වහන්සේලාගේ මුද්‍රා නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "පද්මාසනය - පාද දෙක උඩු අතට හරවා හිඳීම | වීරාසනය - වම් පාදය මත දකුණු පාදය තබා හිඳීම | භද්‍රාසනය - පාද දෙක පහළට හෙළා හිඳීම | වජ්‍රාසනය - බෝධිමූලයේ වැඩ සිටි ආසනය"
+      },
+      {
+        "id": "b",
+        "text": "ඝණ්ඨාකාර - සීනුවක හැඩය | ඝටාකාර - කළයක හැඩය | බුබ්බුලාකාර - දිය බුබුළක හැඩය | ධාන්‍යාකාර - වී ගොඩක හැඩය | පද්මාකාර - නෙළුම් මලක හැඩය | ආමලකාකාර - නෙල්ලි ගෙඩියක හැඩය"
+      },
+      {
+        "id": "c",
+        "text": "පදනම - අඩිතාලම | තුන්මල් පේසාව - පේසා වළලු තුන | ගර්භය - ධාතු ගර්භය | හතරැස් කොටුව - දේවතා කොටුවට පහළ කොටස | කොත් කැරැල්ල - ඡත්‍රාවලිය | කොත - චූඩා මාණික්‍යය"
+      },
+      {
+        "id": "d",
+        "text": "අභය මුද්‍රා - හිටි පිළිමවල දක්නට ඇත | වරද මුද්‍රා - ඉන්දියාවේ ඇත | විතර්ක මුද්‍රා - පංකුලිය, බුදුරුවගල | ධර්ම චක්‍ර මුද්‍රා - ඉන්දියාවේ ඇත | සමාධි මුද්‍රා - තොලුවිල, මහමෙවුනාව | භූමි ස්පර්ශ මුද්‍රා - ලංකාවේ නැති බව පැවසේ"
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුදු පිළිම වහන්සේලා නිර්මාණය කිරීමේදී බුදුරජාණන් වහන්සේගේ විවිධ ගුණ හා අවස්ථා නිරූපණය කිරීම සඳහා අභය මුද්‍රාව, සමාධි (ධ්‍යාන) මුද්‍රාව, විතර්ක මුද්‍රාව, ධර්මචක්‍ර මුද්‍රාව, වරද මුද්‍රාව සහ භූමිස්පර්ශ මුද්‍රාව යන මුද්‍රාවන් භාවිත කර ඇත.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_365",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The sitting postures (padmasana and virasana) of Buddha statues are taught in Grade 8-9 and O/L Buddhist culture.",
+    "difficulty": "medium",
+    "tags": [
+      "buddha-statues",
+      "asana",
+      "buddhist-art"
+    ],
+    "question": "බුදු පිළිම වහන්සේලාගේ ආසන නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ප්‍රධාන වශයෙන් කොටස් දෙකකි: 1. අභය මුද්‍රාව - බිය දුරු කිරීම පෙන්වන හස්ත විලාසය, 2. සමාධි මුද්‍රාව - භාවනානුයෝගීව වැඩ සිටින හස්ත විලාසය"
+      },
+      {
+        "id": "b",
+        "text": "ප්‍රධාන වශයෙන් කොටස් දෙකකි: 1. පද්මාසනය - ඉන්දීය ක්‍රමයට අනුව පාද පද්මය මත උඩු අතට පිහිටුවා හිඳීම, 2. වීරාසනය - වම් පාදය මත දකුණු පාදය තබා හිඳීම"
+      },
+      {
+        "id": "c",
+        "text": "ප්‍රධාන වශයෙන් කොටස් දෙකකි: 1. බුබ්බුලාකාර හැඩය - දිය බුබුළක ආකාරයට තැනූ දාගැබ්, 2. ඝණ්ඨාකාර හැඩය - සීනුවක ආකාරයට තැනූ දාගැබ්"
+      },
+      {
+        "id": "d",
+        "text": "ප්‍රධාන වශයෙන් කොටස් දෙකකි: 1. ආසනඝරය - ගල් ආසන වටා තැනූ මණ්ඩපය, 2. බෝධිඝරය - බෝධි වෘක්ෂය වටා තැනූ ප්‍රාකාරය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "හිඳි බුදු පිළිම වහන්සේලා නිර්මාණය කිරීමේදී ප්‍රධාන වශයෙන් පද්මාසනය සහ වීරාසනය යන ආසන ක්‍රම දෙක භාවිත කර ඇති අතර, ලංකාවේ පැරණි බුදු පිළිමවල වීරාසන ක්‍රමය බහුලව දක්නට ලැබේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_366",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Ancient Sri Lankan Buddhist architectural structures such as Asanaghara are taught in Grade 9-10 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "asanaghara",
+      "buddhist-architecture",
+      "sri-lanka-history"
+    ],
+    "question": "ආසනඝර යනු කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සංකේත වශයෙන් ආසනයන්ට වැඳුම් පිදුම් කළ අවධියේ ආසන වටා ඉදි කෙරුණු ලැබූ ගෙවල් ආසනඝර නම් වේ."
+      },
+      {
+        "id": "b",
+        "text": "බෝධි වෘක්ෂයන්ගේ ආරක්ෂාව හා වන්දනාව පිණිස බෝධිය වටා ඉදි කරනු ලැබූ ගෘහ විශේෂය ආසනඝර නම් වේ."
+      },
+      {
+        "id": "c",
+        "text": "කුඩා ප්‍රමාණයේ චෛත්‍යයන් වැසි හා අව්වෙන් ආරක්ෂා කිරීම පිණිස වටා ඉදි කළ පියස්ස සහිත මණ්ඩප ආසනඝර නම් වේ."
+      },
+      {
+        "id": "d",
+        "text": "භික්ෂූන් වහන්සේලාට විනය කර්ම සිදු කිරීම පිණිස සීමා මාලක තුළ ඉදි කළ ගොඩනැගිලි ආසනඝර නම් වේ."
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදු පිළිම නෙළීම ආරම්භ වීමට පෙර බුදුරජාණන් වහන්සේ වැඩ සිටි වජ්‍රාසනය සංකේතවත් කරමින් ගල් ආසන තනා වැඳුම් පිදුම් කළ අතර, එම ආසන ආරක්ෂා කිරීමට ඒ වටා ඉදිකළ ගෘහ ආසනඝර නමින් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_367",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Gedige architectural style and its examples (Thuparama image house, Lankatilaka, Nalanda Gedige) are taught in Grade 9-10 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "gedige",
+      "buddhist-architecture",
+      "polonnaruwa",
+      "sri-lanka-history"
+    ],
+    "question": "ගෙඩිගේ පිළිබඳ විස්තර කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "කුඩා දාගැබක් මැදිකොට ගල් කුලුනු මත රැඳවූ වෘත්තාකාර දැව වහලකින් යුක්තව තනා ඇත. මැදිරිගිරිය, පොළොන්නරුව වටදාගෙය, තිරියාය"
+      },
+      {
+        "id": "b",
+        "text": "බෝධි වෘක්ෂයක් මැදිකොට වහලක් නොමැතිව ගල් ප්‍රාකාරයකින් හා දොරටු සතරකින් යුක්තව තනා ඇත. නිල්ලග්ගම, අනුරාධපුර ජය ශ්‍රී මහා බෝධිඝරය"
+      },
+      {
+        "id": "c",
+        "text": "බිත්ති, වහල මුලුමනින්ම ගඩොලින් තනා ඇත. පොලොන්නරුව ලංකා තිලකය, ථූපාරාමය, නාලන්දා ගෙඩිගේ"
+      },
+      {
+        "id": "d",
+        "text": "ගල් කුලුනු දහසයකින් හා දැව තලාද යොදා උළු සෙවිලි කළ වහලකින් යුක්තව ටැම්පිට විහාර ලෙස තනා ඇත. මැදවල විහාරය, දඹදෙණිය විහාරය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "දැව භාවිතයෙන් තොරව බිත්ති මෙන්ම වහලය ද මුළුමනින්ම ගඩොලින් හෝ ගලින් ආරුක්කු හැඩයට වියනක් සේ ගොඩනැගූ ප්‍රතිමාඝර 'ගෙඩිගේ' සම්ප්‍රදායට අයත් වන අතර පොළොන්නරුව ථූපාරාමය, ලංකාතිලකය සහ නාලන්දා ගෙඩිගේ ඊට නිදසුන් වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_368",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Bodhighara architectural structure is taught in Grade 8-9 and O/L Buddhist civilization.",
+    "difficulty": "easy",
+    "tags": [
+      "bodhighara",
+      "buddhist-architecture",
+      "sri-lanka-history"
+    ],
+    "question": "බෝධිඝර යනුවෙන් හඳුන්වන්නේ කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දාගැබක ආරක්ෂාව පිණිස දාගැබ වටා ගල් කුලුනු හා වහලක් සහිතව ඉදි කළ වටදාගෙයකි."
+      },
+      {
+        "id": "b",
+        "text": "බෝධියෙහි ආරක්‍ෂාවට තැනූ ප්‍රාකාරයකි. වහලක් නැත. එක් එක් හැඩ අනුව සාදා ඇත."
+      },
+      {
+        "id": "c",
+        "text": "බුද්ධ ප්‍රතිමා වහන්සේ තැන්පත් කර වැඳුම් පිදුම් කිරීමට ගඩොලින් වහල සහිතව තැනූ ප්‍රතිමාඝරයකි."
+      },
+      {
+        "id": "d",
+        "text": "භික්ෂූන් වහන්සේලාට පොහොය විනය කර්ම සිදු කිරීම පිණිස සීමා මාලකයක් තුළ තැනූ පොහොය ගෙයකි."
+      }
+    ],
+    "answer": "b",
+    "explanation": "බෝධිඝර යනු බෝධි වෘක්ෂයේ ආරක්ෂාව හා වන්දනාමාන පහසුව උදෙසා බෝධිය මැදිකොට මැද වහලක් නොමැතිව වටා ඉදි කරන ලද ප්‍රාකාර සහිත ගෘහ නිර්මාණයකි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_369",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Major Buddhist pilgrimage sites in India such as Vesali (Vaishali) and its Ashoka pillar are taught in Grade 8-9 and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "vesali",
+      "sacred-places",
+      "ashoka-pillar",
+      "buddhist-history"
+    ],
+    "question": "දඹදිව වන්දනීය සිද්ධස්ථාන අතරින් වෛශාලිය (විශාලා මහනුවර) පිළිබඳ නිවැරදි විස්තරය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශාක්‍ය රජදරුවන්ගේ අගනුවරයි. සිද්ධාර්ථ කුමරුගේ ළමා කාලය හා තරුණ කාලය ගත වූයේ මෙම නුවරදීය. බුද්ධත්වයෙන් පසු මෙම නුවරට වැඩම කළ බුදුරජාණන් වහන්සේ ශාක්‍යයන්ගේ මානය දුරු කිරීමට යමා මහ පෙළහර පෑ සේක."
+      },
+      {
+        "id": "b",
+        "text": "මගධ රාජ්‍යයේ අගනුවරයි. බිම්බිසාර රජතුමා විසින් බුදුරජාණන් වහන්සේ ප්‍රමුඛ මහා සංඝරත්නයට පූජා කළ ප්‍රථම ආරාමය වූ වේළුවනාරාමය පිහිටියේ මෙහිය. ප්‍රථම ධර්ම සංගායනාව ද මෙහි සප්තපර්ණී ගල්ලෙන අසලදී පැවැත්විණි."
+      },
+      {
+        "id": "c",
+        "text": "කොසොල් රාජ්‍යයේ අගනුවරයි. අනේපිඬු සිටුතුමා කරවූ ජේතවනාරාමයත් විශාඛා මහෝපාසිකාව කරවූ පූර්වාරාමයත් මෙහි පිහිටා තිබුණි. බුදුරජාණන් වහන්සේ වැඩිම වස් කාල ගණනක් වැඩ සිටියේ මෙම නුවරය."
+      },
+      {
+        "id": "d",
+        "text": "ලිච්ඡවි රජුන්ගේ අගනුවරයි. බුදුන් කාලයේදී මෙහි පැවති තුන්බිය අනඳ හිමියන් ලවා රතන සූත්‍රය දේශනා කරවීමෙන් දුරු කර වූ බව බෞද්ධ සාහිත්‍යයේ සඳහන් වේ. මෙහි අශෝක රජු විසින් කර වූ සිංහ හිස සහිත ස්තම්භයක් ඇත."
+      }
+    ],
+    "answer": "d",
+    "explanation": "වජ්ජි ජනපදයේ ලිච්ඡවි රජදරුවන්ගේ අගනුවර වූ විශාලා මහනුවර (වෛශාලිය) දඹදිව අටමහා සිද්ධස්ථාන අතරට අයත් වැදගත් පුදබිමක් වන අතර, රතන සූත්‍ර දේශනාව සිදු වූ ස්ථානය මෙන්ම ධර්මාශෝක රජතුමා පිහිටුවූ සිංහ ස්තම්භය ද එහි දක්නට ලැබේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_375",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Four Great Heavenly Kings (satara varam devivaru) of the Catummaharajika realm are taught in Grade 5-6.",
+    "difficulty": "easy",
+    "tags": [
+      "satara-varam-devivaru",
+      "deva-loka",
+      "catummaharajika"
+    ],
+    "question": "සතර වරම් දෙවිවරු නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "ශක්‍ර, සහම්පතී, සුයාම, සන්තුසිත"
+      },
+      {
+        "id": "b",
+        "text": "උපුල්වන්, සුමන සමන්, විභීෂණ, කතරගම"
+      },
+      {
+        "id": "c",
+        "text": "ධෘතරාෂ්ට, විරූඪ, විරූපාක්ෂ, වෛශ්‍රවණ"
+      },
+      {
+        "id": "d",
+        "text": "බ්‍රහ්ම පාරිසජ්ජ, බ්‍රහ්ම පුරෝහිත, මහා බ්‍රහ්ම, ආභස්සර"
+      }
+    ],
+    "answer": "c",
+    "explanation": "චාතුම්මහාරාජික දිව්‍ය ලෝකයෙහි සිව් දිශාවන්ට අධිපතිව වසන සතරවරම් දෙවිවරුන් වන්නේ ධෘතරාෂ්ට්‍ර, විරූඪ, විරූපාක්ෂ සහ වෛශ්‍රවණ (කුවේර) යන දිව්‍ය රාජයන් සතර දෙනායි.",
+    "source_suggestion": "DN 32"
+  },
+  {
+    "id": "daham_379",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that Ven. Maliyadeva Mahathera is traditionally regarded as the last well-known arahant in ancient Sri Lanka is middle-grade knowledge.",
+    "difficulty": "easy",
+    "tags": [
+      "maliyadeva-thero",
+      "sri-lanka-history",
+      "arahants"
+    ],
+    "question": "ලංකාවේ වැඩ විසූ අවසන් රහතන් වහන්සේගේ නම කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මිහිඳු මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "අරිට්ඨ මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "මලියදේව මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "සුමන සාමණේර මහ රහතන් වහන්සේ"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ලක්දිව වංශකථා හා බෞද්ධ සාහිත්‍ය සම්ප්‍රදායට අනුව ලංකාවේ වැඩ විසූ අවසන් ප්‍රකට මහරහතන් වහන්සේ ලෙස සැලකෙන්නේ ඡඡක්ක සූත්‍රය දේශනා කරමින් ධර්ම ප්‍රචාරයෙහි යෙදුණු මලියදේව මහරහතන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_382",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the specific individuals who suffered immediate rebirth in Avici hell during the Buddha's lifetime requires upper-grade knowledge of Buddhist literature.",
+    "difficulty": "medium",
+    "tags": [
+      "kamma-vipaka",
+      "buddhist-literature"
+    ],
+    "question": "බුදුන් වහන්සේ ජීවමානව වැඩ සිටියදීම අපාගත වූ හතර දෙනෙකු නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "උප්පලවණ්ණා තෙරණිය දූෂණය කළ භාගිනෙය්‍ය සිටු පුත්, මාගන්ධියා, චිංචිමානවිකාව, දෙව්දත් තෙරුන්, සුප්පබුද්ධ රජු"
+      },
+      {
+        "id": "b",
+        "text": "අජාසත්ත රජු, සුනක්ඛත්ත පිරිවැජියා, සච්චක පඬිවරයා, චුණ්ඩ සූකරික, කෝකාලික භික්ෂුව"
+      },
+      {
+        "id": "c",
+        "text": "උපක ආජීවකයා, ධනිය ගෝපාල, කසීභාරද්වාජ බමුණා, අග්ගික භාරද්වාජ බමුණා, සුභද්‍ර පිරිවැජියා"
+      },
+      {
+        "id": "d",
+        "text": "වස්සකාර බමුණා, ද්‍රෝණ බමුණා, පුක්කුසාති රජු, චණ්ඩ පජ්ජෝත රජු, උදේනි රජු"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේ ජීවමානව වැඩ සිටි සමයේදී බරපතළ අකුසල කර්ම සිදු කිරීම හේතුවෙන් නන්ද මාණවකයා (භාගිනෙය්‍ය සිටු පුත්), චිංචිමානවිකාව, දෙව්දත් තෙරුන්, සුප්පබුද්ධ ශාක්‍ය රජු සහ මාගන්ධියා ආදීහු දරුණු විපාක ලැබ අපාගත වූහ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_386",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-10",
+      "grade-11",
+      "dharmacharya"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Identifying the specific missionary arahant sent to Yonaka country after the Third Buddhist Council is an upper-level Buddhist history topic.",
+    "difficulty": "medium",
+    "tags": [
+      "buddhist-councils",
+      "dhamma-missions",
+      "asoka"
+    ],
+    "question": "යෝනක දේශයට වැඩූ රහතන් වහන්සේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මජ්ඣන්තික මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "b",
+        "text": "මහා රක්ෂිත මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "මහාදේව මහ රහතන් වහන්සේ"
+      },
+      {
+        "id": "d",
+        "text": "මජ්ඣිම මහ රහතන් වහන්සේ"
+      }
+    ],
+    "answer": "b",
+    "explanation": "තුන්වන ධර්ම සංගායනාවෙන් පසුව ධර්මාශෝක රජතුමාගේ හා මොග්ගලීපුත්තතිස්ස මහරහතන් වහන්සේගේ මූලිකත්වයෙන් නව රටවලට ධර්මදූතයන් වහන්සේලා පිටත් කර හැරි අතර, යෝනක දේශයට වැඩම කළේ මහා රක්ෂිත මහරහතන් වහන්සේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_403",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing that Lumbini is located in modern-day Nepal is taught in upper primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "lumbini",
+      "birth"
+    ],
+    "question": "ලුම්බිණිය වර්ථමානයේ අයත්වන රාජ්‍ය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ඉන්දියානු රාජ්‍ය"
+      },
+      {
+        "id": "b",
+        "text": "භූතාන රාජ්‍ය"
+      },
+      {
+        "id": "c",
+        "text": "නේපාල රාජ්‍ය"
+      },
+      {
+        "id": "d",
+        "text": "මියන්මාර රාජ්‍ය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "සිදුහත් බෝසතාණන් වහන්සේ උපත ලැබූ ලුම්බිණි සල් උයන වර්තමානයේ නේපාල රාජ්‍යයට අයත් ප්‍රදේශයක පිහිටා ඇත.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_404",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The modern name of Lumbini (Rummindei) is taught in middle Dhamma school grades when studying Buddhist sacred places.",
+    "difficulty": "easy",
+    "tags": [
+      "sacred-places",
+      "lumbini"
+    ],
+    "question": "ලුම්බිණිය ස්ථානය දැන් දැන් හඳුන්වන්නේ මොන නමකින්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාරානාත්"
+      },
+      {
+        "id": "b",
+        "text": "කසියා"
+      },
+      {
+        "id": "c",
+        "text": "සහේත් මහේත්"
+      },
+      {
+        "id": "d",
+        "text": "රුමින්දෙයි"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සිදුහත් කුමරුන් උපත ලද ඓතිහාසික ලුම්බිණි පුදබිම වර්තමානයේ 'රුමින්දෙයි' යන නාමයෙන් හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_418",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The arrival of Arahat Mahinda in Sri Lanka on Poson Poya in B.E. 236 is a core fact taught from primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "mahinda-thero",
+      "poson-poya"
+    ],
+    "question": "මිහිඳු හිමියන් ලංකාවට වැඩම කළේ කවදාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බු.ව 236 උඳුවප් පෝයදා"
+      },
+      {
+        "id": "b",
+        "text": "බු.ව 236 පොසොන් පෝයදා"
+      },
+      {
+        "id": "c",
+        "text": "බු.ව 218 වෙසක් පෝයදා"
+      },
+      {
+        "id": "d",
+        "text": "බු.ව 450 නිකිණි පෝයදා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "අනුබුදු මිහිඳු මහරහතන් වහන්සේ ප්‍රමුඛ ධර්මදූත පිරිස ලක්දිව මිහින්තලා පව්වට වැඩම කළේ බුද්ධ වර්ෂ 236 පොසොන් පුර පසළොස්වක පොහොය දිනයේදීය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_419",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Cullahatthipadopama Sutta as the first sermon preached by Arahat Mahinda in Sri Lanka is taught in grades 5-7.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "mahinda-thero",
+      "sutta-pitaka"
+    ],
+    "question": "මිහිඳු හිමියන් ලක්දිවදී ප්‍රථමයෙන් දේශනා කළ සූත්‍රය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සමචිත්ත පරියාය සූත්‍රය"
+      },
+      {
+        "id": "b",
+        "text": "දේවදූත සූත්‍රය"
+      },
+      {
+        "id": "c",
+        "text": "චුල්ල හත්ථි පදෝපම සූත්‍රය"
+      },
+      {
+        "id": "d",
+        "text": "බාලපණ්ඩිත සූත්‍රය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ මිහින්තලයේදී දේවානම්පියතිස්ස රජතුමාගේ නුවණ විමසා බැලීමෙන් අනතුරුව ලක්දිවදී ප්‍රථමයෙන්ම දේශනා කළේ චුල්ලහත්ථිපදෝපම සූත්‍රයයි.",
+    "source_suggestion": "MN 27"
+  },
+  {
+    "id": "daham_420",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Anula Therani as the first Sinhala bhikkhuni to attain arahantship is taught in upper primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "bhikkhuni-sasana"
+    ],
+    "question": "පළමුව රහත් වුන සිංහල තෙරණිය කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සංඝමිත්තා තෙරණිය"
+      },
+      {
+        "id": "b",
+        "text": "උත්තරා තෙරණිය"
+      },
+      {
+        "id": "c",
+        "text": "හේමා තෙරණිය"
+      },
+      {
+        "id": "d",
+        "text": "අනුලා තෙරණිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "සංඝමිත්තා මහරහත් තෙරණිය ලක්දිවට වැඩම කිරීමෙන් පසු පැවිදි බිමට පත් අනුලා දේවිය ලක්දිව ප්‍රථම සිංහල භික්ෂුණිය හා ප්‍රථම සිංහල රහත් තෙරණිය බවට පත් වූවාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_421",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "grade-10"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Hatthalhaka Mehenawara as the place where Sanghamitta Maha Therani resided and attained Parinibbana is taught in middle-to-upper grades.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "sanghamitta-therani",
+      "bhikkhuni-sasana"
+    ],
+    "question": "සංඝමිත්තා තෙරණිය පිරිනිවන් පෑ ස්ථානය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "හත්ථාල්හක මෙහෙණවර"
+      },
+      {
+        "id": "b",
+        "text": "උපාසිකා විහාරය"
+      },
+      {
+        "id": "c",
+        "text": "රාජකාරාම මෙහෙණවර"
+      },
+      {
+        "id": "d",
+        "text": "තිස්සාරාම විහාරය"
+      }
+    ],
+    "answer": "a",
+    "explanation": "සංඝමිත්තා මහරහත් තෙරණිය උත්තිය රජුගේ රාජ්‍ය සමයේදී පනස් නව වියේදී අනුරාධපුර හත්ථාළ්හක මෙහෙණවරෙහි වැඩ සිටියදී පිරිනිවන් පෑ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_422",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "grade-8"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Girihadu Seya built by Tapassu and Bhalluka enshrining the hair relics is taught in middle grades.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "sacred-places",
+      "stupas"
+    ],
+    "question": "ලංකාවේ ඉතාමත්ම පැරණි චෛත්‍ය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "රුවන්වැලිසෑය"
+      },
+      {
+        "id": "b",
+        "text": "ගිරිගඩුසෑය"
+      },
+      {
+        "id": "c",
+        "text": "මිරිසවැටිසෑය"
+      },
+      {
+        "id": "d",
+        "text": "අභයගිරිසෑය"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුදුරජාණන් වහන්සේ ජීවමාන සමයේදීම තපස්සු හා භල්ලුක වෙළඳ දෙබෑයන් විසින් ලබාගත් කේශ ධාතූන් වහන්සේලා තැන්පත් කොට ඉදිකළ ගිරිහඬු සෑය (ගිරිගඩුසෑය) ලක්දිව ඉපැරණිම චෛත්‍යයක් ලෙස සැලකේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_423",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Jetavanaramaya as the largest stupa in Sri Lanka is a standard Buddhist history fact taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "sacred-places",
+      "stupas"
+    ],
+    "question": "ලංකාවේ විශාලතම චෛත්‍ය කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ථූපාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "ලංකාරාමය"
+      },
+      {
+        "id": "c",
+        "text": "ජේතවනාරාමය"
+      },
+      {
+        "id": "d",
+        "text": "සෝමාවතිය"
+      }
+    ],
+    "answer": "c",
+    "explanation": "මහසෙන් රජතුමා විසින් අනුරාධපුරයේ ඉදිකරවන ලද ජේතවනාරාම දාගැබ ශ්‍රී ලංකාවේ පිහිටි විශාලතම චෛත්‍යය වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_424",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Pancha Maha Vihara of early Anuradhapura built under King Devanampiyatissa are taught in upper Dhamma school grades.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "anuradhapura",
+      "monasteries"
+    ],
+    "question": "අනුරාධපුර යුගයේ පැවති පංච මහා විහාර නම් කරන්න",
+    "options": [
+      {
+        "id": "a",
+        "text": "රුවන්වැලිසෑය, මිරිසවැටිය, ජේතවනාරාමය, අභයගිරිය, ලංකාරාමය"
+      },
+      {
+        "id": "b",
+        "text": "කැලණි විහාරය, තිස්සමහාරාමය, සිතුල්පව්ව, කිරිවෙහෙර, දීඝවාපිය"
+      },
+      {
+        "id": "c",
+        "text": "වේළුවනාරාමය, ජේතවනාරාමය, පූර්වාරාමය, ඝෝෂිතාරාමය, කුක්කුටාරාමය"
+      },
+      {
+        "id": "d",
+        "text": "මහා විහාරය, ථූපාරාමය, වෙස්සගිරිය, චේතිය විහාරය, ඉසුරුමුණිය"
+      }
+    ],
+    "answer": "d",
+    "explanation": "අනුරාධපුර යුගයේ මුල් කාලයේදී දේවානම්පියතිස්ස රජතුමා විසින් ඉදිකරවන ලද මහා විහාරය, ථූපාරාමය, වෙස්සගිරිය, චේතියගිරි විහාරය සහ ඉසුරුමුණි විහාරය පංච මහා විහාර ලෙස හැඳින්වේ.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_429",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-3",
+      "grade-4",
+      "grade-5"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Buddha visiting Samankula (Sri Pada) on His third visit to Sri Lanka is a basic fact taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "buddha-visits",
+      "sacred-places"
+    ],
+    "question": "බුදුන් සමන්කුල පව්වට වැඩියේ ලංකාවට වැඩම කළ කී වෙනි වතාවේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "තුන් වෙනි වරට ලංකාවට වැඩි ගමනේ"
+      },
+      {
+        "id": "b",
+        "text": "පළමු වෙනි වරට ලංකාවට වැඩි ගමනේ"
+      },
+      {
+        "id": "c",
+        "text": "දෙවෙනි වරට ලංකාවට වැඩි ගමනේ"
+      },
+      {
+        "id": "d",
+        "text": "සිව් වෙනි වරට ලංකාවට වැඩි ගමනේ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුදුරජාණන් වහන්සේ බුද්ධත්වයෙන් අටවන වසරෙහි වෙසක් පුන් පොහෝ දින තුන්වන වරට ලක්දිව කැලණියට වැඩම කළ ගමනේදී සුමන සමන් දෙවිඳුන්ගේ ආරාධනයෙන් සමනොළ කඳු මුදුනට වැඩම කොට ශ්‍රී පාද ලාංඡනය පිහිටුවූ සේක.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_432",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Minister Arittha as the first Sri Lankan to receive ordination is a standard primary/middle grade history fact.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "arittha-thero"
+    ],
+    "question": "ලංකාවේ ප්‍රථම වරට පැවදි වූයේ කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "භණ්ඩුක උපාසකතුමා"
+      },
+      {
+        "id": "b",
+        "text": "සුමන සාමණේරයන් වහන්සේ"
+      },
+      {
+        "id": "c",
+        "text": "මත්තාභය කුමරු"
+      },
+      {
+        "id": "d",
+        "text": "අරිට්ඨ ඇමතියා"
+      }
+    ],
+    "answer": "d",
+    "explanation": "මිහිඳු මහරහතන් වහන්සේ වෙතින් පැවිදි උපසම්පදාව ලබා ලක්දිව ප්‍රථම සිංහල භික්ෂුව බවට පත්වූයේ දේවානම්පියතිස්ස රජතුමාගේ බෑණනුවන් වූ මහා අරිට්ඨ ඇමතිතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_433",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The first schism among the Sri Lankan Sangha (Nikaya Bhedaya) during the reign of King Valagamba is taught in upper grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "nikaya-bhedaya",
+      "valagamba"
+    ],
+    "question": "ලංකාවේ නිකාය භේදය ඇතිවූයේ කිනම් රජුගේ කාලයේද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "වළගම්භා රජු කාලයේ"
+      },
+      {
+        "id": "b",
+        "text": "දේවානම්පියතිස්ස රජු කාලයේ"
+      },
+      {
+        "id": "c",
+        "text": "දුටුගැමුණු රජු කාලයේ"
+      },
+      {
+        "id": "d",
+        "text": "භාතිකාභය රජු කාලයේ"
+      }
+    ],
+    "answer": "a",
+    "explanation": "වළගම්බා රජතුමා තම දෙවන රාජ්‍ය සමයේදී අභයගිරි විහාරය කරවා කුපික්කල මහාතිස්ස හිමියන්ට පෞද්ගලිකව පූජා කිරීමත් සමඟ මහා විහාරයෙන් වෙන්ව අභයගිරි පාර්ශ්වය බිහි වී ලක්දිව ප්‍රථම නිකාය භේදය ඇති විය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_434",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The writing down of the Tipitaka in books at Matale Aluvihara is a core Sri Lankan Buddhist history topic taught from grade 6 and in O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "sri-lanka-history",
+      "aluvihara",
+      "tipitaka"
+    ],
+    "question": "අළු විහාරය ශාසනික වශයෙන් වැදගත් වන්නේ ඇයි?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ජය ශ්‍රී මහා බෝධීන් වහන්සේ රෝපණය කිරීම නිසා"
+      },
+      {
+        "id": "b",
+        "text": "ත්‍රිපිකට ග්‍රන්ථාරූඪ කිරීම නිසා"
+      },
+      {
+        "id": "c",
+        "text": "දළදා වහන්සේ ප්‍රථම වරට තැන්පත් කිරීම නිසා"
+      },
+      {
+        "id": "d",
+        "text": "මිහිඳු මහරහතන් වහන්සේ පිරිනිවන් පෑම නිසා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "වළගම්බා රජු දවස මුවදොරින් පවත්වාගෙන ආ ත්‍රිපිටක බුද්ධ ධර්මය චිරස්ථිතිය උදෙසා මාතලේ අළුවිහාරයේදී මහරහතන් වහන්සේලා විසින් පුස්කොළ පොත්වල ග්‍රන්ථාරූඪ කරන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_457",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Valagamba offering Abhayagiri Vihara to Kupikkala Mahatissa Thero is taught in middle-to-upper grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "abhayagiriya",
+      "valagamba"
+    ],
+    "question": "වලගම්භා රජු, අභයගිරිය පූජා කලේ කාටද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කුප්පිකුලතිස්ස හිමියන්ට."
+      },
+      {
+        "id": "b",
+        "text": "මිහිඳු මහරහත් හිමියන්ට."
+      },
+      {
+        "id": "c",
+        "text": "සංඝමිත්තා තෙරුන් හිමියන්ට."
+      },
+      {
+        "id": "d",
+        "text": "ගෝඨාභය තිස්ස හිමියන්ට."
+      }
+    ],
+    "answer": "a",
+    "explanation": "වළගම්බා රජතුමා විපතට පත්ව සැඟවී සිටි සමයේදී තමාට බෙහෙවින් උපකාර කළ කුපික්කල මහාතිස්ස (කුප්පිකුලතිස්ස) හිමියන්ට කළගුණ සැලකීමක් ලෙස ගිරි නිගණ්ඨාරාමය බිඳවා එහි අභයගිරි විහාරය කරවා පූජා කළේය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_459",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-6",
+      "grade-7",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four main castes (Catu Vanna) of ancient India at the time of the Buddha are taught from Grade 6 and in O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "indian-society",
+      "four-castes"
+    ],
+    "question": "බුද්ධ කාලීන ඉන්දියාවේ පැවති ප්‍රධාන කුල හතරක් නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "බ්‍රහ්මචාරී, ගෘහස්ථ, වානප්‍රස්ථ, සන්‍යාසී"
+      },
+      {
+        "id": "b",
+        "text": "ශාක්‍ය, කෝලිය, මල්ල, ලිච්ඡවී"
+      },
+      {
+        "id": "c",
+        "text": "බ්‍රාහ්මණ,ක්ෂ්ත්‍රිය, වෛශ්‍ය, ශුද්‍ර"
+      },
+      {
+        "id": "d",
+        "text": "භික්ෂු, භික්ෂුණී, උපාසක, උපාසිකා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "බුද්ධකාලීන භාරතීය සමාජයෙහි බ්‍රාහ්මණ, ක්ෂත්‍රිය, වෛශ්‍ය සහ ශුද්‍ර යනුවෙන් ප්‍රධාන වර්ණ හෙවත් කුල හතරක් පැවතුණි.",
+    "source_suggestion": "MN 93"
+  },
+  {
+    "id": "daham_460",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The Sixteen Great Kingdoms (Solos Maha Janapada) of ancient India are taught in middle grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "solos-maha-janapada",
+      "indian-history"
+    ],
+    "question": "මධ්‍ය දේශයේ පැවති සොලොස් මහා ජනපද නම් කරන්න.",
+    "options": [
+      {
+        "id": "a",
+        "text": "රජගහ, සැවැත්, විශාලා, කුසිනාරා, බරණැස, කොසඹෑ, චම්පා, මිථිලා, උදේනි, තක්සලා, සාකේත, කිඹුල්වත්, දෙව්දහ, පාවා, ආලවී, මධුරා."
+      },
+      {
+        "id": "b",
+        "text": "ශාක්‍ය, කෝලිය, මෞර්ය, භග්ග, බුලී, කාලාම, ලිච්ඡවී, විදේහ, ඤාතෘක, මල්ල, අංග, මගධ, කාසි, කෝසල, වත්ස, අවන්ති."
+      },
+      {
+        "id": "c",
+        "text": "අපරන්ත, කාශ්මීර, ගාන්ධාර, මහිසමණ්ඩල, වනවාස, යෝනක, හිමවන්ත, ස්වර්ණභූමි, තම්බපණ්ණි, මගධ, කෝසල, වත්ස, අවන්ති, කුරු, පංචාල, මච්ච."
+      },
+      {
+        "id": "d",
+        "text": "අංග, මගධ, කාසි, කෝසල, වජ්ජි, මල්ල, චේති, වත්ස, කුරු, පංචාල, මච්ච, සූරසේන, අස්මක, අවන්ති, ගාන්ධාර, කාම්භෝජ."
+      }
+    ],
+    "answer": "d",
+    "explanation": "බුද්ධකාලීන භාරතයෙහි පැවති සොළොස් මහා ජනපද වන්නේ අංග, මගධ, කාසි, කෝසල, වජ්ජි, මල්ල, චේති, වංස (වත්ස), කුරු, පංචාල, මච්ඡ, සූරසේන, අස්සක, අවන්ති, ගන්ධාර සහ කම්බෝජ යන දහසයයි.",
+    "source_suggestion": "AN 3.70"
+  },
+  {
+    "id": "daham_461",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "The four major monarchies among the sixteen Mahajanapadas (Magadha, Kosala, Vatsa, Avanti) are taught in middle grades and O/L.",
+    "difficulty": "easy",
+    "tags": [
+      "solos-maha-janapada",
+      "indian-history"
+    ],
+    "question": "ප්‍රධාන රාජ්‍ය 04 මොනවාද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "මගධ, කෝසල, වත්ස, අවන්ති."
+      },
+      {
+        "id": "b",
+        "text": "අංග, කාසි, වජ්ජි, මල්ල."
+      },
+      {
+        "id": "c",
+        "text": "කුරු, පංචාල, මච්ච, සූරසේන."
+      },
+      {
+        "id": "d",
+        "text": "චේති, අස්මක, ගාන්ධාර, කාම්භෝජ."
+      }
+    ],
+    "answer": "a",
+    "explanation": "බුද්ධකාලීන භාරතයේ පැවති සොළොස් මහා ජනපද අතරින් දේශපාලනික වශයෙන් වඩාත් බලවත්ම ප්‍රධාන රාජාණ්ඩු හතර වූයේ මගධ, කෝසල, වත්ස සහ අවන්ති යන රාජ්‍යයන්ය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_462",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Bimbisara as the ruler of Magadha is a well-known fact taught in primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "kings",
+      "magadha",
+      "bimbisara"
+    ],
+    "question": "මගධයේ රජතුමා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "උදේනි"
+      },
+      {
+        "id": "b",
+        "text": "බිම්බිසාර"
+      },
+      {
+        "id": "c",
+        "text": "පසේනදී"
+      },
+      {
+        "id": "d",
+        "text": "චණ්ඩ පජ්ජෝත"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බුද්ධකාලීන භාරතයේ ප්‍රබල රාජ්‍යයක් වූ මගධ රාජ්‍යය පාලනය කළේ බුදුරජාණන් වහන්සේට වේළුවනාරාමය පූජා කළ සේනිය බිම්බිසාර රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_463",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-4",
+      "grade-5",
+      "grade-6"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Pasenadi Kosala as the ruler of Kosala is taught in upper primary grades.",
+    "difficulty": "easy",
+    "tags": [
+      "kings",
+      "kosala",
+      "pasenadi-kosala"
+    ],
+    "question": "කෝසලයේ රජතුමා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බිම්බිසාර."
+      },
+      {
+        "id": "b",
+        "text": "උදේනි."
+      },
+      {
+        "id": "c",
+        "text": "පසේනදී කෝසල."
+      },
+      {
+        "id": "d",
+        "text": "චණ්ඩ පජ්ජෝත."
+      }
+    ],
+    "answer": "c",
+    "explanation": "සැවැත් නුවර අගනුවර කරගත් කෝසල රාජ්‍යයේ පාලකයා වූයේ බුදුරජාණන් වහන්සේගේ සමවයසේ පසුවූ පසේනදී කෝසල රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_464",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Canda Pajjota as the ruler of Avanti is taught in middle grades when studying the four major kingdoms.",
+    "difficulty": "medium",
+    "tags": [
+      "kings",
+      "avanti",
+      "indian-history"
+    ],
+    "question": "අවන්තියේ රජතුමා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බිම්බිසාර"
+      },
+      {
+        "id": "b",
+        "text": "පසේනදී කෝසල"
+      },
+      {
+        "id": "c",
+        "text": "උදේනි"
+      },
+      {
+        "id": "d",
+        "text": "චන්ඩ පජ්ජෝත"
+      }
+    ],
+    "answer": "d",
+    "explanation": "උදේනි නුවර අගනුවර කරගත් අවන්ති රාජ්‍යයෙහි පාලකයා වූයේ චණ්ඩ පජ්ජෝත රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_465",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Savatthi as the capital city of Kosala is taught in upper primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "kosala",
+      "savatthi",
+      "indian-history"
+    ],
+    "question": "කෝසලයේ අගනුවර කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාවස්ථි"
+      },
+      {
+        "id": "b",
+        "text": "රජගහනුවර"
+      },
+      {
+        "id": "c",
+        "text": "කොසඹෑ"
+      },
+      {
+        "id": "d",
+        "text": "උදේනි"
+      }
+    ],
+    "answer": "a",
+    "explanation": "පසේනදී කෝසල රජතුමා විසින් පාලනය කළ කෝසල රාජ්‍යයේ අගනුවර වූයේ සැවැත් නුවර හෙවත් සාවත්ථි පුරයයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_466",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Rajagaha as the capital of Magadha is taught in upper primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "magadha",
+      "rajagaha",
+      "indian-history"
+    ],
+    "question": "මගධයේ අගනුවර කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාවස්ථි"
+      },
+      {
+        "id": "b",
+        "text": "රජගහනුවර"
+      },
+      {
+        "id": "c",
+        "text": "කොසඹෑ"
+      },
+      {
+        "id": "d",
+        "text": "උදේනි"
+      }
+    ],
+    "answer": "b",
+    "explanation": "බිම්බිසාර රජතුමා විසින් පාලනය කරන ලද මගධ රාජ්‍යයේ අගනුවර වූයේ පර්වත පහකින් වටවූ රජගහ නුවරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_467",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Kosambi as the capital of the Vatsa kingdom is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "vatsa",
+      "kosambi",
+      "indian-history"
+    ],
+    "question": "වත්සයේ අගනුවර කුමක්ද?.",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාවස්ථි"
+      },
+      {
+        "id": "b",
+        "text": "රජගහනුවර"
+      },
+      {
+        "id": "c",
+        "text": "කොසඹෑ"
+      },
+      {
+        "id": "d",
+        "text": "උදේනි"
+      }
+    ],
+    "answer": "c",
+    "explanation": "උදේනි රජතුමා විසින් පාලනය කරන ලද වත්ස (වංස) රාජ්‍යයේ අගනුවර වූයේ කොසඹෑ නුවරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_468",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-7",
+      "grade-8",
+      "grade-9"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Udeni (Ujjain) as the capital of Avanti is taught in middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "avanti",
+      "udeni",
+      "indian-history"
+    ],
+    "question": "අවන්තියේ අගනුවර කුමක්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "සාවස්ථි"
+      },
+      {
+        "id": "b",
+        "text": "රජගහනුවර"
+      },
+      {
+        "id": "c",
+        "text": "කොසඹෑ"
+      },
+      {
+        "id": "d",
+        "text": "උදේනි"
+      }
+    ],
+    "answer": "d",
+    "explanation": "චණ්ඩ පජ්ජෝත රජතුමා විසින් පාලනය කරන ලද අවන්ති රාජ්‍යයේ අගනුවර වූයේ උදේනි (උජ්ජේනි) නුවරයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_469",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-5",
+      "grade-6",
+      "grade-7"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Bindusara as the father of Emperor Asoka is taught in upper primary and middle grades.",
+    "difficulty": "easy",
+    "tags": [
+      "asoka",
+      "maurya-dynasty",
+      "indian-history"
+    ],
+    "question": "අශෝක රජුගේ පියා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "බින්දුසාර රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "චන්ද්‍රගුප්ත රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "බිම්බිසාර රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "කාලාශෝක රජතුමා"
+      }
+    ],
+    "answer": "a",
+    "explanation": "මෞර්ය වංශික ධර්මාශෝක අධිරාජයාගේ පියාණන් වූයේ චන්ද්‍රගුප්ත මෞර්ය රජුගේ පුත් බින්දුසාර රජතුමාය.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_470",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-2",
+      "grade-3",
+      "grade-4"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Mahinda and Sanghamitta as the son and daughter of Emperor Asoka are among the first historical facts taught in primary Dhamma school.",
+    "difficulty": "easy",
+    "tags": [
+      "asoka",
+      "mahinda-thero",
+      "sanghamitta-therani"
+    ],
+    "question": "අශෝක රජතුමාගේ පුතා සහ දියණිය කවුරුන්ද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "නන්ද හා නන්දා"
+      },
+      {
+        "id": "b",
+        "text": "මහින්ද හා සංඝමිත්තා"
+      },
+      {
+        "id": "c",
+        "text": "ජාලිය හා කෘෂ්ණජිනා"
+      },
+      {
+        "id": "d",
+        "text": "දන්ත හා හේමමාලා"
+      }
+    ],
+    "answer": "b",
+    "explanation": "ධර්මාශෝක රජතුමාගේ සහ වේදිසා දේවියගේ පුත්‍රයා හා දියණිය වූයේ පසුව පැවිදිව ලක්දිවට බුදුසසුන හා ශ්‍රී මහා බෝධිය වැඩම කරවූ මහින්ද කුමරු සහ සංඝමිත්තා කුමරියයි.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_471",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-9",
+      "grade-10",
+      "daham-awasana"
+    ],
+    "level_confidence": "high",
+    "level_reason": "Knowing the builder of Dakkhinagiri Vihara is an upper-level Sri Lankan Buddhist history question.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "monasteries",
+      "anuradhapura"
+    ],
+    "question": "දක්ඛිනගිරි විහාරය ඉදි කලේ කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "කාවන්තිස්ස රජතුමා"
+      },
+      {
+        "id": "b",
+        "text": "වසභ රජතුමා"
+      },
+      {
+        "id": "c",
+        "text": "සද්ධාතිස්ස රජතුමා"
+      },
+      {
+        "id": "d",
+        "text": "මහසෙන් රජතුමා"
+      }
+    ],
+    "answer": "c",
+    "explanation": "ශාසනික ප්‍රබෝධය උදෙසා දිවයින පුරා විහාරාරාම රැසක් කරවූ සද්ධාතිස්ස රජතුමා විසින් දක්ඛිණගිරි විහාරය ඇතුළු වෙහෙර විහාර ඉදිකරවන ලදී.",
+    "source_suggestion": "UNKNOWN"
+  },
+  {
+    "id": "daham_472",
+    "category": "bauddha-ithihasaya",
+    "levels": [
+      "grade-8",
+      "grade-9",
+      "ol"
+    ],
+    "level_confidence": "high",
+    "level_reason": "King Kithsiriimevan initiating the annual Mihindu Perahera alongside the Dalada Perahera is taught in middle grades and O/L.",
+    "difficulty": "medium",
+    "tags": [
+      "sri-lanka-history",
+      "mihindu-perahera",
+      "kithsirimevan"
+    ],
+    "question": "මිහිඳු පෙරහැර ආරම්භ කල රජතුමා කවුද?",
+    "options": [
+      {
+        "id": "a",
+        "text": "දේවානම්පියතිස්ස රජතුමා."
+      },
+      {
+        "id": "b",
+        "text": "දුටුගැමුණු රජතුමා."
+      },
+      {
+        "id": "c",
+        "text": "මහා පරාක්‍රමබාහු රජතුමා."
+      },
+      {
+        "id": "d",
+        "text": "කිත්සිරි මෙවන් රජතුමා."
+      }
+    ],
+    "answer": "d",
+    "explanation": "අනුබුදු මිහිඳු මහරහතන් වහන්සේට උපහාර පිණිස පවත්වනු ලබන මිහිඳු පෙරහැර ආරම්භ කරන ලද්දේ මහසෙන් රජුගේ පුත් කිත්සිරිමෙවන් රජතුමා විසිනි.",
+    "source_suggestion": "UNKNOWN"
+  }
+]
